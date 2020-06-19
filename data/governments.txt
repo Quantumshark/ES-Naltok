@@ -1,0 +1,14 @@
+government "Naltok"
+	swizzle 5
+	"crew attack" .7
+	"crew defense" 1.7
+
+government "Xochira"
+	swizzle 4
+	"crew attack" .9
+	"crew defense" 1.9
+
+government "Telashki"
+	swizzle 3
+	"crew attack" 1.3
+	"crew defense" 2.5

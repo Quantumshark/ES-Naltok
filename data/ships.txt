@@ -8,3 +8,552 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+ship "Anchovy"
+	sprite "ship/anchovy"
+	thumbnail "thumbnail/anchovy"
+	attributes
+		category "Transport"
+		"cost" 320000
+		"shields" 300
+		"hull" 1100
+		"hull repair rate" .2
+		"hull energy" .1
+		"hull heat" .3
+		"required crew" 1
+		"bunks" 8
+		"mass" 66
+		"drag" 1.2
+		"heat dissipation" .35
+		"fuel capacity" 500
+		"cargo space" 23
+		"outfit space" 110
+		"weapon capacity" 16
+		"engine capacity" 73
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	description ``
+
+ship "Mackerel"
+	sprite "ship/mackerel"
+	thumbnail "thumbnail/mackerel"
+	attributes
+		category "Transport"
+		"cost" 1320000
+		"shields" 1000
+		"hull" 4100
+		"hull repair rate" .5
+		"hull energy" .25
+		"hull heat" .75
+		"required crew" 4
+		"bunks" 29
+		"mass" 173
+		"drag" 3.1
+		"heat dissipation" .31
+		"fuel capacity" 700
+		"cargo space" 38
+		"outfit space" 210
+		"weapon capacity" 79
+		"engine capacity" 93
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	turret
+	description ``
+
+ship "Sturgeon"
+	sprite "ship/sturgeon"
+	thumbnail "thumbnail/sturgeon"
+	attributes
+		category "Transport"
+		"cost" 14172000
+		"shields" 4800
+		"hull" 36100
+		"hull repair rate" 2.9
+		"hull energy" 1.45
+		"hull heat" 4.35
+		"required crew" 43
+		"bunks" 253
+		"mass" 701
+		"drag" 9.2
+		"heat dissipation" .17
+		"fuel capacity" 500
+		"cargo space" 568
+		"outfit space" 713
+		"weapon capacity" 279
+		"engine capacity" 193
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	turret
+	turret
+	turret
+	turret
+	turret
+	description ``
+
+ship "Herring"
+	sprite "ship/herring"
+	thumbnail "thumbnail/herring"
+	attributes
+		category "Light Freighter"
+		"cost" 392000
+		"shields" 300
+		"hull" 1500
+		"hull repair rate" .25
+		"hull energy" .125
+		"hull heat" .375
+		"required crew" 1
+		"bunks" 2
+		"mass" 98
+		"drag" 1.8
+		"heat dissipation" .29
+		"fuel capacity" 400
+		"cargo space" 61
+		"outfit space" 124
+		"weapon capacity" 47
+		"engine capacity" 65
+	outfits
+
+		"Hyperdrive"
+
+	turret
+	description ``
+
+ship "Conger"
+	sprite "ship/conger"
+	thumbnail "thumbnail/conger"
+	attributes
+		category "Light Freighter"
+		"cost" 2486000
+		"shields" 900
+		"hull" 5300
+		"hull repair rate" .6
+		"hull energy" .3
+		"hull heat" .9
+		"required crew" 3
+		"bunks" 4
+		"mass" 218
+		"drag" 4.8
+		"heat dissipation" .24
+		"fuel capacity" 600
+		"cargo space" 131
+		"outfit space" 264
+		"weapon capacity" 88
+		"engine capacity" 105
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	description ``
+
+ship "Flounder"
+	sprite "ship/flounder"
+	thumbnail "thumbnail/flounder"
+	attributes
+		category "Heavy Freighter"
+		"cost" 2486000
+		"shields" 1300
+		"hull" 14600
+		"hull repair rate" 1.2
+		"hull energy" .6
+		"hull heat" 1.8
+		"required crew" 7
+		"bunks" 12
+		"mass" 711
+		"drag" 11.1
+		"heat dissipation" .11
+		"fuel capacity" 600
+		"cargo space" 866
+		"outfit space" 681
+		"weapon capacity" 173
+		"engine capacity" 113
+	outfits
+
+		"Hyperdrive"
+
+	turret
+	turret
+	turret
+	turret
+	turret
+	description ``
+
+ship "Archerfish"
+	sprite "ship/archerfish"
+	thumbnail "thumbnail/archerfish"
+	attributes
+		category "Light Warship"
+		"cost"
+		"shields" 2100
+		"hull" 9200
+		"hull repair rate" 1.1
+		"hull energy" .55
+		"hull heat" 1.65
+		"required crew" 3
+		"bunks" 7
+		"mass" 204
+		"drag" 2.5
+		"heat dissipation" .41
+		"fuel capacity" 300
+		"cargo space" 37
+		"outfit space" 331
+		"weapon capacity" 82
+		"engine capacity" 91
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	description `The Archerfish is designed to chase down any ship entering Naltok space and drain its fuel reserves, leaving it unable to flee.`
+
+ship "Piranha"
+	sprite "ship/piranha"
+	thumbnail "thumbnail/piranha"
+	attributes
+		category "Light Warship"
+		"cost"
+		"shields" 2400
+		"hull" 10100
+		"hull repair rate" 1.6
+		"hull energy" .8
+		"hull heat" 2.4
+		"required crew" 6
+		"bunks" 9
+		"mass" 311
+		"drag" 3.8
+		"heat dissipation" .38
+		"fuel capacity" 600
+		"cargo space" 46
+		"outfit space" 353
+		"weapon capacity" 113
+		"engine capacity" 104
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	gun
+	turret
+	description ``
+
+ship "Barracuda"
+	sprite "ship/barracuda"
+	thumbnail "thumbnail/barracuda"
+	attributes
+		category "Medium Warship"
+		"cost"
+		"shields" 4300
+		"hull" 14300
+		"hull repair rate" 2.2
+		"hull energy" 1.1
+		"hull heat" 3.3
+		"required crew" 9
+		"bunks" 17
+		"mass" 320
+		"drag" 4.4
+		"heat dissipation" .34
+		"fuel capacity" 500
+		"cargo space" 53
+		"outfit space" 433
+		"weapon capacity" 196
+		"engine capacity" 147
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	gun
+	gun
+	gun
+	gun
+	gun
+	gun
+	description ``
+
+ship "Albacore"
+	sprite "ship/albacore"
+	thumbnail "thumbnail/albacore"
+	attributes
+		category "Medium Warship"
+		"cost"
+		"shields" 4700
+		"hull" 15600
+		"hull repair rate" 2.1
+		"hull energy" 1.05
+		"hull heat" 3.15
+		"required crew" 12
+		"bunks" 23
+		"mass" 406
+		"drag" 6.7
+		"heat dissipation" .29
+		"fuel capacity" 700
+		"cargo space" 38
+		"outfit space" 398
+		"weapon capacity" 145
+		"engine capacity" 121
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	gun
+	gun
+	turret
+	fighter
+	fighter
+	drone
+	drone
+	description ``
+
+ship "Moray"
+	sprite "ship/moray"
+	thumbnail "thumbnail/moray"
+	attributes
+		category "Medium Warship"
+		"cost"
+		"shields" 5200
+		"hull" 18100
+		"hull repair rate" 2.8
+		"hull energy" 1.4
+		"hull heat" 4.2
+		"required crew" 25
+		"bunks" 33
+		"mass" 473
+		"drag" 6.3
+		"heat dissipation" .26
+		"fuel capacity" 400
+		"cargo space" 17
+		"outfit space" 506
+		"weapon capacity" 232
+		"engine capacity" 133
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	gun
+	turret
+	turret
+	turret
+	turret
+	description ``
+
+ship "Pike"
+	sprite "ship/pike"
+	thumbnail "thumbnail/pike"
+	attributes
+		category "Heavy Warship"
+		"cost"
+		"shields" 7100
+		"hull" 52300
+		"hull repair rate" 3.1
+		"hull energy" 1.55
+		"hull heat" 4.65
+		"required crew" 43
+		"bunks" 88
+		"mass" 562
+		"drag" 8.1
+		"heat dissipation" .2
+		"fuel capacity" 600
+		"cargo space" 116
+		"outfit space" 806
+		"weapon capacity" 328
+		"engine capacity" 238
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	gun
+	gun
+	turret
+	turret
+	turret
+	drone
+	drone
+	description ``
+
+ship "Hammerhead"
+	sprite "ship/hammerhead"
+	thumbnail "thumbnail/hammerhead"
+	attributes
+		category "Heavy Warship"
+		"cost"
+		"shields" 6100
+		"hull" 43600
+		"hull repair rate" 2.9
+		"hull energy" 1.45
+		"hull heat" 4.35
+		"required crew" 56
+		"bunks" 64
+		"mass" 594
+		"drag" 10.2
+		"heat dissipation" .15
+		"fuel capacity" 400
+		"cargo space" 23
+		"outfit space" 748
+		"weapon capacity" 294
+		"engine capacity" 186
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	turret
+	turret
+	turret
+	turret
+	fighter
+	fighter
+	fighter
+	fighter
+	fighter
+	fighter
+	fighter
+	fighter
+	drone
+	drone
+	drone
+	drone
+	description ``
+
+ship "Kaluga"
+	sprite "ship/Kaluga"
+	thumbnail "thumbnail/Kaluga"
+	attributes
+		category "Heavy Warship"
+		"cost"
+		"shields" 8600
+		"hull" 54800
+		"hull repair rate" 3.6
+		"hull energy" 1.8
+		"hull heat" 5.4
+		"required crew" 71
+		"bunks" 94
+		"mass" 801
+		"drag" 11.4
+		"heat dissipation" .15
+		"fuel capacity" 300
+		"cargo space" 47
+		"outfit space" 853
+		"weapon capacity" 403
+		"engine capacity" 207
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	gun
+	gun
+	gun
+	turret
+	turret
+	turret
+	turret
+	turret
+	description ``
+
+ship "Coelacanth"
+	sprite "ship/coelacanth"
+	thumbnail "thumbnail/coelacanth"
+	attributes
+		category "Heavy Warship"
+		"cost"
+		"shields" 11300
+		"hull" 80300
+		"hull repair rate" 4.5
+		"hull energy" 2.25
+		"hull heat" 6.75
+		"required crew" 114
+		"bunks" 139
+		"mass" 981
+		"drag" 28.05
+		"heat dissipation" .09
+		"fuel capacity" 500
+		"cargo space" 98
+		"outfit space" 1104
+		"weapon capacity" 503
+		"engine capacity" 267
+	outfits
+
+		"Hyperdrive"
+
+	gun
+	gun
+	turret
+	turret
+	turret
+	turret
+	turret
+	turret
+	turret
+	turret
+	turret
+	drone
+	drone
+	drone
+	drone
+	description ``
+
+ship "Lamprey"
+	sprite "ship/lamprey"
+	thumbnail "thumbnail/lamprey"
+	attributes
+		category "Fighter"
+		"cost"
+		"shields" 300
+		"hull" 2400
+		"hull repair rate" .8
+		"hull energy" .4
+		"hull heat" 1.2
+		"required crew" 1
+		"bunks" 1
+		"mass" 43
+		"drag" .75
+		"heat dissipation" .43
+		"outfit space" 116
+		"weapon capacity" 41
+		"engine capacity" 47
+	outfits
+
+	gun
+	description ``
+
+ship "Prawn"
+	sprite "ship/prawn"
+	thumbnail "thumbnail/prawn"
+	attributes
+		category "Drone"
+		"cost"
+		"hull" 1200
+		"hull repair rate" .2
+		"hull energy" .1
+		"hull heat" .3
+		"mass" 33
+		"drag" .45
+		"heat dissipation" .48
+		"outfit space" 50
+		"weapon capacity" 14
+		"engine capacity" 25
+	outfits
+
+	gun
+	gun
+	description ``

@@ -36,7 +36,7 @@ outfit "Small Naltok Fission Reactor"
 	"outfit space" -101
 	"energy generation" 16.55
 	"heat generation" 8.6
-	description ""
+	description "The Naltok prefer not to use fusion reactors on their ships, opting instead for these highly efficient fission reactors. While the resulting generators are less powerful than human fusion technology, they produce vastly less heat."
 
 outfit "Large Naltok Fission Reactor"
 	category "Power"
@@ -46,7 +46,7 @@ outfit "Large Naltok Fission Reactor"
 	"outfit space" -184
 	"energy generation" 32.2
 	"heat generation" 17.05
-	description ""
+	description "This enormous fission reactor produces less heat than a human equivalent less than half its size, which more than makes up for its somewhat lacking power output."
 
 outfit "Stream Shield Generator"
 	category "Systems"

@@ -536,9 +536,9 @@ ship "Lamprey"
 	gun
 	description ``
 
-ship "Prawn"
-	sprite "ship/prawn"
-	thumbnail "thumbnail/prawn"
+ship "Minnow"
+	sprite "ship/minnow"
+	thumbnail "thumbnail/minnow"
 	attributes
 		category "Drone"
 		"cost"

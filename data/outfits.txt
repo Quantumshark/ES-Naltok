@@ -8,3 +8,42 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+outfit "Small Naltok RTG"
+	category "Power"
+	cost
+	thumbnail "outfit/small naltok rtg"
+	"mass" 32
+	"outfit space" -32
+	"energy generation" 3.65
+	"heat generation" 1.9
+	description ""
+
+outfit "Large Naltok RTG"
+	category "Power"
+	cost
+	thumbnail "outfit/large naltok rtg"
+	"mass" 59
+	"outfit space" -59
+	"energy generation" 7.45
+	"heat generation" 3.55
+	description ""
+
+outfit "Small Naltok Fission Reactor"
+	category "Power"
+	cost
+	thumbnail "outfit/small naltok fission"
+	"mass" 101
+	"outfit space" -101
+	"energy generation" 16.55
+	"heat generation" 8.6
+	description ""
+
+outfit "Large Naltok Fission Reactor"
+	category "Power"
+	cost
+	thumbnail "outfit/large naltok fission"
+	"mass" 184
+	"outfit space" -184
+	"energy generation" 32.2
+	"heat generation" 17.05
+	description ""

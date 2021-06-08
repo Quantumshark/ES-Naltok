@@ -67,3 +67,78 @@ outfit "River Shield Generator"
 	"shield generation" .975
 	"shield energy" .325
 	description ""
+
+outfit "Tiny Naltok Thruster"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/tiny naltok thruster"
+	"mass" 11
+	"outfit space" -11
+	"engine capacity" -11
+	"thrust" 6.45
+	"thrusting energy" .3
+	"thrusting heat" .15
+	"flare sprite" "effect/ion flare/tiny"
+		"frame rate" 1.2
+	"flare sound" "ion tiny"
+	description ""
+
+outfit "Small Naltok Thruster"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/small naltok thruster"
+	"mass" 19
+	"outfit space" -19
+	"engine capacity" -19
+	"thrust" 12.51
+	"thrusting energy" .45
+	"thrusting heat" .25
+	"flare sprite" "effect/ion flare/small"
+		"frame rate" 1.1
+	"flare sound" "ion small"
+	description ""
+
+outfit "Medium Naltok Thruster"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/medium naltok thruster"
+	"mass" 34
+	"outfit space" -34
+	"engine capacity" -34
+	"thrust" 24.51
+	"thrusting energy" .75
+	"thrusting heat" .4
+	"flare sprite" "effect/ion flare/medium"
+		"frame rate" 1.0
+	"flare sound" "ion medium"
+	description ""
+
+outfit "Large Naltok Thruster"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/large naltok thruster"
+	"mass" 61
+	"outfit space" -61
+	"engine capacity" -61
+	"thrust" 47.95
+	"thrusting energy" 1.3
+	"thrusting heat" .7
+	"flare sprite" "effect/ion flare/large"
+		"frame rate" 0.9
+	"flare sound" "ion large"
+	description ""
+
+outfit "Huge Naltok Thruster"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/huge naltok thruster"
+	"mass" 109
+	"outfit space" -109
+	"engine capacity" -109
+	"thrust" 91.2
+	"thrusting energy" 2.05
+	"thrusting heat" 1.2
+	"flare sprite" "effect/ion flare/huge"
+		"frame rate" 0.8
+	"flare sound" "ion huge"
+	description ""

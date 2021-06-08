@@ -30,7 +30,7 @@ ship "Anchovy"
 		"weapon capacity" 16
 		"engine capacity" 53
 	outfits
-		"Copepod Generator"
+		"Nauplius Cell"
 		"Stream Shield Generator"
 		"Agama Thruster"
 		"Agama Steering"
@@ -119,7 +119,7 @@ ship "Herring"
 		"weapon capacity" 31
 		"engine capacity" 45
 	outfits
-		"Copepod Generator"
+		"Nauplius Cell"
 		"Stream Shield Generator"
 		"Agama Thruster"
 		"Agama Steering"

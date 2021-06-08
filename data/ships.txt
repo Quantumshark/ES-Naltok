@@ -311,10 +311,10 @@ ship "Albacore"
 	gun
 	gun
 	turret
-	fighter
-	fighter
-	drone
-	drone
+	bay "Fighter"
+	bay "Fighter"
+	bay "Drone"
+	bay "Drone"
 	description ``
 
 ship "Moray"
@@ -383,8 +383,8 @@ ship "Pike"
 	turret
 	turret
 	turret
-	drone
-	drone
+	bay "Drone"
+	bay "Drone"
 	description ``
 
 ship "Hammerhead"
@@ -418,18 +418,18 @@ ship "Hammerhead"
 	turret
 	turret
 	turret
-	fighter
-	fighter
-	fighter
-	fighter
-	fighter
-	fighter
-	fighter
-	fighter
-	drone
-	drone
-	drone
-	drone
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Drone"
+	bay "Drone"
+	bay "Drone"
+	bay "Drone"
 	description ``
 
 ship "Kaluga"
@@ -505,10 +505,10 @@ ship "Coelacanth"
 	turret
 	turret
 	turret
-	drone
-	drone
-	drone
-	drone
+	bay "Drone"
+	bay "Drone"
+	bay "Drone"
+	bay "Drone"
 	description ``
 
 ship "Lamprey"

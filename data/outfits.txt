@@ -142,3 +142,78 @@ outfit "Huge Naltok Thruster"
 		"frame rate" 0.8
 	"flare sound" "ion huge"
 	description ""
+
+outfit "Tiny Naltok Steering"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/tiny naltok steering"
+	"mass" 14
+	"outfit space" -14
+	"engine capacity" -14
+	"turn" 349.8
+	"turning energy" .35
+	"turning heat" .2
+	"steering flare sprite" "effect/ion flare/tiny"
+		"frame rate" 1.2
+	"steering flare sound" "ion tiny"
+	description ""
+
+outfit "Small Naltok Steering"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/small naltok steering"
+	"mass" 25
+	"outfit space" -25
+	"engine capacity" -25
+	"turn" 664.9
+	"turning energy" .55
+	"turning heat" .35
+	"steering flare sprite" "effect/ion flare/small"
+		"frame rate" 1.1
+	"steering flare sound" "ion small"
+	description ""
+
+outfit "Medium Naltok Steering"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/medium naltok steering"
+	"mass" 43
+	"outfit space" -43
+	"engine capacity" -43
+	"turn" 1245.55
+	"turning energy" .9
+	"turning heat" .55
+	"steering flare sprite" "effect/ion flare/medium"
+		"frame rate" 1.0
+	"steering flare sound" "ion medium"
+	description ""
+
+outfit "Large Naltok Steering"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/large naltok steering"
+	"mass" 73
+	"outfit space" -73
+	"engine capacity" -73
+	"turn" 2301.4
+	"turning energy" 1.5
+	"turning heat" .9
+	"steering flare sprite" "effect/ion flare/large"
+		"frame rate" 0.9
+	"steering flare sound" "ion large"
+	description ""
+
+outfit "Huge Naltok Steering"
+	category "Engines"
+	"cost"
+	thumbnail "outfit/huge naltok steering"
+	"mass" 129
+	"outfit space" -129
+	"engine capacity" -129
+	"turn" 4446.2
+	"turning energy" 2.3
+	"turning heat" 1.45
+	"steering flare sprite" "effect/ion flare/huge"
+		"frame rate" 0.8
+	"steering flare sound" "ion huge"
+	description ""

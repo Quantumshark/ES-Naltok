@@ -48,7 +48,7 @@ outfit "Large Naltok Fission Reactor"
 	"heat generation" 17.05
 	description ""
 
-outfit "Small Naltok Shield Generator"
+outfit "Stream Shield Generator"
 	category "Systems"
 	cost
 	thumbnail "outfit/small naltok shield"
@@ -58,7 +58,7 @@ outfit "Small Naltok Shield Generator"
 	"shield energy" .125
 	description "Because shields are not their ships' primary form of protection, the Naltok have focused on making their generators more energy-efficient rather than more powerful. As a result, this generator is not much more powerful than its human equivalent, but uses only a fraction of the energy while generating."
 
-outfit "Large Naltok Shield Generator"
+outfit "River Shield Generator"
 	category "Systems"
 	cost
 	thumbnail "outfit/large naltok shield"

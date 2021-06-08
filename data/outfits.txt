@@ -46,7 +46,7 @@ outfit "Large Naltok Fission Reactor"
 	"outfit space" -184
 	"energy generation" 32.2
 	"heat generation" 17.05
-	description "This enormous fission reactor produces less heat than a human equivalent less than half its size, which more than makes up for its somewhat lacking power output."
+	description "This enormous fission reactor produces far less heat than any comparable human reactor, which more than makes up for its somewhat lacking power output."
 
 outfit "Stream Shield Generator"
 	category "Systems"

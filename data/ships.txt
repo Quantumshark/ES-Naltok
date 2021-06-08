@@ -519,16 +519,40 @@ ship "Lamprey"
 		"cost"
 		"shields" 300
 		"hull" 2400
-		"hull repair rate" .8
-		"hull energy" .4
-		"hull heat" 1.2
+		"hull repair rate" .4
+		"hull energy" .2
+		"hull heat" .6
 		"required crew" 1
 		"bunks" 1
-		"mass" 43
-		"drag" .75
+		"mass" 46
+		"drag" .72
 		"heat dissipation" .43
 		"outfit space" 116
 		"weapon capacity" 41
+		"engine capacity" 47
+	outfits
+
+	gun
+	description ``
+
+ship "Remora"
+	sprite "ship/remora"
+	thumbnail "thumbnail/remora"
+	attributes
+		category "Fighter"
+		"cost"
+		"shields" 400
+		"hull" 2600
+		"hull repair rate" .5
+		"hull energy" .25
+		"hull heat" .75
+		"required crew" 1
+		"bunks" 1
+		"mass" 33
+		"drag" .78
+		"heat dissipation" .45
+		"outfit space" 121
+		"weapon capacity" 28
 		"engine capacity" 47
 	outfits
 

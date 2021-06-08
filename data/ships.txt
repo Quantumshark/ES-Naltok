@@ -116,7 +116,7 @@ ship "Herring"
 		"fuel capacity" 400
 		"cargo space" 61
 		"outfit space" 124
-		"weapon capacity" 47
+		"weapon capacity" 31
 		"engine capacity" 45
 	outfits
 		"Copepod Generator"
@@ -147,7 +147,7 @@ ship "Conger"
 		"fuel capacity" 600
 		"cargo space" 131
 		"outfit space" 264
-		"weapon capacity" 88
+		"weapon capacity" 58
 		"engine capacity" 105
 	outfits
 

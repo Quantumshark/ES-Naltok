@@ -8,7 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfit "Small Naltok RTG"
+outfit "Copepod Generator"
 	category "Power"
 	cost
 	thumbnail "outfit/small naltok rtg"
@@ -18,7 +18,7 @@ outfit "Small Naltok RTG"
 	"heat generation" 1.9
 	description ""
 
-outfit "Large Naltok RTG"
+outfit "Krill Generator"
 	category "Power"
 	cost
 	thumbnail "outfit/large naltok rtg"
@@ -28,7 +28,7 @@ outfit "Large Naltok RTG"
 	"heat generation" 3.55
 	description ""
 
-outfit "Small Naltok Fission Reactor"
+outfit "Crayfish Reactor"
 	category "Power"
 	cost
 	thumbnail "outfit/small naltok fission"
@@ -38,7 +38,7 @@ outfit "Small Naltok Fission Reactor"
 	"heat generation" 8.6
 	description "The Naltok prefer not to use fusion reactors on their ships, opting instead for these highly efficient fission reactors. While the resulting generators are less powerful than human fusion technology, they produce vastly less heat."
 
-outfit "Large Naltok Fission Reactor"
+outfit "Lobster Reactor"
 	category "Power"
 	cost
 	thumbnail "outfit/large naltok fission"

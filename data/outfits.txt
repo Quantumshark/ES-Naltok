@@ -8,6 +8,16 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+outfit "Nauplius Cell"
+	category "Power"
+	cost 78100
+	thumbnail "outfit/naltok cell"
+	"mass" 11
+	"outfit space" -11
+	"energy generation" .95
+	"heat generation" .55
+	description ""
+
 outfit "Copepod Generator"
 	category "Power"
 	cost 354200

@@ -28,9 +28,12 @@ ship "Anchovy"
 		"cargo space" 23
 		"outfit space" 110
 		"weapon capacity" 16
-		"engine capacity" 73
+		"engine capacity" 53
 	outfits
-
+		"Copepod Generator"
+		"Stream Shield Generator"
+		"Agama Thruster"
+		"Agama Steering"
 		"Hyperdrive"
 
 	gun
@@ -59,8 +62,6 @@ ship "Mackerel"
 		"engine capacity" 93
 	outfits
 
-		"Hyperdrive"
-
 	gun
 	turret
 	description ``
@@ -87,8 +88,6 @@ ship "Sturgeon"
 		"weapon capacity" 279
 		"engine capacity" 193
 	outfits
-
-		"Hyperdrive"
 
 	gun
 	turret
@@ -118,9 +117,12 @@ ship "Herring"
 		"cargo space" 61
 		"outfit space" 124
 		"weapon capacity" 47
-		"engine capacity" 65
+		"engine capacity" 45
 	outfits
-
+		"Copepod Generator"
+		"Stream Shield Generator"
+		"Agama Thruster"
+		"Agama Steering"
 		"Hyperdrive"
 
 	turret
@@ -149,8 +151,6 @@ ship "Conger"
 		"engine capacity" 105
 	outfits
 
-		"Hyperdrive"
-
 	gun
 	gun
 	description ``
@@ -177,7 +177,6 @@ ship "Flounder"
 		"weapon capacity" 173
 		"engine capacity" 113
 	outfits
-
 		"Hyperdrive"
 
 	turret

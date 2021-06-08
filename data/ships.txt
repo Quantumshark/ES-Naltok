@@ -552,6 +552,9 @@ ship "Minnow"
 		"weapon capacity" 14
 		"engine capacity" 25
 	outfits
+		"Nauplius Cell"
+		"Agama Thruster"
+		"Agama Steering"
 
 	gun
 	gun

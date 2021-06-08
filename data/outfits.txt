@@ -14,7 +14,7 @@ outfit "Small Naltok RTG"
 	thumbnail "outfit/small naltok rtg"
 	"mass" 32
 	"outfit space" -32
-	"energy generation" 3.65
+	"energy generation" 3.4
 	"heat generation" 1.9
 	description ""
 
@@ -24,7 +24,7 @@ outfit "Large Naltok RTG"
 	thumbnail "outfit/large naltok rtg"
 	"mass" 59
 	"outfit space" -59
-	"energy generation" 7.45
+	"energy generation" 6.95
 	"heat generation" 3.55
 	description ""
 

@@ -47,3 +47,23 @@ outfit "Large Naltok Fission Reactor"
 	"energy generation" 32.2
 	"heat generation" 17.05
 	description ""
+
+outfit "Small Naltok Shield Generator"
+	category "Systems"
+	cost
+	thumbnail "outfit/small naltok shield"
+	"mass" 23
+	"outfit space" -23
+	"shield generation" .375
+	"shield energy" .125
+	description ""
+
+outfit "Large Naltok Shield Generator"
+	category "Systems"
+	cost
+	thumbnail "outfit/large naltok shield"
+	"mass" 51
+	"outfit space" -51
+	"shield generation" .975
+	"shield energy" .325
+	description ""

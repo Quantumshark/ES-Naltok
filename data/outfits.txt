@@ -10,7 +10,7 @@
 
 outfit "Copepod Generator"
 	category "Power"
-	cost
+	cost 354200
 	thumbnail "outfit/small naltok rtg"
 	"mass" 32
 	"outfit space" -32
@@ -20,7 +20,7 @@ outfit "Copepod Generator"
 
 outfit "Krill Generator"
 	category "Power"
-	cost
+	cost 1132700
 	thumbnail "outfit/large naltok rtg"
 	"mass" 59
 	"outfit space" -59
@@ -30,7 +30,7 @@ outfit "Krill Generator"
 
 outfit "Crayfish Reactor"
 	category "Power"
-	cost
+	cost 7114900
 	thumbnail "outfit/small naltok fission"
 	"mass" 101
 	"outfit space" -101
@@ -40,7 +40,7 @@ outfit "Crayfish Reactor"
 
 outfit "Lobster Reactor"
 	category "Power"
-	cost
+	cost 17832300
 	thumbnail "outfit/large naltok fission"
 	"mass" 184
 	"outfit space" -184
@@ -50,7 +50,7 @@ outfit "Lobster Reactor"
 
 outfit "Stream Shield Generator"
 	category "Systems"
-	cost
+	cost 71400
 	thumbnail "outfit/small naltok shield"
 	"mass" 23
 	"outfit space" -23
@@ -60,7 +60,7 @@ outfit "Stream Shield Generator"
 
 outfit "River Shield Generator"
 	category "Systems"
-	cost
+	cost 261300
 	thumbnail "outfit/large naltok shield"
 	"mass" 51
 	"outfit space" -51
@@ -70,7 +70,7 @@ outfit "River Shield Generator"
 
 outfit "Agama Thruster"
 	category "Engines"
-	"cost"
+	"cost" 97200
 	thumbnail "outfit/tiny naltok thruster"
 	"mass" 11
 	"outfit space" -11
@@ -85,7 +85,7 @@ outfit "Agama Thruster"
 
 outfit "Anole Thruster"
 	category "Engines"
-	"cost"
+	"cost" 198300
 	thumbnail "outfit/small naltok thruster"
 	"mass" 19
 	"outfit space" -19
@@ -145,7 +145,7 @@ outfit "Monitor Thruster"
 
 outfit "Agama Steering"
 	category "Engines"
-	"cost"
+	"cost" 121080
 	thumbnail "outfit/tiny naltok steering"
 	"mass" 14
 	"outfit space" -14
@@ -160,7 +160,7 @@ outfit "Agama Steering"
 
 outfit "Anole Steering"
 	category "Engines"
-	"cost"
+	"cost" 241700
 	thumbnail "outfit/small naltok steering"
 	"mass" 25
 	"outfit space" -25

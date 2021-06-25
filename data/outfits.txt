@@ -85,7 +85,7 @@ outfit "Agama Thruster"
 	"mass" 11
 	"outfit space" -11
 	"engine capacity" -11
-	"thrust" 6.45
+	"thrust" 6.25
 	"thrusting energy" .3
 	"thrusting heat" .15
 	"flare sprite" "effect/ion flare/tiny"
@@ -100,7 +100,7 @@ outfit "Anole Thruster"
 	"mass" 19
 	"outfit space" -19
 	"engine capacity" -19
-	"thrust" 12.51
+	"thrust" 12.31
 	"thrusting energy" .45
 	"thrusting heat" .25
 	"flare sprite" "effect/ion flare/small"
@@ -130,7 +130,7 @@ outfit "Iguana Thruster"
 	"mass" 61
 	"outfit space" -61
 	"engine capacity" -61
-	"thrust" 47.95
+	"thrust" 48.95
 	"thrusting energy" 1.3
 	"thrusting heat" .7
 	"flare sprite" "effect/ion flare/large"
@@ -145,7 +145,7 @@ outfit "Monitor Thruster"
 	"mass" 109
 	"outfit space" -109
 	"engine capacity" -109
-	"thrust" 91.2
+	"thrust" 94.2
 	"thrusting energy" 2.05
 	"thrusting heat" 1.2
 	"flare sprite" "effect/ion flare/huge"
@@ -160,7 +160,7 @@ outfit "Agama Steering"
 	"mass" 14
 	"outfit space" -14
 	"engine capacity" -14
-	"turn" 349.8
+	"turn" 341.8
 	"turning energy" .35
 	"turning heat" .2
 	"steering flare sprite" "effect/ion flare/tiny"
@@ -175,7 +175,7 @@ outfit "Anole Steering"
 	"mass" 25
 	"outfit space" -25
 	"engine capacity" -25
-	"turn" 664.9
+	"turn" 644.9
 	"turning energy" .55
 	"turning heat" .35
 	"steering flare sprite" "effect/ion flare/small"
@@ -205,7 +205,7 @@ outfit "Iguana Steering"
 	"mass" 73
 	"outfit space" -73
 	"engine capacity" -73
-	"turn" 2301.4
+	"turn" 2351.4
 	"turning energy" 1.5
 	"turning heat" .9
 	"steering flare sprite" "effect/ion flare/large"
@@ -220,7 +220,7 @@ outfit "Monitor Steering"
 	"mass" 129
 	"outfit space" -129
 	"engine capacity" -129
-	"turn" 4446.2
+	"turn" 4546.2
 	"turning energy" 2.3
 	"turning heat" 1.45
 	"steering flare sprite" "effect/ion flare/huge"

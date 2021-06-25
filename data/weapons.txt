@@ -1,0 +1,59 @@
+# Copyright (c) 2020 by Alex di Giovanni
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfit "Breaker"
+	category "Guns"
+	cost 203000
+	thumbnail "outfit/breaker"
+	"mass" 7
+	"outfit space" -7
+	"weapon capacity" -7
+	"gun ports" -1
+	weapon
+		sprite "projectile/breaker"
+		sound "breaker"
+		"hit effect" "breaker impact"
+		"inaccuracy" 2.5
+		"velocity" 14
+		"lifetime" 52
+		"reload" 12
+		"firing energy" 4
+		"firing heat" 2
+		"shield damage" 5
+		"hull damage" 11
+	description "The Breaker is the staple of warfare for the Naltok. Its limited effectiveness against shields is largely negated by the nature of Naltok ships, resulting in a fairly effective weapon for its small size."
+
+
+outfit "Drainer"
+	category "Guns"
+	cost 
+	thumbnail "outfit/drainer"
+	"mass" 41
+	"outfit space" -41
+	"weapon capacity" -41
+	"gun ports" -1
+	weapon
+		"cluster"
+		sprite "projectile/drainer"
+		sound "drainer"
+		"hit effect" "drainer impact"
+		"inaccuracy" .1
+		"velocity" 320
+		"lifetime" 1
+		"burst reload" 1
+		"burst count" 30
+		"reload" 6
+		"firing energy" 5.3
+		"firing heat" 1.4
+		"shield damage" 12.1
+		"hull damage" 7.9
+		"fuel damage" 3.3
+	description "The Drainer is the first weapon developed by the Defenders since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
+

@@ -16,6 +16,7 @@ outfit "Breaker"
 	"outfit space" -7
 	"weapon capacity" -7
 	"gun ports" -1
+	"energy capacity" 21
 	weapon
 		sprite "projectile/breaker"
 		sound "breaker"
@@ -39,6 +40,7 @@ outfit "Drainer"
 	"outfit space" -41
 	"weapon capacity" -41
 	"gun ports" -1
+	"energy capacity" 51
 	weapon
 		"cluster"
 		sprite "projectile/drainer"

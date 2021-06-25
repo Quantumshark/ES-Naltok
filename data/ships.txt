@@ -531,8 +531,12 @@ ship "Lamprey"
 		"weapon capacity" 41
 		"engine capacity" 47
 	outfits
-
-	gun
+		"Drainer"
+		"Stream Shield Generator"
+		"Nauplius Cell"
+		"Agama Steering"
+		"Anole Thruster"
+	gun "Drainer"
 	description ``
 
 ship "Remora"
@@ -579,10 +583,11 @@ ship "Minnow"
 		"weapon capacity" 14
 		"engine capacity" 25
 	outfits
+		"Breaker" 2
 		"Nauplius Cell"
 		"Agama Thruster"
 		"Agama Steering"
 
-	gun
-	gun
+	gun "Breaker"
+	gun "Breaker"
 	description ``

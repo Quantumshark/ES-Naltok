@@ -557,6 +557,9 @@ ship "Remora"
 	outfits
 
 	gun
+	gun
+	gun
+	gun
 	description ``
 
 ship "Minnow"

@@ -204,7 +204,7 @@ ship "Archerfish"
 		"heat dissipation" .41
 		"fuel capacity" 300
 		"cargo space" 37
-		"outfit space" 331
+		"outfit space" 311
 		"weapon capacity" 82
 		"engine capacity" 91
 	outfits

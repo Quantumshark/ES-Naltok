@@ -10,7 +10,7 @@
 
 outfit "Breaker"
 	category "Guns"
-	cost 81000
+	cost 77000
 	thumbnail "outfit/breaker"
 	"mass" 7
 	"outfit space" -7
@@ -99,7 +99,7 @@ outfit "Breaker Submunition"
 
 outfit "Drainer"
 	category "Guns"
-	cost 
+	cost 429000
 	thumbnail "outfit/drainer"
 	"mass" 41
 	"outfit space" -41

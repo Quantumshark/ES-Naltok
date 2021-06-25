@@ -77,7 +77,7 @@ outfit "Triple Breaker Turret"
 		"submunition" "Breaker Submunition" 3
 		"turret turn" 2.9
 		"velocity override" 14
-		"lifetime" 1
+		"lifetime" 0
 		"reload" 11
 		"firing energy" 12
 		"firing heat" 6
@@ -90,7 +90,7 @@ outfit "Breaker Submunition"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
 		"velocity" 14
-		"lifetime" 51
+		"lifetime" 52
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2

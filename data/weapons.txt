@@ -76,7 +76,7 @@ outfit "Triple Breaker Turret"
 		"inaccuracy" 0
 		"submunition" "Breaker Submunition" 3
 		"turret turn" 2.9
-		"velocity" 14
+		"velocity override" 14
 		"lifetime" 1
 		"reload" 11
 		"firing energy" 12

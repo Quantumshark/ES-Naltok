@@ -1,2 +1,2 @@
-# ES-Woltok
- A new tier 1.5 alien species, the amphibious Woltok.
+# ES-Naltok
+ A new tier 1.5 alien species, the amphibious Naltok.

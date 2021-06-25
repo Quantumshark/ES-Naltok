@@ -32,6 +32,7 @@ outfit "Breaker"
 	description "The Breaker is the staple of warfare for the Naltok. Its limited effectiveness against shields is largely negated by the nature of Naltok ships, resulting in a fairly effective weapon for its small size."
 
 
+
 outfit "Drainer"
 	category "Guns"
 	cost 

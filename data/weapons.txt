@@ -55,7 +55,7 @@ outfit "Breaker Turret"
 		"firing heat" 2
 		"shield damage" 5.5
 		"hull damage" 12
-	description "This turret carries a single Breaker. It is small, and turns incredibly fast to track targets. Because of this, it is entirely automatic, similar to anti-missile turrets."
+	description "This turret carries a single Breaker. It is small, and turns incredibly quickly to track targets. Because of this, it is entirely automatic, similar to anti-missile turrets."
 
 outfit "Triple Breaker Turret"
 	category "Turrets"

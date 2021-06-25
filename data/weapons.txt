@@ -33,7 +33,7 @@ outfit "Breaker"
 
 outfit "Breaker Turret"
 	category "Turrets"
-	cost 203000
+	cost 193000
 	thumbnail "outfit/breaker"
 	"mass" 11
 	"outfit space" -11
@@ -42,6 +42,8 @@ outfit "Breaker Turret"
 	"energy capacity" 21
 	weapon
 		sprite "projectile/breaker"
+		"hardpoint sprite" "hardpoint/breaker"
+		"hardpoint offset"
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
@@ -54,6 +56,46 @@ outfit "Breaker Turret"
 		"shield damage" 5.5
 		"hull damage" 12
 	description "This turret carries a single Breaker. It is small, and turns incredibly fast to track targets. Because of this, it is entirely automatic, similar to anti-missile turrets."
+
+outfit "Triple Breaker Turret"
+	category "Turrets"
+	cost 551000
+	thumbnail "outfit/breaker"
+	"mass" 29
+	"outfit space" -29
+	"weapon capacity" -29
+	"turret mounts" -1
+	"energy capacity" 63
+	"required crew" 1
+	weapon
+		sprite "projectile/breaker"
+		"hardpoint sprite" "hardpoint/triple breaker"
+		"hardpoint offset"
+		sound "breaker"
+		"hit effect" "breaker impact"
+		"inaccuracy" 0
+		"submunition" "Breaker Submunition" 3
+		"turret turn" 2.9
+		"velocity" 0
+		"lifetime" 1
+		"reload" 11
+		"firing energy" 12
+		"firing heat" 6
+	description "This turret carrying three Breakers is a common sight on medium Naltok ships."
+
+outfit "Breaker Submunition"
+	weapon
+		sprite "projectile/breaker"
+		sound "breaker"
+		"hit effect" "breaker impact"
+		"inaccuracy" 2.5
+		"velocity" 14
+		"lifetime" 52
+		"reload" 11
+		"firing energy" 4
+		"firing heat" 2
+		"shield damage" 5.5
+		"hull damage" 12
 
 outfit "Drainer"
 	category "Guns"

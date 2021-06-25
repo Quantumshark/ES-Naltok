@@ -24,11 +24,11 @@ outfit "Breaker"
 		"inaccuracy" 2.5
 		"velocity" 14
 		"lifetime" 52
-		"reload" 12
+		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
-		"shield damage" 5
-		"hull damage" 11
+		"shield damage" 5.5
+		"hull damage" 12
 	description "The Breaker is the staple of warfare for the Naltok. Its limited effectiveness against shields is largely negated by the nature of Naltok ships, resulting in a fairly effective weapon for its small size."
 
 

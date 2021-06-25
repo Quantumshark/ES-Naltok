@@ -208,11 +208,15 @@ ship "Archerfish"
 		"weapon capacity" 82
 		"engine capacity" 91
 	outfits
-
+		"Drainer" 2
 		"Hyperdrive"
+		"River Shield Generator"
+		"Krill Generator"
+		"Gecko Steering"
+		"Gecko Thruster"
 
-	gun
-	gun
+	gun "Drainer"
+	gun "Drainer"
 	description `The Archerfish is designed to chase down any ship entering Naltok space and drain its fuel reserves, leaving it unable to flee.`
 
 ship "Piranha"
@@ -559,11 +563,16 @@ ship "Remora"
 		"weapon capacity" 28
 		"engine capacity" 47
 	outfits
+		"Breaker" 4
+		"Stream Shield Generator"
+		"Copepod Generator"
+		"Anole Thruster"
+		"Agama Steering"
 
-	gun
-	gun
-	gun
-	gun
+	gun "Breaker"
+	gun "Breaker"
+	gun "Breaker"
+	gun "Breaker"
 	description ``
 
 ship "Minnow"

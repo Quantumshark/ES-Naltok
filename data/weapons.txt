@@ -31,6 +31,29 @@ outfit "Breaker"
 		"hull damage" 12
 	description "The Breaker is the staple of warfare for the Naltok. Its limited effectiveness against shields is largely negated by the nature of Naltok ships, resulting in a fairly effective weapon for its small size."
 
+outfit "Breaker Turret"
+	category "Turrets"
+	cost 203000
+	thumbnail "outfit/breaker"
+	"mass" 11
+	"outfit space" -11
+	"weapon capacity" -11
+	"turret mounts" -1
+	"energy capacity" 21
+	weapon
+		sprite "projectile/breaker"
+		sound "breaker"
+		"hit effect" "breaker impact"
+		"inaccuracy" 2.5
+		"turret turn" 4.4
+		"velocity" 14
+		"lifetime" 52
+		"reload" 11
+		"firing energy" 4
+		"firing heat" 2
+		"shield damage" 5.5
+		"hull damage" 12
+	description "This turret carries a single Breaker. It is small, and turns incredibly fast to track targets. Because of this, it is entirely automatic, similar to anti-missile turrets."
 
 
 outfit "Drainer"

@@ -23,7 +23,7 @@ outfit "Breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
 		"velocity" 12
-		"lifetime" 48
+		"lifetime" 46
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
@@ -49,7 +49,7 @@ outfit "Breaker Turret"
 		"inaccuracy" 2.5
 		"turret turn" 4.4
 		"velocity" 12
-		"lifetime" 48
+		"lifetime" 46
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
@@ -90,7 +90,7 @@ outfit "Breaker Submunition"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
 		"velocity" 12
-		"lifetime" 48
+		"lifetime" 46
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2

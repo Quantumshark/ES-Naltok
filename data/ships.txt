@@ -375,7 +375,7 @@ ship "Pike"
 		"cargo space" 116
 		"outfit space" 806
 		"weapon capacity" 328
-		"engine capacity" 238
+		"engine capacity" 204
 	outfits
 
 		"Hyperdrive"
@@ -456,7 +456,7 @@ ship "Kaluga"
 		"cargo space" 47
 		"outfit space" 853
 		"weapon capacity" 403
-		"engine capacity" 207
+		"engine capacity" 178
 	outfits
 
 		"Hyperdrive"
@@ -493,7 +493,7 @@ ship "Coelacanth"
 		"cargo space" 98
 		"outfit space" 1104
 		"weapon capacity" 503
-		"engine capacity" 267
+		"engine capacity" 238
 	outfits
 
 		"Hyperdrive"

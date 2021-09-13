@@ -14,7 +14,7 @@ outfit "Nauplius Cell"
 	thumbnail "outfit/naltok cell"
 	"mass" 11
 	"outfit space" -11
-	"energy generation" .95
+	"energy generation" 1.05
 	"heat generation" .55
 	description ""
 
@@ -24,7 +24,7 @@ outfit "Copepod Generator"
 	thumbnail "outfit/small naltok rtg"
 	"mass" 32
 	"outfit space" -32
-	"energy generation" 3.4
+	"energy generation" 3.55
 	"heat generation" 1.9
 	description ""
 
@@ -34,7 +34,7 @@ outfit "Krill Generator"
 	thumbnail "outfit/large naltok rtg"
 	"mass" 59
 	"outfit space" -59
-	"energy generation" 6.95
+	"energy generation" 7.15
 	"heat generation" 3.55
 	description ""
 
@@ -86,8 +86,8 @@ outfit "Agama Thruster"
 	"outfit space" -11
 	"engine capacity" -11
 	"thrust" 6.25
-	"thrusting energy" .3
-	"thrusting heat" .15
+	"thrusting energy" .6
+	"thrusting heat" .3
 	"flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"flare sound" "ion tiny"
@@ -101,8 +101,8 @@ outfit "Anole Thruster"
 	"outfit space" -19
 	"engine capacity" -19
 	"thrust" 12.31
-	"thrusting energy" .45
-	"thrusting heat" .25
+	"thrusting energy" .9
+	"thrusting heat" .5
 	"flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"flare sound" "ion small"
@@ -116,8 +116,8 @@ outfit "Gecko Thruster"
 	"outfit space" -34
 	"engine capacity" -34
 	"thrust" 24.51
-	"thrusting energy" .75
-	"thrusting heat" .4
+	"thrusting energy" 1.5
+	"thrusting heat" .8
 	"flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
 	"flare sound" "ion medium"
@@ -131,8 +131,8 @@ outfit "Iguana Thruster"
 	"outfit space" -61
 	"engine capacity" -61
 	"thrust" 48.95
-	"thrusting energy" 1.3
-	"thrusting heat" .7
+	"thrusting energy" 2.7
+	"thrusting heat" 1.4
 	"flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"flare sound" "ion large"
@@ -146,8 +146,8 @@ outfit "Monitor Thruster"
 	"outfit space" -109
 	"engine capacity" -109
 	"thrust" 94.2
-	"thrusting energy" 2.05
-	"thrusting heat" 1.2
+	"thrusting energy" 4.1
+	"thrusting heat" 2.4
 	"flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8
 	"flare sound" "ion huge"
@@ -161,8 +161,8 @@ outfit "Agama Steering"
 	"outfit space" -14
 	"engine capacity" -14
 	"turn" 341.8
-	"turning energy" .35
-	"turning heat" .2
+	"turning energy" .7
+	"turning heat" .4
 	"steering flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"steering flare sound" "ion tiny"
@@ -176,8 +176,8 @@ outfit "Anole Steering"
 	"outfit space" -25
 	"engine capacity" -25
 	"turn" 644.9
-	"turning energy" .55
-	"turning heat" .35
+	"turning energy" 1.1
+	"turning heat" .7
 	"steering flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"steering flare sound" "ion small"
@@ -191,8 +191,8 @@ outfit "Gecko Steering"
 	"outfit space" -43
 	"engine capacity" -43
 	"turn" 1245.55
-	"turning energy" .9
-	"turning heat" .55
+	"turning energy" 1.8
+	"turning heat" 1.1
 	"steering flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
 	"steering flare sound" "ion medium"
@@ -206,8 +206,8 @@ outfit "Iguana Steering"
 	"outfit space" -73
 	"engine capacity" -73
 	"turn" 2351.4
-	"turning energy" 1.5
-	"turning heat" .9
+	"turning energy" 3.0
+	"turning heat" 1.8
 	"steering flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"steering flare sound" "ion large"
@@ -217,12 +217,12 @@ outfit "Monitor Steering"
 	category "Engines"
 	"cost"
 	thumbnail "outfit/huge naltok steering"
-	"mass" 129
-	"outfit space" -129
-	"engine capacity" -129
+	"mass" 127
+	"outfit space" -127
+	"engine capacity" -127
 	"turn" 4546.2
-	"turning energy" 2.3
-	"turning heat" 1.45
+	"turning energy" 4.6
+	"turning heat" 2.9
 	"steering flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8
 	"steering flare sound" "ion huge"

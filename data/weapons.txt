@@ -22,7 +22,8 @@ outfit "Breaker"
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
-		"velocity" 12
+		"velocity" 11
+		"random velocity" 2
 		"lifetime" 46
 		"reload" 11
 		"firing energy" 4
@@ -48,7 +49,8 @@ outfit "Breaker Turret"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
 		"turret turn" 4.4
-		"velocity" 12
+		"velocity" 11
+		"random velocity" 2
 		"lifetime" 46
 		"reload" 11
 		"firing energy" 4
@@ -89,7 +91,8 @@ outfit "Breaker Submunition"
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
-		"velocity" 12
+		"velocity" 11
+		"random velocity" 2
 		"lifetime" 46
 		"reload" 11
 		"firing energy" 4
@@ -123,4 +126,3 @@ outfit "Drainer"
 		"hull damage" 7.9
 		"fuel damage" 3.3
 	description "The Drainer is the first weapon developed by the Defenders since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
-

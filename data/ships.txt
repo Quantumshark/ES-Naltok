@@ -588,7 +588,7 @@ ship "Minnow"
 		"mass" 33
 		"drag" .45
 		"heat dissipation" .48
-		"outfit space" 50
+		"outfit space" 53
 		"weapon capacity" 14
 		"engine capacity" 25
 	outfits

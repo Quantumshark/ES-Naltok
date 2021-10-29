@@ -12,8 +12,8 @@ outfit "Nauplius Cell"
 	category "Power"
 	cost 78100
 	thumbnail "outfit/naltok cell"
-	"mass" 11
-	"outfit space" -11
+	"mass" 14
+	"outfit space" -14
 	"energy generation" 1.05
 	"heat generation" .55
 	description ""

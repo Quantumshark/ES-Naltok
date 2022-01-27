@@ -361,8 +361,8 @@ ship "Pike"
 	attributes
 		category "Heavy Warship"
 		"cost"
-		"shields" 7100
-		"hull" 52300
+		"shields" 6300
+		"hull" 50300
 		"hull repair rate" 3.1
 		"hull energy" 1.55
 		"hull heat" 4.65
@@ -533,7 +533,7 @@ ship "Lamprey"
 		"heat dissipation" .43
 		"outfit space" 116
 		"weapon capacity" 41
-		"engine capacity" 47
+		"engine capacity" 37
 	outfits
 		"Drainer"
 		"Stream Shield Generator"
@@ -561,7 +561,7 @@ ship "Remora"
 		"heat dissipation" .45
 		"outfit space" 121
 		"weapon capacity" 28
-		"engine capacity" 47
+		"engine capacity" 37
 	outfits
 		"Breaker" 4
 		"Stream Shield Generator"

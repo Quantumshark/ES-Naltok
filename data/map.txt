@@ -1,6 +1,6 @@
 
 system 0000A
-	pos -771.692 -184.923
+	pos -772 -185
 	habitable 1401.68
 	link 0000B
 	asteroids "small rock" 9 5.52
@@ -54,7 +54,7 @@ system 0000A
 			period 30.654
 
 system 0000B
-	pos -831.708 -162.866
+	pos -832 -163
 	habitable 425
 	link 0000C
 	link 0000A
@@ -111,7 +111,7 @@ system 0000B
 			period 20.2683
 
 system 0000C
-	pos -803.612 -94.2064
+	pos -804 -94
 	habitable 425.92
 	link 0000B
 	asteroids "small rock" 4 2.6
@@ -170,7 +170,7 @@ system 0000C
 			period 22.7755
 
 system 0000D
-	pos -894.602 -110.688
+	pos -895 -111
 	habitable 3940
 	link 0000B
 	link 0000E
@@ -224,7 +224,7 @@ system 0000D
 		period 860.07
 
 system 0000E
-	pos -936.193 -164.749
+	pos -936 -165
 	habitable 486.68
 	link 0000D
 	link 0000F
@@ -266,7 +266,7 @@ system 0000E
 		period 1480.07
 
 system 0000F
-	pos -1007.98 -133.893
+	pos -1008 -134
 	habitable 1466.68
 	link 0000E
 	link 0000H
@@ -333,7 +333,7 @@ system 0000F
 			period 17.6079
 
 system 0000G
-	pos -889.277 -192.247
+	pos -889 -192
 	habitable 851.84
 	link 0000B
 	link 0000E
@@ -396,7 +396,7 @@ system 0000G
 			period 68.4755
 
 system 0000H
-	pos -1011.91 -201.525
+	pos -1012 -202
 	habitable 305
 	link 0000I
 	link 0000F
@@ -441,7 +441,7 @@ system 0000H
 		period 2014.95
 
 system 0000I
-	pos -1085.04 -188.449
+	pos -1085 -188
 	habitable 425.92
 	link 0000L
 	link 0000K
@@ -511,7 +511,7 @@ system 0000I
 			period 49.4761
 
 system 0000K
-	pos -1127.32 -201.206
+	pos -1127 -201
 	habitable 625
 	link 0000L
 	link 0000I
@@ -576,7 +576,7 @@ system 0000K
 			period 18.1506
 
 system 0000L
-	pos -1092.59 -238.213
+	pos -1093 -238
 	habitable 486.68
 	link 0000I
 	link 0000K
@@ -626,7 +626,7 @@ system 0000L
 			period 15.3461
 
 system 0000M
-	pos -943.606 -82.5808
+	pos -944 -83
 	habitable 500
 	link 0000D
 	asteroids "small rock" 3 4.1055
@@ -683,7 +683,7 @@ system 0000M
 		period 843.214
 
 system 0000N
-	pos -942.107 -313.704
+	pos -942 -314
 	habitable 486.68
 	link 0000Q
 	asteroids "medium rock" 2 6.82
@@ -730,7 +730,7 @@ system 0000N
 		period 1604.39
 
 system 0000O
-	pos -1005.25 -297.899
+	pos -1005 -298
 	habitable 320
 	link 0000S
 	link 0000P
@@ -780,7 +780,7 @@ system 0000O
 		period 2499.49
 
 system 0000O2
-	pos -964.323 -258.49
+	pos -964 -258
 	habitable 446.68
 	link 0000O
 	asteroids "small rock" 10 2.142
@@ -832,7 +832,7 @@ system 0000O2
 			period 17.525
 
 system 0000P
-	pos -1074.02 -317.066
+	pos -1074 -317
 	habitable 203.28
 	link 0000X
 	link 0000P2
@@ -888,7 +888,7 @@ system 0000P
 			period 61.3839
 
 system 0000P2
-	pos -1120.64 -279.514
+	pos -1121 -280
 	habitable 233.28
 	link 0000L
 	link 0000P
@@ -933,7 +933,7 @@ system 0000P2
 		period 4262.71
 
 system 0000Q
-	pos -928.577 -362.166
+	pos -929 -362
 	habitable 486.68
 	link 0000N
 	link 0000R
@@ -998,7 +998,7 @@ system 0000Q
 			period 46.9217
 
 system 0000R
-	pos -940.98 -402.756
+	pos -941 -403
 	habitable 486.68
 	link 0000Q
 	link 0000S
@@ -1055,7 +1055,7 @@ system 0000R
 			period 44.012
 
 system 0000S
-	pos -992.461 -376.951
+	pos -992 -377
 	habitable 320
 	link 0000O
 	link 0000X
@@ -1110,7 +1110,7 @@ system 0000S
 			period 14.517
 
 system 0000T
-	pos -979.079 -436.091
+	pos -979 -436
 	habitable 135
 	link 0000R
 	asteroids "small rock" 34 3.4692
@@ -1161,7 +1161,7 @@ system 0000T
 			period 27.9331
 
 system 0000U
-	pos -1093.38 -395.286
+	pos -1093 -395
 	habitable 880
 	link Kuragu
 	link 0000X
@@ -1205,7 +1205,7 @@ system 0000U
 		period 1355.15
 
 system 0000V
-	pos -1129.32 -461.896
+	pos -1129 -462
 	habitable 200
 	link 0000Y
 	asteroids "small rock" 13 5.6848
@@ -1265,7 +1265,7 @@ system 0000V
 			period 48.6751
 
 system 0000X
-	pos -1054.15 -365.931
+	pos -1054 -365
 	habitable 553.28
 	link 0000S
 	link 0000P
@@ -1332,7 +1332,7 @@ system 0000X
 			period 48.7478
 
 system 0000Y
-	pos -1162.74 -407.97
+	pos -1162 -407
 	habitable 1050.92
 	link 0000Z
 	link 0000V
@@ -1396,7 +1396,7 @@ system 0000Y
 			period 49.7367
 
 system 0000Z
-	pos -1205.43 -388.943
+	pos -1205 -388
 	habitable 851.84
 	link Kuragu
 	link 0000Y
@@ -1450,7 +1450,7 @@ system 0000Z
 			period 53.4634
 
 system Kuragu
-	pos -1158.71 -358.931
+	pos -1158 -358
 	government Quarg
 	habitable 700
 	link 0000U
@@ -1470,84 +1470,76 @@ system Kuragu
 	trade Plastic 390
 	fleet Quarg 700
 	object
-		sprite star/g5
+		sprite star/g3
 		period 10
 	object
 		sprite planet/lava0-b
 		distance 520
 		period 203
 	object
+		sprite "planet/ringworld left"
+			scale 0.5
+		distance 812
+		period 349.820
+		offset -20
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset -40
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset -60
+	object
 		sprite "planet/ringworld right"
+			scale 0.5
 		distance 812
-		period 360
+		period 349.820
+		offset -80
 	object
-		sprite planet/ringworld
+		sprite "planet/ringworld right"
+			scale 0.5
 		distance 812
-		period 360
-		offset 20
-	object
-		sprite planet/ringworld
-		distance 812
-		period 360
-		offset 40
-	object
-		sprite planet/ringworld
-		distance 812
-		period 360
+		period 349.820
 		offset 60
 	object
 		sprite "planet/ringworld left"
+			scale 0.5
 		distance 812
-		period 360
+		period 349.820
 		offset 80
 	object
 		sprite "planet/ringworld right"
+			scale 0.5
 		distance 812
-		period 360
-		offset 120
-	object
-		sprite planet/ringworld
-		distance 812
-		period 360
-		offset 140
-	object
-		sprite planet/ringworld
-		distance 812
-		period 360
-		offset 160
+		period 349.820
+		offset 130
 	object
 		sprite "planet/ringworld left"
+			scale 0.5
 		distance 812
-		period 360
-		offset 180
+		period 349.820
+		offset 150
 	object
 		sprite "planet/ringworld right"
+			scale 0.5
 		distance 812
-		period 360
+		period 349.820
+		offset 200
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
 		offset 220
 	object
-		sprite planet/ringworld
-		distance 812
-		period 360
-		offset 240
-	object
-		sprite planet/ringworld
-		distance 812
-		period 360
-		offset 260
-	object
-		sprite planet/ringworld
-		distance 812
-		period 360
-		offset 280
-	object
-		sprite planet/ringworld
-		distance 812
-		period 360
-		offset 300
-	object
 		sprite "planet/ringworld left"
+			scale 0.5
 		distance 812
-		period 360
-		offset 320
+		period 349.820
+		offset 240
 

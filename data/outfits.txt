@@ -16,7 +16,7 @@ outfit "Nauplius Cell"
 	"outfit space" -14
 	"energy generation" 1.05
 	"heat generation" .55
-	description ""
+	description "This tiny fuel cell would struggle to power all but the smallest human outfits, but is often adequate for the highly efficient Naltok equipment in their smaller ships."
 
 outfit "Copepod Generator"
 	category "Power"
@@ -121,7 +121,7 @@ outfit "Gecko Thruster"
 	"flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
 	"flare sound" "ion medium"
-	description ""
+	description "Even the Quarg look at Naltok engines with a begrudging admiration for their spectacular efficiency, and the underwhelming thrust of those engines gives them plenty of time to do so."
 
 outfit "Iguana Thruster"
 	category "Engines"

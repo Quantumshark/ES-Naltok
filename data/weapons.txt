@@ -125,4 +125,32 @@ outfit "Drainer"
 		"shield damage" 12.1
 		"hull damage" 7.9
 		"fuel damage" 3.3
-	description "The Drainer is the first weapon developed by the Defenders since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
+	description "The Drainer is the first weapon developed by the Xochira since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
+
+outfit "Naltok Anti-Missile"
+	category "Turrets"
+	cost 317000
+	thumbnail "outfit/wanderer anti-missile"
+	"mass" 27
+	"outfit space" -24
+	"weapon capacity" -24
+	"turret mounts" -1
+	weapon
+		"hardpoint sprite" "hardpoint/wanderer anti-missile"
+		"hardpoint offset" 6.
+		"hit effect" "naltok anti-missile"
+		"anti-missile" 2
+		"velocity" 360
+		"lifetime" 1
+		"reload" 3
+		"firing energy" 2
+		"firing heat" 1.5
+	description "The Naltok anti-missile is ineffective against larger missiles, but when facing large numbers of small missiles it is highly effective."
+
+effect "naltok anti-missile"
+	sprite "effect/wanderer anti-missile"
+		"no repeat"
+		"frame rate" 2
+	sound "heavy anti-missile"
+	"lifetime" 11
+	"velocity scale" 1

@@ -76,7 +76,7 @@ outfit "River Shield Generator"
 	"outfit space" -51
 	"shield generation" .975
 	"shield energy" .325
-	description ""
+	description "The larger shield generators produced by humanity are slightly more powerful than this shield generator, despite millenia of Naltok technological advances. However, no human shield generator even approaches this device's energy efficiency."
 
 outfit "Agama Thruster"
 	category "Engines"

@@ -529,15 +529,15 @@ ship "Lamprey"
 		"required crew" 1
 		"bunks" 1
 		"mass" 46
-		"drag" .72
+		"drag" .67
 		"heat dissipation" .43
 		"outfit space" 116
 		"weapon capacity" 41
 		"engine capacity" 37
 	outfits
 		"Drainer"
-		"Stream Shield Generator"
 		"Nauplius Cell"
+		"Pond Battery"
 		"Agama Steering"
 		"Anole Thruster"
 	gun "Drainer"

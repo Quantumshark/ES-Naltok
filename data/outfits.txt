@@ -78,6 +78,15 @@ outfit "River Shield Generator"
 	"shield energy" .325
 	description "The larger shield generators produced by humanity are slightly more powerful than this shield generator, despite millenia of Naltok technological advances. However, no human shield generator even approaches this device's energy efficiency."
 
+outfit "Pond Battery"
+	category "Power"
+	cost 3130
+	thumbnail "outfit/medium naltok battery"
+	"mass" 27
+	"outfit space" -27
+	"energy capacity" 9343 
+	description "Naltok batteries are bulky and not particularly effective. The best that can be said about them is that the Naltok, evidently realising this, make them available at a very low price."
+
 outfit "Agama Thruster"
 	category "Engines"
 	"cost" 97200

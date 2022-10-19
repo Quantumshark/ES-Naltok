@@ -591,6 +591,7 @@ ship "Minnow"
 		"outfit space" 53
 		"weapon capacity" 14
 		"engine capacity" 25
+		"energy capacity" 300
 	outfits
 		"Breaker" 2
 		"Nauplius Cell"
@@ -599,4 +600,4 @@ ship "Minnow"
 
 	gun "Breaker"
 	gun "Breaker"
-	description ``
+	description `This tiny drone mounts the bare minimum hardware required to power two Breaker cannons and a tiny set of engines. To make further savings on space, the Minnow has a built-in battery, rather than expanding it to fit the rather bulky batteries used in larger Naltok ships.`

@@ -10,7 +10,7 @@
 
 outfit "Breaker"
 	category "Guns"
-	cost 77000
+	cost 47100
 	thumbnail "outfit/breaker"
 	"mass" 7
 	"outfit space" -7
@@ -33,7 +33,7 @@ outfit "Breaker"
 
 outfit "Breaker Turret"
 	category "Turrets"
-	cost 193000
+	cost 103700
 	thumbnail "outfit/breaker"
 	"mass" 11
 	"outfit space" -11
@@ -59,7 +59,7 @@ outfit "Breaker Turret"
 
 outfit "Triple Breaker Turret"
 	category "Turrets"
-	cost 551000
+	cost 417300
 	thumbnail "outfit/breaker"
 	"mass" 29
 	"outfit space" -29
@@ -99,7 +99,7 @@ outfit "Breaker Submunition"
 
 outfit "Drainer"
 	category "Guns"
-	cost 429000
+	cost 479300
 	thumbnail "outfit/drainer"
 	"mass" 41
 	"outfit space" -41

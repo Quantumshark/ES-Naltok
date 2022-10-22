@@ -559,7 +559,7 @@ ship "Remora"
 		"mass" 11
 		"drag" .76
 		"heat dissipation" .45
-		"outfit space" 137
+		"outfit space" 127
 		"weapon capacity" 28
 		"engine capacity" 27
 	outfits

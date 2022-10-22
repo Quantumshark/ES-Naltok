@@ -82,9 +82,9 @@ outfit "Pond Battery"
 	category "Power"
 	cost 3130
 	thumbnail "outfit/medium naltok battery"
-	"mass" 27
-	"outfit space" -27
-	"energy capacity" 9343 
+	"mass" 17
+	"outfit space" -17
+	"energy capacity" 5343 
 	description "Naltok batteries are bulky and not particularly effective. The best that can be said about them is that the Naltok, evidently realising this, make them available at a very low price."
 
 outfit "Agama Thruster"

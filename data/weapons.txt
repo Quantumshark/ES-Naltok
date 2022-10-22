@@ -123,6 +123,97 @@ outfit "Drainer"
 		"fuel damage" 3.3
 	description "The Drainer is the first weapon developed by the Xochira since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
 
+outfit "Halt-Swarm Launcher"
+	category "Secondary Weapons"
+	cost 213300
+	thumbnail "outfit/halt-swarm launcher"
+	"mass" 13
+	"outfit space" -29
+	"weapon capacity" -29
+	"gun ports" -1
+	"halt-swarm capacity" 32
+	weapon
+		sprite "projectile/haltswarm"
+		sound "meteor"
+		ammo "Halt-Swarm Missile"
+		icon "icon/haltswarm"
+		"fire effect" "meteor fire"
+		"die effect" "missile death"
+		"hit effect" "missile hit"
+		"inaccuracy" 20
+		"velocity" 20
+		"lifetime" 380
+		"burst reload" 2
+		"burst count" 4
+		"reload" 30
+		"firing energy" .1
+		"firing heat" 7.3
+		"acceleration" 1.9
+		"drag" .11
+		"turn" 2.0
+		"homing" 3
+		"radar tracking" .5
+		"shield damage" 97
+		"hull damage" 97
+		"slowing damage" 400
+		"missile strength" 3
+	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
+
+outfit "Halt-Swarm Pod"
+	category "Secondary Weapons"
+	cost 73400
+	thumbnail "outfit/halt-swarm pod"
+	"mass" 2
+	"outfit space" -6
+	"weapon capacity" -6
+	"gun ports" -1
+	"halt-swarm capacity" 8
+	weapon
+		sprite "projectile/haltswarm"
+		sound "meteor"
+		ammo "Halt-Swarm Missile"
+		icon "icon/haltswarm"
+		"fire effect" "meteor fire"
+		"die effect" "missile death"
+		"hit effect" "missile hit"
+		"inaccuracy" 20
+		"velocity" 20
+		"lifetime" 380
+		"burst reload" 2
+		"burst count" 4
+		"reload" 45
+		"firing energy" .1
+		"firing heat" 7.3
+		"acceleration" 1.9
+		"drag" .11
+		"turn" 2.0
+		"homing" 3
+		"radar tracking" .5
+		"shield damage" 97
+		"hull damage" 97
+		"slowing damage" 400
+		"missile strength" 3
+	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
+	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
+
+outfit "Halt-Swarm Missile"
+	category "Ammunition"
+	cost 1270
+	thumbnail "outfit/halt-swarm missile"
+	"mass" .5
+	"halt-swarm capacity" -1
+	description "A Halt-Swarm rocket serves as ammunition for the Halt-Swarm Launcher. Each launcher has the capacity for 32 halt-swarm missiles; you cannot install halt-swarm missiles if you have not first purchased a launcher to store them in."
+
+outfit "Halt-Swarm Rack"
+	category "Ammunition"
+	cost 11300
+	thumbnail "outfit/halt-swarm storage"
+	"mass" 3
+	"outfit space" -11
+	"halt-swarm capacity" 16
+	ammo "Halt-Swarm Missile"
+	description "The Halt-Swarm Rack is used to store extra ammunition for Halt-Swarm Launchers."
+	
 outfit "Naltok Anti-Missile"
 	category "Turrets"
 	cost 317000

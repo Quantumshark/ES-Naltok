@@ -1,6 +1,7 @@
 
 system 0000A
 	pos -772 -185
+	government "Xochira"
 	habitable 1401.68
 	link 0000B
 	asteroids "small rock" 9 5.52
@@ -55,6 +56,7 @@ system 0000A
 
 system 0000B
 	pos -832 -163
+	government "Xochira"
 	habitable 425
 	link 0000C
 	link 0000A
@@ -112,6 +114,7 @@ system 0000B
 
 system 0000C
 	pos -804 -94
+	government "Xochira"
 	habitable 425.92
 	link 0000B
 	asteroids "small rock" 4 2.6
@@ -136,7 +139,7 @@ system 0000C
 		sprite planet/lava3
 		distance 163.04
 		period 40.3494
-	object
+	object "Ruthango"
 		sprite planet/ocean7
 		distance 362.65
 		period 133.853
@@ -171,6 +174,7 @@ system 0000C
 
 system 0000D
 	pos -895 -111
+	government "Xochira"
 	habitable 3940
 	link 0000B
 	link 0000E
@@ -225,6 +229,7 @@ system 0000D
 
 system 0000E
 	pos -936 -165
+	government "Xochira"
 	habitable 486.68
 	link 0000D
 	link 0000F
@@ -334,6 +339,7 @@ system 0000F
 
 system 0000G
 	pos -889 -192
+	government "Xochira"
 	habitable 851.84
 	link 0000B
 	link 0000E
@@ -397,6 +403,7 @@ system 0000G
 
 system 0000H
 	pos -1012 -202
+	government "Xochira"
 	habitable 305
 	link 0000I
 	link 0000F
@@ -442,6 +449,7 @@ system 0000H
 
 system 0000I
 	pos -1085 -188
+	government "Xochira"
 	habitable 425.92
 	link 0000L
 	link 0000K
@@ -512,6 +520,7 @@ system 0000I
 
 system 0000K
 	pos -1127 -201
+	government "Xochira"
 	habitable 625
 	link 0000L
 	link 0000I
@@ -577,7 +586,8 @@ system 0000K
 
 system 0000L
 	pos -1093 -238
-	habitable 486.68
+	government "Xochira"
+	habitable 86.68
 	link 0000I
 	link 0000K
 	link 0000P2
@@ -598,7 +608,7 @@ system 0000L
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/k0
+		sprite star/m-dwarf
 		period 10
 	object
 		sprite planet/dust7
@@ -627,6 +637,7 @@ system 0000L
 
 system 0000M
 	pos -944 -83
+	government "Xochira"
 	habitable 500
 	link 0000D
 	asteroids "small rock" 3 4.1055
@@ -1543,3 +1554,9 @@ system Kuragu
 		period 349.820
 		offset 240
 
+planet Ruthango
+	attributes naltok military
+	landscape land/beach0
+	description `This is a huge military emplacement, the third largest operated by the Xochira. This system is where the Alphas first arrived in Naltok space, so it is here that the Xochira maintain their greatest density of patrols. Almost all of the land on this ocean planet is taken up by huge spaceports for landing, repairing and rearming ships and by munitions depots.`
+	spaceport `The spaceport is clearly built for military purposes, as are the many others on this planet. Warships, particularly Archerfish and Barracuda, are constantly landing, rearming and taking off here, and you can see vehicles carrying Halt-Swarm missiles from several warehouses to re-arm the landed ships.`
+	"required reputation" 50

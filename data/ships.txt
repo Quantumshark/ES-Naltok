@@ -78,12 +78,12 @@ ship "Sturgeon"
 		"hull energy" 1.45
 		"hull heat" 4.35
 		"required crew" 43
-		"bunks" 223
+		"bunks" 213
 		"mass" 701
 		"drag" 9.2
 		"heat dissipation" .17
 		"fuel capacity" 500
-		"cargo space" 568
+		"cargo space" 368
 		"outfit space" 713
 		"weapon capacity" 279
 		"engine capacity" 193

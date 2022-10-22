@@ -1290,7 +1290,7 @@ system 0000V
 system 0000X
 	pos -1054 -365
 	government "Telashki"
-	habitable 553.28
+	habitable 813.28
 	link 0000S
 	link 0000P
 	link 0000U
@@ -1310,13 +1310,13 @@ system 0000X
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/m0
+		sprite star/g0
 		distance 34.1521
 		period 12.397
 		offset 180
 	object
 		sprite star/m4
-		distance 46.8479
+		distance 86.8479
 		period 12.397
 	object
 		sprite planet/fog0
@@ -1326,8 +1326,8 @@ system 0000X
 		sprite planet/rock9
 		distance 614.858
 		period 259.268
-	object
-		sprite planet/desert9
+	object "Ngathego"
+		sprite planet/desert4
 		distance 839.668
 		period 413.76
 	object
@@ -1575,7 +1575,13 @@ planet Kolzhathna
 	description `This planet serves as the defensive line of the Telashki. Its proximity to their major industrial worlds is both a blessing and a curse - while it is easy to keep the fleets here supplied, those planets would be under direct attack if the defenses here ever failed. It is for this reason, rather than any other, that this minimally habitable planet has become such a bustling centre of activity.`
 	spaceport `The sheer number of warships here is disturbing. While this part of the spaceport is primarily for incoming shipments of materials, you were able to see the enormous defensive fleet stationed on this planet as you flew in to land. Enormous numbers of warships are stationed here, all ready to take off and engage an enemy at the first sign of danger.`
 	"required reputation" 10
-	
+
+planet Ngathego	
+	attributes naltok telashki urban factory
+	landscape land/city7
+	description `Ngathego is by far the largest shipyard in Telashki space, as well as being one of the more populous planets. The warships assembled here mostly go on to join the defenses on Kolzathna, while many of the freighters built here are back within days carrying fresh components.`
+	spaceport `The spaceport here, like many Naltok buildings, is filled with about a foot of lukewarm water. For the Naltok this is essential, in order to prevent their skin from drying out in the air, but for humans and any other visitors this is inconvenient and highly unpleasant. Unlike many other Naltok buildings however, this building has "Visitor paths" which are almost entirely dry, allowing humans and alphas to traverse most of the spaceport in comfort.`
+
 planet Ruthango
 	attributes naltok xochira military
 	landscape land/beach0

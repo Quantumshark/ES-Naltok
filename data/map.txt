@@ -257,7 +257,7 @@ system 0000E
 		sprite planet/rock1
 		distance 242.25
 		period 68.365
-	object
+	object Tokranet
 		sprite planet/forest1-b
 		distance 502.09
 		period 221.628
@@ -1570,8 +1570,14 @@ system Kuragu
 		offset 240
 
 planet Ruthango
-	attributes naltok military
+	attributes naltok xochira military
 	landscape land/beach0
 	description `This is a huge military emplacement, the third largest operated by the Xochira. This system is where the Alphas first arrived in Naltok space, so it is here that the Xochira maintain their greatest density of patrols. Almost all of the land on this ocean planet is taken up by huge spaceports for landing, repairing and rearming ships and by munitions depots.`
 	spaceport `The spaceport is clearly built for military purposes, as are the many others on this planet. Warships, particularly Archerfish and Barracuda, are constantly landing, rearming and taking off here, and you can see vehicles carrying Halt-Swarm missiles from several warehouses to re-arm the landed ships.`
 	"required reputation" 50
+
+planet Tokranet
+	attributes naltok xochira urban
+	landscape land/water6
+	description `Tokranet is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain.`
+	spaceport `The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums.`

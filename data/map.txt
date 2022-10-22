@@ -870,9 +870,9 @@ system 0000P
 	object
 		sprite star/m8
 		period 10
-	object
-		sprite planet/ocean2
-		distance 237.96
+	object Kolzhathna
+		sprite planet/rock18
+		distance 277.96
 		period 96.134
 	object
 		sprite planet/titan
@@ -1569,6 +1569,13 @@ system Kuragu
 		period 349.820
 		offset 240
 
+planet Kolzhathna
+	attributes naltok telashki military
+	landscape land/beach0
+	description `This planet serves as the defensive line of the Telashki. Its proximity to their major industrial worlds is both a blessing and a curse - while it is easy to keep the fleets here supplied, those planets would be under direct attack if the defenses here ever failed. It is for this reason, rather than any other, that this minimally habitable planet has become such a bustling centre of activity.`
+	spaceport `The sheer number of warships here is disturbing. While this part of the spaceport is primarily for incoming shipments of materials, you were able to see the enormous defensive fleet stationed on this planet as you flew in to land. Enormous numbers of warships are stationed here, all ready to take off and engage an enemy at the first sign of danger.`
+	"required reputation" 10
+	
 planet Ruthango
 	attributes naltok xochira military
 	landscape land/beach0

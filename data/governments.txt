@@ -4,15 +4,6 @@ government "Naltok"
 	"crew defense" 1.7
 	"player reputation" 1
 
-government "Xochira"
-	swizzle 4
-	color .81 .23 .97
-	"crew attack" .9
-	"crew defense" 1.9
-	"player reputation" -10
-	"attitude toward"
-		"Naltok" 1
-
 government "Telashki"
 	swizzle 3
 	color .01 .93 .72
@@ -21,3 +12,15 @@ government "Telashki"
 	"player reputation" 5
 	"attitude toward"
 		"Naltok" 1
+		"Xochira" -.1
+
+government "Xochira"
+	swizzle 4
+	color .81 .23 .97
+	"crew attack" .9
+	"crew defense" 1.9
+	"player reputation" -10
+	"attitude toward"
+		"Naltok" 1
+		"Telashki" -.1
+

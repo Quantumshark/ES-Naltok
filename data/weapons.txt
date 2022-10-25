@@ -241,6 +241,11 @@ outfit "Shrapnel Torpedo Launcher"
 		"reload" 240
 		"firing energy" 1
 		"firing heat" 4
+		"acceleration" .18
+		"drag" .025
+		"turn" 2.0
+		"homing" 4
+		"infrared tracking" .95
 		"missile strength" 75
 	description "Shrapnel torpedoes are an unusual missile weapon favoured by the Naltok. Rather than simply strike a target and detonate, Shrapnel torpedoes instead approach a target, then explode into a spray of deadly shrapnel which shreds through hull plating. This makes them far harder to dodge than other missile weapons."
 
@@ -273,6 +278,11 @@ outfit "Shrapnel Torpedo Pod"
 		"reload" 360
 		"firing energy" 1
 		"firing heat" 4
+		"acceleration" .18
+		"drag" .025
+		"turn" 2.0
+		"homing" 4
+		"infrared tracking" .95
 		"missile strength" 75
 	description "Shrapnel torpedoes are an unusual missile weapon favoured by the Naltok. Rather than simply strike a target and detonate, Shrapnel torpedoes instead approach a target, then explode into a spray of deadly shrapnel which shreds through hull plating. This makes them far harder to dodge than other missile weapons."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."

@@ -31,6 +31,7 @@ ship "Anchovy"
 		"engine capacity" 53
 	outfits
 		"Nauplius Cell"
+		"Pond Battery"
 		"Stream Shield Generator"
 		"Agama Thruster"
 		"Agama Steering"
@@ -120,6 +121,7 @@ ship "Herring"
 		"engine capacity" 45
 	outfits
 		"Nauplius Cell"
+		"Pond Battery"
 		"Stream Shield Generator"
 		"Agama Thruster"
 		"Agama Steering"

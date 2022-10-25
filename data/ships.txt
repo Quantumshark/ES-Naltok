@@ -193,14 +193,14 @@ ship "Archerfish"
 		category "Light Warship"
 		"cost"
 		"shields" 2100
-		"hull" 9200
+		"hull" 8700
 		"hull repair rate" 1.1
 		"hull energy" .55
 		"hull heat" 1.65
 		"required crew" 3
 		"bunks" 7
-		"mass" 204
-		"drag" 2.5
+		"mass" 184
+		"drag" 2.05
 		"heat dissipation" .41
 		"fuel capacity" 300
 		"cargo space" 37
@@ -209,15 +209,17 @@ ship "Archerfish"
 		"engine capacity" 91
 	outfits
 		"Drainer" 2
-		"Hyperdrive"
-		"River Shield Generator"
 		"Krill Generator"
+		"Pond Battery"
+		"River Shield Generator"
 		"Gecko Steering"
 		"Gecko Thruster"
+		"Hyperdrive"
 
 	gun "Drainer"
 	gun "Drainer"
-	description `The Archerfish is designed to chase down any ship entering Naltok space and drain its fuel reserves, leaving it unable to flee.`
+	description `Once the initial war between the Xochira and the Telashki cooled down, the Xochira found themselves occupying the systems that the Alphas originally arrived in. Their weapon designers quickly produced the Drainer in an attempt to prevent any Alpha ships escaping to the Telashki, but no ships they produced at the time were fast enough to chase a potential opponent down without risking their escape.`
+	description `Several designs were proposed, but ultimately the Xochira opted to begin constructing the Archerfish; a low-cost, high-speed light warship carrying two Drainers. To date, the Xochira maintain that no Alpha warship has ever escaped the Archerfish long enough to escape to Telashki space.`
 
 ship "Piranha"
 	sprite "ship/piranha"

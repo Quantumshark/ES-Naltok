@@ -95,7 +95,7 @@ outfit "Agama Thruster"
 	"outfit space" -11
 	"engine capacity" -11
 	"thrust" 6.25
-	"thrusting energy" .6
+	"thrusting energy" .3
 	"thrusting heat" .3
 	"flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
@@ -110,7 +110,7 @@ outfit "Anole Thruster"
 	"outfit space" -19
 	"engine capacity" -19
 	"thrust" 12.31
-	"thrusting energy" .9
+	"thrusting energy" .45
 	"thrusting heat" .5
 	"flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
@@ -125,7 +125,7 @@ outfit "Gecko Thruster"
 	"outfit space" -34
 	"engine capacity" -34
 	"thrust" 24.51
-	"thrusting energy" 1.5
+	"thrusting energy" .75
 	"thrusting heat" .8
 	"flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
@@ -140,7 +140,7 @@ outfit "Iguana Thruster"
 	"outfit space" -61
 	"engine capacity" -61
 	"thrust" 48.95
-	"thrusting energy" 2.7
+	"thrusting energy" 1.35
 	"thrusting heat" 1.4
 	"flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
@@ -155,7 +155,7 @@ outfit "Monitor Thruster"
 	"outfit space" -109
 	"engine capacity" -109
 	"thrust" 94.2
-	"thrusting energy" 4.1
+	"thrusting energy" 2.05
 	"thrusting heat" 2.4
 	"flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8
@@ -170,7 +170,7 @@ outfit "Agama Steering"
 	"outfit space" -14
 	"engine capacity" -14
 	"turn" 341.8
-	"turning energy" .7
+	"turning energy" .35
 	"turning heat" .4
 	"steering flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
@@ -185,12 +185,12 @@ outfit "Anole Steering"
 	"outfit space" -25
 	"engine capacity" -25
 	"turn" 644.9
-	"turning energy" 1.1
+	"turning energy" .55
 	"turning heat" .7
 	"steering flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"steering flare sound" "ion small"
-	description ""
+	description "The Naltok tend to place more value in a ship's steering than in the thrusters."
 
 outfit "Gecko Steering"
 	category "Engines"
@@ -200,7 +200,7 @@ outfit "Gecko Steering"
 	"outfit space" -43
 	"engine capacity" -43
 	"turn" 1245.55
-	"turning energy" 1.8
+	"turning energy" .9
 	"turning heat" 1.1
 	"steering flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
@@ -215,7 +215,7 @@ outfit "Iguana Steering"
 	"outfit space" -73
 	"engine capacity" -73
 	"turn" 2351.4
-	"turning energy" 3.0
+	"turning energy" 1.5
 	"turning heat" 1.8
 	"steering flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
@@ -230,7 +230,7 @@ outfit "Monitor Steering"
 	"outfit space" -127
 	"engine capacity" -127
 	"turn" 4546.2
-	"turning energy" 4.6
+	"turning energy" 2.3
 	"turning heat" 2.9
 	"steering flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8

@@ -312,9 +312,9 @@ outfit "Naltok Anti-Missile"
 	category "Turrets"
 	cost 317000
 	thumbnail "outfit/wanderer anti-missile"
-	"mass" 24
-	"outfit space" -24
-	"weapon capacity" -24
+	"mass" 23
+	"outfit space" -23
+	"weapon capacity" -23
 	"turret mounts" -1
 	weapon
 		"hardpoint sprite" "hardpoint/wanderer anti-missile"

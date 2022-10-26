@@ -100,7 +100,7 @@ outfit "Agama Thruster"
 	"flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"flare sound" "ion tiny"
-	description ""
+	description "This tiny thruster is both smaller and more efficient than anything humanity has ever produced, though its thrust leaves a lot to be desired."
 
 outfit "Anole Thruster"
 	category "Engines"
@@ -115,7 +115,7 @@ outfit "Anole Thruster"
 	"flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"flare sound" "ion small"
-	description ""
+	description "The lead engineer who designed the latest model of these thrusters spent weeks searching for new ways to reduce their power consumption and minimise the loss of energy as heat. According to a popular story, she was only satisfied when the engines were no hotter to the touch during a test run than the stone floor of the warehouse they were being stored in."
 
 outfit "Gecko Thruster"
 	category "Engines"
@@ -130,7 +130,7 @@ outfit "Gecko Thruster"
 	"flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
 	"flare sound" "ion medium"
-	description "Even the Quarg look at Naltok engines with a begrudging admiration for their spectacular efficiency, and the underwhelming thrust of those engines gives them plenty of time to do so."
+	description "Even the Quarg look at Naltok engines with a begrudging admiration for their spectacular efficiency, and the underwhelming thrust of those same engines gives them plenty of time to do so."
 
 outfit "Iguana Thruster"
 	category "Engines"
@@ -145,7 +145,7 @@ outfit "Iguana Thruster"
 	"flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"flare sound" "ion large"
-	description ""
+	description "At their core Naltok engines are ion engines not unlike those produced by the Syndicate. What sets Naltok thrusters apart is the work generations of engineers have put into minimising their power requirements by any means available to them, which has resulted in efficiency unmatched almost anywhere in the galaxy."
 
 outfit "Monitor Thruster"
 	category "Engines"
@@ -160,7 +160,7 @@ outfit "Monitor Thruster"
 	"flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8
 	"flare sound" "ion huge"
-	description ""
+	description "Compared to the largest human thrusters, the Monitor is relatively small, but it nonetheless provides a reasonable amount of thrust. Where the Monitor shines is its efficiency, which massively eclipses any comparable human technology."
 
 outfit "Agama Steering"
 	category "Engines"
@@ -175,7 +175,7 @@ outfit "Agama Steering"
 	"steering flare sprite" "effect/ion flare/tiny"
 		"frame rate" 1.2
 	"steering flare sound" "ion tiny"
-	description ""
+	description "This tiny steering system sees frequent use on the smallest Naltok ships, but it is also used by pilots attempting to cram just a little bit more steering power onto their ship. Unlike a comparable plasma or atomic engine one might encounter in human space, the addition of this Naltok steering system will almost never require additional power or cooling to compensate."
 
 outfit "Anole Steering"
 	category "Engines"
@@ -190,7 +190,7 @@ outfit "Anole Steering"
 	"steering flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"steering flare sound" "ion small"
-	description "The Naltok tend to place more value in a ship's steering than in the thrusters."
+	description "Unlike most, the Naltok typically build their steering systems larger than the corresponding thrusters. There are probably many reasons for this, but a notable one is their apparent refusal to use reverse thrusters."
 
 outfit "Gecko Steering"
 	category "Engines"
@@ -205,7 +205,7 @@ outfit "Gecko Steering"
 	"steering flare sprite" "effect/ion flare/medium"
 		"frame rate" 1.0
 	"steering flare sound" "ion medium"
-	description ""
+	description "The Naltok pride themselves on the efficiency of their technology. Whereas a human engineer might try to improve the force offered by this steering system, or perhaps seek to make it smaller, the Naltok have instead focused on trying to allow it to run on as little energy as possible."
 
 outfit "Iguana Steering"
 	category "Engines"
@@ -220,7 +220,7 @@ outfit "Iguana Steering"
 	"steering flare sprite" "effect/ion flare/large"
 		"frame rate" 0.9
 	"steering flare sound" "ion large"
-	description ""
+	description "A steering system this large would probably only see use on the largest ships in human space, but the Naltok will often cram it onto substantially smaller ships, even if that means sacrificing some top speed. The fact that only a relatively small generator and typically no cooling systems at all are required to operate it is perhaps as much of a factor in this as the unexplained Naltok fondness for tight cornering on their vessels."
 
 outfit "Monitor Steering"
 	category "Engines"
@@ -235,4 +235,4 @@ outfit "Monitor Steering"
 	"steering flare sprite" "effect/ion flare/huge"
 		"frame rate" 0.8
 	"steering flare sound" "ion huge"
-	description ""
+	description "There are few, if any, steering systems in the galaxy that are larger than this colossal set. Nevertheless, it still produces less heat than an ion engine half its size, a testament to the spectacular efficiency of Naltok technology."

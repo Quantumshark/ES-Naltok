@@ -527,7 +527,7 @@ ship "Coelacanth"
 		"bunks" 139
 		"mass" 981
 		"drag" 28.05
-		"heat dissipation" .09
+		"heat dissipation" .095
 		"fuel capacity" 500
 		"cargo space" 98
 		"outfit space" 1104

@@ -23,4 +23,5 @@ government "Xochira"
 	"attitude toward"
 		"Naltok" 1
 		"Telashki" -.1
+		"Alpha" -.01
 

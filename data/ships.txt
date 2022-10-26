@@ -276,18 +276,53 @@ ship "Barracuda"
 		"weapon capacity" 196
 		"engine capacity" 147
 	outfits
+		"Breaker" 2
+		"Shrapnel Torpedo Launcher" 4
+		"Shrapnel Torpedo" 44
 
+		"Copepod Generator"
+		"Pond Battery"
+		"River Shield Generator"
+
+		"Gecko Thruster"
+		"Iguana Thruster"
+		"Gecko Steering"
 		"Hyperdrive"
 
+	gun "Breaker"
+	gun "Breaker"
+	gun "Shrapnel Torpedo Launcher"
+	gun "Shrapnel Torpedo Launcher"
 	gun
 	gun
-	gun
-	gun
-	gun
-	gun
-	gun
-	gun
+	gun "Shrapnel Torpedo Launcher"
+	gun "Shrapnel Torpedo Launcher"
 	description ``
+
+ship "Barracuda" "Barracuda (Halt-Swarm)"
+	outfits
+		"Breaker" 2
+		"Halt-Swarm Launcher" 6
+		"Halt-Swarm Missile" 208
+		"Halt-Swarm Rack" 1
+
+		"Copepod Generator"
+		"Pond Battery"
+		"Stream Shield Generator"
+
+		"Gecko Thruster"
+		"Iguana Thruster"
+		"Gecko Steering"
+		"Hyperdrive"
+
+	gun "Breaker"
+	gun "Breaker"
+	gun "Halt-Swarm Launcher"
+	gun "Halt-Swarm Launcher"
+	gun "Halt-Swarm Launcher"
+	gun "Halt-Swarm Launcher"
+	gun "Halt-Swarm Launcher"
+	gun "Halt-Swarm Launcher"
 
 ship "Albacore"
 	sprite "ship/albacore"

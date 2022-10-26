@@ -193,7 +193,7 @@ ship "Archerfish"
 	thumbnail "thumbnail/archerfish"
 	attributes
 		category "Light Warship"
-		"cost"
+		"cost" 1896000
 		"shields" 2100
 		"hull" 8700
 		"hull repair rate" 1.1
@@ -259,7 +259,7 @@ ship "Barracuda"
 	thumbnail "thumbnail/barracuda"
 	attributes
 		category "Medium Warship"
-		"cost"
+		"cost" 4742000
 		"shields" 4300
 		"hull" 14300
 		"hull repair rate" 2.2

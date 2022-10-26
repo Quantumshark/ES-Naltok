@@ -1599,5 +1599,5 @@ planet Zhutanol
 	attributes naltok telashki
 	landscape land/fields13
 	description `The first Naltok explorers on Zhutanol characterised it as "minimally habitable" due to the relatively dry climate, and for centuries Zhutanol was viewed as a hostile planet with little use beyond cultivation of the local drought-resistant flora as an emergency food reserve.`
-	description `This changed, however, when Human and Alpha settlers in Naltok space saw it as a perfect spot `
+	description `This changed, however, when the Humans and Alphas arriving in Naltok space saw Zhutanol as a perfect spot to settle down, and the planet now boasts a population of nearly a thousand non-Naltok residents. With the outbreak of the current civil war, Zhutanol's distance from the frontline with the Xochira became another boon for the battle-weary crews of the Alpha ships.`
 	spaceport `The landing pads on this planet are connected by a convoluted system of miniature canals crossed over by walkways. Following the signposts along the canals would take you to the recently expanded old Naltok spaceport, with the excess moisture they favour in their dwellings. Following the walkways instead brings you to the new port, an odd mixture of Human and Naltok architecture which has been furnished first and foremost for the planet's Human and Alpha residents.`

@@ -1044,8 +1044,8 @@ system 0000R
 		sprite planet/rock8
 		distance 211.96
 		period 55.9525
-	object
-		sprite planet/forest1
+	object "Zhutanol"
+		sprite planet/forest0
 		distance 408.45
 		period 149.674
 	object
@@ -1594,3 +1594,10 @@ planet Tokranet
 	landscape land/water6
 	description `Tokranet is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain.`
 	spaceport `The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums.`
+
+planet Zhutanol
+	attributes naltok telashki
+	landscape land/fields13
+	description `The first Naltok explorers on Zhutanol characterised it as "minimally habitable" due to the relatively dry climate, and for centuries Zhutanol was viewed as a hostile planet with little use beyond cultivation of the local drought-resistant flora as an emergency food reserve.`
+	description `This changed, however, when Human and Alpha settlers in Naltok space saw it as a perfect spot `
+	spaceport `The landing pads on this planet are connected by a convoluted system of miniature canals crossed over by walkways. Following the signposts along the canals would take you to the recently expanded old Naltok spaceport, with the excess moisture they favour in their dwellings. Following the walkways instead brings you to the new port, an odd mixture of Human and Naltok architecture which has been furnished first and foremost for the planet's Human and Alpha residents.`

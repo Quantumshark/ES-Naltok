@@ -38,7 +38,7 @@ ship "Anchovy"
 		"Hyperdrive"
 
 	gun
-	description ``
+	description `With the exception of the tiny, uncrewed Minnow drones, the Anchovy is the least expensive ship sold in Naltok space. This low cost alone makes it one of the most popular ships for new pilots, despite having little else to offer.`
 
 ship "Mackerel"
 	sprite "ship/mackerel"
@@ -128,7 +128,7 @@ ship "Herring"
 		"Hyperdrive"
 
 	turret
-	description ``
+	description `The Herring is the smallest freighter that the Naltok produce. Although larger corporations and military logistics fleets typically do not employ it, the Herring is still one of the most common ships in Naltok space due to its popularity with independent merchants, who can make a decent profit using it to haul cargo.`
 
 ship "Conger"
 	sprite "ship/conger"

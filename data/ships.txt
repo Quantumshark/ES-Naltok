@@ -220,7 +220,7 @@ ship "Archerfish"
 
 	gun "Drainer"
 	gun "Drainer"
-	description `Once the initial war between the Xochira and the Telashki cooled down, the Xochira found themselves occupying the systems that the Alphas originally arrived in. Their weapon designers quickly produced the Drainer in an attempt to prevent any Alpha ships escaping to the Telashki, but no ships they produced at the time were fast enough to chase a potential opponent down without risking their escape.`
+	description `Once the war between the Xochira and the Telashki reached the current stalemate, the Xochira found themselves occupying the systems that the Alphas originally arrived in. Their weapon designers quickly produced the Drainer in an attempt to prevent any Alpha ships escaping to the Telashki, but no ships they produced at the time were fast enough to chase a potential opponent down without risking their escape.`
 	description `Several designs were proposed, but ultimately the Xochira opted to begin constructing the Archerfish; a low-cost, high-speed light warship carrying two Drainers. To date, the Xochira maintain that no Alpha warship has ever escaped the Archerfish long enough to escape to Telashki space.`
 
 ship "Piranha"

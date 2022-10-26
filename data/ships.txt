@@ -272,9 +272,9 @@ ship "Barracuda"
 		"heat dissipation" .34
 		"fuel capacity" 500
 		"cargo space" 53
-		"outfit space" 433
+		"outfit space" 403
 		"weapon capacity" 196
-		"engine capacity" 147
+		"engine capacity" 117
 	outfits
 		"Breaker" 2
 		"Shrapnel Torpedo Launcher" 4
@@ -284,7 +284,6 @@ ship "Barracuda"
 		"Pond Battery"
 		"River Shield Generator"
 
-		"Gecko Thruster"
 		"Iguana Thruster"
 		"Gecko Steering"
 		"Hyperdrive"
@@ -310,7 +309,6 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 		"Pond Battery"
 		"Stream Shield Generator"
 
-		"Gecko Thruster"
 		"Iguana Thruster"
 		"Gecko Steering"
 		"Hyperdrive"

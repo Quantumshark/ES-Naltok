@@ -139,7 +139,7 @@ system 0000C
 		sprite planet/lava3
 		distance 163.04
 		period 40.3494
-	object "Ruthango"
+	object "Ruxanguv"
 		sprite planet/ocean7
 		distance 362.65
 		period 133.853
@@ -257,7 +257,7 @@ system 0000E
 		sprite planet/rock1
 		distance 242.25
 		period 68.365
-	object Tokranet
+	object Tokraget
 		sprite planet/forest1-b
 		distance 502.09
 		period 221.628
@@ -870,7 +870,7 @@ system 0000P
 	object
 		sprite star/m8
 		period 10
-	object Kolzhathna
+	object Kolxacha
 		sprite planet/rock18
 		distance 277.96
 		period 96.134
@@ -1044,7 +1044,7 @@ system 0000R
 		sprite planet/rock8
 		distance 211.96
 		period 55.9525
-	object "Zhutanol"
+	object "Xutajol"
 		sprite planet/forest0
 		distance 408.45
 		period 149.674
@@ -1326,7 +1326,7 @@ system 0000X
 		sprite planet/rock9
 		distance 614.858
 		period 259.268
-	object "Ngathego"
+	object "Ngakego"
 		sprite planet/forest4
 		distance 839.668
 		period 413.76
@@ -1569,35 +1569,35 @@ system Kuragu
 		period 349.820
 		offset 240
 
-planet Kolzhathna
+planet Kolxacha
 	attributes naltok telashki military
 	landscape land/beach0
 	description `This planet serves as the defensive line of the Telashki. Its proximity to their major industrial worlds is both a blessing and a curse - while it is easy to keep the fleets here supplied, those planets would be under direct attack if the defenses here ever failed. It is for this reason, rather than any other, that this minimally habitable planet has become such a bustling centre of activity.`
 	spaceport `The sheer number of warships here is disturbing. While this part of the spaceport is primarily for incoming shipments of materials, you were able to see the enormous defensive fleet stationed on this planet as you flew in to land. Enormous numbers of warships are stationed here, all ready to take off and engage an enemy at the first sign of danger.`
 	"required reputation" 10
 
-planet Ngathego	
+planet Ngakego	
 	attributes naltok telashki urban factory
 	landscape land/city7
-	description `Ngathego is by far the largest shipyard in Telashki space, as well as being one of the more populous planets. The warships assembled here mostly go on to join the defenses on Kolzathna, while many of the freighters built here are back within days carrying fresh components.`
+	description `Ngakego is by far the largest shipyard in Telashki space, as well as being one of the more populous planets. The warships assembled here mostly go on to join the defenses on Kolzathna, while many of the freighters built here are back within days carrying fresh components.`
 	spaceport `The spaceport here, like many Naltok buildings, is filled with about a foot of lukewarm water. For the Naltok this is essential, in order to prevent their skin from drying out in the air, but for humans and any other visitors this is inconvenient and highly unpleasant. Unlike many other Naltok buildings however, this building has "Visitor paths" which are almost entirely dry, allowing humans and alphas to traverse most of the spaceport in comfort.`
 
-planet Ruthango
+planet Ruxanguv
 	attributes naltok xochira military
 	landscape land/beach0
 	description `This is a huge military emplacement, the third largest operated by the Xochira. This system is where the Alphas first arrived in Naltok space, so it is here that the Xochira maintain their greatest density of patrols. Almost all of the land on this ocean planet is taken up by huge spaceports for landing, repairing and rearming ships and by munitions depots.`
 	spaceport `The spaceport is clearly built for military purposes, as are the many others on this planet. Warships, particularly Archerfish and Barracuda, are constantly landing, rearming and taking off here, and you can see vehicles carrying Halt-Swarm missiles from several warehouses to re-arm the landed ships.`
 	"required reputation" 50
 
-planet Tokranet
+planet Tokraget
 	attributes naltok xochira urban
 	landscape land/water6
-	description `Tokranet is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain.`
+	description `Tokraget is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain.`
 	spaceport `The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums.`
 
-planet Zhutanol
+planet Xutajol
 	attributes naltok telashki
 	landscape land/fields13
-	description `The first Naltok explorers on Zhutanol characterised it as "minimally habitable" due to the relatively dry climate, and for centuries Zhutanol was viewed as a hostile planet with little use beyond cultivation of the local drought-resistant flora as an emergency food reserve.`
-	description `This changed, however, when the Humans and Alphas arriving in Naltok space saw Zhutanol as a perfect spot to settle down, and the planet now boasts a population of nearly a thousand non-Naltok residents. With the outbreak of the current civil war, Zhutanol's distance from the frontline with the Xochira became another boon for the battle-weary crews of the Alpha ships.`
+	description `The first Naltok explorers on Xutajol characterised it as "minimally habitable" due to the relatively dry climate, and for centuries Xutajol was viewed as a hostile planet with little use beyond cultivation of the local drought-resistant flora as an emergency food reserve.`
+	description `This changed, however, when the Humans and Alphas arriving in Naltok space saw Xutajol as a perfect spot to settle down, and the planet now boasts a population of nearly a thousand non-Naltok residents. With the outbreak of the current civil war, Xutajol's distance from the frontline with the Xochira became another boon for the battle-weary crews of the Alpha ships.`
 	spaceport `The landing pads on this planet are connected by a convoluted system of miniature canals crossed over by walkways. Following the signposts along the canals would take you to the recently expanded old Naltok spaceport, with the excess moisture they favour in their dwellings. Following the walkways instead brings you to the new port, an odd mixture of Human and Naltok architecture which has been furnished first and foremost for the planet's Human and Alpha residents.`

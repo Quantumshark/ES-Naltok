@@ -186,7 +186,9 @@ ship "Flounder"
 	turret
 	turret
 	turret
-	description ``
+	bay "Drone"
+	bay "Drone"
+	description `The Flounder is a massive freighter used by the Naltok to carry huge quantities of supplies between planets. A popular joke among the Naltok is that all their ships are named for fish, but only the Flounder flies like one. The handling of the Flounder is so legendarily bad that the latest model has been designed to carry two Minnow drones, because waiting for the drones to ferry cargo up and down through the atmosphere is generally agreed to be a preferable alternative to attempting to land the Flounder in a spaceport.`
 
 ship "Archerfish"
 	sprite "ship/archerfish"

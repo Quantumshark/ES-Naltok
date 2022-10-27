@@ -561,7 +561,7 @@ ship "Lamprey"
 		category "Fighter"
 		"cost"
 		"shields" 300
-		"hull" 2400
+		"hull" 2200
 		"hull repair rate" .4
 		"hull energy" .2
 		"hull heat" .6
@@ -589,7 +589,7 @@ ship "Remora"
 		category "Fighter"
 		"cost"
 		"shields" 400
-		"hull" 1900
+		"hull" 2600
 		"hull repair rate" .5
 		"hull energy" .25
 		"hull heat" .75
@@ -598,13 +598,13 @@ ship "Remora"
 		"mass" 11
 		"drag" .76
 		"heat dissipation" .45
-		"outfit space" 127
+		"outfit space" 109
 		"weapon capacity" 28
 		"engine capacity" 27
 	outfits
 		"Breaker" 4
 		"Stream Shield Generator"
-		"Copepod Generator"
+		"Nauplius Cell"
 		"Agama Thruster"
 		"Agama Steering"
 		"Pond Battery"
@@ -613,7 +613,7 @@ ship "Remora"
 	gun "Breaker"
 	gun "Breaker"
 	gun "Breaker"
-	description `Unlike most fighters, the Remora is not designed for high speed but rather to cram as much firepower as possible into a single fighter bay. In order to fit all the necessary components, the designers had to make significant sacrifices in the armour, resulting in a ship of questionable utility`
+	description `Rather than chasing down enemy vessels at high speed, Remora fighters are intended to serve as a protective screen for a carrier, fighting alongside it instead of at a distance.`
 
 ship "Minnow"
 	sprite "ship/minnow"

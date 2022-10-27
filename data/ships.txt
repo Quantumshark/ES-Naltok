@@ -71,7 +71,7 @@ ship "Sturgeon"
 	sprite "ship/sturgeon"
 	thumbnail "thumbnail/sturgeon"
 	attributes
-		category "Transport"
+		category "Utility"
 		"cost" 14172000
 		"shields" 4800
 		"hull" 36100

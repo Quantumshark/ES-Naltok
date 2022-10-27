@@ -7,3 +7,40 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+shipyard "Naltok Basics"
+	"Anchovy"
+	"Herring"
+	"Minnow"
+
+shipyard "Naltok Intermediate"
+	"Anchovy"
+	"Mackerel"
+	"Herring"
+	"Conger"
+	"Piranha"
+	"Minnow"
+
+shipyard "Naltok Advanced"
+	"Anchovy"
+	"Mackerel"
+	"Herring"
+	"Conger"
+	"Flounder"
+	"Piranha"
+	"Barracuda"
+	"Moray"
+	"Pike"
+	"Minnow"
+
+shipyard "Xochira Basics"
+
+shipyard "Xochira Intermediate"
+	"Archerfish"
+
+shipyard "Xochira Advanced"
+	"Archerfish"
+
+shipyard "Telashki Basics"
+
+shipyard "Telashki Advanced"

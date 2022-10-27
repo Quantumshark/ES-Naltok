@@ -78,6 +78,16 @@ outfit "River Shield Generator"
 	"shield energy" .325
 	description "The larger shield generators produced by humanity are slightly more powerful than this shield generator, despite millenia of Naltok technological advances. However, no human shield generator even approaches this device's energy efficiency."
 
+outfit "Fuel Vat"
+	category "Systems"
+	cost 216300
+	thumbnail "outfit/naltok fuel vat"
+	"mass" 37
+	"outfit space" -37
+	"fuel generation" .05
+	"heat generation" 1.15
+	description "This large vat, developed by the Telashki as a counter to the Drainer frequently used by Xochira ships, is home to a culture of genetically engineered bacteria which slowly and continually produce small amounts of hyperspace fuel."
+
 outfit "Pond Battery"
 	category "Power"
 	cost 3130

@@ -1327,7 +1327,7 @@ system 0000X
 		distance 614.858
 		period 259.268
 	object "Ngathego"
-		sprite planet/desert4
+		sprite planet/forest4
 		distance 839.668
 		period 413.76
 	object

@@ -226,7 +226,7 @@ outfit "Halt-Swarm Rack"
 	
 outfit "Shrapnel Torpedo Launcher"
 	category "Secondary Weapons"
-	cost 343700
+	cost 413700
 	thumbnail "outfit/shrapnel torpedo launcher"
 	"mass" 17
 	"outfit space" -39
@@ -261,7 +261,7 @@ outfit "Shrapnel Torpedo Launcher"
 
 outfit "Shrapnel Torpedo Pod"
 	category "Secondary Weapons"
-	cost 343700
+	cost 143700
 	thumbnail "outfit/shrapnel torpedo pod"
 	"mass" 3
 	"outfit space" -7

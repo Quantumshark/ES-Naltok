@@ -1478,6 +1478,7 @@ system 0000Z
 system Kuragu
 	pos -1158 -358
 	government Quarg
+	attributes "ringworld"
 	habitable 700
 	link 0000U
 	link 0000Z
@@ -1508,13 +1509,13 @@ system Kuragu
 		distance 812
 		period 349.820
 		offset -20
-	object
+	object "Kuragu Xochet"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
 		period 349.820
 		offset -40
-	object
+	object "Kuragu Xochet"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
@@ -1528,6 +1529,18 @@ system Kuragu
 		offset -80
 	object
 		sprite "planet/ringworld right"
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 20
+	object "Kuragu Xochet"
+		sprite "planet/ringworld"
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 40
+	object "Kuragu Xochet"
+		sprite "planet/ringworld"
 			scale 0.5
 		distance 812
 		period 349.820
@@ -1557,17 +1570,11 @@ system Kuragu
 		period 349.820
 		offset 200
 	object
-		sprite planet/ringworld
-			scale 0.5
-		distance 812
-		period 349.820
-		offset 220
-	object
 		sprite "planet/ringworld left"
 			scale 0.5
 		distance 812
 		period 349.820
-		offset 240
+		offset 220
 
 planet Kolxacha
 	attributes naltok telashki military
@@ -1576,7 +1583,15 @@ planet Kolxacha
 	spaceport `The sheer number of warships here is disturbing. While this part of the spaceport is primarily for incoming shipments of materials, you were able to see the enormous defensive fleet stationed on this planet as you flew in to land. Enormous numbers of warships are stationed here, all ready to take off and engage an enemy at the first sign of danger.`
 	"required reputation" 10
 
-planet Ngakego	
+planet "Kuragu Xochet"
+	attributes quarg station
+	landscape land/station33
+	description `This Quarg ringworld is roughly half complete, the result of more than five millenia of work. Construction here began at around the same time as work began on the Great Pyramids of Egypt back on Earth, and continued throughout the rise and fall of Babylon, Greece, Rome and countless other human civilisations - a testament to the stability and persistence of the Quarg and their society.`
+	description `Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation. The scale of the work being carried out here is far beyond anything humanity has ever attempted.`
+	spaceport `The spaceport is bustling with activity, but almost all of it is directly connected to the construction work here. Whole areas are almost unused, but still staffed, while passing through a single door or even walking across a room often leaves you in the middle of a dense crowd of Quarg, many of them Skylark crew and captains looking for their next cargo assignment.`
+	spaceport `The few Naltok who have decided to spend time here despite the absence of the pools of cold water favoured in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than you have to.`
+
+planet Ngakego
 	attributes naltok telashki urban factory
 	landscape land/city7
 	description `Ngakego is by far the largest shipyard in Telashki space, as well as being one of the more populous planets. The warships assembled here mostly go on to join the defenses on Kolzathna, while many of the freighters built here are back within days carrying fresh components.`

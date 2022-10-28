@@ -263,7 +263,7 @@ ship "Piranha"
 	gun "Shrapnel Torpedo Launcher"
 	gun
 	turret "Triple Breaker Turret"
-	description ``
+	description `The Piranha is a well-rounded light warship, possibly the oldest Naltok warship design in service. Allegedly, the Piranha has been operated with more combinations of equipment than any other Naltok ship, from long-range missile support ships to tough close-combat brawlers with several shield generators.`
 
 ship "Barracuda"
 	sprite "ship/barracuda"

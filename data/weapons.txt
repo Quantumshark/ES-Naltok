@@ -312,7 +312,7 @@ outfit "Shrapnel Torpedo Tube"
 	"mass" 4
 	"outfit space" -12
 	"shrapnel torpedo capacity" 4
-	ammo "Halt-Swarm Missile"
+	ammo "Shrapnel Torpedo"
 	description "The Shrapnel Torpedo Tube is used to store extra ammunition for Shrapnel Torpedo Launchers."
 
 outfit "Torpedo Shrapnel"

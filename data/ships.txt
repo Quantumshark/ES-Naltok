@@ -247,13 +247,22 @@ ship "Piranha"
 		"weapon capacity" 113
 		"engine capacity" 104
 	outfits
+		"Shrapnel Torpedo Launcher" 2
+		"Shrapnel Torpedo Tube" 3
+		"Shrapnel Torpedo" 34
+		"Triple Breaker Turret"
+		"Copepod Generator"
+		"Pond Battery"
+		"River Shield Generator"
 
+		"Gecko Steering"
+		"Gecko Thruster"
 		"Hyperdrive"
 
+	gun "Shrapnel Torpedo Launcher"
+	gun "Shrapnel Torpedo Launcher"
 	gun
-	gun
-	gun
-	turret
+	turret "Triple Breaker Turret"
 	description ``
 
 ship "Barracuda"

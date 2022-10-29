@@ -694,7 +694,7 @@ system Ngotesh
 		distance 3199.84
 		period 843.214
 
-system 0000N
+system Keloxen
 	pos -942 -314
 	government "Telashki"
 	habitable 486.68
@@ -742,13 +742,13 @@ system 0000N
 		distance 1985.7
 		period 1604.39
 
-system 0000O
+system Tolonek
 	pos -1005 -298
 	government "Telashki"
 	habitable 320
 	link 0000S
 	link 0000P
-	link 0000O2
+	link Keloteg
 	asteroids "small rock" 32 4.9324
 	asteroids "medium rock" 114 5.1414
 	asteroids "large rock" 34 5.7266
@@ -793,11 +793,11 @@ system 0000O
 		distance 2320.48
 		period 2499.49
 
-system 0000O2
+system Keloteg
 	pos -964 -258
 	government "Telashki"
 	habitable 446.68
-	link 0000O
+	link Tolonek
 	asteroids "small rock" 10 2.142
 	asteroids "medium rock" 78 1.932
 	asteroids "large rock" 32 1.449
@@ -850,9 +850,9 @@ system 0000P
 	pos -1074 -317
 	government "Telashki"
 	habitable 203.28
-	link 0000X
+	link Golonex
 	link 0000P2
-	link 0000O
+	link Tolonek
 	asteroids "small rock" 1 4.9518
 	asteroids "medium rock" 9 5.4054
 	asteroids "large rock" 1 1.9278
@@ -953,7 +953,7 @@ system 0000Q
 	pos -929 -362
 	government "Telashki"
 	habitable 486.68
-	link 0000N
+	link Keloxen
 	link 0000R
 	link 0000S
 	asteroids "small rock" 1 3.7752
@@ -1077,8 +1077,8 @@ system 0000S
 	pos -992 -377
 	government "Telashki"
 	habitable 320
-	link 0000O
-	link 0000X
+	link Tolonek
+	link Golonex
 	link 0000Q
 	link 0000R
 	asteroids "small rock" 26 2.002
@@ -1186,7 +1186,7 @@ system 0000U
 	government "Telashki"
 	habitable 880
 	link Kuragu
-	link 0000X
+	link Golonex
 	asteroids "large metal" 1 5.148
 	trade Clothing 290
 	trade Electronics 740
@@ -1226,11 +1226,11 @@ system 0000U
 		distance 2314.34
 		period 1355.15
 
-system 0000V
+system Lekonet
 	pos -1129 -462
 	government "Telashki"
 	habitable 200
-	link 0000Y
+	link Nixelog
 	asteroids "small rock" 13 5.6848
 	asteroids "medium rock" 26 4.9324
 	asteroids "large rock" 4 2.6334
@@ -1287,7 +1287,7 @@ system 0000V
 			distance 457
 			period 48.6751
 
-system 0000X
+system Golonex
 	pos -1054 -365
 	government "Telashki"
 	habitable 813.28
@@ -1355,12 +1355,12 @@ system 0000X
 			distance 441
 			period 48.7478
 
-system 0000Y
+system Nixelog
 	pos -1162 -407
 	government "Telashki"
 	habitable 1050.92
-	link 0000Z
-	link 0000V
+	link Norelin
+	link Lekonet
 	link Kuragu
 	asteroids "small rock" 8 9.1476
 	asteroids "medium rock" 13 5.67
@@ -1420,12 +1420,12 @@ system 0000Y
 			distance 537
 			period 49.7367
 
-system 0000Z
+system Norelin
 	pos -1205 -388
 	government "Telashki"
 	habitable 851.84
 	link Kuragu
-	link 0000Y
+	link Nixelog
 	asteroids "large metal" 1 1.386
 	trade Clothing 290
 	trade Electronics 740
@@ -1481,8 +1481,8 @@ system Kuragu
 	attributes "ringworld"
 	habitable 700
 	link 0000U
-	link 0000Z
-	link 0000Y
+	link Norelin
+	link Nixelog
 	asteroids "small rock" 15 7.0224
 	asteroids "small metal" 11 8.5008
 	trade Clothing 290

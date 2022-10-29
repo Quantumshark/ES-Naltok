@@ -1,9 +1,9 @@
 
-system 0000A
+system Tekochi
 	pos -772 -185
 	government "Xochira"
 	habitable 1401.68
-	link 0000B
+	link Ligoxel
 	asteroids "small rock" 9 5.52
 	asteroids "medium rock" 124 4.12
 	asteroids "large rock" 35 5.2
@@ -54,13 +54,13 @@ system 0000A
 			distance 372
 			period 30.654
 
-system 0000B
+system Ligoxel
 	pos -832 -163
 	government "Xochira"
 	habitable 425
-	link 0000C
-	link 0000A
-	link 0000D
+	link Ngotesh
+	link Tekochi
+	link Choxera
 	link 0000G
 	asteroids "small rock" 15 1.7238
 	asteroids "medium rock" 6 1.6796
@@ -112,11 +112,11 @@ system 0000B
 			distance 363
 			period 20.2683
 
-system 0000C
+system Ngotesh
 	pos -804 -94
 	government "Xochira"
 	habitable 425.92
-	link 0000B
+	link Ligoxel
 	asteroids "small rock" 4 2.6
 	asteroids "medium rock" 122 1.7472
 	asteroids "large rock" 8 2.7456
@@ -172,12 +172,12 @@ system 0000C
 			distance 430
 			period 22.7755
 
-system 0000D
+system Choxera
 	pos -895 -111
 	government "Xochira"
 	habitable 3940
-	link 0000B
-	link 0000E
+	link Ligoxel
+	link "Xeko Naltok"
 	link 0000M
 	asteroids "small rock" 1 2.4024
 	asteroids "medium rock" 9 2.5168
@@ -227,12 +227,12 @@ system 0000D
 		distance 3418.38
 		period 860.07
 
-system 0000E
+system "Xeko Naltok"
 	pos -936 -165
 	government "Xochira"
 	habitable 486.68
-	link 0000D
-	link 0000F
+	link Choxera
+	link Xangoret
 	link 0000G
 	link 0000H
 	asteroids "small rock" 20 7.5072
@@ -270,11 +270,11 @@ system 0000E
 		distance 1881.75
 		period 1480.07
 
-system 0000F
+system Xangoret
 	pos -1008 -134
 	government "Xochira"
 	habitable 1466.68
-	link 0000E
+	link "Xeko Naltok"
 	link 0000H
 	asteroids "small rock" 4 3.7296
 	asteroids "medium rock" 23 6.3
@@ -342,8 +342,8 @@ system 0000G
 	pos -889 -192
 	government "Xochira"
 	habitable 851.84
-	link 0000B
-	link 0000E
+	link Ligoxel
+	link "Xeko Naltok"
 	asteroids "small rock" 7 4.03
 	asteroids "medium rock" 32 5.785
 	asteroids "large rock" 3 3.705
@@ -407,8 +407,8 @@ system 0000H
 	government "Xochira"
 	habitable 305
 	link 0000I
-	link 0000F
-	link 0000E
+	link Xangoret
+	link "Xeko Naltok"
 	asteroids "medium rock" 23 5.7512
 	asteroids "large rock" 1 6.1152
 	asteroids "small metal" 1 6.6976
@@ -640,7 +640,7 @@ system 0000M
 	pos -944 -83
 	government "Xochira"
 	habitable 500
-	link 0000D
+	link Choxera
 	asteroids "small rock" 3 4.1055
 	asteroids "medium rock" 7 3.9675
 	asteroids "large rock" 13 3.795

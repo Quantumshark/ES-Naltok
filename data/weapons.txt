@@ -34,7 +34,7 @@ outfit "Breaker"
 outfit "Breaker Turret"
 	category "Turrets"
 	cost 103700
-	thumbnail "outfit/breaker"
+	thumbnail "outfit/breaker turret"
 	"mass" 11
 	"outfit space" -11
 	"weapon capacity" -11
@@ -60,7 +60,7 @@ outfit "Breaker Turret"
 outfit "Triple Breaker Turret"
 	category "Turrets"
 	cost 247300
-	thumbnail "outfit/breaker"
+	thumbnail "outfit/triple breaker turret"
 	"mass" 29
 	"outfit space" -29
 	"weapon capacity" -29

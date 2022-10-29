@@ -119,7 +119,7 @@ outfit "Drainer"
 		"cluster"
 		sprite "projectile/drainer"
 		sound "drainer"
-		"hit effect" "drainer impact"
+		"hit effect" "drainer hit"
 		"inaccuracy" .1
 		"velocity" 320
 		"lifetime" 1
@@ -132,6 +132,17 @@ outfit "Drainer"
 		"hull damage" 7.9
 		"fuel damage" 3.3
 	description "The Drainer is the first weapon developed by the Xochira since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
+
+
+effect "drainer hit"
+	sprite "effect/drainer hit"
+		"no repeat"
+		"frame rate" 20
+	"lifetime" 15
+	"random angle" 20
+	"velocity" -20
+	"velocity scale" -.01
+
 
 outfit "Halt-Swarm Launcher"
 	category "Secondary Weapons"

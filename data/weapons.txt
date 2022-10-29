@@ -317,11 +317,13 @@ outfit "Shrapnel Torpedo Tube"
 
 outfit "Torpedo Shrapnel"
 	weapon
-		sprite "projectile/torpedo shrapnel"
-		"hit effect" "small explosion"
+		sprite "projectile/heaver shard"
+		"hit effect" "heaver shard hit"
 		"inaccuracy" 25
 		"velocity" 8
 		"random velocity" 25
+		"lifetime" 20
+		"random lifetime" 20
 		"missile strength" 2
 		"shield damage" 75
 		"hull damage" 155

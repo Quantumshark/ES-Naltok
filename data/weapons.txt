@@ -138,7 +138,7 @@ effect "drainer hit"
 	sprite "effect/drainer hit"
 		"no repeat"
 		"frame rate" 20
-	"lifetime" 15
+	"lifetime" 9
 	"random angle" 20
 	"velocity" -20
 	"velocity scale" -.01

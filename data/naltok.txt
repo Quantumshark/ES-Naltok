@@ -145,4 +145,10 @@ outfitter "Xochira Advanced"
 	"Halt-Swarm Launcher"
 	"Halt-Swarm Pod"
 	"Drainer"
+
+outfitter "Telashki Intermediate"
+	"Fuel Vat"
 	
+outfitter "Telashki Advanced"
+	"Fuel Vat"
+		

@@ -1599,6 +1599,7 @@ planet Ngakego
 	spaceport `The spaceport here, like many Naltok buildings, is filled with about a foot of lukewarm water. For the Naltok this is essential, in order to prevent their skin from drying out in the air, but for humans and any other visitors this is inconvenient and highly unpleasant. Unlike many other Naltok buildings however, this building has "Visitor paths" which are almost entirely dry, allowing humans and alphas to traverse most of the spaceport in comfort.`
 	shipyard "Naltok Advanced"
 	outfitter "Naltok Advanced"
+	outfitter "Telashki Advanced"
 
 planet Ruxanguv
 	attributes naltok xochira military

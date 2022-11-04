@@ -252,7 +252,7 @@ outfit "Shrapnel Torpedo Launcher"
 		ammo "Shrapnel Torpedo"
 		icon "icon/shrapneltorpedo"
 		"submunition" "Torpedo Shrapnel" 15
-		"split range" 300
+		"split range" 200
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
@@ -287,7 +287,7 @@ outfit "Shrapnel Torpedo Pod"
 		ammo "Shrapnel Torpedo"
 		icon "icon/shrapneltorpedo"
 		"submunition" "Torpedo Shrapnel" 15
-		"split range" 300
+		"split range" 200
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
@@ -330,7 +330,7 @@ outfit "Torpedo Shrapnel"
 	weapon
 		sprite "projectile/heaver shard"
 		"hit effect" "heaver shard hit"
-		"inaccuracy" 25
+		"inaccuracy" 22
 		"velocity" 8
 		"random velocity" 25
 		"lifetime" 20

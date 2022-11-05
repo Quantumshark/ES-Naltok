@@ -819,7 +819,7 @@ system Keloteg
 		period 10
 	object
 		sprite planet/desert2
-		distance 320.153
+		distance 420.153
 		period 108.417
 		offset 284.791
 		object
@@ -828,7 +828,7 @@ system Keloteg
 			period 19.1527
 	object
 		sprite planet/rock6
-		distance 669.963
+		distance 769.963
 		period 328.2
 		offset 234.146
 	object
@@ -838,11 +838,11 @@ system Keloteg
 		offset 225.249
 	object
 		sprite planet/gas2
-		distance 1788.16
+		distance 1608.16
 		period 1431.1
 		offset 3.20641
-		object
-			sprite planet/rock14
+		object Kevoshek
+			sprite planet/dust0
 			distance 203
 			period 17.525
 
@@ -1570,6 +1570,13 @@ system Kuragu
 		period 349.820
 		offset 220
 
+planet Kevoshek
+	attributes naltok telashki mining
+	landscape land/snow13
+	description `Based on its position, this tiny moon should be no more than an uninhabitable ball of ice and rock. Instead, its surface is warmed to only a few degrees below freezing by the decay of the abnormally high portion of radioisotopes present in its crust.`
+	description `As such, while the lack of sunlight makes Kevoshek unsuited for large-scale colonisation, it is home to massive automatic mining facilities harvesting material for use in the Naltok reactors and radioisotopic generators.`
+	spaceport `The spaceport here, like the mining operations, is entirely automatic - the high radiation makes long-term habitation unsafe. Mechanical attendants and computer terminals greet you and the Naltok freight captains looking for well-paid transport jobs to other planets.`
+
 planet Kolxacha
 	attributes naltok telashki military
 	landscape land/beach0
@@ -1582,9 +1589,9 @@ planet "Kuragu Xochet"
 	attributes quarg station
 	landscape land/station33
 	description `This Quarg ringworld is roughly half complete, the result of more than five millenia of work. Construction here began at around the same time as work began on the Great Pyramids of Egypt back on Earth, and continued throughout the rise and fall of Babylon, Greece, Rome and countless other human civilisations - a testament to the stability and persistence of the Quarg and their society.`
-	description `Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation. The scale of the work being carried out here is far beyond anything humanity has ever attempted.`
+	description `Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation.`
 	spaceport `The spaceport is bustling with activity, but almost all of it is directly connected to the construction work here. Whole areas are almost unused, but still staffed, while passing through a single door or even walking across a room often leaves you in the middle of a dense crowd of Quarg, many of them Skylark crew and captains looking for their next cargo assignment.`
-	spaceport `The few Naltok who have decided to spend time here despite the absence of the pools of water favoured in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than you have to.`
+	spaceport `The few Naltok who have decided to spend some time here despite the absence of the pools of water favoured in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than you have to.`
 
 planet Ngakego
 	attributes naltok telashki urban factory

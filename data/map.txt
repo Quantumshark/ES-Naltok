@@ -261,7 +261,7 @@ system "Xeko Naltok"
 		sprite planet/forest1-b
 		distance 502.09
 		period 221.628
-	object
+	object Shajoli
 		sprite planet/ice8
 		distance 724.34
 		period 429.139
@@ -1610,6 +1610,11 @@ planet Ruxanguv
 	"required reputation" 50
 	outfitter "Naltok Ammo"
 	outfitter "Xochira Ammo"
+
+planet Shajoli
+	attributes naltok xochira
+	landscape land/lava0
+	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic and have since resisted millenia of cleanup attempts.`
 
 planet Tokraget
 	attributes naltok xochira urban

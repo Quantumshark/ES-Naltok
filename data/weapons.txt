@@ -340,7 +340,24 @@ outfit "Torpedo Shrapnel"
 		"hull damage" 155
 		"hit force" 35
 		
-	
+outfit "Star-Worm Launcher"
+	category "Secondary Weapons"
+	cost
+	thumbnail "outfit/star-worm launcher"
+	"mass" 17
+	"outfit space" -39
+	"weapon capacity" -39
+	"gun ports" -1
+	"shrapnel torpedo capacity" 11
+
+	description "Star-Worms are naturally-occuring creatures, visible under a light microscope, which survive by harvesting electrical energy from charged dust particles in the Norelin system. While the wild Star-Worms are little more than an amusement for a starship captain (though they can sometimes cause problems when brought back to a planet), the Telashki have recently created this bioengineered strain that instead harvests energy from a ship's shields."
+
+outfit "Star-Worm Pod"
+
+outfit "Star-Worm Capsule"
+
+outfit "Star-Worm Rack"
+
 outfit "Naltok Anti-Missile"
 	category "Turrets"
 	cost 317000

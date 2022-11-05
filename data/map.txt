@@ -1612,9 +1612,10 @@ planet Ruxanguv
 	outfitter "Xochira Ammo"
 
 planet Shajoli
-	attributes naltok xochira
+	attributes naltok
 	landscape land/lava0
-	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic and have since resisted millenia of cleanup attempts.`
+	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic, and have since resisted millenia of cleanup attempts.`
+	government Uninhabited
 
 planet Tokraget
 	attributes naltok xochira urban

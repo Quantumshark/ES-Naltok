@@ -1423,7 +1423,7 @@ system Nixelog
 system Norelin
 	pos -1205 -388
 	government "Telashki"
-	habitable 851.84
+	habitable 625
 	link Kuragu
 	link Nixelog
 	asteroids "large metal" 1 1.386
@@ -1438,14 +1438,8 @@ system Norelin
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/k5
-		distance 52.5
-		period 14.7457
-		offset 180
-	object
-		sprite star/k5
-		distance 52.5
-		period 14.7457
+		sprite star/wr
+		period 10
 	object
 		sprite planet/cloud7
 		distance 204.74

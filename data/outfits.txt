@@ -97,6 +97,17 @@ outfit "Pond Battery"
 	"energy capacity" 5343 
 	description "Naltok batteries are bulky and not particularly effective. The best that can be said about them is that the Naltok, evidently realising this, make them available at a very low price."
 
+outfit "Short-Burst Cloak"
+	category "Systems"
+	cost 1736000
+	thumbnail "outfit/naltok cloaking"
+	"mass" 37
+	"outfit space" -37
+	"cloak" .1
+	"cloaking energy" 45.5
+	description `This is Kachathi's greatest creation, a device that allows the ship carrying it to dissapear completely from all sensors - optical, infrared and radar detection will all observe nothing more than an empty region of space.`
+	description `Few, if any, ships (and certainly none built by the Naltok) can support its energy requirements for any length of time, but the Telashki have nonetheless been taking advantage of these devices to sneak their Alpha allies past the Xochira.`
+
 outfit "Agama Thruster"
 	category "Engines"
 	"cost" 97200

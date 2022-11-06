@@ -339,22 +339,96 @@ outfit "Torpedo Shrapnel"
 		"shield damage" 75
 		"hull damage" 155
 		"hit force" 35
-		
+
+effect "star-worm"
+	sprite "effect/static"
+		"no repeat"
+		"frame rate" 15
+	"lifetime" 30
+	"random angle" 360
+	"random spin" 10
+	"random velocity" 1
+	"velocity scale" 0
+
+effect "star-worm fragment"
+	sprite "effect/corrosion spark"
+		"no repeat"
+		"frame rate" 15
+	"lifetime" 60
+	"random angle" 120
+	"random spin" 5
+	"random velocity" -2
+	"velocity scale" 0
+	
 outfit "Star-Worm Launcher"
 	category "Secondary Weapons"
 	cost
 	thumbnail "outfit/star-worm launcher"
-	"mass" 17
-	"outfit space" -39
-	"weapon capacity" -39
+	"mass" 13
+	"outfit space" -53
+	"weapon capacity" -53
 	"gun ports" -1
-	"shrapnel torpedo capacity" 11
-
+	"star-worm capacity" 8
+	weapon
+		sprite "projectile/torpedo"
+			"frame rate" 2
+			"random start frame"
+		sound "torpedo"
+		ammo "Star-Worm Capsule"
+		icon "icon/starworm"
+		"die effect" "star-worm" 5
+		"die effect" "star-worm fragment" 3
+		"hit effect" "star-worm" 5
+		"hit effect" "star-worm fragment" 3
+		"velocity" 9
+		"lifetime" 100
+		"reload" 240
+		"firing energy" 20
+		"firing heat" 10
+		"discharge damage" 120
+		"trigger radius" 50
+		"blast radius" 150
+		"missile strength" 111
+				
 	description "Star-Worms are naturally-occuring creatures, visible under a light microscope, which survive by harvesting electrical energy from charged dust particles in the Norelin system. While the wild Star-Worms are little more than an amusement for a starship captain (though they can sometimes cause problems when brought back to a planet), the Telashki have recently created this bioengineered strain that instead harvests energy from a ship's shields."
 
 outfit "Star-Worm Pod"
+	category "Secondary Weapons"
+	cost
+	thumbnail "outfit/star-worm pod"
+	"mass" 7
+	"outfit space" -17
+	"weapon capacity" -17
+	"gun ports" -1
+	"star-worm capacity" 2
+	weapon
+		sprite "projectile/torpedo"
+			"frame rate" 2
+			"random start frame"
+		sound "torpedo"
+		ammo "Star-Worm Capsule"
+		icon "icon/starworm"
+		"velocity" 9
+		"lifetime" 100
+		"burst reload" 240
+		"reload" 480
+		"firing energy" 20
+		"firing heat" 10
+		"discharge damage" 120
+		"trigger radius" 50
+		"blast radius" 150
+		"missile strength" 111
+				
+	description "Star-Worms are naturally-occuring creatures, visible under a light microscope, which survive by harvesting electrical energy from charged dust particles in the Norelin system. While the wild Star-Worms are little more than an amusement for a starship captain (though they can sometimes cause problems when brought back to a planet), the Telashki have recently created this bioengineered strain that instead harvests energy from a ship's shields."
+	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
 
 outfit "Star-Worm Capsule"
+	category "Ammunition"
+	cost 17600
+	thumbnail "outfit/star-worm capsule"
+	"mass" 5
+	"star-worm capacity" -1
+	description "This is the delivery mechanism that carries the dreaded Star-Worms of the Telashki to their target."
 
 outfit "Star-Worm Rack"
 

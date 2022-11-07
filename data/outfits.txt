@@ -137,7 +137,7 @@ outfit "Anole Thruster"
 	"flare sprite" "effect/ion flare/small"
 		"frame rate" 1.1
 	"flare sound" "ion small"
-	description "The lead engineer who designed the latest model of these thrusters spent weeks searching for new ways to reduce their power consumption and minimise the loss of energy as heat. According to a popular story, she was only satisfied when the engines were no hotter to the touch during a test run than the stone floor of the warehouse they were being stored in."
+	description "The lead engineer who designed the latest model of these thrusters spent months searching for new ways to reduce their power consumption and minimise the loss of energy as heat. According to a popular story, she was only satisfied when the engines were no hotter to the touch during a test run than the stone floor of the warehouse they were being stored in."
 
 outfit "Gecko Thruster"
 	category "Engines"

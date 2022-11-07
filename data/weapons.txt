@@ -431,6 +431,15 @@ outfit "Star-Worm Capsule"
 	description "This is the delivery mechanism that carries the dreaded Star-Worms of the Telashki to their target."
 
 outfit "Star-Worm Rack"
+	category "Ammunition"
+	cost 17600
+	thumbnail "outfit/star-worm rack"
+	"outfit space" -13
+	"mass" 3
+	"star-worm capacity" 2
+	ammo "Star-Worm Capsule"
+	description "The Star-Worm Rack is used to store extra ammunition for Star-Worm Launchers."
+
 
 outfit "Naltok Anti-Missile"
 	category "Turrets"

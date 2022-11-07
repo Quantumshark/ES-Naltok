@@ -82,10 +82,11 @@ outfit "Fuel Vat"
 	category "Systems"
 	cost 216300
 	thumbnail "outfit/naltok fuel vat"
-	"mass" 37
-	"outfit space" -37
-	"fuel generation" .05
-	"heat generation" 1.15
+	"mass" 31
+	"outfit space" -31
+	"fuel generation" .075
+	"fuel capacity" 100
+	"heat generation" 1.25
 	description "This large vat, developed by the Telashki as a counter to the Drainer frequently used by Xochira ships, is home to a culture of genetically engineered bacteria which slowly and continually produce small amounts of hyperspace fuel."
 
 outfit "Pond Battery"

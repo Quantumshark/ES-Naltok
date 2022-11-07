@@ -154,7 +154,7 @@ outfit "Halt-Swarm Launcher"
 	"gun ports" -1
 	"halt-swarm capacity" 32
 	weapon
-		sprite "projectile/haltswarm"
+		sprite "projectile/meteor"
 		sound "meteor"
 		ammo "Halt-Swarm Missile"
 		icon "icon/haltswarm"

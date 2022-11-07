@@ -14,7 +14,7 @@ outfit "Nauplius Cell"
 	thumbnail "outfit/naltok cell"
 	"mass" 14
 	"outfit space" -14
-	"energy generation" 1.05
+	"energy generation" .95
 	"heat generation" .55
 	description "This tiny fuel cell would struggle to power all but the smallest human outfits, but is often adequate for the highly efficient Naltok equipment in their smaller ships."
 

@@ -215,26 +215,34 @@ ship "Tetra"
 		"hull heat" 1.05
 		"required crew" 1
 		"bunks" 3
-		"mass" 184
+		"mass" 116
 		"drag" 1.8
 		"heat dissipation" .41
 		"fuel capacity" 500
 		"cargo space" 19
-		"outfit space" 197
+		"outfit space" 217
 		"weapon capacity" 62
 		"engine capacity" 79
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Breaker"
+		"Shrapnel Torpedo Pod" 4
+		"Shrapnel Torpedo" 8
+
+		"Copepod Generator"
+		"Pond Battery"
+		"Stream Shield Generator"
+
 		"Gecko Steering"
 		"Gecko Thruster"
 		"Hyperdrive"
 
-	gun
-	gun
-	gun
-	gun
-	gun
+	gun "Breaker"
+	gun "Shrapnel Torpedo Pod"
+	gun "Shrapnel Torpedo Pod"
+	gun "Shrapnel Torpedo Pod"
+	gun "Shrapnel Torpedo Pod"
 	description ``
 
 ship "Archerfish"

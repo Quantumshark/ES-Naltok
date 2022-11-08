@@ -293,8 +293,8 @@ ship "Piranha"
 		"hull repair rate" 1.6
 		"hull energy" .8
 		"hull heat" 2.4
-		"required crew" 6
-		"bunks" 9
+		"required crew" 5
+		"bunks" 11
 		"mass" 311
 		"drag" 3.8
 		"heat dissipation" .38

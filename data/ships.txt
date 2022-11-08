@@ -29,6 +29,8 @@ ship "Anchovy"
 		"outfit space" 110
 		"weapon capacity" 16
 		"engine capacity" 53
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Nauplius Cell"
 		"Pond Battery"
@@ -61,6 +63,8 @@ ship "Mackerel"
 		"outfit space" 210
 		"weapon capacity" 79
 		"engine capacity" 93
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 	gun
@@ -88,6 +92,8 @@ ship "Sturgeon"
 		"outfit space" 713
 		"weapon capacity" 279
 		"engine capacity" 193
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 	gun
@@ -119,6 +125,8 @@ ship "Herring"
 		"outfit space" 124
 		"weapon capacity" 31
 		"engine capacity" 45
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Nauplius Cell"
 		"Pond Battery"
@@ -151,6 +159,8 @@ ship "Conger"
 		"outfit space" 264
 		"weapon capacity" 58
 		"engine capacity" 105
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 	gun
@@ -178,6 +188,8 @@ ship "Flounder"
 		"outfit space" 681
 		"weapon capacity" 173
 		"engine capacity" 113
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Hyperdrive"
 
@@ -211,6 +223,8 @@ ship "Tetra"
 		"outfit space" 197
 		"weapon capacity" 62
 		"engine capacity" 79
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Gecko Steering"
 		"Gecko Thruster"
@@ -244,6 +258,8 @@ ship "Archerfish"
 		"outfit space" 311
 		"weapon capacity" 82
 		"engine capacity" 91
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Drainer" 2
 		"Krill Generator"
@@ -279,6 +295,8 @@ ship "Piranha"
 		"outfit space" 353
 		"weapon capacity" 113
 		"engine capacity" 104
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Shrapnel Torpedo Launcher" 2
 		"Shrapnel Torpedo Tube" 3
@@ -319,6 +337,8 @@ ship "Barracuda"
 		"outfit space" 403
 		"weapon capacity" 196
 		"engine capacity" 117
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Breaker" 2
 		"Shrapnel Torpedo Launcher" 4
@@ -387,6 +407,8 @@ ship "Albacore"
 		"outfit space" 398
 		"weapon capacity" 145
 		"engine capacity" 121
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 		"Hyperdrive"
@@ -423,6 +445,8 @@ ship "Moray"
 		"outfit space" 506
 		"weapon capacity" 232
 		"engine capacity" 133
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 		"Hyperdrive"
@@ -457,6 +481,8 @@ ship "Pike"
 		"outfit space" 806
 		"weapon capacity" 328
 		"engine capacity" 204
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 		"Hyperdrive"
@@ -493,6 +519,8 @@ ship "Hammerhead"
 		"outfit space" 748
 		"weapon capacity" 294
 		"engine capacity" 186
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 		"Hyperdrive"
@@ -538,6 +566,8 @@ ship "Kaluga"
 		"outfit space" 853
 		"weapon capacity" 403
 		"engine capacity" 178
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 		"Hyperdrive"
@@ -575,6 +605,8 @@ ship "Coelacanth"
 		"outfit space" 1104
 		"weapon capacity" 503
 		"engine capacity" 238
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 
 		"Hyperdrive"
@@ -615,6 +647,8 @@ ship "Lamprey"
 		"outfit space" 116
 		"weapon capacity" 41
 		"engine capacity" 37
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Drainer"
 		"Nauplius Cell"
@@ -643,6 +677,8 @@ ship "Remora"
 		"outfit space" 109
 		"weapon capacity" 28
 		"engine capacity" 27
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Breaker" 4
 		"Stream Shield Generator"
@@ -675,6 +711,8 @@ ship "Minnow"
 		"weapon capacity" 14
 		"engine capacity" 25
 		"energy capacity" 300
+		"heat protection" 3
+		"burn protection" 1
 	outfits
 		"Breaker" 2
 		"Nauplius Cell"

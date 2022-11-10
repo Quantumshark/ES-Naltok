@@ -475,7 +475,7 @@ ship "Pike"
 		category "Heavy Warship"
 		"cost"
 		"shields" 6300
-		"hull" 50300
+		"hull" 46300
 		"hull repair rate" 3.1
 		"hull energy" 1.55
 		"hull heat" 4.65
@@ -513,7 +513,7 @@ ship "Hammerhead"
 		category "Heavy Warship"
 		"cost"
 		"shields" 6100
-		"hull" 43600
+		"hull" 39600
 		"hull repair rate" 2.9
 		"hull energy" 1.45
 		"hull heat" 4.35
@@ -560,7 +560,7 @@ ship "Kaluga"
 		category "Heavy Warship"
 		"cost"
 		"shields" 8600
-		"hull" 54800
+		"hull" 50800
 		"hull repair rate" 3.6
 		"hull energy" 1.8
 		"hull heat" 5.4

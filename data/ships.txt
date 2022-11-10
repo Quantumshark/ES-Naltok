@@ -330,8 +330,8 @@ ship "Barracuda"
 	attributes
 		category "Medium Warship"
 		"cost" 4742000
-		"shields" 4300
-		"hull" 14300
+		"shields" 4100
+		"hull" 15300
 		"hull repair rate" 2.2
 		"hull energy" 1.1
 		"hull heat" 3.3
@@ -400,8 +400,8 @@ ship "Albacore"
 	attributes
 		category "Medium Warship"
 		"cost"
-		"shields" 4700
-		"hull" 15600
+		"shields" 4400
+		"hull" 16600
 		"hull repair rate" 2.1
 		"hull energy" 1.05
 		"hull heat" 3.15

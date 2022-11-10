@@ -504,7 +504,7 @@ ship "Pike"
 	turret
 	bay "Drone"
 	bay "Drone"
-	description ``
+	description `The Pike is a highly versatile heavy warship, an old Naltok design which has remained popular for centuries. Featuring high mobility, impressive toughness and adequate space for passengers and cargo, the Pike's only real weakness is its relatively small number of weapon hardpoints.`
 
 ship "Hammerhead"
 	sprite "ship/hammerhead"

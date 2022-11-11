@@ -541,6 +541,7 @@ system Norelon
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	hazard "Star-Worms" 100
 	object
 		sprite star/wr
 		period 10

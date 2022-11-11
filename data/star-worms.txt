@@ -12,7 +12,7 @@ hazard "Star-Worms"
 	"duration" 1 200
 	"strength" 0.5 1.5
 	"system-wide"
-	"environmental effect" "star-worm hazard" 4
+	"environmental effect" "star-worm hazard" 10
 	weapon
 		"shield damage" .2
 

@@ -19,8 +19,8 @@ hazard "Star-Worms"
 effect "star-worm hazard"
 	sprite "effect/static"
 		"no repeat"
-		"frame rate" 30
-	"lifetime" 13
+		"frame rate" 20
+	"lifetime" 19
 	"random angle" 360
 	"random spin" 10
 	"random velocity" 1

@@ -243,7 +243,7 @@ ship "Tetra"
 	gun "Shrapnel Torpedo Pod"
 	gun "Shrapnel Torpedo Pod"
 	gun "Shrapnel Torpedo Pod"
-	description ``
+	description `The Tetra is a versatile small ship built by the Telashki, which was originally intended as an inexpensive counter to the Archerfish, but was since shown to be quite effective when armed with shrapnel torpedoes and used in small squadrons against much larger ships.`
 
 ship "Archerfish"
 	sprite "ship/archerfish"
@@ -330,8 +330,8 @@ ship "Barracuda"
 	attributes
 		category "Medium Warship"
 		"cost" 4742000
-		"shields" 4300
-		"hull" 14300
+		"shields" 4100
+		"hull" 15300
 		"hull repair rate" 2.2
 		"hull energy" 1.1
 		"hull heat" 3.3
@@ -400,8 +400,8 @@ ship "Albacore"
 	attributes
 		category "Medium Warship"
 		"cost"
-		"shields" 4700
-		"hull" 15600
+		"shields" 4400
+		"hull" 16600
 		"hull repair rate" 2.1
 		"hull energy" 1.05
 		"hull heat" 3.15
@@ -438,8 +438,8 @@ ship "Moray"
 	attributes
 		category "Medium Warship"
 		"cost"
-		"shields" 5200
-		"hull" 18100
+		"shields" 5600
+		"hull" 23100
 		"hull repair rate" 2.8
 		"hull energy" 1.4
 		"hull heat" 4.2
@@ -450,7 +450,7 @@ ship "Moray"
 		"heat dissipation" .26
 		"fuel capacity" 400
 		"cargo space" 17
-		"outfit space" 506
+		"outfit space" 509
 		"weapon capacity" 232
 		"engine capacity" 133
 		"heat protection" 3
@@ -475,7 +475,7 @@ ship "Pike"
 		category "Heavy Warship"
 		"cost"
 		"shields" 6300
-		"hull" 50300
+		"hull" 46300
 		"hull repair rate" 3.1
 		"hull energy" 1.55
 		"hull heat" 4.65
@@ -504,7 +504,7 @@ ship "Pike"
 	turret
 	bay "Drone"
 	bay "Drone"
-	description ``
+	description `The Pike is a highly versatile heavy warship, an old Naltok design which has remained popular for centuries. Featuring high mobility, impressive toughness and adequate space for passengers and cargo, the Pike's only real weakness is its relatively small number of weapon hardpoints.`
 
 ship "Hammerhead"
 	sprite "ship/hammerhead"
@@ -513,7 +513,7 @@ ship "Hammerhead"
 		category "Heavy Warship"
 		"cost"
 		"shields" 6100
-		"hull" 43600
+		"hull" 39600
 		"hull repair rate" 2.9
 		"hull energy" 1.45
 		"hull heat" 4.35
@@ -560,7 +560,7 @@ ship "Kaluga"
 		category "Heavy Warship"
 		"cost"
 		"shields" 8600
-		"hull" 54800
+		"hull" 50800
 		"hull repair rate" 3.6
 		"hull energy" 1.8
 		"hull heat" 5.4

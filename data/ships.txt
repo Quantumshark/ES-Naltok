@@ -207,7 +207,7 @@ ship "Tetra"
 	thumbnail "thumbnail/tetra"
 	attributes
 		category "Interceptor"
-		"cost"
+		"cost" 837000
 		"shields" 900
 		"hull" 3400
 		"hull repair rate" 0.7
@@ -215,7 +215,7 @@ ship "Tetra"
 		"hull heat" 1.05
 		"required crew" 1
 		"bunks" 3
-		"mass" 116
+		"mass" 103
 		"drag" 1.8
 		"heat dissipation" .41
 		"fuel capacity" 500

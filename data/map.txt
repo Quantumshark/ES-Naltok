@@ -546,14 +546,6 @@ system Norelon
 		sprite star/wr
 		period 10
 	object
-		sprite planet/desert2
-		distance 162.69
-		period 25.2574
-	object
-		sprite planet/desert0
-		distance 370.65
-		period 86.8549
-	object
 		sprite planet/uranus
 		distance 1228.01
 		period 523.782

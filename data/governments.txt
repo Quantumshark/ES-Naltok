@@ -7,8 +7,8 @@ government "Naltok"
 government "Telashki"
 	swizzle 3
 	color .01 .93 .72
-	"crew attack" 1.3
-	"crew defense" 2.5
+	"crew attack" 1.7
+	"crew defense" 2.9
 	"player reputation" 5
 	"attitude toward"
 		"Naltok" 1

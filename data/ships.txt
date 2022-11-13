@@ -61,13 +61,45 @@ ship "Mackerel"
 		"fuel capacity" 700
 		"cargo space" 38
 		"outfit space" 210
-		"weapon capacity" 79
+		"weapon capacity" 59
 		"engine capacity" 93
 		"heat protection" 3
 		"burn protection" 1
 	outfits
 
 	gun
+	turret
+	description ``
+
+ship "Marlin"
+	sprite "ship/marlin"
+	thumbnail "thumbnail/marlin"
+	attributes
+		category "Space Liner"
+		"cost" 0
+		"shields" 2300
+		"hull" 10100
+		"hull repair rate" 1.1
+		"hull energy" .55
+		"hull heat" 1.65
+		"required crew" 31
+		"bunks" 147
+		"mass" 273
+		"drag" 6.3
+		"heat dissipation" .23
+		"fuel capacity" 600
+		"cargo space" 71
+		"outfit space" 427
+		"weapon capacity" 87
+		"engine capacity" 134
+		"heat protection" 3
+		"burn protection" 1
+	outfits
+
+	gun
+	gun
+	turret
+	turret
 	turret
 	description ``
 

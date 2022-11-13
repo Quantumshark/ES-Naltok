@@ -24,6 +24,7 @@ shipyard "Naltok Intermediate"
 shipyard "Naltok Advanced"
 	"Anchovy"
 	"Mackerel"
+	"Marlin"
 	"Herring"
 	"Conger"
 	"Flounder"
@@ -42,8 +43,10 @@ shipyard "Xochira Advanced"
 	"Archerfish"
 
 shipyard "Telashki Basics"
+	"Tetra"
 
 shipyard "Telashki Advanced"
+	"Tetra"
 
 outfitter "Naltok Ammo"
 	"Shrapnel Torpedo"

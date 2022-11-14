@@ -196,11 +196,29 @@ ship "Conger"
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Shrapnel Torpedo Pod" 2
+		"Shrapnel Torpedo" 4
+		"Naltok Anti-Missile"
+		"Copepod Generator"
+		"Stream Shield Generator"
+		"Gecko Thruster"
+		"Gecko Steering"
+		"Hyperdrive"
 
-	gun
-	gun
-	turret
+	gun "Shrapnel Torpedo Pod"
+	gun "Shrapnel Torpedo Pod"
+	turret "Naltok Anti-Missile"
 	description ``
+
+ship "Conger" "Conger (Unarmed)"
+	outfits
+		"Naltok Anti-Missile"
+		"Copepod Generator"
+		"Stream Shield Generator"
+		"Gecko Thruster"
+		"Gecko Steering"
+		"Hyperdrive"
+		"Cargo Expansion" 4
 
 ship "Flounder"
 	sprite "ship/flounder"

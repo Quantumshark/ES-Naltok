@@ -95,6 +95,8 @@ ship "Marlin"
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Luxury Accommodations"
+		"Hyperdrive"
 
 	gun
 	gun

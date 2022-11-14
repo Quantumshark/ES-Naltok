@@ -199,6 +199,7 @@ ship "Conger"
 
 	gun
 	gun
+	turret
 	description ``
 
 ship "Flounder"

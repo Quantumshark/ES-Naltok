@@ -758,7 +758,8 @@ ship "Lamprey"
 		"Agama Steering"
 		"Anole Thruster"
 	gun "Drainer"
-	description ``
+	description `Inspired by the Telashki Remora, the Lamprey is the Xochira take on a small, fast carried ship. Extending the concept behind the Archerfish, the Lamprey's defining features are its excellent top speed and its armament consisting entirely of a single Drainer.`
+	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 
 ship "Remora"
 	sprite "ship/remora"
@@ -794,6 +795,7 @@ ship "Remora"
 	gun "Breaker"
 	gun "Breaker"
 	description `Rather than chasing down enemy vessels at high speed, Remora fighters are intended to serve as a protective screen for a carrier, fighting alongside it instead of at a distance.`
+	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 
 ship "Minnow"
 	sprite "ship/minnow"

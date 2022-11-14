@@ -1568,7 +1568,7 @@ planet Kevoshek
 	landscape land/snow13
 	description `Based on its position, this tiny moon should be no more than an uninhabitable ball of ice and rock. Instead, its surface is warmed to only a few degrees below freezing by the decay of the abnormally high portion of radioisotopes present in its crust.`
 	description `As such, while the lack of sunlight makes Kevoshek unsuited for large-scale colonisation, it is home to massive automatic mining facilities harvesting material for use in the Naltok reactors and radioisotopic generators.`
-	spaceport `The spaceport here, like the mining operations, is entirely automatic - the high radiation makes long-term habitation unsafe. Mechanical attendants and computer terminals greet you and the Naltok freight captains looking for well-paid transport jobs to other planets.`
+	spaceport `The spaceport here, like the mining operations, is entirely automatic - the radiation makes long-term habitation unsafe. Mechanical attendants and computer terminals greet you and the Naltok freight captains looking for well-paid transport jobs to other planets.`
 
 planet Kolxacha
 	attributes naltok telashki military

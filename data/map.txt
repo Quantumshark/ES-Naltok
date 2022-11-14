@@ -810,8 +810,8 @@ system Keloteg
 	object
 		sprite star/k0-old
 		period 10
-	object
-		sprite planet/desert2
+	object Chireke
+		sprite planet/forest5
 		distance 420.153
 		period 108.417
 		offset 284.791
@@ -1563,6 +1563,13 @@ system Kuragu
 		period 349.820
 		offset 220
 
+planet Chireke
+	attributes naltok telashki rural
+	landscape land/forest3
+	description `The environmental conditions on this planet make it almost the perfect home for the Naltok - the first explorers to land here described the conditions as more homely than their homeworld.`
+	description `Unfortunately, those same conditions also make Chireke the perfect home for a wide range of incredibly fast-growing plant species, many of which can grow through metres of solid concrete with the same ease with which most plants would grow through a few centimetres of soil. Every attempt to establish major settlements here has been reduced to rubble and reclaimed by the jungle within a few months.`
+	spaceport `The spaceport sits atop a high mountain plateau, where the cold, dry conditions and thin air inhibit plant growth enough that permanent structures can be established. The unique flora of this planet have given rise to a fairly large lumber industry, and the railway from the mountaintop to the jungle below has become a fairly large tourist attraction as well.`
+
 planet Kevoshek
 	attributes naltok telashki mining
 	landscape land/snow13
@@ -1605,7 +1612,7 @@ planet Ruxanguv
 	outfitter "Xochira Ammo"
 
 planet Shajoli
-	attributes naltok
+	attributes naltok uninhabited
 	landscape land/lava0
 	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic, and have since resisted millenia of cleanup attempts.`
 	government Uninhabited
@@ -1620,7 +1627,7 @@ planet Tokraget
 	outfitter "Xochira Basics"
 
 planet Xutajol
-	attributes naltok telashki
+	attributes naltok telashki rural
 	landscape land/fields13
 	description `The first Naltok explorers on Xutajol characterised it as "minimally habitable" due to the relatively dry climate, and for centuries Xutajol was viewed as a hostile planet with little use beyond cultivation of the local drought-resistant flora as an emergency food reserve.`
 	description `This changed, however, when the Humans and Alphas arriving in Naltok space saw Xutajol as a perfect spot to settle down, and the planet now boasts a population of nearly a thousand non-Naltok residents. With the outbreak of the current civil war, Xutajol's distance from the frontline with the Xochira became another boon for the battle-weary crews of the Alpha ships.`

@@ -459,12 +459,12 @@ ship "Albacore"
 	gun
 	gun
 	gun
-	gun
 	turret
 	bay "Fighter"
 	bay "Fighter"
-	bay "Drone"
-	bay "Drone"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
 	description ``
 
 ship "Moray"

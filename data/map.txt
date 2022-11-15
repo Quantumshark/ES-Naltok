@@ -1222,7 +1222,8 @@ system Lotegok
 system Lekonet
 	pos -1129 -462
 	government "Telashki"
-	habitable 200
+	arrival 2300
+	habitable 2300
 	link Nixelog
 	asteroids "small rock" 13 5.6848
 	asteroids "medium rock" 26 4.9324
@@ -1241,7 +1242,7 @@ system Lekonet
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/m8
+		sprite star/m-giant
 		period 10
 	object
 		sprite planet/cloud6

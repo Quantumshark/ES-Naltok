@@ -917,7 +917,7 @@ system Tokilok
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/m4
+		sprite star/b-dwarf
 		period 10
 	object
 		sprite planet/dust6

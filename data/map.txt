@@ -230,7 +230,7 @@ system Choxera
 system "Xeko Naltok"
 	pos -936 -165
 	government "Xochira"
-	habitable 486.68
+	habitable 386.68
 	link Choxera
 	link Xangoret
 	link Lixetog
@@ -251,19 +251,19 @@ system "Xeko Naltok"
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/k0
+		sprite star/k5
 		period 10
 	object
 		sprite planet/rock1
-		distance 242.25
+		distance 202.25
 		period 68.365
 	object Tokraget
 		sprite planet/forest1-b
-		distance 502.09
+		distance 402.09
 		period 221.628
 	object Shajoli
 		sprite planet/ice8
-		distance 724.34
+		distance 604.34
 		period 429.139
 	object
 		sprite planet/gas0

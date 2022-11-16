@@ -257,7 +257,7 @@ system "Xeko Naltok"
 		sprite planet/rock1
 		distance 202.25
 		period 68.365
-	object Tokraget
+	object Nareltok
 		sprite planet/forest1-b
 		distance 402.09
 		period 221.628
@@ -1602,6 +1602,15 @@ planet Lonechox
 	description `This moon is situated almost perfectly within this system's habitable zone, and is home to a large water ocean and several landmasses. Unfortunately, none of those landmasses exists for more than a few hours at a time. The enormous tides here reveal and submerge vast tracts of land several times a day, making the planet unsuitable for long-term habitation, either in traditional cities or large vessels.`
 	description `The only inhabitants of this planet are small fishing communities, using smaller vessels and keeping to deeper water to avoid being stranded when the tides go out.
 
+planet Nareltok
+	attributes naltok xochira urban
+	landscape land/water6
+	description `Nareltok is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain.`
+	spaceport `The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums.`
+	shipyard "Naltok Intermediate"
+	outfitter "Naltok Intermediate"
+	outfitter "Xochira Basics"
+
 planet Ngakego
 	attributes naltok telashki urban factory
 	landscape land/city7
@@ -1625,15 +1634,6 @@ planet Shajoli
 	landscape land/lava0
 	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic, and have since resisted millenia of cleanup attempts.`
 	government Uninhabited
-
-planet Tokraget
-	attributes naltok xochira urban
-	landscape land/water6
-	description `Tokraget is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain.`
-	spaceport `The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums.`
-	shipyard "Naltok Intermediate"
-	outfitter "Naltok Intermediate"
-	outfitter "Xochira Basics"
 
 planet Vigechox
 	attributes naltok xochira urban

@@ -317,12 +317,14 @@ system Xangoret
 		sprite planet/gas10
 		distance 1487.48
 		period 579.757
-		object
-			sprite planet/miranda
+		object Lonechox
+			sprite planet/ocean4-b
+				scale 0.6
 			distance 212
 			period 16.248
 		object
-			sprite planet/ice8
+			sprite planet/forest2
+				scale 0.6
 			distance 350
 			period 34.4667
 		object
@@ -1593,6 +1595,12 @@ planet "Kuragu Xochet"
 	description `Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation.`
 	spaceport `The spaceport is bustling with activity, but almost all of it is directly connected to the construction work here. Whole areas are almost unused, but still staffed, while passing through a single door or even walking across a room often leaves you in the middle of a dense crowd of Quarg, many of them Skylark crew and captains looking for their next cargo assignment.`
 	spaceport `The few Naltok who have decided to spend some time here despite the absence of the pools of water favoured in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than you have to.`
+
+planet Lonechox
+	attributes naltok xochira rural
+	landscape land/sea17-harro
+	description `This moon is situated almost perfectly within this system's habitable zone, and is home to a large water ocean and several landmasses. Unfortunately, none of those landmasses exists for more than a few hours at a time. The enormous tides here reveal and submerge vast tracts of land several times a day, making the planet unsuitable for long-term habitation, either in traditional cities or large vessels.`
+	description `The only inhabitants of this planet are small fishing communities, using smaller vessels and keeping to deeper water to avoid being stranded when the tides go out.
 
 planet Ngakego
 	attributes naltok telashki urban factory

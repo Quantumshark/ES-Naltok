@@ -319,12 +319,12 @@ system Xangoret
 		period 579.757
 		object Lonechox
 			sprite planet/ocean4-b
-				scale 0.6
+				scale 0.5
 			distance 212
 			period 16.248
 		object Vigechox
 			sprite planet/forest2
-				scale 0.6
+				scale 0.5
 			distance 350
 			period 34.4667
 		object

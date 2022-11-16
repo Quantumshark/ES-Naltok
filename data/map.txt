@@ -322,7 +322,7 @@ system Xangoret
 				scale 0.6
 			distance 212
 			period 16.248
-		object
+		object Vigechox
 			sprite planet/forest2
 				scale 0.6
 			distance 350
@@ -1634,6 +1634,13 @@ planet Tokraget
 	shipyard "Naltok Intermediate"
 	outfitter "Naltok Intermediate"
 	outfitter "Xochira Basics"
+
+planet Vigechox
+	attributes naltok xochira urban
+	landscape land/water18
+	description `Vigechox was the first world outside their home system that the Naltok were able to colonise. Although the gravity here is lower than on their homeworld, conditions are otherwise fairly close to ideal for the Naltok. Motivated in part by how close they had come to extinction on their home planet, the Naltok sent a generation ship to this system long before they discovered the hyperdrive, and the society here was separated from the rest of their species for nearly two hundred years.`
+	description `The population here welcomed the arrival of the first hyperspace-capable vessels here with open arms, and quickly integrated into the interstellar Naltok society, but there are still some cultural differences between here and the rest of their space.`
+	spaceport `The spaceport is in the centre of the largest and oldest city on this planet, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here.`
 
 planet Xutajol
 	attributes naltok telashki rural

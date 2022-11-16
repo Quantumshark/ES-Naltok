@@ -175,7 +175,7 @@ system Roxeka
 system Choxera
 	pos -895 -111
 	government "Xochira"
-	habitable 3940
+	habitable 1940
 	link Ligoxel
 	link "Xeko Naltok"
 	link Ngotesh
@@ -196,19 +196,19 @@ system Choxera
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/giant
+		sprite star/b0
 		period 10
 	object
 		sprite planet/lava1
-		distance 173.24
+		distance 273.24
 		period 9.8124
 	object
 		sprite planet/rock3
-		distance 316.85
+		distance 446.85
 		period 24.2708
 	object
 		sprite planet/desert3
-		distance 596.41
+		distance 896.41
 		period 62.6788
 		object
 			sprite planet/europa
@@ -216,7 +216,7 @@ system Choxera
 			period 19.1409
 	object
 		sprite planet/rock13
-		distance 1256.77
+		distance 1556.77
 		period 191.729
 		object
 			sprite planet/dust5

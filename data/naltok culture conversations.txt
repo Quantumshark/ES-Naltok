@@ -16,4 +16,30 @@ mission "Museum of Naltok History"
 	source Nareltok
 	on offer
 		conversation
-			`As you walk through the spaceport, you notice a queue outside a large stone building.`
+			`As you walk through the outskirts of the spaceport, you notice a small stone building nestled among the larger, organic shapes of the spaceport buildings. The doors of this building appear to be open, and you see a few small groups of Naltok entering.`
+			choice
+				`	(Investigate the building.)`
+				`	(Return to the spaceport.)`
+					decline
+			branch language
+				has "language: Naltok"
+
+			label language
+			`	The building turns out to be a museum, the Museum of Naltok History. Like most Naltok buildings, the museum is filled up to your knees with lukewarm water, which is continually cleaned and (presumably) recirculated by several small machines, though in this particular building those machines have been carefully hidden inside pillars and other objects so as not to disrupt the atmosphere of the building. A small plaque proclaims this to have originally been the parliament of Ngolonexi, a long-gone Naltok nation.`
+			`	There are a few exhibits in the front rooms, but the bulk of the museum is the History Walk, a series of rooms which shows various periods of the Naltok's history, beginning with early hunters and ending at their discovery of the hyperdrive.`
+			choice
+				`	(Look through the exhibits.)`
+				`	(Take the history walk.)`
+					goto historylanguage
+				`	(Return to the spaceport.)`
+					decline
+			label exhibitslanguage
+			`	There are several exhibits here, a mixture of a few things which couldn't quite be slotted into any of the rooms on the History Walk.`
+
+			label historylanguage
+			`	The first room discusses the prehistory of the Naltok. The central exhibit is a life-size model of a colossal reptile which looks like a winged crocodile nearly fifteen metres long. A plaque at the foot of this creature states that it was a large predator which hunted the early Naltok, using its 'wings' to propel itself through water, and speculates that the Naltok's development of intelligence may have been made possible by the reduced pressure after this creature went extinct.`
+			`	Along the walls are similar, smaller models of other prehistoric creatures, and the door at the end of the room is flanked by two statues of early Naltok hunters, camouflaged with a selection of plant leaves and wielding simple spears made from bones and wood. A sign next to them describes how early Naltok hunters would rely entirely on ambushes, rather than attempting to pursue prey through speed or endurance, and displays a map of Nareltok showing how the Naltok originated in one region and then spread out across the whole planet.`
+			choice
+				`	(Enter the next room.)`
+			`	The second room seems to be a recreation of a medieval Naltok fortification, with cutaways of the walls to reveal the aqueducts and pumping systems which moved water up to the higher floors. There is an interactive section with tiny versions of these systems, intended to teach children about the mechanisms involved, and a plaque discussing how this room is a replica of part of a fortification 30 miles away which was destroyed by bombing during 'The War'.
+			`	A series of display cabinets further in show several different styles of armour and weaponry from several different Naltok nations of this era, each one shown on a map.`

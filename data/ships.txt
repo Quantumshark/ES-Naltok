@@ -546,7 +546,7 @@ ship "Moray"
 		"cargo space" 17
 		"outfit space" 509
 		"weapon capacity" 232
-		"engine capacity" 133
+		"engine capacity" 113
 		"heat protection" 3
 		"burn protection" 1
 	outfits

@@ -1248,7 +1248,7 @@ system Lekonet
 		period 10
 	object
 		sprite planet/cloud6
-		distance 290.56
+		distance 490.56
 		period 60.284
 		object
 			sprite planet/luna
@@ -1256,19 +1256,19 @@ system Lekonet
 			period 20.9144
 	object
 		sprite planet/lava3
-		distance 632.72
+		distance 832.72
 		period 193.716
 	object
 		sprite planet/rock5
-		distance 860.01
+		distance 1060.01
 		period 306.975
 	object
 		sprite planet/forest5
-		distance 1074.17
+		distance 1374.17
 		period 428.507
 	object
 		sprite planet/neptune
-		distance 1925.21
+		distance 2225.21
 		period 1028.17
 		object
 			sprite planet/dust5

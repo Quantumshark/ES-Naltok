@@ -111,7 +111,7 @@ outfit "Short-Burst Cloak"
 
 outfit "Agama Thruster"
 	category "Engines"
-	"cost" 97200
+	"cost" 48600
 	thumbnail "outfit/tiny naltok thruster"
 	"mass" 11
 	"outfit space" -11
@@ -126,7 +126,7 @@ outfit "Agama Thruster"
 
 outfit "Anole Thruster"
 	category "Engines"
-	"cost" 228300
+	"cost" 118300
 	thumbnail "outfit/small naltok thruster"
 	"mass" 19
 	"outfit space" -19
@@ -141,7 +141,7 @@ outfit "Anole Thruster"
 
 outfit "Gecko Thruster"
 	category "Engines"
-	"cost" 451200
+	"cost" 226200
 	thumbnail "outfit/medium naltok thruster"
 	"mass" 34
 	"outfit space" -34
@@ -156,7 +156,7 @@ outfit "Gecko Thruster"
 
 outfit "Iguana Thruster"
 	category "Engines"
-	"cost" 1113800
+	"cost" 513800
 	thumbnail "outfit/large naltok thruster"
 	"mass" 61
 	"outfit space" -61
@@ -171,7 +171,7 @@ outfit "Iguana Thruster"
 
 outfit "Monitor Thruster"
 	category "Engines"
-	"cost" 2727300
+	"cost" 1027300
 	thumbnail "outfit/huge naltok thruster"
 	"mass" 109
 	"outfit space" -109
@@ -186,7 +186,7 @@ outfit "Monitor Thruster"
 
 outfit "Agama Steering"
 	category "Engines"
-	"cost" 121080
+	"cost" 61080
 	thumbnail "outfit/tiny naltok steering"
 	"mass" 14
 	"outfit space" -14
@@ -201,7 +201,7 @@ outfit "Agama Steering"
 
 outfit "Anole Steering"
 	category "Engines"
-	"cost" 281700
+	"cost" 141700
 	thumbnail "outfit/small naltok steering"
 	"mass" 25
 	"outfit space" -25
@@ -216,7 +216,7 @@ outfit "Anole Steering"
 
 outfit "Gecko Steering"
 	category "Engines"
-	"cost" 556100
+	"cost" 281100
 	thumbnail "outfit/medium naltok steering"
 	"mass" 43
 	"outfit space" -43
@@ -231,7 +231,7 @@ outfit "Gecko Steering"
 
 outfit "Iguana Steering"
 	category "Engines"
-	"cost" 1368900
+	"cost" 718900
 	thumbnail "outfit/large naltok steering"
 	"mass" 73
 	"outfit space" -73
@@ -246,7 +246,7 @@ outfit "Iguana Steering"
 
 outfit "Monitor Steering"
 	category "Engines"
-	"cost" 2647800
+	"cost" 1347800
 	thumbnail "outfit/huge naltok steering"
 	"mass" 127
 	"outfit space" -127

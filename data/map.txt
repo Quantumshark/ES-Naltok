@@ -1179,7 +1179,7 @@ system Vokelon
 system Lotegok
 	pos -1093 -395
 	government "Telashki"
-	habitable 880
+	habitable 600
 	link Kuragu
 	link Golonex
 	asteroids "large metal" 1 5.148
@@ -1194,7 +1194,7 @@ system Lotegok
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/k0-old
+		sprite star/k0
 		period 10
 	object
 		sprite planet/cloud7

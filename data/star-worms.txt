@@ -9,7 +9,7 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 hazard "Star-Worms"
-	"duration" 1 200
+	"duration" 75 150
 	"strength" 0.5 1.5
 	"system-wide"
 	"environmental effect" "star-worm hazard" 10

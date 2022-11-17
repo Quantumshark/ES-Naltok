@@ -252,7 +252,7 @@ outfit "Shrapnel Torpedo Launcher"
 		ammo "Shrapnel Torpedo"
 		icon "icon/shrapneltorpedo"
 		"submunition" "Torpedo Shrapnel" 15
-		"split range" 200
+		"split range" 150
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
@@ -287,7 +287,7 @@ outfit "Shrapnel Torpedo Pod"
 		ammo "Shrapnel Torpedo"
 		icon "icon/shrapneltorpedo"
 		"submunition" "Torpedo Shrapnel" 15
-		"split range" 200
+		"split range" 150
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"

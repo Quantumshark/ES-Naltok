@@ -576,7 +576,7 @@ ship "Pike"
 		"required crew" 43
 		"bunks" 88
 		"mass" 562
-		"drag" 8.1
+		"drag" 8.7
 		"heat dissipation" .2
 		"fuel capacity" 600
 		"cargo space" 116
@@ -614,7 +614,7 @@ ship "Hammerhead"
 		"required crew" 56
 		"bunks" 64
 		"mass" 594
-		"drag" 10.2
+		"drag" 10.8
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 23
@@ -661,7 +661,7 @@ ship "Kaluga"
 		"required crew" 71
 		"bunks" 94
 		"mass" 801
-		"drag" 11.4
+		"drag" 11.9
 		"heat dissipation" .15
 		"fuel capacity" 300
 		"cargo space" 47

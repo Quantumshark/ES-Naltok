@@ -582,7 +582,7 @@ ship "Pike"
 		"cargo space" 116
 		"outfit space" 806
 		"weapon capacity" 328
-		"engine capacity" 183
+		"engine capacity" 204
 		"heat protection" 3
 		"burn protection" 1
 	outfits
@@ -620,7 +620,7 @@ ship "Hammerhead"
 		"cargo space" 23
 		"outfit space" 748
 		"weapon capacity" 294
-		"engine capacity" 156
+		"engine capacity" 186
 		"heat protection" 3
 		"burn protection" 1
 	outfits
@@ -667,7 +667,7 @@ ship "Kaluga"
 		"cargo space" 47
 		"outfit space" 853
 		"weapon capacity" 403
-		"engine capacity" 142
+		"engine capacity" 178
 		"heat protection" 3
 		"burn protection" 1
 	outfits

@@ -453,7 +453,7 @@ outfit "Naltok Anti-Missile"
 		"hardpoint sprite" "hardpoint/wanderer anti-missile"
 		"hardpoint offset" 6.
 		"hit effect" "naltok anti-missile"
-		"anti-missile" 2
+		"anti-missile" 3
 		"velocity" 360
 		"lifetime" 1
 		"reload" 3

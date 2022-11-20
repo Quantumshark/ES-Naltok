@@ -661,7 +661,7 @@ system Ngotesh
 		distance 60.0671
 		period 10.144
 		offset 180
-	object
+	object Shogtef
 		sprite planet/cloud3
 		distance 284.943
 		period 22.4069
@@ -1635,6 +1635,12 @@ planet Shajoli
 	landscape land/lava0
 	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic, and have since resisted millenia of cleanup attempts.`
 	government Uninhabited
+
+planet Shogtef
+	attributes naltok factory
+	landscape land/desert4
+	description `Though too hot to be habitable, this world has become the site of several major solar-powered factories, producing a wide range of electronics and other equipment to supply the rest of Xochira space.`
+	spaceport `The spaceport here is automated and designed almost entirely for loading and unloading cargo. There is little in the way of amenities, but massive automated machines and swarms of robots make the port appear busier than most inhabited planets.`
 
 planet Vigechox
 	attributes naltok xochira urban

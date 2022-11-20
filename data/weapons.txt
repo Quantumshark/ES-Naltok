@@ -362,7 +362,7 @@ effect "star-worm fragment"
 	
 outfit "Star-Worm Launcher"
 	category "Secondary Weapons"
-	cost
+	cost 173800
 	thumbnail "outfit/star-worm launcher"
 	"mass" 13
 	"outfit space" -53
@@ -394,7 +394,7 @@ outfit "Star-Worm Launcher"
 
 outfit "Star-Worm Pod"
 	category "Secondary Weapons"
-	cost
+	cost 44000
 	thumbnail "outfit/star-worm pod"
 	"mass" 7
 	"outfit space" -17
@@ -432,7 +432,7 @@ outfit "Star-Worm Capsule"
 
 outfit "Star-Worm Rack"
 	category "Ammunition"
-	cost 17600
+	cost 23000
 	thumbnail "outfit/star-worm rack"
 	"outfit space" -13
 	"mass" 3

@@ -258,3 +258,34 @@ outfit "Monitor Steering"
 		"frame rate" 0.8
 	"steering flare sound" "ion huge"
 	description "There are few, if any, steering systems in the galaxy that are larger than this colossal set. Nevertheless, it still produces less heat than an ion engine half its size, a testament to the spectacular efficiency of Naltok technology."
+
+outfit "Ripper Pistols"
+	plural "Ripper Pistols"
+	category "Hand to Hand"
+	cost 26300
+	thumbnail "outfit/naltok pistols"
+	"capture attack" 0.9
+	"capture defense" 1.1
+	"unplunderable" 1
+	description "While the Telashki typically rely on their biological enhancements in hand to hand combat, Xochira combatants will usually enter battle armed with a pair of these powerful and reliable machine pistols."
+
+outfit "Shredder Minigun"
+	category "Hand to Hand"
+	cost 80800
+	thumbnail "outfit/naltok minigun"
+	"required crew" 1
+	"capture attack" 1.7
+	"capture defense" 2.8
+	"unplunderable" 1
+	description "When Ripper Pistols prove ineffective, some Xochira combatants will deploy the Shredder Minigun. This is a terrifying weapon to face regardless of the circumstances, but handling it does require special training."
+	
+outfit "Acid Grub"
+	category "Hand to Hand"
+	cost 114900
+	thumbnail "outfit/naltok acid grub"
+	"capture attack" 2.6
+	"capture defense" 1.2
+	"unplunderable" 1
+	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat. Fortunately(?), rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized organism which can be easily carried and which spews a spray of deadly acid if disturbed."
+	
+		

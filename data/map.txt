@@ -89,19 +89,20 @@ system Ligoxel
 		period 12.6704
 	object
 		sprite planet/cloud1
+			scale 0.8
 		distance 220.364
 		period 61.343
-	object
+	object Xorechige
 		sprite planet/forest4
 		distance 475.254
 		period 194.287
 	object
 		sprite planet/gas12
-		distance 871.944
+		distance 1171.944
 		period 482.822
 	object
 		sprite planet/gas0
-		distance 2111.94
+		distance 2011.94
 		period 1820.03
 		object
 			sprite planet/oberon
@@ -1642,6 +1643,16 @@ planet Vigechox
 	description `The population here welcomed the arrival of the first hyperspace-capable vessels here with open arms, and quickly integrated into the interstellar Naltok society, but there are still some cultural differences between here and the rest of their space.`
 	spaceport `The spaceport is in the centre of the largest and oldest city on this planet, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here. Some of the architecture in the city is distinctly different from anything you have seen anywhere else in Naltok space.`
 	outfitter "Naltok Basics"
+
+planet Xorechige
+	attributes naltok xochira urban military
+	landscape land/city17-sfiera
+	description `In the first few days of the civil war, before the Xochira took the Naltok homeworld, this was their capital - the centre of both their government and their manufacturing. Even now, Xorechige is the largest manufacturing world and the second largest military emplacement in Xochira space.`
+	spaceport `This is probably the busiest spaceport in Naltok space. Between the large population, the shipyards, and the military base, the amount of traffic here is absolutely staggering - a fact only exacerbated by the hapazard placement of military facilities, most of which were built during the chaotic early stages of the war.`
+	outfitter "Naltok Advanced"
+	outfitter "Xochira Advanced"
+	shipyard "Naltok Advanced"
+	shipyard "Xochira Advanced"
 
 planet Xutajol
 	attributes naltok telashki rural

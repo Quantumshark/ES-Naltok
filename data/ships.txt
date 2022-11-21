@@ -544,8 +544,8 @@ ship "Moray"
 		"heat dissipation" .26
 		"fuel capacity" 400
 		"cargo space" 17
-		"outfit space" 509
-		"weapon capacity" 232
+		"outfit space" 577
+		"weapon capacity" 262
 		"engine capacity" 113
 		"heat protection" 3
 		"burn protection" 1

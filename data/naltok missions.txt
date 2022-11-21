@@ -7,3 +7,19 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+mission "Star-Worms 1"
+	description `Travel to the Norelon system and record the activity of the local "Star-Worms"`
+	to offer
+		has "First Contact: Naltok (Telashki): offered"
+	source Kutora
+	waypoint Norelon
+	destination Kutora
+	on offer
+		conversation
+			``
+	on enter Norelon
+	on complete
+		payment 50000
+		conversation
+			``

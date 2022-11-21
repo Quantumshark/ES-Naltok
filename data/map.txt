@@ -1180,7 +1180,7 @@ system Vokelon
 system Lotegok
 	pos -1093 -395
 	government "Telashki"
-	habitable 600
+	habitable 500
 	link Kuragu
 	link Golonex
 	asteroids "large metal" 1 5.148
@@ -1201,8 +1201,8 @@ system Lotegok
 		sprite planet/cloud7
 		distance 196.24
 		period 33.4603
-	object
-		sprite planet/dust2
+	object Kutora
+		sprite planet/forest2-b
 		distance 475.4
 		period 126.164
 	object
@@ -1596,6 +1596,14 @@ planet "Kuragu Xochet"
 	description `Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation.`
 	spaceport `The spaceport is bustling with activity, but almost all of it is directly connected to the construction work here. Whole areas are almost unused, but still staffed, while passing through a single door or even walking across a room often leaves you in the middle of a dense crowd of Quarg, many of them Skylark crew and captains looking for their next cargo assignment.`
 	spaceport `The few Naltok who have decided to spend some time here despite the absence of the pools of water favoured in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than you have to.`
+
+planet Kutora
+	attributes naltok telashki research
+	landscape land/fields3
+	description `In addition to being a fairly large population center, this world is also the home of the Ministry of Alien Life. The location close to the Quarg ringworld allows the Ministry to easily monitor Quarg activity in the neighboring system, given the apparent lack of any Quarg desire to participate in the interspecies cooperation which had been the original intent behind the location.`
+	spaceport `Large parts of the spaceport are designed to mimic Quarg architecture, and there is ongoing work on creating a section based on human architecture.`
+	outfitter "Naltok Intermediate"
+	outfitter "Telashki Advanced"
 
 planet Lonechox
 	attributes naltok xochira rural

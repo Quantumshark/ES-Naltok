@@ -293,11 +293,11 @@ ship "Tetra"
 	attributes
 		category "Interceptor"
 		"cost" 837000
-		"shields" 900
-		"hull" 3400
-		"hull repair rate" 0.7
-		"hull energy" .175
-		"hull heat" .525
+		"shields" 1100
+		"hull" 4300
+		"hull repair rate" 0.9
+		"hull energy" .225
+		"hull heat" .675
 		"required crew" 1
 		"bunks" 3
 		"mass" 103
@@ -373,8 +373,8 @@ ship "Piranha"
 	attributes
 		category "Light Warship"
 		"cost"
-		"shields" 2400
-		"hull" 10100
+		"shields" 2700
+		"hull" 11100
 		"hull repair rate" 1.6
 		"hull energy" .4
 		"hull heat" 1.2

@@ -261,8 +261,8 @@ ship "Grouper"
 	attributes
 		category "Utility"
 		"cost"
-		"shields" 1700
-		"hull" 15500
+		"shields" 2700
+		"hull" 19800
 		"hull repair rate" 1.4
 		"hull energy" .7
 		"hull heat" 2.1
@@ -274,8 +274,8 @@ ship "Grouper"
 		"fuel capacity" 4000
 		"cargo space" 57
 		"outfit space" 583
-		"weapon capacity" 191
-		"engine capacity" 147
+		"weapon capacity" 131
+		"engine capacity" 187
 		"heat protection" 3
 		"burn protection" 1
 	gun
@@ -283,10 +283,9 @@ ship "Grouper"
 	gun
 	turret
 	turret
-	turret
 	bay "Drone"
 	bay "Drone"
-	description ``
+	description `As part of their plans to root out the Alphas from all of Human space, the Xochira designed the Grouper as a support vessel able to continually refuel their warships as they were travelling.`
 
 ship "Tetra"
 	sprite "ship/tetra"

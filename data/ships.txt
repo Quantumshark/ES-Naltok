@@ -278,6 +278,7 @@ ship "Grouper"
 		"engine capacity"
 		"heat protection" 3
 		"burn protection" 1
+	description ``
 
 ship "Tetra"
 	sprite "ship/tetra"

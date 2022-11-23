@@ -819,7 +819,7 @@ ship "Remora"
 		"hull heat" .375
 		"required crew" 1
 		"bunks" 1
-		"mass" 11
+		"mass" 37
 		"drag" .76
 		"heat dissipation" .45
 		"outfit space" 109

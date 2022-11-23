@@ -261,23 +261,31 @@ ship "Grouper"
 	attributes
 		category "Utility"
 		"cost"
-		"shields" 1100
-		"hull"
-		"hull repair rate"
-		"hull energy"
-		"hull heat" 
-		"required crew" 
-		"bunks"
-		"mass"
-		"drag"
-		"heat dissipation"
+		"shields" 1700
+		"hull" 15500
+		"hull repair rate" 1.4
+		"hull energy" .7
+		"hull heat" 2.1
+		"required crew" 15 
+		"bunks" 27
+		"mass" 739
+		"drag" 9.8
+		"heat dissipation" .15
 		"fuel capacity" 4000
 		"cargo space" 57
-		"outfit space"
-		"weapon capacity"
-		"engine capacity"
+		"outfit space" 583
+		"weapon capacity" 191
+		"engine capacity" 147
 		"heat protection" 3
 		"burn protection" 1
+	gun
+	gun
+	gun
+	turret
+	turret
+	turret
+	bay "Drone"
+	bay "Drone"
 	description ``
 
 ship "Tetra"

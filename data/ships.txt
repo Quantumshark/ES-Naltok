@@ -448,7 +448,20 @@ ship "Piranha" "Piranha (Cargo)"
 		"Gecko Steering"
 		"Gecko Thruster"
 		"Hyperdrive"
+
+ship "Piranha" "Piranha (Bunks)"
+	outfits
+		"Shrapnel Torpedo Pod" 3
+		"Shrapnel Torpedo" 6
 		
+		"Copepod Generator"
+		"Pond Battery"
+		"River Shield Generator"
+		"Bunk Room" 6
+
+		"Gecko Steering"
+		"Gecko Thruster"
+		"Hyperdrive"		
 
 ship "Barracuda"
 	sprite "ship/barracuda"

@@ -261,7 +261,7 @@ ship "Grouper"
 	attributes
 		category "Utility"
 		"cost"
-		"shields"
+		"shields" 1100
 		"hull"
 		"hull repair rate"
 		"hull energy"
@@ -272,7 +272,7 @@ ship "Grouper"
 		"drag"
 		"heat dissipation"
 		"fuel capacity" 4000
-		"cargo space"
+		"cargo space" 57
 		"outfit space"
 		"weapon capacity"
 		"engine capacity"

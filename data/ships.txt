@@ -270,7 +270,7 @@ ship "Grouper"
 		"bunks" 27
 		"mass" 739
 		"drag" 9.8
-		"heat dissipation" .15
+		"heat dissipation" .19
 		"fuel capacity" 4000
 		"cargo space" 57
 		"outfit space" 583

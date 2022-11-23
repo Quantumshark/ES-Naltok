@@ -17,8 +17,8 @@ ship "Anchovy"
 		"shields" 300
 		"hull" 1100
 		"hull repair rate" .2
-		"hull energy" .1
-		"hull heat" .3
+		"hull energy" .05
+		"hull heat" .15
 		"required crew" 1
 		"bunks" 8
 		"mass" 66
@@ -51,8 +51,8 @@ ship "Mackerel"
 		"shields" 1000
 		"hull" 4100
 		"hull repair rate" .5
-		"hull energy" .25
-		"hull heat" .75
+		"hull energy" .125
+		"hull heat" .375
 		"required crew" 4
 		"bunks" 29
 		"mass" 173
@@ -80,8 +80,8 @@ ship "Marlin"
 		"shields" 2300
 		"hull" 10100
 		"hull repair rate" 1.1
-		"hull energy" .55
-		"hull heat" 1.65
+		"hull energy" .275
+		"hull heat" .825
 		"required crew" 31
 		"bunks" 147
 		"mass" 273
@@ -114,8 +114,8 @@ ship "Sturgeon"
 		"shields" 4800
 		"hull" 36100
 		"hull repair rate" 2.9
-		"hull energy" 1.45
-		"hull heat" 4.35
+		"hull energy" .725
+		"hull heat" 2.175
 		"required crew" 43
 		"bunks" 213
 		"mass" 701
@@ -147,8 +147,8 @@ ship "Herring"
 		"shields" 300
 		"hull" 1500
 		"hull repair rate" .25
-		"hull energy" .125
-		"hull heat" .375
+		"hull energy" .0625
+		"hull heat" .1875
 		"required crew" 1
 		"bunks" 2
 		"mass" 98
@@ -181,8 +181,8 @@ ship "Conger"
 		"shields" 900
 		"hull" 5300
 		"hull repair rate" .6
-		"hull energy" .3
-		"hull heat" .9
+		"hull energy" .15
+		"hull heat" .45
 		"required crew" 3
 		"bunks" 4
 		"mass" 218
@@ -229,8 +229,8 @@ ship "Flounder"
 		"shields" 1300
 		"hull" 14600
 		"hull repair rate" 1.2
-		"hull energy" .6
-		"hull heat" 1.8
+		"hull energy" .3
+		"hull heat" .9
 		"required crew" 7
 		"bunks" 12
 		"mass" 711
@@ -255,6 +255,38 @@ ship "Flounder"
 	bay "Drone"
 	description `The Flounder is a massive freighter used by the Naltok to carry huge quantities of supplies between planets. A popular joke among the Naltok is that all their ships are named for fish, but only the Flounder flies like one. The handling of the Flounder is so legendarily bad that the latest model has been designed to carry two Minnow drones, because waiting for the drones to ferry cargo up and down through the atmosphere is generally agreed to be a preferable alternative to attempting to land the Flounder in a spaceport.`
 
+ship "Grouper"
+	sprite "ship/grouper"
+	thumbnail "ship/grouper"
+	attributes
+		category "Utility"
+		"cost"
+		"shields" 2700
+		"hull" 19800
+		"hull repair rate" 1.8
+		"hull energy" .45
+		"hull heat" 1.35
+		"required crew" 15 
+		"bunks" 27
+		"mass" 739
+		"drag" 9.8
+		"heat dissipation" .15
+		"fuel capacity" 4000
+		"cargo space" 57
+		"outfit space" 583
+		"weapon capacity" 131
+		"engine capacity" 187
+		"heat protection" 3
+		"burn protection" 1
+	gun
+	gun
+	gun
+	turret
+	turret
+	bay "Drone"
+	bay "Drone"
+	description `As part of their plans to root out the Alphas from all of Human space, the Xochira designed the Grouper as a support vessel able to continually refuel their warships as they were travelling.`
+
 ship "Tetra"
 	sprite "ship/tetra"
 	thumbnail "thumbnail/tetra"
@@ -264,8 +296,8 @@ ship "Tetra"
 		"shields" 900
 		"hull" 3400
 		"hull repair rate" 0.7
-		"hull energy" .35
-		"hull heat" 1.05
+		"hull energy" .175
+		"hull heat" .525
 		"required crew" 1
 		"bunks" 3
 		"mass" 103
@@ -307,8 +339,8 @@ ship "Archerfish"
 		"shields" 2100
 		"hull" 8700
 		"hull repair rate" 1.1
-		"hull energy" .55
-		"hull heat" 1.65
+		"hull energy" .275
+		"hull heat" .825
 		"required crew" 3
 		"bunks" 7
 		"mass" 184
@@ -344,8 +376,8 @@ ship "Piranha"
 		"shields" 2400
 		"hull" 10100
 		"hull repair rate" 1.6
-		"hull energy" .8
-		"hull heat" 2.4
+		"hull energy" .4
+		"hull heat" 1.2
 		"required crew" 5
 		"bunks" 11
 		"mass" 311
@@ -427,8 +459,8 @@ ship "Barracuda"
 		"shields" 4100
 		"hull" 15300
 		"hull repair rate" 2.2
-		"hull energy" 1.1
-		"hull heat" 3.3
+		"hull energy" .55
+		"hull heat" 1.65
 		"required crew" 9
 		"bunks" 17
 		"mass" 320
@@ -497,8 +529,8 @@ ship "Albacore"
 		"shields" 4400
 		"hull" 16600
 		"hull repair rate" 2.1
-		"hull energy" 1.05
-		"hull heat" 3.15
+		"hull energy" .525
+		"hull heat" 1.575
 		"required crew" 12
 		"bunks" 23
 		"mass" 406
@@ -535,8 +567,8 @@ ship "Moray"
 		"shields" 5600
 		"hull" 23100
 		"hull repair rate" 2.8
-		"hull energy" 1.4
-		"hull heat" 4.2
+		"hull energy" .7
+		"hull heat" 2.1
 		"required crew" 25
 		"bunks" 33
 		"mass" 473
@@ -571,8 +603,8 @@ ship "Pike"
 		"shields" 6300
 		"hull" 46300
 		"hull repair rate" 3.1
-		"hull energy" 1.55
-		"hull heat" 4.65
+		"hull energy" .775
+		"hull heat" 2.325
 		"required crew" 43
 		"bunks" 88
 		"mass" 562
@@ -609,8 +641,8 @@ ship "Hammerhead"
 		"shields" 6100
 		"hull" 39600
 		"hull repair rate" 2.9
-		"hull energy" 1.45
-		"hull heat" 4.35
+		"hull energy" .725
+		"hull heat" 2.175
 		"required crew" 56
 		"bunks" 64
 		"mass" 594
@@ -656,8 +688,8 @@ ship "Kaluga"
 		"shields" 8600
 		"hull" 50800
 		"hull repair rate" 3.6
-		"hull energy" 1.8
-		"hull heat" 5.4
+		"hull energy" .9
+		"hull heat" 2.7
 		"required crew" 71
 		"bunks" 94
 		"mass" 801
@@ -695,8 +727,8 @@ ship "Coelacanth"
 		"shields" 11300
 		"hull" 80300
 		"hull repair rate" 4.5
-		"hull energy" 2.25
-		"hull heat" 6.75
+		"hull energy" 1.125
+		"hull heat" 3.375
 		"required crew" 114
 		"bunks" 139
 		"mass" 981
@@ -739,8 +771,8 @@ ship "Lamprey"
 		"shields" 300
 		"hull" 2200
 		"hull repair rate" .4
-		"hull energy" .2
-		"hull heat" .6
+		"hull energy" .1
+		"hull heat" .3
 		"required crew" 1
 		"bunks" 1
 		"mass" 46
@@ -770,8 +802,8 @@ ship "Remora"
 		"shields" 400
 		"hull" 2600
 		"hull repair rate" .5
-		"hull energy" .25
-		"hull heat" .75
+		"hull energy" .125
+		"hull heat" .375
 		"required crew" 1
 		"bunks" 1
 		"mass" 11
@@ -805,8 +837,8 @@ ship "Minnow"
 		"cost"
 		"hull" 1200
 		"hull repair rate" .2
-		"hull energy" .1
-		"hull heat" .3
+		"hull energy" .05
+		"hull heat" .15
 		"mass" 33
 		"drag" .45
 		"heat dissipation" .48

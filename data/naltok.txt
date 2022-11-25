@@ -8,6 +8,14 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+fleet "Xochira Interdictor"
+	government "Xochira"
+	names "xochira"
+	personality
+		heroic vindictive
+	variant
+		"Quicksilver"
+
 shipyard "Naltok Basics"
 	"Anchovy"
 	"Herring"

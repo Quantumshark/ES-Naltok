@@ -2,6 +2,7 @@ government "Naltok"
 	swizzle 5
 	"crew attack" .7
 	"crew defense" 1.7
+	language "Naltok"
 	"player reputation" 1
 
 government "Telashki"
@@ -19,6 +20,7 @@ government "Xochira"
 	color .81 .23 .97
 	"crew attack" .9
 	"crew defense" 1.9
+	language "Naltok"
 	"player reputation" -10
 	"attitude toward"
 		"Naltok" 1

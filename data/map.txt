@@ -25,19 +25,19 @@ system Chategri
 		period 10
 	object
 		sprite planet/rock13
-		distance 264.988
+		distance 664.988
 		period 36.7724
 	object
 		sprite planet/dust6
-		distance 615.988
+		distance 1015.988
 		period 130.329
 	object
 		sprite planet/tethys
-		distance 814.988
+		distance 1314.988
 		period 198.34
 	object
 		sprite planet/gas17
-		distance 2306.88
+		distance 2806.88
 		period 944.539
 		object
 			sprite planet/rock17

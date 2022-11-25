@@ -20,6 +20,7 @@ system Chategri
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Xochira Interdictor" 800
 	object
 		sprite star/f-supergiant
 		period 10
@@ -69,6 +70,7 @@ system Tekochi
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Xochira Interdictor" 800
 	object
 		sprite star/f5-old
 		distance 23.6523
@@ -127,6 +129,7 @@ system Ligoxel
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Xochira Interdictor" 500
 	object
 		sprite star/m4
 		distance 22.8462
@@ -182,6 +185,7 @@ system Roxeka
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Xochira Interdictor" 500
 	object
 		sprite star/k5
 		period 10
@@ -246,6 +250,7 @@ system Choxera
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Xochira Interdictor" 800
 	object
 		sprite star/f8
 		period 10
@@ -301,6 +306,7 @@ system "Xeko Naltok"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Xochira Interdictor" 800
 	object
 		sprite star/k5
 		period 10
@@ -413,6 +419,7 @@ system Lixetog
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Xochira Interdictor" 1200
 	object
 		sprite star/k5
 		distance 45

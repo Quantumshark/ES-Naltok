@@ -17,3 +17,29 @@ mission "First Contact: Naltok (Telashki)"
 		conversation
 			``
 	
+mission "First Contact: Naltok (Xochira)"
+	boarding
+	invisible
+	source
+		government "Xochira"
+	on offer
+		conversation
+			``
+
+mission "Second Contact: Naltok (Telashki)"
+	landing
+	invisible
+	source
+		government "Telashki"
+	on offer
+		conversation
+			``
+	
+mission "Second Contact: Naltok (Xochira)"
+	boarding
+	invisible
+	source
+		government "Xochira"
+	on offer
+		conversation
+			``

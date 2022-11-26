@@ -10,6 +10,8 @@
 
 mission "First Contact: Naltok (Telashki)"
 	landing
+	to offer
+		not "First Contact: Naltok (Xochira): offered"
 	invisible
 	source
 		government "Telashki"
@@ -88,6 +90,9 @@ mission "First Contact: Naltok (Xochira)"
 
 mission "Second Contact: Naltok (Telashki)"
 	landing
+	to offer
+		not "First Contact: Naltok (Telashki): offered"
+		has "First Contact: Naltok (Xochira): offered"
 	invisible
 	source
 		government "Telashki"
@@ -97,6 +102,9 @@ mission "Second Contact: Naltok (Telashki)"
 	
 mission "Second Contact: Naltok (Xochira)"
 	boarding
+	to offer
+		has "First Contact: Naltok (Telashki): offered"
+		not "First Contact: Naltok (Xochira): offered"
 	invisible
 	source
 		government "Xochira"

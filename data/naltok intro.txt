@@ -15,16 +15,76 @@ mission "First Contact: Naltok (Telashki)"
 		government "Telashki"
 	on offer
 		conversation
-			``
+			`This planet is populated by a species of aliens that remind you of giant newts, slightly shorter than you and with large eyes and dark, rubbery skin. They move languidly through the spaceport, which appears to be flooded with around a foot of water, and several of them come in to watch your ship as you land.`
+			choice
+				``
+				``
 	
 mission "First Contact: Naltok (Xochira)"
 	boarding
-	invisible
+	to offer
+		not "First Contact: Naltok (Telashki): offered"
 	source
 		government "Xochira"
+	passengers 1
+	destination
+		government "Xochira"
+	clearance
 	on offer
 		conversation
+			`As you blast open the airlock of the mysterious ship that had been attacking you, you find yourself face to face with an alien and knee-deep in water. The alien resembles a giant newt, with dark, rubbery skin and large eyes, and is slightly shorter than you. The water is lukewarm, and quickly washes over your lower legs.`
+			`	The alien immediately reaches down to its waist, where you see two pistols holstered.`
+			choice
+				`	(Raise my hands.)`
+				`	(Draw my gun.)`
+					goto threaten
+				`	(Draw my gun and fire.)`
+					goto murder
+			`	The alien draws both its pistols and points them at you, but does not fire. After a few seconds, the alien hesitantly lowers first one, then the other`	
+			choice
+				`	"Hello? Can you understand me?"`
+				`	(Say nothing.)`
+					goto silencep
+			`	The alien appears not to understand you. It begins speaking in its own language, then stops after realising you do not understand it.`
+				goto siren
+			label silencep
+			`	The alien stares at you hesitantly, evidently waiting for you to make a move.`
+				goto siren
+			label threaten
+			`	The alien draws both its pistols and points them at you, but does not fire. You both stand in silence, weapons pointed towards each other.`
+			choice
+				`	"Hello? Can you understand me?"`
+				`	(Say nothing.)`
+					goto silence
+			`	The alien does not appear to understand you, but begins speaking in its own language. When it sees that you do not understand, it stops and continues staring.`
+				goto siren
+			label silence
+			`	You and the alien continue holding each other at gunpoint for nearly a minute. The air on the ship is excessively damp, and you realise that neither you nor the alien have blinked.`
+			label siren
+			`	Suddenly, a light on the ceiling begins to flash in a piercing green colour, and a loud unpleasant sound begins playing from a small device on the ceiling.`
+			`	The alien stands motionless for a couple of seconds, then drops its weapons, raises its hands and slowly steps towards you.`
+			choice
+				`	(Do nothing.)`
+				`	(Shoot it.)`
+					goto murder
+			`	The alien walks past you, towards your ship. Moments later, an alarm from your ship indicates that there is a significant radiation leak on the alien ship.`
+			`	You quickly run back to your ship and take off, moments before the alien ship is ripped apart by a nuclear explosion.`
+				launch
+			label murder
+			`	You reach for your gun and pull the trigger. The alien stumbles and falls down, apparently dead.` 
+			`	Perhaps things could have ended differently, but any chance of peace between you and these aliens is now gone. All that remains now is to continue with your plans to either loot or steal this ship.`
+				decline
+	on accept
+		conversation
+			`As soon as it is on your ship, the alien takes some kind of device from its pocket and begins speaking into it quickly. After a few moments, your sensors inform you that the other ships in the system have apparently stopped attacking you.`
+			`	The alien walks over to your starmap and points at itself, then at a particular nearby system. It seems as though it wishes to be taken there.`
+		"reputation: Xochira" >?= 1
+	on fail
+		"reputation: Xochira" <?= -1
+	on complete
+		conversation
 			``
+			
 
 mission "Second Contact: Naltok (Telashki)"
 	landing

@@ -264,8 +264,8 @@ outfit "Ripper Pistols"
 	category "Hand to Hand"
 	cost 26300
 	thumbnail "outfit/naltok pistols"
-	"capture attack" 0.9
-	"capture defense" 1.1
+	"capture attack" 1.1
+	"capture defense" 0.9
 	"unplunderable" 1
 	description "While the Telashki typically rely on their biological enhancements in hand to hand combat, Xochira combatants will usually enter battle armed with a pair of these powerful and reliable machine pistols."
 

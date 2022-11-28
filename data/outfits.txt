@@ -264,8 +264,8 @@ outfit "Ripper Pistols"
 	category "Hand to Hand"
 	cost 26300
 	thumbnail "outfit/naltok pistols"
-	"capture attack" 0.9
-	"capture defense" 1.1
+	"capture attack" 1.1
+	"capture defense" 0.9
 	"unplunderable" 1
 	description "While the Telashki typically rely on their biological enhancements in hand to hand combat, Xochira combatants will usually enter battle armed with a pair of these powerful and reliable machine pistols."
 
@@ -287,6 +287,6 @@ outfit "Acid Grub"
 	"capture defense" 1.2
 	"unplunderable" 1
 	"illegal" 5000000
-	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
+	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat, though they usually find their own augmentations sufficient. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
 	description "While laws regulating the use of biological weapons were not written with this in mind, most governments will cite the excessive suffering of the victims as reason enough why Acid Grubs should be illegal."
 		

@@ -18,10 +18,20 @@ mission "First Contact: Naltok (Telashki)"
 	on offer
 		conversation
 			`This planet is populated by a species of aliens that remind you of giant newts, slightly shorter than you and with large eyes and dark, rubbery skin. They move languidly through the spaceport, which appears to be flooded with around a foot of water, and several of them come in to watch your ship as you land.`
+			`	Several of them have gathered in a crowd outside your ship's door, waiting for you to leave. You notice that two of them, standing near the back of the crowd, are substantially larger than the others and posess an additional pair of arms.`
+			`	As you cautiously open your ship's hatch, the crowd of aliens opens slightly. An individual wearing a tight, dark green outfit made from some kind of plastic-like material steps forward, pauses briefly, then begins speaking to you.`
+			`	"Greetings, visitor. You are human, yes?"`
 			choice
+				`	"Yes, I am human."`
+					goto naltok
+				`	"Wait, how do you know my language?"`
+			`	"Don't worry too much about that. But I will assume from the fact that you responded in the human language when questioned in it that you are indeed human."`
+			label naltok
+			`	The alien steps back slightly and gestures around. "We are the Naltok. These planets are under the control of the Telashki, and we will welcome you so long as you do not cause trouble."`
+			choice
+				`	"Why was I attacked when I entered your space?"`
 				``
-				``
-	
+
 mission "First Contact: Naltok (Xochira)"
 	boarding
 	to offer

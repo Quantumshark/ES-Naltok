@@ -304,7 +304,7 @@ ship "Tetra"
 		"drag" 1.8
 		"heat dissipation" .43
 		"fuel capacity" 500
-		"cargo space" 19
+		"cargo space" 17
 		"outfit space" 217
 		"weapon capacity" 62
 		"engine capacity" 79
@@ -347,7 +347,7 @@ ship "Archerfish"
 		"drag" 2.05
 		"heat dissipation" .41
 		"fuel capacity" 300
-		"cargo space" 37
+		"cargo space" 23
 		"outfit space" 311
 		"weapon capacity" 82
 		"engine capacity" 91
@@ -384,7 +384,7 @@ ship "Piranha"
 		"drag" 3.8
 		"heat dissipation" .38
 		"fuel capacity" 600
-		"cargo space" 46
+		"cargo space" 51
 		"outfit space" 353
 		"weapon capacity" 113
 		"engine capacity" 104
@@ -474,7 +474,7 @@ ship "Barracuda"
 		"hull repair rate" 2.2
 		"hull energy" .55
 		"hull heat" 1.65
-		"required crew" 9
+		"required crew" 7
 		"bunks" 17
 		"mass" 320
 		"drag" 4.9
@@ -582,13 +582,13 @@ ship "Moray"
 		"hull repair rate" 2.8
 		"hull energy" .7
 		"hull heat" 2.1
-		"required crew" 25
-		"bunks" 33
+		"required crew" 22
+		"bunks" 35
 		"mass" 473
 		"drag" 6.3
 		"heat dissipation" .26
 		"fuel capacity" 400
-		"cargo space" 17
+		"cargo space" 87
 		"outfit space" 577
 		"weapon capacity" 262
 		"engine capacity" 113
@@ -619,12 +619,12 @@ ship "Pike"
 		"hull energy" .775
 		"hull heat" 2.325
 		"required crew" 43
-		"bunks" 88
+		"bunks" 91
 		"mass" 562
 		"drag" 8.7
 		"heat dissipation" .2
 		"fuel capacity" 600
-		"cargo space" 116
+		"cargo space" 119
 		"outfit space" 806
 		"weapon capacity" 328
 		"engine capacity" 204
@@ -709,7 +709,7 @@ ship "Kaluga"
 		"drag" 11.9
 		"heat dissipation" .15
 		"fuel capacity" 300
-		"cargo space" 47
+		"cargo space" 41
 		"outfit space" 853
 		"weapon capacity" 403
 		"engine capacity" 178
@@ -743,7 +743,7 @@ ship "Coelacanth"
 		"hull energy" 1.125
 		"hull heat" 3.375
 		"required crew" 114
-		"bunks" 139
+		"bunks" 143
 		"mass" 981
 		"drag" 28.05
 		"heat dissipation" .095

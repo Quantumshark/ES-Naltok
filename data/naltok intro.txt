@@ -18,6 +18,7 @@ mission "First Contact: Naltok (Telashki)"
 	on offer
 		conversation
 			`This planet is populated by a species of aliens that remind you of giant newts, slightly shorter than you and with large eyes and dark, rubbery skin. They move languidly through the spaceport, which appears to be flooded with around a foot of water, and several of them come in to watch your ship as you land.`
+			`	Several of them have gathered in a crowd outside your ship's door, waiting for you to leave. You notice that two of them, standing near the back of the crowd, are substantially larger than the others and posess an additional pair of arms.
 			choice
 				``
 				``

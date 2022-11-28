@@ -342,12 +342,12 @@ ship "Archerfish"
 		"hull energy" .275
 		"hull heat" .825
 		"required crew" 3
-		"bunks" 7
+		"bunks" 5
 		"mass" 184
 		"drag" 2.05
 		"heat dissipation" .41
 		"fuel capacity" 300
-		"cargo space" 23
+		"cargo space" 7
 		"outfit space" 311
 		"weapon capacity" 82
 		"engine capacity" 91

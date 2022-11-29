@@ -704,7 +704,7 @@ ship "Kaluga"
 		"hull energy" .9
 		"hull heat" 2.7
 		"required crew" 71
-		"bunks" 94
+		"bunks" 84
 		"mass" 801
 		"drag" 11.9
 		"heat dissipation" .15

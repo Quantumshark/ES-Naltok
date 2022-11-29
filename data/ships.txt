@@ -709,7 +709,7 @@ ship "Kaluga"
 		"drag" 11.9
 		"heat dissipation" .15
 		"fuel capacity" 400
-		"cargo space" 41
+		"cargo space" 23
 		"outfit space" 853
 		"weapon capacity" 403
 		"engine capacity" 178

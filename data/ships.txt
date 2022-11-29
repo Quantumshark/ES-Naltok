@@ -692,7 +692,7 @@ ship "Hammerhead"
 	bay "Drone"
 	bay "Drone"
 	bay "Drone"
-	description ``
+	description `The Hammerhead is a heavy carrier designed by the Telashki. Though underarmed for its size, the Hammerhead's strength lies in its large complement of Remora fighters. Fully stocked, the Hammerhead can in theory add another 40 weapons to its armament, enough to overwhelm almost any opponent.`
 
 ship "Kaluga"
 	sprite "ship/Kaluga"

@@ -103,7 +103,7 @@ ship "Marlin"
 	turret
 	turret
 	turret
-	description ``
+	description `When Naltok wish to travel in comfort, they do so in the Marlin.`
 
 ship "Sturgeon"
 	sprite "ship/sturgeon"
@@ -124,7 +124,7 @@ ship "Sturgeon"
 		"fuel capacity" 500
 		"cargo space" 368
 		"outfit space" 713
-		"weapon capacity" 279
+		"weapon capacity" 209
 		"engine capacity" 193
 		"heat protection" 3
 		"burn protection" 1
@@ -136,7 +136,7 @@ ship "Sturgeon"
 	turret
 	turret
 	turret
-	description ``
+	description `The Sturgeon is not designed to participate directly in ship to ship combat, although it is adequately resilient to ignore even fairly concentrated fire. Instead, it is a ground assault ship, designed to bring large numbers of troops and vehicles to the surface of a hostile planet.`
 
 ship "Herring"
 	sprite "ship/herring"

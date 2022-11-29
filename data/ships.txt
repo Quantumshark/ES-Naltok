@@ -13,21 +13,21 @@ ship "Anchovy"
 	thumbnail "thumbnail/anchovy"
 	attributes
 		category "Transport"
-		"cost" 320000
+		"cost" 290000
 		"shields" 300
 		"hull" 1100
 		"hull repair rate" .2
 		"hull energy" .05
 		"hull heat" .15
 		"required crew" 1
-		"bunks" 8
+		"bunks" 7
 		"mass" 66
 		"drag" 1.2
 		"heat dissipation" .35
 		"fuel capacity" 500
-		"cargo space" 23
+		"cargo space" 17
 		"outfit space" 110
-		"weapon capacity" 16
+		"weapon capacity" 13
 		"engine capacity" 53
 		"heat protection" 3
 		"burn protection" 1

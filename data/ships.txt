@@ -666,7 +666,7 @@ ship "Hammerhead"
 		"fuel capacity" 400
 		"cargo space" 23
 		"outfit space" 748
-		"weapon capacity" 294
+		"weapon capacity" 254
 		"engine capacity" 186
 		"heat protection" 3
 		"burn protection" 1
@@ -841,7 +841,7 @@ ship "Remora"
 	gun "Breaker"
 	gun "Breaker"
 	gun "Breaker"
-	description `Rather than chasing down enemy vessels at high speed, Remora fighters are intended to serve as a protective screen for a carrier, fighting alongside it instead of at a distance.`
+	description `Rather than chasing down enemy vessels at high speed, Remora fighters are intended to fight alongside a carrier, serving as a protective screen.`
 	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 
 ship "Minnow"

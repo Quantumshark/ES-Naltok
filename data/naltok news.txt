@@ -16,7 +16,7 @@ news "telashki scientist"
 			attributes "urban"
 	name
 		word
-			"Naltok Scientist"
+			"Naltok scientist"
 	message
 		word
 			`"`
@@ -25,5 +25,12 @@ news "telashki scientist"
 			"Have you seen the Star-Worms of Norelon? They're beautiful to watch, but they can be a real headache if they get onto a planet with the right surface conditions."
 			"I wonder if there's alien life out there? Besides you, obviously. And the Quarg. And the Alphas. And the Star-Worms, I suppose. Okay, now I think about it there's probably quite a lot."
 			"I wish the Quarg were more cooperative. They clearly know so much that we don't, but they've never been willing to share."
+			"My transgenic bacterial samples grew 233% more rapidly on average than the control group! That's an improvement of 0.43% over the last batch!"
+			"Would you be willing to bring me some soil samples from your homeworld? I'm studying the connections between soil microbiomes and physiological features of sentient species."
+			"The bacteria in Naltok starship hulls actually combine enzymes isolated from species from four different planets, as well as many totally artificial designs."
+			"Metallurgy? It's an interesting subject, but quite dated. If you ask me, the major advances of this milennium will be in xenobiology, mark my words."
 		word
 			`"`
+
+
+	

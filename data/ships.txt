@@ -647,9 +647,9 @@ ship "Pike"
 	bay "Drone"
 	description `The Pike is a highly versatile heavy warship, an old Naltok design which has remained popular for centuries. Featuring high mobility, impressive toughness and adequate space for passengers and cargo, the Pike's only real weakness is its relatively small number of weapon hardpoints.`
 
-ship "Hammerhead"
-	sprite "ship/hammerhead"
-	thumbnail "thumbnail/hammerhead"
+ship "Mola"
+	sprite "ship/mola"
+	thumbnail "thumbnail/mola"
 	attributes
 		category "Heavy Warship"
 		"cost"
@@ -692,11 +692,11 @@ ship "Hammerhead"
 	bay "Drone"
 	bay "Drone"
 	bay "Drone"
-	description `The Hammerhead is a heavy carrier designed by the Telashki. Though underarmed for its size, the Hammerhead's strength lies in its large complement of Remora fighters. Fully stocked, the Hammerhead can in theory add another 40 weapons to its armament, enough to overwhelm almost any opponent.`
+	description `The Mola is a heavy carrier designed by the Telashki. Though underarmed for its size, the Mola's strength lies in its large complement of Remora fighters. Fully stocked, the Mola can in theory add another 40 weapons to its armament, enough to overwhelm almost any opponent.`
 
 ship "Kaluga"
-	sprite "ship/Kaluga"
-	thumbnail "thumbnail/Kaluga"
+	sprite "ship/kaluga"
+	thumbnail "thumbnail/kaluga"
 	attributes
 		category "Heavy Warship"
 		"cost"

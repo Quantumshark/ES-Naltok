@@ -437,7 +437,7 @@ system Lixetog
 		sprite planet/cloud2
 		distance 420.02
 		period 117.974
-	object
+	object Tokraget
 		sprite planet/desert4
 		distance 644.98
 		period 224.492
@@ -1707,6 +1707,13 @@ planet Shogteg
 	landscape land/desert4
 	description `Though too hot to be habitable, this world has become the site of several major solar-powered factories, producing a wide range of electronics and other equipment to supply the rest of Xochira space.`
 	spaceport `The spaceport here is automated and designed almost entirely for loading and unloading cargo. There is little in the way of amenities, but massive automated machines and swarms of robots make the port appear busier than most inhabited planets.`
+
+planet Tokraget
+	attributes naltok xochira rural research
+	landscape land/fields10-sfiera
+	description `Despite the low gravity, this planet has become a fairly large agricultural settlement, as well as an ideal site for low-gravity research. Crops here reach impressive sizes far earlier than on other planets, and several of the local plants are popular throughout Naltok space for their unique flavours.`
+	description `Thanks in part to their semiaquatic nature, the Naltok do not suffer most of the health problems associated with long-term living in low-gravity that humans would experience.`
+	spaceport `The spaceport here features higher ceilings and more floors than most Naltok buildings, and the locals tower over the visitors - some are almost as tall as you.`
 
 planet Vigechox
 	attributes naltok xochira urban

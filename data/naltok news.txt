@@ -1,0 +1,29 @@
+# Copyright (c) 2022 by Alex di Giovanni
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+news "telashki scientist"
+	location
+		government "Telashki"
+		or
+			attributes "research"
+			attributes "urban"
+	name
+		word
+			"Naltok Scientist"
+	message
+		word
+			`"`
+		word
+			"It amazes me that Humans and Naltok share the same amino acids, DNA bases and translational apparatus! It's a shame we've never managed to get a DNA sample from a Quarg."
+			"Have you seen the Star-Worms of Norelon? They're beautiful to watch, but they can be a real headache if they get onto a planet with the right surface conditions."
+			"I wonder if there's alien life out there? Besides you, obviously. And the Quarg. And the Alphas. And the Star-Worms, I suppose. Okay, now I think about it there's probably quite a lot."
+			"I wish the Quarg were more cooperative. They clearly know so much that we don't, but they've never been willing to share."
+		word
+			`"`

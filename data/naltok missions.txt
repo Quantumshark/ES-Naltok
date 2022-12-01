@@ -17,7 +17,7 @@ mission "Star-Worms 1"
 	destination Kutora
 	on offer
 		conversation
-			``
+			`As you walk through the spaceport on <origin>, `
 	on enter Norelon
 	on complete
 		payment 50000

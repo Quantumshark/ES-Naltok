@@ -288,5 +288,4 @@ outfit "Acid Grub"
 	"unplunderable" 1
 	"illegal" 5000000
 	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat, though they usually find their own augmentations sufficient. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
-	description "While laws regulating the use of biological weapons were not written with this in mind, most governments will cite the excessive suffering of the victims as reason enough why Acid Grubs should be illegal."
-		
+	description "While laws regulating the use of biological weapons were not written with this in mind, most governments will cite the excessive suffering of the victims as reason enough why Acid Grubs should be illegal. As such, you are likely to be the victim of a heavy fine if you are caught with it outside Telashki space."

@@ -30,8 +30,11 @@ mission "First Contact: Naltok (Telashki)"
 			`	The alien steps back slightly and gestures around. "We are the Naltok. These planets are under the control of the Telashki, and we will welcome you so long as you do not cause trouble."`
 			choice
 				`	"Why was I attacked when I entered your space?"`
-				`	""`
-			
+					goto xochira
+				`	"If you are all Naltok, who are the Telashki?"`
+			`	"My apologies, I may have explained that poorly. The Telashki are the government of this region - equivalent to your 'Republic'. Naltok is the name of our species."`
+			label xochira
+			`	"You must have entered our space from the south, yes? If so, you no doubt encountered the Xochira. They are xenophobes and technophobes who rejected our leadership, and now attack anyone attempting to enter or leave Naltok space. If you do not wish to face them again, you are welcome to stay here in our space."`
 
 #mission "First Contact: Naltok (Xochira)"
 #	boarding

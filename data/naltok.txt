@@ -13,8 +13,7 @@ fleet "Xochira Interdictor"
 	names "xochira"
 	personality
 		heroic vindictive
-	variant
-		"Quicksilver"
+
 
 shipyard "Naltok Basics"
 	"Anchovy"

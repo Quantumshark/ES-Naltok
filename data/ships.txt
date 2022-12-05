@@ -60,7 +60,7 @@ ship "Mackerel"
 		"heat dissipation" .31
 		"fuel capacity" 700
 		"cargo space" 38
-		"outfit space" 210
+		"outfit space" 257
 		"weapon capacity" 59
 		"engine capacity" 93
 		"heat protection" 3
@@ -69,7 +69,8 @@ ship "Mackerel"
 
 	gun
 	turret
-	description ``
+	description `The Mackerel is a fairly unremarkable mid-range transport vessel, decently mobile and with adequate passenger space. What sets apart the Mackerel, and the reason it is such a popular and well-known ship among the Naltok, is its history.`
+	description `In the early days of the war, many Naltok civilians on both sides found themselves stranded on the wrong side of the frontline or separated from their friends and family. Merchant captains saw the opportunity this presented and, with implicit approval from both of the warring governments, rallied a fleet of Mackerel transport vessels to ferry citizens to their desired side of the boundary.`
 
 ship "Marlin"
 	sprite "ship/marlin"
@@ -136,7 +137,7 @@ ship "Sturgeon"
 	turret
 	turret
 	turret
-	description `The Sturgeon is not designed to participate directly in ship to ship combat, although it is adequately resilient to ignore even fairly concentrated fire. Instead, it is a ground assault ship, designed to bring large numbers of troops and vehicles to the surface of a hostile planet.`
+	description `The Sturgeon is not designed to participate directly in ship to ship combat, although it is sufficiently resilient to ignore even fairly concentrated fire. Instead, it is a ground assault ship, designed to bring large numbers of troops and vehicles to the surface of a hostile planet.`
 
 ship "Herring"
 	sprite "ship/herring"
@@ -509,7 +510,7 @@ ship "Barracuda"
 	gun
 	gun "Shrapnel Torpedo Launcher"
 	gun "Shrapnel Torpedo Launcher"
-	description ``
+	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull and only a single pair of forward-facing guns for close combat.`
 
 ship "Barracuda" "Barracuda (Halt-Swarm)"
 	outfits
@@ -571,7 +572,7 @@ ship "Albacore"
 	bay "Fighter"
 	bay "Fighter"
 	bay "Fighter"
-	description ``
+	description `With all their facilities for large ship production being used to produce the new Kaluga, the Xochira were forced to compromise and build this much smaller counterpart to the Mola heavy carriers of the Telashki. While less powerful individually, the Albacore does have a sizable edge in terms of its cost - an oft-repeated statistic among Xochira is that two Albacores are less expensive than one Mola, but between them they carry more fighters.`
 
 ship "Moray"
 	sprite "ship/moray"
@@ -711,7 +712,7 @@ ship "Kaluga"
 		"drag" 11.9
 		"heat dissipation" .15
 		"fuel capacity" 400
-		"cargo space" 23
+		"cargo space" 0
 		"outfit space" 853
 		"weapon capacity" 403
 		"engine capacity" 178
@@ -731,7 +732,7 @@ ship "Kaluga"
 	turret
 	turret
 	turret
-	description ``
+	description `No thought was given to questions of range, peacetime utility or speed when the Kaluga was designed. Instead, every effort available was focused on making the toughest and deadliest single warship anywhere in Naltok space.`
 
 ship "Coelacanth"
 	sprite "ship/coelacanth"
@@ -775,7 +776,7 @@ ship "Coelacanth"
 	bay "Drone"
 	bay "Drone"
 	bay "Drone"
-	description ``
+	description `The original design for the Coelacanth predates the war by a few centuries, having initially been a proposal for a city-ship to house Naltok populations in the event that their planets became too crowded. After many rounds of adjustments and updates, focusing particularly on militarisation, this colossal warship is the result.`
 
 ship "Lamprey"
 	sprite "ship/lamprey"

@@ -664,11 +664,11 @@ system Vokegol
 	object
 		sprite star/f-dwarf
 		distance 20
-		period 10
+		period 5
 	object
 		sprite star/f-dwarf
 		distance 20
-		period 10
+		period 5
 		offset 180
 	object
 		sprite planet/dust7

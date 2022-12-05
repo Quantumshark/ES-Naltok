@@ -411,6 +411,7 @@ outfit "Star-Worm Pod"
 		"velocity" 9
 		"lifetime" 100
 		"burst reload" 240
+		"burst count" 2
 		"reload" 480
 		"firing energy" 20
 		"firing heat" 10

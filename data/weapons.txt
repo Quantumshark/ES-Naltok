@@ -107,6 +107,30 @@ effect "breaker impact"
 	"random velocity" 1
 	"velocity scale" -.1
 
+outfit "Steel-Render"
+	category "Turrets"
+	cost
+	thumbnail "outfit/steel-render"
+	"mass" 63
+	"outfit space" -63
+	"weapon capacity" -63
+	"turret mounts" -1
+	weapon
+		sprite "projectile/steel-render"
+		sound "steel-render"
+		"hit effect" "steel-render hit"
+		"live effect" "steel-render live"
+		"inaccuracy" 1
+		"velocity" 11
+		"lifetime" 86
+		"reload" 75
+		"firing energy" 147
+		"firing heat" 96
+		"shield damage" 186
+		"hull damage" 394
+		"corrosion damage" 5.2
+	description "Although it is minimally effective against shields, the Naltok Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
+
 outfit "Drainer"
 	category "Guns"
 	cost 479300
@@ -460,7 +484,7 @@ outfit "Naltok Anti-Missile"
 		"reload" 3
 		"firing energy" 2
 		"firing heat" 1.5
-	description "The Naltok anti-missile was originally designed as a defence against the deadly Shrapnel Torpedoes. While the heavily armoured torpedoes themselves were assumed to be largely invulnerable to anti-missile weapons, the damage they caused could be mitigated by taking down the incoming chunks of shrapnel before they could hit. More recently, it has begun to see increased usage against the Halt-Swarm missiles favoured by the Xochira."
+	description "The Naltok anti-missile was originally designed as a defence against the deadly Shrapnel Torpedoes. While the heavily armoured torpedoes themselves were assumed to be largely invulnerable to anti-missile weapons, the damage they caused could be mitigated by taking down the incoming chunks of shrapnel before they could hit. More recently, it has begun to see increased usage against the Halt-Swarm missiles used by the Xochira."
 
 effect "naltok anti-missile"
 	sprite "effect/wanderer anti-missile"

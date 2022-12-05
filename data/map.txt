@@ -641,7 +641,7 @@ system Norelon
 system Vokegol
 	pos -1093 -238
 	government "Xochira"
-	habitable 86.68
+	habitable 203.68
 	link Loxelon
 	link Norelon
 	link Tokilok
@@ -662,8 +662,14 @@ system Vokegol
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/m-dwarf
+		sprite star/f-dwarf
+		distance 20
 		period 10
+	object
+		sprite star/f-dwarf
+		distance 20
+		period 10
+		offset 180
 	object
 		sprite planet/dust7
 		distance 159
@@ -959,7 +965,7 @@ system Tikelo
 system Tokilok
 	pos -1121 -280
 	government "Telashki"
-	habitable 233.28
+	habitable 33.28
 	link Vokegol
 	link Tikelo
 	asteroids "large rock" 5 2.9568
@@ -975,7 +981,7 @@ system Tokilok
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/b-dwarf
+		sprite star/m-dwarf
 		period 10
 	object
 		sprite planet/dust6

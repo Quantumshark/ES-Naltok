@@ -46,7 +46,7 @@ outfit "Breaker Turret"
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
-		"turret turn" 4.4
+		"turret turn" 5.3
 		"velocity" 11
 		"random velocity" 2
 		"lifetime" 46
@@ -120,6 +120,7 @@ outfit "Steel-Render"
 		sound "steel-render"
 		"hit effect" "steel-render hit"
 		"live effect" "steel-render live"
+		"turret turn" 2.15
 		"inaccuracy" 1
 		"velocity" 11
 		"lifetime" 86

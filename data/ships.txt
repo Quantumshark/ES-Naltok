@@ -713,7 +713,7 @@ ship "Kaluga"
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 0
-		"outfit space" 853
+		"outfit space" 894
 		"weapon capacity" 403
 		"engine capacity" 178
 		"heat protection" 3

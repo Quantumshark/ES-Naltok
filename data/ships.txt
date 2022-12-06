@@ -747,9 +747,9 @@ ship "Coelacanth"
 		"hull heat" 3.375
 		"required crew" 114
 		"bunks" 143
-		"mass" 981
+		"mass" 1181
 		"drag" 28.05
-		"heat dissipation" .095
+		"heat dissipation" .11
 		"fuel capacity" 500
 		"cargo space" 98
 		"outfit space" 1104

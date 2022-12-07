@@ -1,9 +1,10 @@
 government "Naltok"
 	swizzle 5
+	color .03 .25 .91
 	"crew attack" .7
 	"crew defense" 1.7
 	language "Naltok"
-	"player reputation" 1
+	"player reputation" 5
 
 government "Telashki"
 	swizzle 3

@@ -553,7 +553,7 @@ ship "Albacore"
 		"drag" 6.7
 		"heat dissipation" .29
 		"fuel capacity" 700
-		"cargo space" 23
+		"cargo space" 17
 		"outfit space" 398
 		"weapon capacity" 145
 		"engine capacity" 121

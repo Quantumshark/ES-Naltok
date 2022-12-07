@@ -119,7 +119,7 @@ outfit "Steel-Render"
 		sprite "projectile/steel-render"
 		sound "steel-render"
 		"hit effect" "steel-render hit"
-		"live effect" "steel-render live"
+		"live effect" "steel-render live" 9
 		"inaccuracy" 1
 		"velocity" 11
 		"lifetime" 86
@@ -129,7 +129,9 @@ outfit "Steel-Render"
 		"shield damage" 186
 		"hull damage" 394
 		"corrosion damage" 5.2
-	description "Although it is only minimally effective against shields, the Naltok Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
+	description "Although it is only minimally effective against shields, the Naltok's famed Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
+
+
 
 outfit "Drainer"
 	category "Guns"

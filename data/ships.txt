@@ -615,7 +615,7 @@ ship "Pike"
 	thumbnail "thumbnail/pike"
 	attributes
 		category "Heavy Warship"
-		"cost"
+		"cost" 11678000
 		"shields" 6300
 		"hull" 46300
 		"hull repair rate" 3.1
@@ -634,7 +634,18 @@ ship "Pike"
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Triple Breaker Turret"
+		"Steel-Render" 2
+		"Shrapnel Torpedo Launcher" 4
+		"Shrapnel Torpedo Tube" 3
+		"Shrapnel Torpedo" 56
+		
+		"Crayfish Reactor"
+		"Pond Battery" 2
+		"River Shield Generator" 2
 
+		"Iguana Thruster"
+		"Monitor Steering"
 		"Hyperdrive"
 
 	gun

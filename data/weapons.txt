@@ -109,7 +109,7 @@ effect "breaker impact"
 
 outfit "Steel-Render"
 	category "Turrets"
-	cost
+	cost 1413000
 	thumbnail "outfit/steel-render"
 	"mass" 63
 	"outfit space" -63

@@ -125,8 +125,8 @@ outfit "Steel-Render"
 		"velocity" 11
 		"lifetime" 86
 		"reload" 75
-		"firing energy" 147
-		"firing heat" 96
+		"firing energy" 187
+		"firing heat" 136
 		"shield damage" 186
 		"hull damage" 394
 		"corrosion damage" 5.2

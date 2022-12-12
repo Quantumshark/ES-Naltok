@@ -63,7 +63,7 @@ mission "First Contact: Naltok (Telashki)"
 			`	The Alpha speaks up first. "There's no need to be so uncooperative; we truly mean you no harm. I understand that the years of propaganda you must have been subjected to back in Human space are not easy to overcome, but I must ask that you try to have an open mind. My name is Izarna."`
 			`	The Naltok joins in before you can respond "My name is Choshkal."
 			label tellname
-			`	`
+			`	The Alpha smiles. "My name is Izarna."`
 	on enter
 		"reputation: Telashki" <?= -10
 		fail

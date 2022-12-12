@@ -75,7 +75,7 @@ outfit "Triple Breaker Turret"
 		"inaccuracy" 0
 		"submunition" "Breaker Submunition" 3
 		"turret turn" 2.9
-		"velocity override" 12
+		"velocity override" 11
 		"lifetime" 0
 		"reload" 11
 		"firing energy" 12
@@ -203,7 +203,7 @@ outfit "Halt-Swarm Launcher"
 		"radar tracking" .5
 		"shield damage" 97
 		"hull damage" 97
-		"slowing damage" 12
+		"slowing damage" 8
 		"missile strength" 3
 	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
 
@@ -239,7 +239,7 @@ outfit "Halt-Swarm Pod"
 		"radar tracking" .5
 		"shield damage" 97
 		"hull damage" 97
-		"slowing damage" 20
+		"slowing damage" 8
 		"missile strength" 3
 	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
@@ -412,7 +412,7 @@ outfit "Star-Worm Launcher"
 		"reload" 240
 		"firing energy" 20
 		"firing heat" 10
-		"discharge damage" 90
+		"discharge damage" 70
 		"trigger radius" 50
 		"blast radius" 150
 		"missile strength" 111
@@ -442,7 +442,7 @@ outfit "Star-Worm Pod"
 		"reload" 480
 		"firing energy" 20
 		"firing heat" 10
-		"discharge damage" 90
+		"discharge damage" 70
 		"trigger radius" 50
 		"blast radius" 150
 		"missile strength" 111

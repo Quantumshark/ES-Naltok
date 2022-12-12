@@ -136,6 +136,8 @@ outfit "Steel-Render"
 
 outfit "Drainer"
 	category "Guns"
+	licenses 
+		"Xochira"
 	cost 479300
 	thumbnail "outfit/drainer"
 	"mass" 41
@@ -173,6 +175,8 @@ effect "drainer hit"
 
 outfit "Halt-Swarm Launcher"
 	category "Secondary Weapons"
+	licenses 
+		"Xochira"
 	cost 213300
 	thumbnail "outfit/halt-swarm launcher"
 	"mass" 13
@@ -209,6 +213,8 @@ outfit "Halt-Swarm Launcher"
 
 outfit "Halt-Swarm Pod"
 	category "Secondary Weapons"
+	licenses 
+		"Xochira"
 	cost 73400
 	thumbnail "outfit/halt-swarm pod"
 	"mass" 2
@@ -246,6 +252,8 @@ outfit "Halt-Swarm Pod"
 
 outfit "Halt-Swarm Missile"
 	category "Ammunition"
+	licenses 
+		"Xochira"
 	cost 1270
 	thumbnail "outfit/halt-swarm missile"
 	"mass" .5
@@ -254,6 +262,8 @@ outfit "Halt-Swarm Missile"
 
 outfit "Halt-Swarm Rack"
 	category "Ammunition"
+	licenses 
+		"Xochira"
 	cost 11300
 	thumbnail "outfit/halt-swarm storage"
 	"mass" 3

@@ -262,6 +262,8 @@ outfit "Monitor Steering"
 outfit "Ripper Pistols"
 	plural "Ripper Pistols"
 	category "Hand to Hand"
+	licenses 
+		"Xochira"
 	cost 26300
 	thumbnail "outfit/naltok pistols"
 	"capture attack" 1.1
@@ -271,6 +273,8 @@ outfit "Ripper Pistols"
 
 outfit "Shredder Minigun"
 	category "Hand to Hand"
+	licenses 
+		"Xochira"
 	cost 80800
 	thumbnail "outfit/naltok minigun"
 	"required crew" 1

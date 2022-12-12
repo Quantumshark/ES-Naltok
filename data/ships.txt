@@ -338,6 +338,8 @@ ship "Archerfish"
 	thumbnail "thumbnail/archerfish"
 	attributes
 		category "Light Warship"
+		licenses 
+			"Xochira"
 		"cost" 1896000
 		"shields" 2100
 		"hull" 8700
@@ -541,6 +543,8 @@ ship "Albacore"
 	thumbnail "thumbnail/albacore"
 	attributes
 		category "Medium Warship"
+		licenses 
+			"Xochira"
 		"cost"
 		"shields" 4300
 		"hull" 16100
@@ -711,6 +715,8 @@ ship "Kaluga"
 	thumbnail "thumbnail/kaluga"
 	attributes
 		category "Heavy Warship"
+		licenses 
+			"Xochira"
 		"cost"
 		"shields" 8600
 		"hull" 50800
@@ -794,6 +800,8 @@ ship "Lamprey"
 	thumbnail "thumbnail/lamprey"
 	attributes
 		category "Fighter"
+		licenses 
+			"Xochira"
 		"cost"
 		"shields" 300
 		"hull" 2200

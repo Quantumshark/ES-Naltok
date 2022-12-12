@@ -35,7 +35,7 @@ mission "First Contact: Naltok (Telashki)"
 			`	"My apologies, I may have explained that poorly. The Telashki are the government of this region - equivalent to your 'Republic'. Naltok is the name of our species."`
 			label xochira
 			`	"You must have entered our space from the south, yes? If so, you no doubt encountered the Xochira. They are xenophobes and technophobes who rejected our leadership, and now attack anyone attempting to enter or leave Naltok space. If you do not wish to face them again, you are welcome to stay here in our space. Alternatively, if you wish to leave, we are happy to sell you weapons and warships to aid you on your journey back."`
-			`	As the Naltok continues talking, the crowd behind them parts to allow a taller, more humanlike individual through. As they approach, you see brief glimpses of green skin, and before you have a chance to respond you are face to face with an Alpha. She is slightly taller than you, with short hair, and is wearing waterproof trousers and a pair of wellington boots.`
+			`	As the Naltok continues talking, the crowd behind them parts to allow a taller, more humanlike individual through. As they approach, you see brief glimpses of green skin, and before you have a chance to respond you are face to face with an Alpha. She is slightly taller than you, with short hair, and is wearing waterproof trousers and a pair of rubber boots.`
 			choice
 				`	(Draw my weapon.)`
 					goto weapon
@@ -59,9 +59,11 @@ mission "First Contact: Naltok (Telashki)"
 			choice
 				`	"My name is <first> <last>"`
 					goto tellname
-				`	I would prefer not to tell you my name`
+				`	"I would prefer not to tell you my name."`
 			`	The Alpha speaks up first. "There's no need to be so uncooperative; we truly mean you no harm. I understand that the years of propaganda you must have been subjected to back in Human space are not easy to overcome, but I must ask that you try to have an open mind. My name is Izarna."`
 			`	The Naltok joins in before you can respond "My name is Choshkal."
+			label tellname
+			`	`
 	on enter
 		"reputation: Telashki" <?= -10
 		fail

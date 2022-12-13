@@ -15,6 +15,8 @@ government "Telashki"
 	"attitude toward"
 		"Naltok" 1
 		"Xochira" -.1
+	illegals
+		ignore "Acid Grub"
 
 government "Xochira"
 	swizzle 4

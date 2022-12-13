@@ -290,6 +290,11 @@ outfit "Acid Grub"
 	"capture attack" 2.6
 	"capture defense" 1.2
 	"unplunderable" 1
-	"illegal" 5000000
+	"illegal" 500000
 	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat, though they usually find their own augmentations sufficient. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
-	description "While laws regulating the use of biological weapons were not written with this in mind, most governments will cite the excessive suffering of the victims as reason enough why Acid Grubs should be illegal. As such, you are likely to be the victim of a heavy fine if you are caught with it outside Telashki space."
+	description "While laws regulating the use of biological weapons were not written with this in mind, most governments will cite the excessive suffering of the victims as reason enough why Acid Grubs should be illegal. As such, you are likely to be subject to a heavy fine if you are caught with one outside Telashki space."
+
+outfit "Xochira License"
+	category "Licenses"
+	thumbnail "outfit/xochira license"
+	description "The Xochira are very protective of the ships and outfits that they developed after seceding from the Telashki. This token is proof that you have earned their trust, and that as a result they are now willing to sell you their newest technology."

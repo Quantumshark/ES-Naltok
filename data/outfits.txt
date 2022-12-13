@@ -264,7 +264,7 @@ outfit "Ripper Pistols"
 	category "Hand to Hand"
 	licenses 
 		"Xochira"
-	cost 26300
+	cost 16300
 	thumbnail "outfit/naltok pistols"
 	"capture attack" 1.1
 	"capture defense" 0.9
@@ -275,7 +275,7 @@ outfit "Shredder Minigun"
 	category "Hand to Hand"
 	licenses 
 		"Xochira"
-	cost 80800
+	cost 57800
 	thumbnail "outfit/naltok minigun"
 	"required crew" 1
 	"capture attack" 1.7
@@ -285,7 +285,7 @@ outfit "Shredder Minigun"
 	
 outfit "Acid Grub"
 	category "Hand to Hand"
-	cost 114900
+	cost 34900
 	thumbnail "outfit/naltok acid grub"
 	"capture attack" 2.6
 	"capture defense" 1.2

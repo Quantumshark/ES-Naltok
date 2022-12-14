@@ -1663,8 +1663,8 @@ planet "Kuragu Xochet"
 planet Kutora
 	attributes naltok telashki research
 	landscape land/fields3
-	description `In addition to being a fairly large population center, this world is also the home of the Ministry of Alien Life. The location close to the Quarg ringworld allows the Ministry to easily monitor Quarg activity in the neighboring system, given the apparent lack of any Quarg desire to participate in the interspecies cooperation which had been the original intent behind the location.`
-	spaceport `Large parts of the spaceport are designed to mimic Quarg architecture, and there is ongoing work on creating a section based on human architecture.`
+	description `In addition to being a fairly large population center, this world is also the home of the Ministry of Alien Life. The location close to the Quarg ringworld allows the Ministry to easily monitor Quarg activity in the neighboring system, though the original intent was to facilitate interspecies cooperation.`
+	spaceport `Large parts of the spaceport are designed to mimic Quarg architecture, with high ceilings and smooth, meticulously cleaned panels. There is ongoing work on creating a section inspired by human architecture, although the sections that have been completed so far feel distinctly uncanny.`
 	outfitter "Naltok Intermediate"
 	outfitter "Telashki Advanced"
 

@@ -1709,10 +1709,10 @@ planet Shajoli
 	government Uninhabited
 
 planet Shogteg
-	attributes naltok factory
+	attributes naltok research
 	landscape land/desert4
-	description `Though too hot to be habitable, this world has become the site of several major solar-powered factories, producing a wide range of electronics and other equipment to supply the rest of Xochira space.`
-	spaceport `The spaceport here is automated and designed almost entirely for loading and unloading cargo. There is little in the way of amenities, but massive automated machines and swarms of robots make the port appear busier than most inhabited planets.`
+	description `Though too hot to be habitable by most species, this planet nonetheless harbours a fairly diverse biosphere comprised entirely of temperature-tolerant bacteria. Most Naltok biotechnology can trace at least part of its design to the extremely thermostable proteins produced by the bacteria here.`
+	spaceport `The spaceport here is quite small, with docking tubes that connect your ship directly to the largest of the research centres on this planet. Despite the hostile surface conditions, this planet is home to several such locations, as the work of identifying and sequencing every bacterial species here is still ongoing.`
 
 planet Tokraget
 	attributes naltok xochira rural research

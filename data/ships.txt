@@ -552,12 +552,12 @@ ship "Albacore"
 		"hull energy" .525
 		"hull heat" 1.575
 		"required crew" 12
-		"bunks" 23
+		"bunks" 19
 		"mass" 406
-		"drag" 6.7
+		"drag" 6.4
 		"heat dissipation" .29
 		"fuel capacity" 700
-		"cargo space" 17
+		"cargo space" 12
 		"outfit space" 398
 		"weapon capacity" 145
 		"engine capacity" 121

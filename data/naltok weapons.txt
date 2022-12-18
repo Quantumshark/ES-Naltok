@@ -133,21 +133,21 @@ outfit "Steel-Render"
 
 
 
-outfit "Drainer"
+outfit "Leech-Ray"
 	category "Guns"
 	licenses 
 		"Xochira"
 	cost 479300
-	thumbnail "outfit/drainer"
+	thumbnail "outfit/leech-ray"
 	"mass" 41
 	"outfit space" -41
 	"weapon capacity" -41
 	"gun ports" -1
 	weapon
 		"cluster"
-		sprite "projectile/drainer"
+		sprite "projectile/leech-ray"
 		sound "drainer"
-		"hit effect" "drainer hit"
+		"hit effect" "leech-ray hit"
 		"inaccuracy" .1
 		"velocity" 320
 		"lifetime" 1
@@ -159,11 +159,11 @@ outfit "Drainer"
 		"shield damage" 12.1
 		"hull damage" 7.9
 		"fuel damage" 3.3
-	description "The Drainer is the first weapon developed by the Xochira since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
+	description "The Leech-Ray is the first weapon developed by the Xochira since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
 
 
-effect "drainer hit"
-	sprite "effect/drainer hit"
+effect "leech-ray hit"
+	sprite "effect/leech-ray hit"
 		"no repeat"
 		"frame rate" 20
 	"lifetime" 9

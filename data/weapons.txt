@@ -125,11 +125,10 @@ outfit "Steel-Render"
 		"velocity" 11
 		"lifetime" 86
 		"reload" 75
-		"firing energy" 187
-		"firing heat" 136
+		"firing energy" 137
+		"firing heat" 96
 		"shield damage" 186
-		"hull damage" 394
-		"corrosion damage" 5.2
+		"hull damage" 614
 	description "Although it is only minimally effective against shields, the Naltok's famed Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
 
 

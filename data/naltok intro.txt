@@ -43,10 +43,10 @@ mission "First Contact: Naltok (Telashki)"
 					goto waiting
 				`	"Hello, what brings you here?"`
 			`	The Alpha seems briefly surprised, perhaps not expecting you to strike up a conversation. "Same as you, I believe. I travelled here with a Jump Drive, then found my exit blocked by the Xochira and their 'Archerfish'. Figured I'd be better off staying here than getting myself killed trying to escape. Now that we're stuck here together, what's your name?"`
-			goto name
+				goto name
 			label waiting
 			`	After a few seconds of silent stares, the Naltok begins talking with a distinct enthusiasm in a clear attempt to defuse the situation before things go downhill. "Hey, I realise we don't even know each others' names." They look back and forth expectantly between you and the Alpha.`
-			goto name
+				goto name
 			label weapon
 			`	The Alpha knocks your weapon out of your hand with laughable ease, then leans in closer and whispers to you. "It doesn't surprise me that that's your initial response, but I urge you to reconsider. Right now, we're both prisoners of the Xochira, whether we like it or not. You've nothing to gain by starting a fight."`
 			choice

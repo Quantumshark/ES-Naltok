@@ -1671,7 +1671,7 @@ planet Kutora
 planet Legash
 	attributes naltok telashki research
 	landscape land/water12
-	description `This planet, with its abnormally deep oceans which are home to an extremely wide range of animal life, is also home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land.`
+	description `This planet, with its abnormally deep oceans which are home to an extremely wide range of animal life, is home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land.`
 	spaceport `The spaceport is located near the base of the Ministry building, which also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding to the present day.`
 	outfitter "Naltok Basics"
 	outfitter "Telashki Advanced"

@@ -80,7 +80,7 @@ outfit "Triple Breaker Turret"
 		"reload" 11
 		"firing energy" 12
 		"firing heat" 6
-	description "This turret carrying three Breakers is a common sight on medium Naltok ships."
+	description "This turret carrying three Breakers is a common sight on medium Naltok ships, and is moderately effective against hull armour."
 
 outfit "Breaker Submunition"
 	weapon

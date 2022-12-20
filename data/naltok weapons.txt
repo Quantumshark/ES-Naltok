@@ -29,7 +29,7 @@ outfit "Breaker"
 		"firing heat" 2
 		"shield damage" 5.5
 		"hull damage" 12
-	description "The Breaker is in many ways the staple of warfare for the Naltok. Its limited effectiveness against shields is largely irrelevant when facing Naltok ships, so overall it serves as a fairly effective weapon for its small size."
+	description "The Breaker is primarily designed for mining, though it is quite commonly used as a small weapon. As with most Naltok technology, the designers prioritised efficiency over power, resulting in a weapon that compares unfavourably to even a human beam laser or energy blaster - particularly in its near-total inability to damage shields."
 
 outfit "Breaker Turret"
 	category "Turrets"

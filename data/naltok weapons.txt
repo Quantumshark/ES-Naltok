@@ -131,7 +131,28 @@ outfit "Steel-Render"
 		"hull damage" 614
 	description "Although it is only minimally effective against shields, the Naltok's famed Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
 
-
+outfit "Sky-Shredder"
+	category "Turrets"
+	cost
+	thumbnail "outfit/sky-shredder"
+	"mass" 42
+	"outfit space" -42
+	"weapon capacity" -42
+	"turret mounts" -1
+	weapon
+		sprite "projectile/sky-shredder"
+		sound "sky-shredder"
+		"hit effect" "sky-shredder hit"
+		"turret turn" 3.2
+		"inaccuracy" 3
+		"velocity" 17
+		"lifetime" 21
+		"reload" 7
+		"firing energy" 15
+		"firing heat" 12
+		"shield damage" 37
+		"hull damage" 31
+	description ""
 
 outfit "Leech-Ray"
 	category "Guns"

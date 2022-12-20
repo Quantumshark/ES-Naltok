@@ -1,0 +1,12 @@
+trade
+	commodity "Woods"
+		"chipboard"
+		"high-density fiberboard"
+		"high-grade lumber"
+		"medium-density fiberboard"
+		"oriented strand board"
+		"plywood"
+		"sawdust"
+		"unprocessed wood"
+		"wooden flooring"
+		"wooden furniture"

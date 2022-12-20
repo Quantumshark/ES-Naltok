@@ -7,3 +7,138 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+mission "Telashki Delivery Food Small"
+	name "Delivery to <planet>"
+	job
+	repeat
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo Food 10 3 .3
+	to offer
+		random < 70
+	source
+		attributes telashki rural
+	destination
+		distance 1 5
+		attributes telashki
+		not attributes rural
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"
+
+mission "Telashki Delivery Food Large"
+	name "Delivery to <planet>"
+	job
+	repeat
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo Food 20 4 .2
+	to offer
+		random < 60
+	source
+		attributes telashki rural
+	destination
+		distance 1 5
+		attributes telashki
+		not attributes rural
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"
+
+mission "Lumber Delivery Telashki Minor"
+	name "Delivery to <planet>"
+	job
+	repeat
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo Woods 5 1 .4
+	to offer
+		random < 80
+	source Chireke
+	destination
+		distance 1 8
+		attributes telashki
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"
+
+mission "Lumber Delivery Telashki Medium"
+	name "Delivery to <planet>"
+	job
+	repeat
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo Woods 15 3 .25
+	to offer
+		random > 30
+	source Chireke
+	destination
+		distance 1 8
+		attributes telashki
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"
+
+mission "Lumber Delivery Telashki Massive Rush"
+	name "Large rush delivery to <planet>"
+	job
+	deadline 1 1
+	repeat
+	description "Deliver <cargo> to <destination> by <date>. Payment is <payment>."
+	cargo Woods 40 5 .1
+	to offer
+		random < 15
+	source Chireke
+	destination
+		distance 1 8
+		attributes telashki
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment 15000 250
+		dialog phrase "generic cargo delivery payment"
+
+mission "Xochira Delivery Food Small"
+	name "Delivery to <planet>"
+	job
+	repeat
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo Food 10 3 .3
+	to offer
+		random < 70
+	source
+		attributes xochira rural
+	destination
+		distance 1 5
+		attributes xochira
+		not attributes rural
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"
+
+mission "Xochira Delivery Food Large"
+	name "Delivery to <planet>"
+	job
+	repeat
+	description "Deliver <cargo> to <destination>. Payment is <payment>."
+	cargo Food 20 4 .2
+	to offer
+		random < 60
+	source
+		attributes xochira rural
+	destination
+		distance 1 5
+		attributes xochira
+		not attributes rural
+	on visit
+		dialog phrase "generic cargo on visit"
+	on complete
+		payment
+		dialog phrase "generic cargo delivery payment"

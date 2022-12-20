@@ -780,11 +780,11 @@ system Keloxen
 		sprite planet/rock9
 		distance 151.41
 		period 33.7808
-	object
+	object Legash
 		sprite planet/ocean0
 		distance 472.97
 		period 186.504
-		object
+		object Shochox
 			sprite planet/ice7
 			distance 148
 			period 21.7576
@@ -1668,6 +1668,14 @@ planet Kutora
 	outfitter "Naltok Intermediate"
 	outfitter "Telashki Advanced"
 
+planet Legash
+	attributes naltok telashki research
+	landscape land/water12
+	description `This planet, with its abnormally deep oceans which are home to an extremely wide range of animal life, is also home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land.`
+	spaceport `The spaceport is located near the base of the Ministry building, which also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding to the present day.`
+	outfitter "Naltok Basics"
+	outfitter "Telashki Advanced"
+
 planet Lonechox
 	attributes naltok xochira rural
 	landscape land/sea17-harro
@@ -1707,6 +1715,15 @@ planet Shajoli
 	landscape land/lava0
 	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic, and have since resisted millenia of cleanup attempts.`
 	government Uninhabited
+
+planet Shochox
+	attributes naltok telashki urban factory
+	landscape land/city12
+	description `This unusually large moon is home to a wide range of large manufacturing industries, many of which benefit from the slightly lower gravity here, and also to several fairly large cities.`
+	description `Recently, a fairly large mining operation has begun here. The Telashki have been forced to begin harvesting deposits which they had previously overlooked thanks to their war with the Xochira, and a very deep deposit of nickel here drew the attention of the Ministry of Minerals.`
+	spaceport `The spaceport is clearly not designed to handle this much traffic. A queue of Minnow drones waiting to unload construction resources stretches off into the sky, and you can make out the sillhouettes of several Flounder heavy freighters waiting in the upper atmosphere.`
+	outfitter "Naltok Intermediate"
+	outfitter "Telashki Intermediate"
 
 planet Shogteg
 	attributes naltok xochira research

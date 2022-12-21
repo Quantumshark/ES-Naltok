@@ -1308,7 +1308,7 @@ system Lekonet
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/m-giant
+		sprite star/k-giant
 		period 10
 	object
 		sprite planet/cloud6

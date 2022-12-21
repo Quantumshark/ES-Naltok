@@ -22,7 +22,7 @@ system Chategri
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
 	object
-		sprite star/f-supergiant
+		sprite star/f-giant
 		period 10
 	object
 		sprite planet/rock13

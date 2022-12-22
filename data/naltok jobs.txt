@@ -17,7 +17,9 @@ mission "Telashki Delivery Food Small"
 	to offer
 		random < 70
 	source
-		attributes telashki rural
+		and
+			attributes telashki 
+			attributes rural
 	destination
 		distance 1 5
 		attributes telashki
@@ -37,7 +39,9 @@ mission "Telashki Delivery Food Large"
 	to offer
 		random < 60
 	source
-		attributes telashki rural
+		and
+			attributes telashki 
+			attributes rural
 	destination
 		distance 1 5
 		attributes telashki
@@ -112,7 +116,9 @@ mission "Xochira Delivery Food Small"
 	to offer
 		random < 70
 	source
-		attributes xochira rural
+		and
+			attributes xochira
+			attributes rural
 	destination
 		distance 1 5
 		attributes xochira
@@ -132,7 +138,9 @@ mission "Xochira Delivery Food Large"
 	to offer
 		random < 60
 	source
-		attributes xochira rural
+		and
+			attributes xochira
+			attributes rural
 	destination
 		distance 1 5
 		attributes xochira

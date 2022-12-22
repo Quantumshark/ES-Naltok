@@ -26,7 +26,7 @@ outfit "Copepod Generator"
 	"outfit space" -32
 	"energy generation" 3.55
 	"heat generation" 1.9
-	description ""
+	description "Naltok radioisotopic generators like this one use direct electrical energy harnessing coupled with secondary systems that harness the heat produced. The resulting generator is not particularly powerful, but it only loses a minimal amount of heat to the rest of the ship."
 
 outfit "Krill Generator"
 	category "Power"
@@ -36,7 +36,8 @@ outfit "Krill Generator"
 	"outfit space" -59
 	"energy generation" 7.15
 	"heat generation" 3.55
-	description ""
+	description "This is the largest radioisotopic generator that the Naltok produce. While most captains of large ships would opt for a Crayfish Reactor to supply their energy requirements, it is quite common for captains to instead employ two of these - taking up slightly more space, but saving more than two thirds of the cost of a reactor."
+	description "Much more rarely, even captains to whom cost is no object will avoid the Crayfish Reactor and opt for two, or even three, of these less powerful radioisotopic generators."
 
 outfit "Crayfish Reactor"
 	category "Power"
@@ -56,7 +57,7 @@ outfit "Lobster Reactor"
 	"outfit space" -184
 	"energy generation" 32.2
 	"heat generation" 17.05
-	description "This enormous fission reactor produces far less heat than any comparable human reactor, which more than makes up for its somewhat lacking power output."
+	description "This enormous fission reactor, far larger than most human reactors, is only used on the very largest of Naltok ships. This is partially because Naltok technology rarely requires this much power, but primarily because the heat output, though relatively low by the standards of most other races, is enough to cause major problems for all but the largest of Naltok ships."
 
 outfit "Stream Shield Generator"
 	category "Systems"

@@ -363,6 +363,9 @@ ship "Archerfish"
 		"Krill Generator"
 		"Pond Battery"
 		"River Shield Generator"
+		"Ripper Pistols" 3
+		"Shredder Minigun" 2
+		
 		"Gecko Steering"
 		"Gecko Thruster"
 		"Hyperdrive"
@@ -524,6 +527,8 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 		"Copepod Generator"
 		"Pond Battery"
 		"Stream Shield Generator"
+		"Ripper Pistols" 7
+		"Shredder Minigun" 5
 
 		"Iguana Thruster"
 		"Gecko Steering"
@@ -564,6 +569,8 @@ ship "Albacore"
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Ripper Pistols" 12
+		"Shredder Minigun" 4
 
 		"Hyperdrive"
 
@@ -736,6 +743,8 @@ ship "Kaluga"
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Ripper Pistols" 71
+		"Shredder Minigun" 5
 
 		"Hyperdrive"
 

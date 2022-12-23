@@ -640,7 +640,7 @@ system Norelon
 
 system Vokegol
 	pos -1093 -238
-	government "Xochira"
+	government "Naltok (Neutral)"
 	habitable 203.68
 	link Loxelon
 	link Norelon

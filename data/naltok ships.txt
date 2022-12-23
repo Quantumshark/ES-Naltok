@@ -675,7 +675,7 @@ ship "Mola"
 	thumbnail "thumbnail/mola"
 	attributes
 		category "Heavy Warship"
-		"cost"
+		"cost" 13236000
 		"shields" 6100
 		"hull" 39600
 		"hull repair rate" 2.9

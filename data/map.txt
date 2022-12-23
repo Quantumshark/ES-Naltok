@@ -1649,7 +1649,7 @@ planet Kolxacha
 	landscape land/beach0
 	description `This planet serves as the defensive line of the Telashki. Its proximity to their major industrial worlds is both a blessing and a curse - while it is easy to keep the fleets here supplied, those planets would be under direct attack if the defenses here ever failed. It is for this reason, rather than any other, that this minimally habitable planet has become such a bustling centre of activity.`
 	spaceport `The sheer number of warships here is disturbing. While this part of the spaceport is primarily for incoming shipments of materials, you were able to see the enormous defensive fleet stationed on this planet as you flew in to land. Enormous numbers of warships are stationed here, all ready to take off and engage an enemy at the first sign of danger.`
-	"required reputation" 10
+	"required reputation" 25
 	outfitter "Naltok Ammo"
 
 planet "Kuragu Xochet"

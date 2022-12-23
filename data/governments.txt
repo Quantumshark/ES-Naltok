@@ -1,10 +1,25 @@
-government "Naltok"
-	swizzle 5
-	color .03 .25 .91
+government "Naltok Merchant"
+	"display name" "Naltok"
+	swizzle 12
 	"crew attack" .7
 	"crew defense" 1.7
 	language "Naltok"
 	"player reputation" 5
+	illegals
+		ignore "Acid Grub"
+
+government "Naltok (Neutral)"
+	"display name" "Naltok"
+	swizzle 10
+	color .03 .25 .9
+	"crew attack" .7
+	"crew defense" 1.7
+	language "Naltok"
+	"player reputation" 5
+	"attitude toward"
+		"Naltok Merchant" 1
+	illegals
+		ignore "Acid Grub"
 
 government "Telashki"
 	swizzle 3
@@ -13,8 +28,9 @@ government "Telashki"
 	"crew defense" 2.9
 	"player reputation" 5
 	"attitude toward"
-		"Naltok" 1
-		"Xochira" -.1
+		"Naltok Merchant" 1
+		"Naltok (Neutral)" 1
+		"Xochira" -.2
 	illegals
 		ignore "Acid Grub"
 
@@ -26,7 +42,8 @@ government "Xochira"
 	language "Naltok"
 	"player reputation" -10
 	"attitude toward"
-		"Naltok" 1
-		"Telashki" -.1
+		"Naltok Merchant" 1
+		"Naltok (Neutral)" 1
+		"Telashki" -.2
 		"Alpha" -.01
 

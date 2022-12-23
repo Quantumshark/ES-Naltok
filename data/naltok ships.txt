@@ -682,7 +682,7 @@ ship "Mola"
 		"hull energy" .725
 		"hull heat" 2.175
 		"required crew" 56
-		"bunks" 64
+		"bunks" 66
 		"mass" 594
 		"drag" 10.8
 		"heat dissipation" .15
@@ -694,8 +694,24 @@ ship "Mola"
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Star-Worm Launcher" 2
+		"Star-Worm Capsule" 16
+		"Breaker Turret" 2
+		"Steel-Render" 2
+
+		"Copepod Generator"
+		"Krill Generator"
+		"Pond Battery" 3
+		"Fuel Vat" 2
+		"Stream Shield Generator"
+		"River Shield Generator"
+		"Acid Grub" 40
 
 		"Hyperdrive"
+		"Anole Thruster"
+		"Anole Steering"
+		"Iguana Thruster"
+		"Iguana Steering"
 
 	gun
 	gun

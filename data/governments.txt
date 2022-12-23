@@ -46,4 +46,6 @@ government "Xochira"
 		"Naltok (Neutral)" 1
 		"Telashki" -.2
 		"Alpha" -.01
+	illegals
+		ignore "Acid Grub"
 

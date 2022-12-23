@@ -626,7 +626,7 @@ ship "Pike"
 	thumbnail "thumbnail/pike"
 	attributes
 		category "Heavy Warship"
-		"cost" 11678000
+		"cost" 12678000
 		"shields" 6300
 		"hull" 46300
 		"hull repair rate" 3.1
@@ -724,7 +724,7 @@ ship "Kaluga"
 		category "Heavy Warship"
 		licenses 
 			"Xochira"
-		"cost"
+		"cost" 17723000
 		"shields" 8600
 		"hull" 50800
 		"hull repair rate" 3.6

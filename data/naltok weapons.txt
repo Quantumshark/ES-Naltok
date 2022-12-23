@@ -134,7 +134,7 @@ outfit "Steel-Render"
 
 outfit "Sky-Shredder"
 	category "Turrets"
-	cost
+	cost 876000
 	thumbnail "outfit/sky-shredder"
 	"mass" 42
 	"outfit space" -42

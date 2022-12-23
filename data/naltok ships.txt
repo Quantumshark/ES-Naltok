@@ -743,9 +743,21 @@ ship "Kaluga"
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Steel-Render" 1
+		"Sky-Shredder" 4
+		"Halt-Swarm Launcher" 5
+		"Halt-Swarm Missile" 176
+		"Halt-Swarm Rack" 1
+
+		"Crayfish Reactor"
+		"Pond Battery" 3
+		"River Shield Generator" 3
 		"Ripper Pistols" 71
 		"Shredder Minigun" 5
 
+		"Iguana Thruster"
+		"Iguana Steering"
+		"Gecko Steering"
 		"Hyperdrive"
 
 	gun

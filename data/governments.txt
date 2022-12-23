@@ -28,7 +28,7 @@ government "Telashki"
 	"crew defense" 2.9
 	"player reputation" 5
 	"attitude toward"
-		"Naltok Merchant" 1
+		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
 	illegals
@@ -42,7 +42,7 @@ government "Xochira"
 	language "Naltok"
 	"player reputation" -10
 	"attitude toward"
-		"Naltok Merchant" 1
+		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Telashki" -.2
 		"Alpha" -.01

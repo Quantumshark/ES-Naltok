@@ -236,8 +236,8 @@ ship "Flounder"
 		"hull heat" .9
 		"required crew" 7
 		"bunks" 12
-		"mass" 711
-		"drag" 11.1
+		"mass" 861
+		"drag" 12.1
 		"heat dissipation" .11
 		"fuel capacity" 600
 		"cargo space" 866

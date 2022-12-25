@@ -190,7 +190,7 @@ ship "Conger"
 		"drag" 4.3
 		"heat dissipation" .24
 		"fuel capacity" 600
-		"cargo space" 131
+		"cargo space" 237
 		"outfit space" 264
 		"weapon capacity" 58
 		"engine capacity" 105
@@ -210,7 +210,7 @@ ship "Conger"
 	gun "Shrapnel Torpedo Pod"
 	turret "Naltok Anti-Missile"
 	bay "Drone"
-	description `The Conger is a decently mobile light freighter occasionally used by the Naltok. Though not as commonly used as one might expect due to the common practice in Naltok space of hauling cargo in refitted warships, the Conger is still hugely popular as a decently mobile freighter.`
+	description `The Conger is a decently mobile light freighter occasionally used by the Naltok. Though not as commonly used as one might expect due to the common practice in Naltok space of hauling cargo in refitted warships, the Conger is still hugely popular as a mid-range freighter.`
 	description `Furthermore, the presence of a drone bay within the Conger's sizeable cargo pod makes it an excellent base for a Minnow mining drone, making the Conger an essential component of any asteroid-mining fleet.`
 
 ship "Conger" "Conger (Unarmed)"

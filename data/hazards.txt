@@ -16,6 +16,12 @@ hazard "Star-Worms"
 	weapon
 		"shield damage" .2
 
+hazard "Shield-depleting Wormhole"
+	"constant strength"
+	"range" 10
+	weapon
+		"relative shield damage" .05
+
 effect "star-worm hazard"
 	sprite "effect/static"
 		"no repeat"

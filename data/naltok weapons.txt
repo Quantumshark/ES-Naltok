@@ -369,7 +369,7 @@ outfit "Shrapnel Torpedo Pod"
 
 outfit "Shrapnel Torpedo"
 	category "Ammunition"
-	cost 17600
+	cost 5600
 	thumbnail "outfit/shrapnel torpedo"
 	"mass" 2
 	"shrapnel torpedo capacity" -1
@@ -484,7 +484,7 @@ outfit "Star-Worm Pod"
 
 outfit "Star-Worm Capsule"
 	category "Ammunition"
-	cost 17600
+	cost 14600
 	thumbnail "outfit/star-worm capsule"
 	"mass" 5
 	"star-worm capacity" -1

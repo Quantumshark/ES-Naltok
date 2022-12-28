@@ -288,7 +288,7 @@ ship "Grouper"
 	turret
 	bay "Drone"
 	bay "Drone"
-	description `As part of their plans to root out the Alphas from all of Human space, the Xochira designed the Grouper as a support vessel able to continually refuel their warships as they were travelling.`
+	description `As part of their plans to root out the Alphas from all of Human space, the Xochira designed the Grouper as a support vessel able to continually refuel their warships during long journeys.`
 
 ship "Tetra"
 	sprite "ship/tetra"
@@ -603,7 +603,7 @@ ship "Moray"
 		"heat dissipation" .26
 		"fuel capacity" 400
 		"cargo space" 87
-		"outfit space" 577
+		"outfit space" 517
 		"weapon capacity" 262
 		"engine capacity" 113
 		"heat protection" 3

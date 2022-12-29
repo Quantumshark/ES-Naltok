@@ -28,6 +28,21 @@ government "Telashki"
 	"crew defense" 2.9
 	"player reputation" 5
 	"attitude toward"
+		"Telashki (Attacking)" 1
+		"Naltok Merchant" .3
+		"Naltok (Neutral)" 1
+		"Xochira" -.2
+	illegals
+		ignore "Acid Grub"
+
+government "Telashki (Attacking)"
+	"display name" "Telashki"
+	swizzle 3
+	"crew attack" 1.7
+	"crew defense" 2.9
+	"player reputation" 5
+	"attitude toward"
+		"Telashki" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
@@ -42,6 +57,7 @@ government "Xochira"
 	language "Naltok"
 	"player reputation" -10
 	"attitude toward"
+		"Xochira (Attacking)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Telashki" -.2
@@ -49,3 +65,17 @@ government "Xochira"
 	illegals
 		ignore "Acid Grub"
 
+government "Xochira (Attacking)"
+	"display name" "Xochira"
+	swizzle 4
+	"crew attack" .9
+	"crew defense" 1.9
+	"player reputation" -10
+	"attitude toward"
+		"Xochira" 1
+		"Naltok Merchant" .3
+		"Naltok (Neutral)" 1
+		"Telashki" -.2
+		"Alpha" -.01
+	illegals
+		ignore "Acid Grub"

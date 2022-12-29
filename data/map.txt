@@ -1639,9 +1639,25 @@ system "Wormhole End"
 	object
 		sprite star/k5
 		period 10
+	object
+		sprite planet/lava3
+		distance 861.682
+		period 40.15
+	object
+		sprite planet/lava5
+		distance 1381.632
+		period 132.992
+	object
+		sprite planet/lava0
+		distance 503.522
+		period 262.128
+	object
+		sprite planet/lava2-b
+		distance 1840.757
+		period 1225.68
 	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
-		distance 1000
+		distance 2500
 		hazard "Shield-depleting Wormhole" 1
 
 system "Wormhole Start"
@@ -1655,7 +1671,7 @@ system "Wormhole Start"
 		period 10
 	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
-		distance 2000
+		distance 3500
 		hazard "Shield-depleting Wormhole" 1
 
 planet Chireke

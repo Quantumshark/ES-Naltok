@@ -1,8 +1,8 @@
 system Chategri
-	pos -863 -47
-	government "Xochira"
-	habitable 2400
+	pos -1460 541
+	government Xochira
 	arrival 2400
+	habitable 2400
 	link Choxera
 	asteroids "small rock" 9 5.52
 	asteroids "medium rock" 124 4.12
@@ -27,7 +27,7 @@ system Chategri
 	object
 		sprite planet/rock13
 		distance 664.988
-		period 36.7724
+		period 36.772
 	object
 		sprite planet/dust6
 		distance 1015.988
@@ -43,15 +43,15 @@ system Chategri
 		object
 			sprite planet/rock17
 			distance 233
-			period 15.1952
+			period 15.195
 		object
 			sprite planet/dust3
 			distance 372
 			period 30.654
 
 system Tekochi
-	pos -772 -185
-	government "Xochira"
+	pos -1369 403
+	government Xochira
 	habitable 1401.68
 	link Ligoxel
 	asteroids "small rock" 9 5.52
@@ -73,17 +73,17 @@ system Tekochi
 	fleet "Xochira Interdictor" 800
 	object
 		sprite star/f5-old
-		distance 23.6523
-		period 9.43536
+		distance 23.652
+		period 9.435
 		offset 180
 	object
 		sprite star/k0
-		distance 83.3477
-		period 9.43536
+		distance 83.348
+		period 9.435
 	object
 		sprite planet/rock13
 		distance 264.988
-		period 36.7724
+		period 36.772
 	object
 		sprite planet/dust6
 		distance 615.988
@@ -99,25 +99,25 @@ system Tekochi
 		object
 			sprite planet/rock17
 			distance 233
-			period 15.1952
+			period 15.195
 		object
 			sprite planet/dust3
 			distance 372
 			period 30.654
 
 system Ligoxel
-	pos -832 -163
-	government "Xochira"
+	pos -1429 425
+	government Xochira
 	habitable 425
-	link Roxeka
-	link Tekochi
 	link Choxera
 	link Lixetog
-	asteroids "small rock" 15 1.7238
-	asteroids "medium rock" 6 1.6796
-	asteroids "large rock" 63 1.6354
-	asteroids "small metal" 3 2.8288
-	asteroids "medium metal" 22 2.0995
+	link Roxeka
+	link Tekochi
+	asteroids "small rock" 15 1.724
+	asteroids "medium rock" 6 1.68
+	asteroids "large rock" 63 1.635
+	asteroids "small metal" 3 2.829
+	asteroids "medium metal" 22 2.1
 	asteroids "large metal" 72 1.326
 	trade Clothing 290
 	trade Electronics 740
@@ -132,13 +132,13 @@ system Ligoxel
 	fleet "Xochira Interdictor" 500
 	object
 		sprite star/m4
-		distance 22.8462
-		period 12.6704
+		distance 22.846
+		period 12.67
 		offset 180
 	object
 		sprite star/m8
-		distance 54.1538
-		period 12.6704
+		distance 54.154
+		period 12.67
 	object
 		sprite planet/cloud1
 			scale 0.8
@@ -159,22 +159,22 @@ system Ligoxel
 		object
 			sprite planet/oberon
 			distance 270
-			period 13.0018
+			period 13.002
 		object
 			sprite planet/luna
 			distance 363
-			period 20.2683
+			period 20.268
 
 system Roxeka
-	pos -804 -94
-	government "Xochira"
+	pos -1401 494
+	government Xochira
 	habitable 425.92
 	link Ligoxel
 	asteroids "small rock" 4 2.6
-	asteroids "medium rock" 122 1.7472
-	asteroids "large rock" 8 2.7456
-	asteroids "medium metal" 1 1.0816
-	asteroids "large metal" 1 2.6832
+	asteroids "medium rock" 122 1.747
+	asteroids "large rock" 8 2.746
+	asteroids "medium metal" 1 1.082
+	asteroids "large metal" 1 2.683
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -192,8 +192,8 @@ system Roxeka
 	object
 		sprite planet/lava3
 		distance 163.04
-		period 40.3494
-	object "Ruxanguv"
+		period 40.349
+	object Ruxanguv
 		sprite planet/ocean7
 		distance 362.65
 		period 133.853
@@ -204,7 +204,7 @@ system Roxeka
 		object
 			sprite planet/dust5
 			distance 191
-			period 13.8946
+			period 13.895
 		object
 			sprite planet/tethys
 			distance 306
@@ -212,7 +212,7 @@ system Roxeka
 		object
 			sprite planet/ice8
 			distance 423
-			period 45.7939
+			period 45.794
 	object
 		sprite planet/gas6
 		distance 2914.58
@@ -220,26 +220,26 @@ system Roxeka
 		object
 			sprite planet/dust3
 			distance 279
-			period 11.9034
+			period 11.903
 		object
 			sprite planet/rock14
 			distance 430
-			period 22.7755
+			period 22.776
 
 system Choxera
-	pos -895 -111
-	government "Xochira"
+	pos -1492 477
+	government Xochira
 	habitable 800
-	link Ligoxel
-	link "Xeko Naltok"
-	link Ngotesh
 	link Chategri
-	asteroids "small rock" 1 2.4024
-	asteroids "medium rock" 9 2.5168
-	asteroids "large rock" 32 2.0592
-	asteroids "small metal" 48 2.2594
+	link Ligoxel
+	link Ngotesh
+	link "Xeko Naltok"
+	asteroids "small rock" 1 2.402
+	asteroids "medium rock" 9 2.517
+	asteroids "large rock" 32 2.059
+	asteroids "small metal" 48 2.259
 	asteroids "medium metal" 57 4.29
-	asteroids "large metal" 109 3.3462
+	asteroids "large metal" 109 3.346
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -257,19 +257,19 @@ system Choxera
 	object
 		sprite planet/lava1
 		distance 273.24
-		period 9.8124
+		period 9.812
 	object
 		sprite planet/rock3
 		distance 446.85
-		period 24.2708
+		period 24.271
 	object
 		sprite planet/desert3
 		distance 896.41
-		period 62.6788
+		period 62.679
 		object
 			sprite planet/europa
 			distance 150
-			period 19.1409
+			period 19.141
 	object
 		sprite planet/rock13
 		distance 1556.77
@@ -277,24 +277,24 @@ system Choxera
 		object
 			sprite planet/dust5
 			distance 175
-			period 29.1018
+			period 29.102
 	object
 		sprite planet/gas16
 		distance 3418.38
 		period 860.07
 
 system "Xeko Naltok"
-	pos -936 -165
-	government "Xochira"
+	pos -1533 423
+	government Xochira
 	habitable 386.68
 	link Choxera
-	link Xangoret
 	link Lixetog
 	link Rixengol
-	asteroids "small rock" 20 7.5072
-	asteroids "medium rock" 49 6.4032
-	asteroids "large rock" 5 5.4096
-	asteroids "medium metal" 16 5.6856
+	link Xangoret
+	asteroids "small rock" 20 7.507
+	asteroids "medium rock" 49 6.403
+	asteroids "large rock" 5 5.41
+	asteroids "medium metal" 16 5.686
 	asteroids "large metal" 1 8.004
 	trade Clothing 290
 	trade Electronics 740
@@ -328,15 +328,15 @@ system "Xeko Naltok"
 		period 1480.07
 
 system Xangoret
-	pos -1008 -134
-	government "Xochira"
+	pos -1605 454
+	government Xochira
 	habitable 1466.68
-	link "Xeko Naltok"
 	link Rixengol
-	asteroids "small rock" 4 3.7296
+	link "Xeko Naltok"
+	asteroids "small rock" 4 3.73
 	asteroids "medium rock" 23 6.3
-	asteroids "large rock" 11 6.1488
-	asteroids "small metal" 6 2.7216
+	asteroids "large rock" 11 6.149
+	asteroids "small metal" 6 2.722
 	asteroids "medium metal" 3 4.536
 	asteroids "large metal" 2 2.772
 	trade Clothing 290
@@ -351,21 +351,21 @@ system Xangoret
 	trade Plastic 390
 	object
 		sprite star/g0-old
-		distance 34.1709
-		period 11.6589
+		distance 34.171
+		period 11.659
 		offset 180
 	object
 		sprite star/k0
-		distance 75.8291
-		period 11.6589
+		distance 75.829
+		period 11.659
 	object
 		sprite planet/gas0
 		distance 458.829
-		period 99.3222
+		period 99.322
 		object
 			sprite planet/europa
 			distance 243
-			period 11.1011
+			period 11.101
 	object
 		sprite planet/lava7
 		distance 854.389
@@ -383,11 +383,11 @@ system Xangoret
 			sprite planet/forest2
 				scale 0.5
 			distance 350
-			period 34.4667
+			period 34.467
 		object
 			sprite planet/dust0
 			distance 473
-			period 54.1488
+			period 54.149
 	object
 		sprite planet/gas8
 		distance 2309.73
@@ -395,11 +395,11 @@ system Xangoret
 		object
 			sprite planet/dust3
 			distance 222
-			period 17.6079
+			period 17.608
 
 system Lixetog
-	pos -889 -192
-	government "Xochira"
+	pos -1486 396
+	government Xochira
 	habitable 851.84
 	link Ligoxel
 	link "Xeko Naltok"
@@ -423,16 +423,16 @@ system Lixetog
 	object
 		sprite star/k5
 		distance 45
-		period 11.7016
+		period 11.702
 		offset 180
 	object
 		sprite star/k5
 		distance 45
-		period 11.7016
+		period 11.702
 	object
 		sprite planet/lava2
 		distance 193.01
-		period 36.7494
+		period 36.749
 	object
 		sprite planet/cloud2
 		distance 420.02
@@ -448,30 +448,30 @@ system Lixetog
 		object
 			sprite planet/rock14
 			distance 207
-			period 15.8538
+			period 15.854
 		object
 			sprite planet/rock17
 			distance 307
-			period 28.6342
+			period 28.634
 		object
 			sprite planet/oberon
 			distance 449
-			period 50.6461
+			period 50.646
 		object
 			sprite planet/dust1
 			distance 549
-			period 68.4755
+			period 68.476
 
 system Rixengol
-	pos -1012 -202
-	government "Xochira"
+	pos -1609 386
+	government Xochira
 	habitable 305
 	link Loxelon
 	link Xangoret
 	link "Xeko Naltok"
-	asteroids "medium rock" 23 5.7512
-	asteroids "large rock" 1 6.1152
-	asteroids "small metal" 1 6.6976
+	asteroids "medium rock" 23 5.751
+	asteroids "large rock" 1 6.115
+	asteroids "small metal" 1 6.698
 	asteroids "medium metal" 2 9.828
 	asteroids "large metal" 1 9.828
 	trade Clothing 290
@@ -490,7 +490,7 @@ system Rixengol
 	object
 		sprite planet/gas10
 		distance 271.41
-		period 71.5416
+		period 71.542
 	object
 		sprite planet/oberon
 		distance 493.02
@@ -509,18 +509,18 @@ system Rixengol
 		period 2014.95
 
 system Loxelon
-	pos -1085 -188
-	government "Xochira"
+	pos -1682 400
+	government Xochira
 	habitable 425.92
-	link Vokegol
 	link Norelon
 	link Rixengol
-	asteroids "small rock" 7 7.3359
-	asteroids "medium rock" 17 6.2586
-	asteroids "large rock" 7 4.3605
-	asteroids "small metal" 7 3.7449
-	asteroids "medium metal" 14 6.8742
-	asteroids "large metal" 19 3.3858
+	link Vokegol
+	asteroids "small rock" 7 7.336
+	asteroids "medium rock" 17 6.259
+	asteroids "large rock" 7 4.361
+	asteroids "small metal" 7 3.745
+	asteroids "medium metal" 14 6.874
+	asteroids "large metal" 19 3.386
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -537,7 +537,7 @@ system Loxelon
 	object
 		sprite planet/lava2
 		distance 134.25
-		period 30.1486
+		period 30.149
 	object
 		sprite planet/desert3
 		distance 463.25
@@ -553,7 +553,7 @@ system Loxelon
 		object
 			sprite planet/rock17
 			distance 204
-			period 12.4485
+			period 12.449
 		object
 			sprite planet/dust5
 			distance 308
@@ -569,27 +569,27 @@ system Loxelon
 		object
 			sprite planet/rock7
 			distance 191
-			period 13.1517
+			period 13.152
 		object
 			sprite planet/oberon
 			distance 322
-			period 28.7883
+			period 28.788
 		object
 			sprite planet/rock3
 			distance 462
-			period 49.4761
+			period 49.476
 
 system Norelon
-	pos -1127 -201
-	government "Xochira"
+	pos -1724 387
+	government Xochira
 	habitable 625
-	link Vokegol
 	link Loxelon
-	asteroids "small rock" 14 8.1972
-	asteroids "medium rock" 23 3.6639
-	asteroids "large rock" 10 9.0666
-	asteroids "small metal" 85 8.1351
-	asteroids "medium metal" 104 7.8246
+	link Vokegol
+	asteroids "small rock" 14 8.197
+	asteroids "medium rock" 23 3.664
+	asteroids "large rock" 10 9.067
+	asteroids "small metal" 85 8.135
+	asteroids "medium metal" 104 7.825
 	asteroids "large metal" 89 4.347
 	trade Clothing 290
 	trade Electronics 740
@@ -601,7 +601,7 @@ system Norelon
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	hazard "Star-Worms" 100
+	hazard Star-Worms 100
 	object
 		sprite star/wr
 		period 10
@@ -612,15 +612,15 @@ system Norelon
 		object
 			sprite planet/ice7
 			distance 213
-			period 13.2814
+			period 13.281
 		object
 			sprite planet/rock14
 			distance 327
-			period 25.2636
+			period 25.264
 		object
 			sprite planet/rhea
 			distance 442
-			period 39.7015
+			period 39.702
 		object
 			sprite planet/dust5
 			distance 573
@@ -632,14 +632,14 @@ system Norelon
 		object
 			sprite planet/ice0
 			distance 229
-			period 11.5239
+			period 11.524
 		object
 			sprite planet/rock7
 			distance 310
-			period 18.1506
+			period 18.151
 
 system Vokegol
-	pos -1093 -238
+	pos -1690 350
 	government "Naltok (Neutral)"
 	habitable 203.68
 	link Loxelon
@@ -673,7 +673,7 @@ system Vokegol
 	object
 		sprite planet/dust7
 		distance 159
-		period 36.3525
+		period 36.353
 	object
 		sprite planet/dust3
 		distance 355.25
@@ -693,18 +693,18 @@ system Vokegol
 		object
 			sprite planet/rock3
 			distance 265
-			period 15.3461
+			period 15.346
 
 system Ngotesh
-	pos -944 -83
-	government "Xochira"
+	pos -1541 505
+	government Xochira
 	habitable 500
 	link Choxera
-	asteroids "small rock" 3 4.1055
-	asteroids "medium rock" 7 3.9675
+	asteroids "small rock" 3 4.106
+	asteroids "medium rock" 7 3.968
 	asteroids "large rock" 13 3.795
 	asteroids "small metal" 4 2.139
-	asteroids "large metal" 4 5.0715
+	asteroids "large metal" 4 5.072
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -717,25 +717,25 @@ system Ngotesh
 	trade Plastic 390
 	object
 		sprite star/m8
-		distance 60.0671
+		distance 60.067
 		period 10.144
 	object
 		sprite star/m8
-		distance 60.0671
+		distance 60.067
 		period 10.144
 		offset 180
 	object Shogteg
 		sprite planet/cloud3
 		distance 284.943
-		period 22.4069
+		period 22.407
 	object
 		sprite planet/dust2
 		distance 474.703
-		period 48.1812
+		period 48.181
 	object
 		sprite planet/rock19
 		distance 652.113
-		period 77.5763
+		period 77.576
 	object
 		sprite planet/gas11
 		distance 1295
@@ -743,7 +743,7 @@ system Ngotesh
 		object
 			sprite planet/desert4
 			distance 261
-			period 13.9072
+			period 13.907
 		object
 			sprite planet/rock17
 			distance 356
@@ -754,8 +754,8 @@ system Ngotesh
 		period 843.214
 
 system Keloxen
-	pos -942 -314
-	government "Telashki"
+	pos -1532 273
+	government Telashki
 	habitable 486.68
 	link Linekol
 	asteroids "medium rock" 2 6.82
@@ -779,7 +779,7 @@ system Keloxen
 	object
 		sprite planet/rock9
 		distance 151.41
-		period 33.7808
+		period 33.781
 	object Legash
 		sprite planet/ocean0
 		distance 472.97
@@ -787,7 +787,7 @@ system Keloxen
 		object Shochox
 			sprite planet/ice7
 			distance 148
-			period 21.7576
+			period 21.758
 	object
 		sprite planet/desert4
 		distance 894.97
@@ -802,18 +802,18 @@ system Keloxen
 		period 1604.39
 
 system Tolonek
-	pos -1005 -298
-	government "Telashki"
+	pos -1602 290
+	government Telashki
 	habitable 320
 	link Kelojol
-	link Tikelo
 	link Keloteg
-	asteroids "small rock" 32 4.9324
-	asteroids "medium rock" 114 5.1414
-	asteroids "large rock" 34 5.7266
-	asteroids "small metal" 8 4.9742
+	link Tikelo
+	asteroids "small rock" 32 4.932
+	asteroids "medium rock" 114 5.141
+	asteroids "large rock" 34 5.727
+	asteroids "small metal" 8 4.974
 	asteroids "medium metal" 3 6.27
-	asteroids "large metal" 8 2.3408
+	asteroids "large metal" 8 2.341
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -842,19 +842,19 @@ system Tolonek
 		object
 			sprite planet/oberon
 			distance 255
-			period 12.7959
+			period 12.796
 		object
 			sprite planet/dust3
 			distance 356
-			period 21.1075
+			period 21.108
 	object
 		sprite planet/gas3
 		distance 2320.48
 		period 2499.49
 
 system Keloteg
-	pos -964 -258
-	government "Telashki"
+	pos -1561 330
+	government Telashki
 	habitable 446.68
 	link Tolonek
 	asteroids "small rock" 10 2.142
@@ -884,7 +884,7 @@ system Keloteg
 		object
 			sprite planet/callisto
 			distance 143
-			period 19.1527
+			period 19.153
 	object
 		sprite planet/rock6
 		distance 769.963
@@ -899,23 +899,23 @@ system Keloteg
 		sprite planet/gas2
 		distance 1608.16
 		period 1431.1
-		offset 3.20641
+		offset 3.206
 		object Kevoshek
 			sprite planet/dust0
 			distance 203
 			period 17.525
 
 system Tikelo
-	pos -1074 -317
-	government "Telashki"
+	pos -1671 271
+	government Telashki
 	habitable 203.28
 	link Golonex
 	link Tokilok
 	link Tolonek
-	asteroids "small rock" 1 4.9518
-	asteroids "medium rock" 9 5.4054
-	asteroids "large rock" 1 1.9278
-	asteroids "large metal" 2 3.6288
+	asteroids "small rock" 1 4.952
+	asteroids "medium rock" 9 5.405
+	asteroids "large rock" 1 1.928
+	asteroids "large metal" 2 3.629
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -948,28 +948,28 @@ system Tikelo
 		object
 			sprite planet/dust1
 			distance 217
-			period 13.6572
+			period 13.657
 		object
 			sprite planet/dust0
 			distance 298
-			period 21.9785
+			period 21.979
 		object
 			sprite planet/ice0
 			distance 407
-			period 35.0804
+			period 35.08
 		object
 			sprite planet/rock0
 			distance 591
-			period 61.3839
+			period 61.384
 
 system Tokilok
-	pos -1121 -280
-	government "Telashki"
+	pos -1718 308
+	government Telashki
 	habitable 33.28
-	link Vokegol
 	link Tikelo
-	asteroids "large rock" 5 2.9568
-	asteroids "large metal" 1 3.6736
+	link Vokegol
+	asteroids "large rock" 5 2.957
+	asteroids "large metal" 1 3.674
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -986,7 +986,7 @@ system Tokilok
 	object
 		sprite planet/dust6
 		distance 136.56
-		period 41.7933
+		period 41.793
 	object
 		sprite planet/callisto
 		distance 339.56
@@ -998,7 +998,7 @@ system Tokilok
 		object
 			sprite planet/rock7
 			distance 127
-			period 17.9915
+			period 17.992
 	object
 		sprite planet/lava1
 		distance 991.66
@@ -1009,17 +1009,17 @@ system Tokilok
 		period 4262.71
 
 system Linekol
-	pos -929 -362
-	government "Telashki"
+	pos -1519 225
+	government Telashki
 	habitable 486.68
+	link Kelojol
 	link Keloxen
 	link Varajol
-	link Kelojol
-	asteroids "small rock" 1 3.7752
+	asteroids "small rock" 1 3.775
 	asteroids "large rock" 10 3.432
-	asteroids "small metal" 1 3.4584
+	asteroids "small metal" 1 3.458
 	asteroids "medium metal" 2 3.96
-	asteroids "large metal" 3 2.9832
+	asteroids "large metal" 3 2.983
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1036,7 +1036,7 @@ system Linekol
 	object
 		sprite planet/lava7
 		distance 133.16
-		period 27.8611
+		period 27.861
 	object
 		sprite planet/rock9
 		distance 594
@@ -1044,7 +1044,7 @@ system Linekol
 		object
 			sprite planet/rock3
 			distance 150
-			period 23.5637
+			period 23.564
 	object
 		sprite planet/desert0
 		distance 1058.84
@@ -1052,7 +1052,7 @@ system Linekol
 		object
 			sprite planet/dust3
 			distance 130
-			period 18.6328
+			period 18.633
 	object
 		sprite planet/tethys
 		distance 1865.53
@@ -1064,28 +1064,28 @@ system Linekol
 		object
 			sprite planet/ice7
 			distance 258
-			period 15.5389
+			period 15.539
 		object
 			sprite planet/dust7
 			distance 379
-			period 27.6662
+			period 27.666
 		object
 			sprite planet/rock0
 			distance 539
-			period 46.9217
+			period 46.922
 
 system Varajol
-	pos -941 -403
-	government "Telashki"
+	pos -1531 184
+	government Telashki
 	habitable 486.68
-	link Linekol
 	link Kelojol
+	link Linekol
 	link Vokelon
-	asteroids "small rock" 2 4.5885
-	asteroids "large rock" 3 4.4574
-	asteroids "small metal" 3 3.8456
-	asteroids "medium metal" 8 5.8121
-	asteroids "large metal" 3 5.0255
+	asteroids "small rock" 2 4.589
+	asteroids "large rock" 3 4.457
+	asteroids "small metal" 3 3.846
+	asteroids "medium metal" 8 5.812
+	asteroids "large metal" 3 5.026
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1102,8 +1102,8 @@ system Varajol
 	object
 		sprite planet/rock8
 		distance 211.96
-		period 55.9525
-	object "Xutajol"
+		period 55.953
+	object Xutajol
 		sprite planet/forest0
 		distance 408.45
 		period 149.674
@@ -1122,30 +1122,30 @@ system Varajol
 		object
 			sprite planet/miranda
 			distance 254
-			period 14.2774
+			period 14.277
 		object
 			sprite planet/desert4
 			distance 379
-			period 26.0229
+			period 26.023
 		object
 			sprite planet/dust3
 			distance 538
 			period 44.012
 
 system Kelojol
-	pos -992 -377
-	government "Telashki"
+	pos -1589 211
+	government Telashki
 	habitable 320
-	link Tolonek
 	link Golonex
 	link Linekol
+	link Tolonek
 	link Varajol
 	asteroids "small rock" 26 2.002
 	asteroids "medium rock" 15 4.147
-	asteroids "large rock" 25 3.4892
-	asteroids "small metal" 19 4.1184
+	asteroids "large rock" 25 3.489
+	asteroids "small metal" 19 4.118
 	asteroids "medium metal" 22 2.431
-	asteroids "large metal" 13 3.0888
+	asteroids "large metal" 13 3.089
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1162,7 +1162,7 @@ system Kelojol
 	object
 		sprite planet/cloud7
 		distance 186.24
-		period 56.8322
+		period 56.832
 	object
 		sprite planet/ocean1
 		distance 393.25
@@ -1178,7 +1178,7 @@ system Kelojol
 		object
 			sprite planet/dust4
 			distance 196
-			period 14.4438
+			period 14.444
 	object
 		sprite planet/neptune
 		distance 3197.87
@@ -1189,15 +1189,15 @@ system Kelojol
 			period 14.517
 
 system Vokelon
-	pos -979 -436
-	government "Telashki"
+	pos -1569 151
+	government Telashki
 	habitable 135
 	link Varajol
-	asteroids "small rock" 34 3.4692
-	asteroids "medium rock" 36 1.4994
-	asteroids "large rock" 39 4.1748
-	asteroids "medium metal" 11 2.8812
-	asteroids "large metal" 1 1.6758
+	asteroids "small rock" 34 3.469
+	asteroids "medium rock" 36 1.499
+	asteroids "large rock" 39 4.175
+	asteroids "medium metal" 11 2.881
+	asteroids "large metal" 1 1.676
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1214,7 +1214,7 @@ system Vokelon
 	object
 		sprite planet/rock8
 		distance 173.56
-		period 78.7168
+		period 78.717
 	object
 		sprite planet/desert0
 		distance 450.05
@@ -1234,18 +1234,18 @@ system Vokelon
 		object
 			sprite planet/ice7
 			distance 216
-			period 12.9282
+			period 12.928
 		object
 			sprite planet/dust7
 			distance 361
-			period 27.9331
+			period 27.933
 
 system Lotegok
-	pos -1093 -395
-	government "Telashki"
+	pos -1690 193
+	government Telashki
 	habitable 500
-	link Kuragu
 	link Golonex
+	link Kuragu
 	asteroids "large metal" 1 5.148
 	trade Clothing 290
 	trade Electronics 740
@@ -1263,7 +1263,7 @@ system Lotegok
 	object
 		sprite planet/cloud7
 		distance 196.24
-		period 33.4603
+		period 33.46
 	object Kutora
 		sprite planet/forest2-b
 		distance 475.4
@@ -1275,28 +1275,28 @@ system Lotegok
 		object
 			sprite planet/callisto
 			distance 274
-			period 17.0066
+			period 17.007
 		object
 			sprite planet/luna
 			distance 376
-			period 27.3383
+			period 27.338
 	object
 		sprite planet/gas7
 		distance 2314.34
 		period 1355.15
 
 system Lekonet
-	pos -1129 -462
-	government "Telashki"
+	pos -1726 126
+	government Telashki
 	arrival 2300
 	habitable 2300
 	link Nixelog
-	asteroids "small rock" 13 5.6848
-	asteroids "medium rock" 26 4.9324
-	asteroids "large rock" 4 2.6334
-	asteroids "small metal" 146 4.6398
+	asteroids "small rock" 13 5.685
+	asteroids "medium rock" 26 4.932
+	asteroids "large rock" 4 2.633
+	asteroids "small metal" 146 4.64
 	asteroids "medium metal" 31 3.344
-	asteroids "large metal" 21 2.8006
+	asteroids "large metal" 21 2.801
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1317,7 +1317,7 @@ system Lekonet
 		object
 			sprite planet/luna
 			distance 161
-			period 20.9144
+			period 20.914
 	object
 		sprite planet/lava3
 		distance 832.72
@@ -1337,28 +1337,28 @@ system Lekonet
 		object
 			sprite planet/dust5
 			distance 211
-			period 15.2706
+			period 15.271
 		object
 			sprite planet/callisto
 			distance 344
-			period 31.7885
+			period 31.789
 		object
 			sprite planet/dust4
 			distance 457
-			period 48.6751
+			period 48.675
 
 system Golonex
-	pos -1054 -365
-	government "Telashki"
+	pos -1651 223
+	government Telashki
 	habitable 813.28
 	link Kelojol
-	link Tikelo
 	link Lotegok
+	link Tikelo
 	asteroids "small rock" 1 4.485
-	asteroids "medium rock" 1 2.6013
-	asteroids "large rock" 1 3.3787
+	asteroids "medium rock" 1 2.601
+	asteroids "large rock" 1 3.379
 	asteroids "medium metal" 2 2.392
-	asteroids "large metal" 1 2.5415
+	asteroids "large metal" 1 2.542
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1371,22 +1371,22 @@ system Golonex
 	trade Plastic 390
 	object
 		sprite star/g0
-		distance 34.1521
+		distance 34.152
 		period 12.397
 		offset 180
 	object
 		sprite star/m4
-		distance 86.8479
+		distance 86.848
 		period 12.397
 	object
 		sprite planet/fog0
 		distance 285.848
-		period 82.1845
+		period 82.185
 	object
 		sprite planet/rock9
 		distance 614.858
 		period 259.268
-	object "Ngakego"
+	object Ngakego
 		sprite planet/forest4
 		distance 839.668
 		period 413.76
@@ -1397,7 +1397,7 @@ system Golonex
 		object
 			sprite planet/europa
 			distance 193
-			period 14.1134
+			period 14.113
 	object
 		sprite planet/gas10
 		distance 2655.53
@@ -1405,28 +1405,28 @@ system Golonex
 		object
 			sprite planet/io
 			distance 191
-			period 13.8946
+			period 13.895
 		object
 			sprite planet/dust5
 			distance 296
-			period 26.8062
+			period 26.806
 		object
 			sprite planet/dust3
 			distance 441
-			period 48.7478
+			period 48.748
 
 system Nixelog
-	pos -1162 -407
-	government "Telashki"
+	pos -1759 181
+	government Telashki
 	habitable 1050.92
-	link Norelin
-	link Lekonet
 	link Kuragu
-	asteroids "small rock" 8 9.1476
+	link Lekonet
+	link Norelin
+	asteroids "small rock" 8 9.148
 	asteroids "medium rock" 13 5.67
-	asteroids "large rock" 10 7.1064
+	asteroids "large rock" 10 7.106
 	asteroids "small metal" 86 8.694
-	asteroids "medium metal" 83 5.1408
+	asteroids "medium metal" 83 5.141
 	asteroids "large metal" 105 9.45
 	trade Clothing 290
 	trade Electronics 740
@@ -1440,12 +1440,12 @@ system Nixelog
 	trade Plastic 390
 	object
 		sprite star/g5
-		distance 44.1758
-		period 14.0415
+		distance 44.176
+		period 14.042
 	object
 		sprite star/k5
-		distance 64.8242
-		period 14.0415
+		distance 64.824
+		period 14.042
 		offset 180
 	object
 		sprite planet/cloud3
@@ -1458,7 +1458,7 @@ system Nixelog
 		object
 			sprite planet/rhea
 			distance 258
-			period 16.8767
+			period 16.877
 	object
 		sprite planet/gas10
 		distance 1379.17
@@ -1470,19 +1470,19 @@ system Nixelog
 		object
 			sprite planet/oberon
 			distance 247
-			period 15.5153
+			period 15.515
 		object
 			sprite planet/rock3
 			distance 382
-			period 29.8408
+			period 29.841
 		object
 			sprite planet/ice0
 			distance 537
-			period 49.7367
+			period 49.737
 
 system Norelin
-	pos -1205 -388
-	government "Telashki"
+	pos -1802 200
+	government Telashki
 	habitable 625
 	link Kuragu
 	link Nixelog
@@ -1519,26 +1519,26 @@ system Norelin
 		object
 			sprite planet/dust1
 			distance 228
-			period 18.1217
+			period 18.122
 		object
 			sprite planet/io
 			distance 341
-			period 33.1458
+			period 33.146
 		object
 			sprite planet/rhea
 			distance 469
-			period 53.4634
+			period 53.463
 
 system Kuragu
-	pos -1158 -358
+	pos -1755 230
 	government Quarg
-	attributes "ringworld"
+	attributes ringworld
 	habitable 700
 	link Lotegok
-	link Norelin
 	link Nixelog
-	asteroids "small rock" 15 7.0224
-	asteroids "small metal" 11 8.5008
+	link Norelin
+	asteroids "small rock" 15 7.022
+	asteroids "small metal" 11 8.501
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1561,140 +1561,140 @@ system Kuragu
 		sprite "planet/ringworld left"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset -20
 	object "Kuragu Xochet"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset -40
 	object "Kuragu Xochet"
 		sprite planet/ringworld
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset -60
 	object
 		sprite "planet/ringworld right"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset -80
 	object
 		sprite "planet/ringworld right"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 20
 	object "Kuragu Xochet"
-		sprite "planet/ringworld"
+		sprite planet/ringworld
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 40
 	object "Kuragu Xochet"
-		sprite "planet/ringworld"
+		sprite planet/ringworld
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 60
 	object
 		sprite "planet/ringworld left"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 80
 	object
 		sprite "planet/ringworld right"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 130
 	object
 		sprite "planet/ringworld left"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 150
 	object
 		sprite "planet/ringworld right"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 200
 	object
 		sprite "planet/ringworld left"
 			scale 0.5
 		distance 812
-		period 349.820
+		period 349.82
 		offset 220
 
 planet Chireke
-	attributes naltok telashki rural
+	attributes naltok rural telashki
 	landscape land/forest3
-	description `The environmental conditions on this planet make it almost the perfect home for the Naltok - the first explorers to land here described the conditions as more homely than their homeworld.`
-	description `Unfortunately, those same conditions also make Chireke the perfect home for a wide range of incredibly fast-growing plant species, many of which can grow through metres of solid concrete with the same ease with which most plants would grow through a few centimetres of soil. Every attempt to establish major settlements here has been reduced to rubble and reclaimed by the jungle within a few months.`
-	spaceport `The spaceport sits atop a high mountain plateau, where the cold, dry conditions and thin air inhibit plant growth enough that permanent structures can be established. The unique flora of this planet have given rise to a fairly large lumber industry, and the railway from the mountaintop to the jungle below has become a fairly large tourist attraction as well.`
+	description "The environmental conditions on this planet make it almost the perfect home for the Naltok - the first explorers to land here described the conditions as more homely than their homeworld."
+	description "Unfortunately, those same conditions also make Chireke the perfect home for a wide range of incredibly fast-growing plant species, many of which can grow through metres of solid concrete with the same ease with which most plants would grow through a few centimetres of soil. Every attempt to establish major settlements here has been reduced to rubble and reclaimed by the jungle within a few months."
+	spaceport "The spaceport sits atop a high mountain plateau, where the cold, dry conditions and thin air inhibit plant growth enough that permanent structures can be established. The unique flora of this planet have given rise to a fairly large lumber industry, and the railway from the mountaintop to the jungle below has become a fairly large tourist attraction as well."
 
 planet Kevoshek
-	attributes naltok telashki mining
+	attributes mining naltok telashki
 	landscape land/snow13
-	description `Based on its position, this tiny moon should be no more than an uninhabitable ball of ice and rock. Instead, its surface is warmed to only a few degrees below freezing by the decay of the abnormally high portion of radioisotopes present in its crust.`
-	description `As such, while the lack of sunlight makes Kevoshek unsuited for large-scale colonisation, it is home to massive automatic mining facilities harvesting material for use in the Naltok reactors and radioisotopic generators.`
-	spaceport `The spaceport here, like the mining operations, is entirely automatic - the radiation makes long-term habitation unsafe. Mechanical attendants and computer terminals greet you and the Naltok freight captains looking for well-paid transport jobs to other planets.`
+	description "Based on its position, this tiny moon should be no more than an uninhabitable ball of ice and rock. Instead, its surface is warmed to only a few degrees below freezing by the decay of the abnormally high portion of radioisotopes present in its crust."
+	description "As such, while the lack of sunlight makes Kevoshek unsuited for large-scale colonisation, it is home to massive automatic mining facilities harvesting material for use in the Naltok reactors and radioisotopic generators."
+	spaceport "The spaceport here, like the mining operations, is entirely automatic - the radiation makes long-term habitation unsafe. Mechanical attendants and computer terminals greet you and the Naltok freight captains looking for well-paid transport jobs to other planets."
 
 planet Kolxacha
-	attributes naltok telashki military
+	attributes military naltok telashki
 	landscape land/beach0
-	description `This planet serves as the defensive line of the Telashki. Its proximity to their major industrial worlds is both a blessing and a curse - while it is easy to keep the fleets here supplied, those planets would be under direct attack if the defenses here ever failed. It is for this reason, rather than any other, that this minimally habitable planet has become such a bustling centre of activity.`
-	spaceport `The sheer number of warships here is disturbing. While this part of the spaceport is primarily for incoming shipments of materials, you were able to see the enormous defensive fleet stationed on this planet as you flew in to land. Enormous numbers of warships are stationed here, all ready to take off and engage an enemy at the first sign of danger.`
-	"required reputation" 25
+	description "This planet serves as the defensive line of the Telashki. Its proximity to their major industrial worlds is both a blessing and a curse - while it is easy to keep the fleets here supplied, those planets would be under direct attack if the defenses here ever failed. It is for this reason, rather than any other, that this minimally habitable planet has become such a bustling centre of activity."
+	spaceport "The sheer number of warships here is disturbing. While this part of the spaceport is primarily for incoming shipments of materials, you were able to see the enormous defensive fleet stationed on this planet as you flew in to land. Enormous numbers of warships are stationed here, all ready to take off and engage an enemy at the first sign of danger."
 	outfitter "Naltok Ammo"
+	"required reputation" 25
 
 planet "Kuragu Xochet"
 	attributes quarg station
 	landscape land/station33
-	description `This Quarg ringworld is roughly half complete, the result of more than five millenia of work. Construction here began at around the same time as work began on the Great Pyramids of Egypt back on Earth, and continued throughout the rise and fall of Babylon, Greece, Rome and countless other human civilisations - a testament to the stability and persistence of the Quarg and their society.`
-	description `Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation.`
-	spaceport `The spaceport is bustling with activity, but almost all of it is directly connected to the construction work here. Whole areas are almost unused, but still staffed, while passing through a single door or even walking across a room often leaves you in the middle of a dense crowd of Quarg, many of them Skylark crew and captains looking for their next cargo assignment.`
-	spaceport `The few Naltok who have decided to spend some time here despite the absence of the pools of water favoured in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than you have to.`
+	description "This Quarg ringworld is roughly half complete, the result of more than five millenia of work. Construction here began at around the same time as work began on the Great Pyramids of Egypt back on Earth, and continued throughout the rise and fall of Babylon, Greece, Rome and countless other human civilisations - a testament to the stability and persistence of the Quarg and their society."
+	description "Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation."
+	spaceport "The spaceport is bustling with activity, but almost all of it is directly connected to the construction work here. Whole areas are almost unused, but still staffed, while passing through a single door or even walking across a room often leaves you in the middle of a dense crowd of Quarg, many of them Skylark crew and captains looking for their next cargo assignment."
+	spaceport "The few Naltok who have decided to spend some time here despite the absence of the pools of water favoured in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than you have to."
 
 planet Kutora
-	attributes naltok telashki research
+	attributes naltok research telashki
 	landscape land/fields3
-	description `In addition to being a fairly large population center, this world is also the home of the Ministry of Alien Life. The location close to the Quarg ringworld allows the Ministry to easily monitor Quarg activity in the neighboring system, though the original intent was to facilitate interspecies cooperation.`
-	spaceport `Large parts of the spaceport are designed to mimic Quarg architecture, with high ceilings and smooth, meticulously cleaned panels. There is ongoing work on creating a section inspired by human architecture, although the sections that have been completed so far feel distinctly uncanny.`
+	description "In addition to being a fairly large population center, this world is also the home of the Ministry of Alien Life. The location close to the Quarg ringworld allows the Ministry to easily monitor Quarg activity in the neighboring system, though the original intent was to facilitate interspecies cooperation."
+	spaceport "Large parts of the spaceport are designed to mimic Quarg architecture, with high ceilings and smooth, meticulously cleaned panels. There is ongoing work on creating a section inspired by human architecture, although the sections that have been completed so far feel distinctly uncanny."
 	outfitter "Naltok Intermediate"
 	outfitter "Telashki Advanced"
 
 planet Legash
-	attributes naltok telashki research
+	attributes naltok research telashki
 	landscape land/water12
-	description `This planet, with its abnormally deep oceans which are home to an extremely wide range of animal life, is home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land.`
-	spaceport `The spaceport is located near the base of the Ministry building, which also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding to the present day.`
+	description "This planet, with its abnormally deep oceans which are home to an extremely wide range of animal life, is home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land."
+	spaceport "The spaceport is located near the base of the Ministry building, which also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding to the present day."
 	outfitter "Naltok Basics"
 	outfitter "Telashki Advanced"
 
 planet Lonechox
-	attributes naltok xochira rural
+	attributes naltok rural xochira
 	landscape land/sea17-harro
-	description `This moon is situated almost perfectly within this system's habitable zone, and is home to a large water ocean and several landmasses. Unfortunately, none of those landmasses exists for more than a few hours at a time. The enormous tides here reveal and submerge vast tracts of land several times a day, making the planet unsuitable for long-term habitation, either in traditional cities or large vessels.`
-	description `The only inhabitants of this planet are small fishing communities, using smaller vessels and keeping to deeper water to avoid being stranded when the tides go out.
+	description "This moon is situated almost perfectly within this system's habitable zone, and is home to a large water ocean and several landmasses. Unfortunately, none of those landmasses exists for more than a few hours at a time. The enormous tides here reveal and submerge vast tracts of land several times a day, making the planet unsuitable for long-term habitation, either in traditional cities or large vessels."
+	description "The only inhabitants of this planet are small fishing communities, using smaller vessels and keeping to deeper water to avoid being stranded when the tides go out."
 
 planet Nareltok
-	attributes naltok xochira urban
+	attributes naltok urban xochira
 	landscape land/water6
-	description `Nareltok is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain.`
-	spaceport `The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums.`
+	description "Nareltok is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain."
+	spaceport "The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums."
 	shipyard "Naltok Intermediate"
 	outfitter "Naltok Intermediate"
 	outfitter "Xochira Basics"
 
 planet Ngakego
-	attributes naltok telashki urban factory
+	attributes factory naltok telashki urban
 	landscape land/city7
-	description `Ngakego is by far the largest shipyard in Telashki space, as well as being one of the more populous planets. The warships assembled here mostly go on to join the defenses on Kolxacha, while many of the freighters built here are back within days carrying fresh components.`
+	description "Ngakego is by far the largest shipyard in Telashki space, as well as being one of the more populous planets. The warships assembled here mostly go on to join the defenses on Kolxacha, while many of the freighters built here are back within days carrying fresh components."
 	spaceport `The spaceport here, like many Naltok buildings, is filled with about a foot of lukewarm water. For the Naltok this is essential, in order to prevent their skin from drying out in the air, but for humans and any other visitors this is inconvenient and highly unpleasant. Unlike many other Naltok buildings however, this building has "Visitor paths" which are almost entirely dry, allowing humans and alphas to traverse most of the spaceport in comfort.`
 	shipyard "Naltok Advanced"
 	shipyard "Telashki Advanced"
@@ -1702,65 +1702,72 @@ planet Ngakego
 	outfitter "Telashki Advanced"
 
 planet Ruxanguv
-	attributes naltok xochira military
+	attributes military naltok xochira
 	landscape land/beach0
-	description `This is a huge military emplacement, the third largest operated by the Xochira. This system is where the Alphas first arrived in Naltok space, so it is here that the Xochira maintain their greatest density of patrols. Almost all of the land on this ocean planet is taken up by huge spaceports for landing, repairing and rearming ships and by munitions depots.`
-	spaceport `The spaceport is clearly built for military purposes, as are the many others on this planet. Warships, particularly Archerfish and Barracuda, are constantly landing, rearming and taking off here, and you can see vehicles carrying Halt-Swarm missiles from several warehouses to re-arm the landed ships.`
-	"required reputation" 50
+	description "This is a huge military emplacement, the third largest operated by the Xochira. This system is where the Alphas first arrived in Naltok space, so it is here that the Xochira maintain their greatest density of patrols. Almost all of the land on this ocean planet is taken up by huge spaceports for landing, repairing and rearming ships and by munitions depots."
+	spaceport "The spaceport is clearly built for military purposes, as are the many others on this planet. Warships, particularly Archerfish and Barracuda, are constantly landing, rearming and taking off here, and you can see vehicles carrying Halt-Swarm missiles from several warehouses to re-arm the landed ships."
 	outfitter "Naltok Ammo"
 	outfitter "Xochira Ammo"
+	"required reputation" 50
 
 planet Shajoli
 	attributes naltok uninhabited
 	landscape land/lava0
-	description `This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic, and have since resisted millenia of cleanup attempts.`
+	description "This planet, once an uninhabitable ice world, was the target of a wide range of terraforming attempts in the early days of Naltok space exploration. The last of those attempts was what left the planet in its current state, covered by outgassing pools of bioengineered bacterial ooze. The bacteria succeeded in releasing enough greenhouse gases to heat the planet's surface to habitable levels, but also left the atmosphere toxic, and have since resisted millenia of cleanup attempts."
 	government Uninhabited
 
 planet Shochox
-	attributes naltok telashki urban factory
+	attributes factory naltok telashki urban
 	landscape land/city12
-	description `This unusually large moon is home to a wide range of large manufacturing industries, many of which benefit from the slightly lower gravity here, and also to several fairly large cities.`
-	description `Recently, a fairly large mining operation has begun here. The Telashki have been forced to begin harvesting deposits which they had previously overlooked thanks to their war with the Xochira, and a very deep deposit of nickel here drew the attention of the Ministry of Minerals.`
-	spaceport `The spaceport is clearly not designed to handle this much traffic. A queue of Minnow drones waiting to unload construction resources stretches off into the sky, and you can make out the sillhouettes of several Flounder heavy freighters waiting in the upper atmosphere.`
+	description "This unusually large moon is home to a wide range of large manufacturing industries, many of which benefit from the slightly lower gravity here, and also to several fairly large cities."
+	description "Recently, a fairly large mining operation has begun here. The Telashki have been forced to begin harvesting deposits which they had previously overlooked thanks to their war with the Xochira, and a very deep deposit of nickel here drew the attention of the Ministry of Minerals."
+	spaceport "The spaceport is clearly not designed to handle this much traffic. A queue of Minnow drones waiting to unload construction resources stretches off into the sky, and you can make out the sillhouettes of several Flounder heavy freighters waiting in the upper atmosphere."
 	outfitter "Naltok Intermediate"
 	outfitter "Telashki Intermediate"
 
 planet Shogteg
-	attributes naltok xochira research
+	attributes naltok research xochira
 	landscape land/desert4
-	description `Though too hot to be habitable by most species, this planet nonetheless harbours a fairly diverse biosphere comprised entirely of temperature-tolerant bacteria. Most Naltok biotechnology can trace at least part of its design to the extremely thermostable proteins produced by the bacteria here.`
-	spaceport `The spaceport here is quite small, with docking tubes that connect your ship directly to the largest of the research centres on this planet. Despite the hostile surface conditions, this planet is home to several such locations, as the work of identifying and sequencing every bacterial species here is still ongoing.`
+	description "Though too hot to be habitable by most species, this planet nonetheless harbours a fairly diverse biosphere comprised entirely of temperature-tolerant bacteria. Most Naltok biotechnology can trace at least part of its design to the extremely thermostable proteins produced by the bacteria here."
+	spaceport "The spaceport here is quite small, with docking tubes that connect your ship directly to the largest of the research centres on this planet. Despite the hostile surface conditions, this planet is home to several such locations, as the work of identifying and sequencing every bacterial species here is still ongoing."
 
 planet Tokraget
-	attributes naltok xochira rural research
+	attributes naltok research rural xochira
 	landscape land/fields10-sfiera
-	description `Despite the low gravity, this planet has become a fairly large agricultural settlement, as well as an ideal site for low-gravity research. Crops here reach impressive sizes far earlier than on other planets, and several of the local plants are popular throughout Naltok space for their unique flavours.`
-	description `Thanks in part to their semiaquatic nature, the Naltok do not suffer most of the health problems associated with long-term living in low-gravity that humans would experience.`
-	spaceport `The spaceport here features higher ceilings and more floors than most Naltok buildings, and the locals tower over the visitors - some are almost as tall as you.`
+	description "Despite the low gravity, this planet has become a fairly large agricultural settlement, as well as an ideal site for low-gravity research. Crops here reach impressive sizes far earlier than on other planets, and several of the local plants are popular throughout Naltok space for their unique flavours."
+	description "Thanks in part to their semiaquatic nature, the Naltok do not suffer most of the health problems associated with long-term living in low-gravity that humans would experience."
+	spaceport "The spaceport here features higher ceilings and more floors than most Naltok buildings, and the locals tower over the visitors - some are almost as tall as you."
 
 planet Vigechox
-	attributes naltok xochira urban
+	attributes naltok urban xochira
 	landscape land/water18
-	description `Vigechox was the first world outside their home system that the Naltok were able to colonise. Although the gravity here is lower than on their homeworld, conditions are otherwise fairly close to ideal for the Naltok. Motivated in part by how close they had come to extinction on their home planet, the Naltok sent a generation ship to this system long before they discovered the hyperdrive, and the society here was separated from the rest of their species for nearly two hundred years.`
-	description `The population here welcomed the arrival of the first hyperspace-capable vessels here with open arms, and quickly integrated into the interstellar Naltok society, but there are still some cultural differences between here and the rest of their space.`
-	spaceport `The spaceport is in the centre of the largest and oldest city on this planet, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here. Some of the architecture in the city is distinctly different from anything you have seen anywhere else in Naltok space.`
+	description "Vigechox was the first world outside their home system that the Naltok were able to colonise. Although the gravity here is lower than on their homeworld, conditions are otherwise fairly close to ideal for the Naltok. Motivated in part by how close they had come to extinction on their home planet, the Naltok sent a generation ship to this system long before they discovered the hyperdrive, and the society here was separated from the rest of their species for nearly two hundred years."
+	description "The population here welcomed the arrival of the first hyperspace-capable vessels here with open arms, and quickly integrated into the interstellar Naltok society, but there are still some cultural differences between here and the rest of their space."
+	spaceport "The spaceport is in the centre of the largest and oldest city on this planet, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here. Some of the architecture in the city is distinctly different from anything you have seen anywhere else in Naltok space."
 	outfitter "Naltok Basics"
 
 planet Xorechige
-	attributes naltok xochira urban military
+	attributes military naltok urban xochira
 	landscape land/city17-sfiera
-	description `In the first few days of the civil war, before the Xochira took the Naltok homeworld, this was their capital - the centre of both their government and their manufacturing. Even now, Xorechige is the largest manufacturing world and the second largest military emplacement in Xochira space.`
-	spaceport `This is probably the busiest spaceport in Naltok space. Between the large population, the shipyards, and the military base, the amount of traffic here is absolutely staggering - a fact only exacerbated by the hapazard placement of military facilities, most of which were built during the chaotic early stages of the war.`
-	outfitter "Naltok Advanced"
-	outfitter "Xochira Advanced"
+	description "In the first few days of the civil war, before the Xochira took the Naltok homeworld, this was their capital - the centre of both their government and their manufacturing. Even now, Xorechige is the largest manufacturing world and the second largest military emplacement in Xochira space."
+	spaceport "This is probably the busiest spaceport in Naltok space. Between the large population, the shipyards, and the military base, the amount of traffic here is absolutely staggering - a fact only exacerbated by the hapazard placement of military facilities, most of which were built during the chaotic early stages of the war."
 	shipyard "Naltok Advanced"
 	shipyard "Xochira Advanced"
+	outfitter "Naltok Advanced"
+	outfitter "Xochira Advanced"
 
 planet Xutajol
-	attributes naltok telashki rural
+	attributes naltok rural telashki
 	landscape land/fields13
 	description `The first Naltok explorers on Xutajol characterised it as "minimally habitable" due to the relatively dry climate, and for centuries Xutajol was viewed as a hostile planet with little use beyond cultivation of the local drought-resistant flora as an emergency food reserve.`
-	description `This changed, however, when the Humans and Alphas arriving in Naltok space saw Xutajol as a perfect spot to settle down, and the planet now boasts a population of nearly a thousand non-Naltok residents. With the outbreak of the current civil war, Xutajol's distance from the frontline with the Xochira became another boon for the battle-weary crews of the Alpha ships.`
-	spaceport `The landing pads on this planet are connected by a convoluted system of miniature canals crossed over by walkways. Following the signposts along the canals would take you to the recently expanded old Naltok spaceport, with the excess moisture they favour in their dwellings. Following the walkways instead brings you to the new port, an odd mixture of Human and Naltok architecture which has been furnished first and foremost for the planet's Human and Alpha residents.`
+	description "This changed, however, when the Humans and Alphas arriving in Naltok space saw Xutajol as a perfect spot to settle down, and the planet now boasts a population of nearly a thousand non-Naltok residents. With the outbreak of the current civil war, Xutajol's distance from the frontline with the Xochira became another boon for the battle-weary crews of the Alpha ships."
+	spaceport "The landing pads on this planet are connected by a convoluted system of miniature canals crossed over by walkways. Following the signposts along the canals would take you to the recently expanded old Naltok spaceport, with the excess moisture they favour in their dwellings. Following the walkways instead brings you to the new port, an odd mixture of Human and Naltok architecture which has been furnished first and foremost for the planet's Human and Alpha residents."
 	shipyard "Naltok Basics"
 	outfitter "Naltok Basics"
+
+system "Wormhole End"
+	pos -1342.5 464.25
+
+system "Wormhole Start"
+	pos -862.5 339.25
+

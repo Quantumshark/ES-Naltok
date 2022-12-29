@@ -1630,6 +1630,30 @@ system Kuragu
 		period 349.82
 		offset 220
 
+system "Wormhole End"
+	pos -1438.5 488.25
+	government Uninhabited
+	arrival 500
+	habitable 425
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/wormhole-yellow
+		distance 1000
+
+system "Wormhole Start"
+	pos -862.5 339.25
+	government Uninhabited
+	arrival 1400
+	habitable 1400
+	object
+		sprite star/g0
+		period 10
+	object
+		sprite planet/wormhole-yellow
+		distance 2000
+
 planet Chireke
 	attributes naltok rural telashki
 	landscape land/forest3
@@ -1680,7 +1704,7 @@ planet Lonechox
 	attributes naltok rural xochira
 	landscape land/sea17-harro
 	description "This moon is situated almost perfectly within this system's habitable zone, and is home to a large water ocean and several landmasses. Unfortunately, none of those landmasses exists for more than a few hours at a time. The enormous tides here reveal and submerge vast tracts of land several times a day, making the planet unsuitable for long-term habitation, either in traditional cities or large vessels."
-	description "The only inhabitants of this planet are small fishing communities, using smaller vessels and keeping to deeper water to avoid being stranded when the tides go out."
+	description "The only inhabitants of this planet are small fishing communities, using smaller vessels and keeping to deeper water to avoid being stranded when the tides go out."
 
 planet Nareltok
 	attributes naltok urban xochira
@@ -1765,9 +1789,4 @@ planet Xutajol
 	shipyard "Naltok Basics"
 	outfitter "Naltok Basics"
 
-system "Wormhole End"
-	pos -1438.5 488.25
-
-system "Wormhole Start"
-	pos -862.5 339.25
 

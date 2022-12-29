@@ -754,7 +754,7 @@ system Ngotesh
 		period 843.214
 
 system Keloxen
-	pos -1532 273
+	pos -1539 272
 	government Telashki
 	habitable 486.68
 	link Linekol
@@ -1009,7 +1009,7 @@ system Tokilok
 		period 4262.71
 
 system Linekol
-	pos -1519 225
+	pos -1526 224
 	government Telashki
 	habitable 486.68
 	link Kelojol
@@ -1075,7 +1075,7 @@ system Linekol
 			period 46.922
 
 system Varajol
-	pos -1531 184
+	pos -1538 183
 	government Telashki
 	habitable 486.68
 	link Kelojol
@@ -1189,7 +1189,7 @@ system Kelojol
 			period 14.517
 
 system Vokelon
-	pos -1569 151
+	pos -1576 150
 	government Telashki
 	habitable 135
 	link Varajol

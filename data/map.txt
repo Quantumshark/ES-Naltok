@@ -1633,6 +1633,7 @@ system Kuragu
 system "Wormhole End"
 	pos -1438.5 488.25
 	government Uninhabited
+	attributes "wormhole"
 	arrival 500
 	habitable 425
 	object
@@ -1645,6 +1646,7 @@ system "Wormhole End"
 system "Wormhole Start"
 	pos -862.5 339.25
 	government Uninhabited
+	attributes "wormhole"
 	arrival 1400
 	habitable 1400
 	object

@@ -1639,9 +1639,10 @@ system "Wormhole End"
 	object
 		sprite star/k5
 		period 10
-	object
+	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
 		distance 1000
+		hazard "Shield-depleting Wormhole" 1
 
 system "Wormhole Start"
 	pos -862.5 339.25
@@ -1652,9 +1653,10 @@ system "Wormhole Start"
 	object
 		sprite star/g0
 		period 10
-	object
+	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
 		distance 2000
+		hazard "Shield-depleting Wormhole" 1
 
 planet Chireke
 	attributes naltok rural telashki
@@ -1771,6 +1773,9 @@ planet Vigechox
 	description "The population here welcomed the arrival of the first hyperspace-capable vessels here with open arms, and quickly integrated into the interstellar Naltok society, but there are still some cultural differences between here and the rest of their space."
 	spaceport "The spaceport is in the centre of the largest and oldest city on this planet, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here. Some of the architecture in the city is distinctly different from anything you have seen anywhere else in Naltok space."
 	outfitter "Naltok Basics"
+
+planet "Wormhole Naltok"
+	description ``
 
 planet Xorechige
 	attributes military naltok urban xochira

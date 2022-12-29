@@ -754,7 +754,7 @@ system Ngotesh
 		period 843.214
 
 system Keloxen
-	pos -1487 47
+	pos -1529 37
 	government Telashki
 	habitable 486.68
 	link Linekol
@@ -802,7 +802,7 @@ system Keloxen
 		period 1604.39
 
 system Tolonek
-	pos -1562 61
+	pos -1579 68
 	government Telashki
 	habitable 320
 	link Kelojol
@@ -906,7 +906,7 @@ system Keloteg
 			period 17.525
 
 system Tikelo
-	pos -1632 45
+	pos -1649 53
 	government Telashki
 	habitable 203.28
 	link Golonex
@@ -1009,7 +1009,7 @@ system Tokilok
 		period 4262.71
 
 system Linekol
-	pos -1475 0
+	pos -1517 -10
 	government Telashki
 	habitable 486.68
 	link Kelojol
@@ -1075,7 +1075,7 @@ system Linekol
 			period 46.922
 
 system Varajol
-	pos -1487 -41
+	pos -1529 -51
 	government Telashki
 	habitable 486.68
 	link Kelojol
@@ -1133,7 +1133,7 @@ system Varajol
 			period 44.012
 
 system Kelojol
-	pos -1547 -20
+	pos -1589 -21
 	government Telashki
 	habitable 320
 	link Golonex
@@ -1189,7 +1189,7 @@ system Kelojol
 			period 14.517
 
 system Vokelon
-	pos -1525 -74
+	pos -1567 -84
 	government Telashki
 	habitable 135
 	link Varajol
@@ -1241,7 +1241,7 @@ system Vokelon
 			period 27.933
 
 system Lotegok
-	pos -1651 -33
+	pos -1683 -34
 	government Telashki
 	habitable 500
 	link Golonex
@@ -1286,7 +1286,7 @@ system Lotegok
 		period 1355.15
 
 system Lekonet
-	pos -1592 -188
+	pos -1624 -189
 	government Telashki
 	arrival 2300
 	habitable 2300
@@ -1348,7 +1348,7 @@ system Lekonet
 			period 48.675
 
 system Golonex
-	pos -1608 -1
+	pos -1651 7
 	government Telashki
 	habitable 813.28
 	link Kelojol
@@ -1416,7 +1416,7 @@ system Golonex
 			period 48.748
 
 system Nixelog
-	pos -1625 -133
+	pos -1657 -134
 	government Telashki
 	habitable 1050.92
 	link Kuragu
@@ -1481,7 +1481,7 @@ system Nixelog
 			period 49.737
 
 system Norelin
-	pos -1668 -114
+	pos -1700 -115
 	government Telashki
 	habitable 625
 	link Kuragu
@@ -1530,7 +1530,7 @@ system Norelin
 			period 53.463
 
 system Kuragu
-	pos -1621 -84
+	pos -1653 -85
 	government Quarg
 	attributes ringworld
 	habitable 700
@@ -1633,7 +1633,7 @@ system Kuragu
 system "Wormhole End"
 	pos -1438.5 488.25
 	government Uninhabited
-	attributes "wormhole"
+	attributes wormhole
 	arrival 500
 	habitable 425
 	object
@@ -1647,7 +1647,7 @@ system "Wormhole End"
 system "Wormhole Start"
 	pos -862.5 339.25
 	government Uninhabited
-	attributes "wormhole"
+	attributes wormhole
 	arrival 1400
 	habitable 1400
 	object
@@ -1775,7 +1775,7 @@ planet Vigechox
 	outfitter "Naltok Basics"
 
 planet "Wormhole Naltok"
-	description ``
+	description ""
 
 planet Xorechige
 	attributes military naltok urban xochira
@@ -1795,5 +1795,4 @@ planet Xutajol
 	spaceport "The landing pads on this planet are connected by a convoluted system of miniature canals crossed over by walkways. Following the signposts along the canals would take you to the recently expanded old Naltok spaceport, with the excess moisture they favour in their dwellings. Following the walkways instead brings you to the new port, an odd mixture of Human and Naltok architecture which has been furnished first and foremost for the planet's Human and Alpha residents."
 	shipyard "Naltok Basics"
 	outfitter "Naltok Basics"
-
 

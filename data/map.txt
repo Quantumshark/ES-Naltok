@@ -1,9 +1,10 @@
 system Chategri
-	pos -1460 541
+	pos -1511 369
 	government Xochira
 	arrival 2400
 	habitable 2400
 	link Choxera
+	link Roxeka
 	asteroids "small rock" 9 5.52
 	asteroids "medium rock" 124 4.12
 	asteroids "large rock" 35 5.2
@@ -50,7 +51,7 @@ system Chategri
 			period 30.654
 
 system Tekochi
-	pos -1369 403
+	pos -1420 231
 	government Xochira
 	habitable 1401.68
 	link Ligoxel
@@ -106,12 +107,11 @@ system Tekochi
 			period 30.654
 
 system Ligoxel
-	pos -1429 425
+	pos -1480 253
 	government Xochira
 	habitable 425
 	link Choxera
 	link Lixetog
-	link Roxeka
 	link Tekochi
 	asteroids "small rock" 15 1.724
 	asteroids "medium rock" 6 1.68
@@ -166,10 +166,10 @@ system Ligoxel
 			period 20.268
 
 system Roxeka
-	pos -1401 494
+	pos -1444 415
 	government Xochira
 	habitable 425.92
-	link Ligoxel
+	link Chategri
 	asteroids "small rock" 4 2.6
 	asteroids "medium rock" 122 1.747
 	asteroids "large rock" 8 2.746
@@ -227,7 +227,7 @@ system Roxeka
 			period 22.776
 
 system Choxera
-	pos -1492 477
+	pos -1543 305
 	government Xochira
 	habitable 800
 	link Chategri
@@ -284,7 +284,7 @@ system Choxera
 		period 860.07
 
 system "Xeko Naltok"
-	pos -1533 423
+	pos -1584 251
 	government Xochira
 	habitable 386.68
 	link Choxera
@@ -328,7 +328,7 @@ system "Xeko Naltok"
 		period 1480.07
 
 system Xangoret
-	pos -1605 454
+	pos -1656 282
 	government Xochira
 	habitable 1466.68
 	link Rixengol
@@ -398,7 +398,7 @@ system Xangoret
 			period 17.608
 
 system Lixetog
-	pos -1486 396
+	pos -1537 224
 	government Xochira
 	habitable 851.84
 	link Ligoxel
@@ -463,7 +463,7 @@ system Lixetog
 			period 68.476
 
 system Rixengol
-	pos -1609 386
+	pos -1660 214
 	government Xochira
 	habitable 305
 	link Loxelon
@@ -509,7 +509,7 @@ system Rixengol
 		period 2014.95
 
 system Loxelon
-	pos -1682 400
+	pos -1643 174
 	government Xochira
 	habitable 425.92
 	link Norelon
@@ -580,7 +580,7 @@ system Loxelon
 			period 49.476
 
 system Norelon
-	pos -1724 387
+	pos -1700 157
 	government Xochira
 	habitable 625
 	link Loxelon
@@ -639,7 +639,7 @@ system Norelon
 			period 18.151
 
 system Vokegol
-	pos -1690 350
+	pos -1651 124
 	government "Naltok (Neutral)"
 	habitable 203.68
 	link Loxelon
@@ -696,7 +696,7 @@ system Vokegol
 			period 15.346
 
 system Ngotesh
-	pos -1541 505
+	pos -1592 333
 	government Xochira
 	habitable 500
 	link Choxera
@@ -754,7 +754,7 @@ system Ngotesh
 		period 843.214
 
 system Keloxen
-	pos -1539 272
+	pos -1487 47
 	government Telashki
 	habitable 486.68
 	link Linekol
@@ -802,7 +802,7 @@ system Keloxen
 		period 1604.39
 
 system Tolonek
-	pos -1602 290
+	pos -1562 61
 	government Telashki
 	habitable 320
 	link Kelojol
@@ -853,7 +853,7 @@ system Tolonek
 		period 2499.49
 
 system Keloteg
-	pos -1561 330
+	pos -1518 131
 	government Telashki
 	habitable 446.68
 	link Tolonek
@@ -906,7 +906,7 @@ system Keloteg
 			period 17.525
 
 system Tikelo
-	pos -1671 271
+	pos -1632 45
 	government Telashki
 	habitable 203.28
 	link Golonex
@@ -963,7 +963,7 @@ system Tikelo
 			period 61.384
 
 system Tokilok
-	pos -1718 308
+	pos -1679 82
 	government Telashki
 	habitable 33.28
 	link Tikelo
@@ -1009,7 +1009,7 @@ system Tokilok
 		period 4262.71
 
 system Linekol
-	pos -1526 224
+	pos -1475 0
 	government Telashki
 	habitable 486.68
 	link Kelojol
@@ -1075,7 +1075,7 @@ system Linekol
 			period 46.922
 
 system Varajol
-	pos -1538 183
+	pos -1487 -41
 	government Telashki
 	habitable 486.68
 	link Kelojol
@@ -1133,7 +1133,7 @@ system Varajol
 			period 44.012
 
 system Kelojol
-	pos -1589 211
+	pos -1547 -20
 	government Telashki
 	habitable 320
 	link Golonex
@@ -1189,7 +1189,7 @@ system Kelojol
 			period 14.517
 
 system Vokelon
-	pos -1576 150
+	pos -1525 -74
 	government Telashki
 	habitable 135
 	link Varajol
@@ -1241,7 +1241,7 @@ system Vokelon
 			period 27.933
 
 system Lotegok
-	pos -1690 193
+	pos -1651 -33
 	government Telashki
 	habitable 500
 	link Golonex
@@ -1286,7 +1286,7 @@ system Lotegok
 		period 1355.15
 
 system Lekonet
-	pos -1726 126
+	pos -1592 -188
 	government Telashki
 	arrival 2300
 	habitable 2300
@@ -1348,7 +1348,7 @@ system Lekonet
 			period 48.675
 
 system Golonex
-	pos -1651 223
+	pos -1608 -1
 	government Telashki
 	habitable 813.28
 	link Kelojol
@@ -1416,7 +1416,7 @@ system Golonex
 			period 48.748
 
 system Nixelog
-	pos -1759 181
+	pos -1625 -133
 	government Telashki
 	habitable 1050.92
 	link Kuragu
@@ -1481,7 +1481,7 @@ system Nixelog
 			period 49.737
 
 system Norelin
-	pos -1802 200
+	pos -1668 -114
 	government Telashki
 	habitable 625
 	link Kuragu
@@ -1530,7 +1530,7 @@ system Norelin
 			period 53.463
 
 system Kuragu
-	pos -1755 230
+	pos -1621 -84
 	government Quarg
 	attributes ringworld
 	habitable 700
@@ -1766,7 +1766,7 @@ planet Xutajol
 	outfitter "Naltok Basics"
 
 system "Wormhole End"
-	pos -1342.5 464.25
+	pos -1438.5 488.25
 
 system "Wormhole Start"
 	pos -862.5 339.25

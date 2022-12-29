@@ -264,11 +264,11 @@ ship "Grouper"
 	attributes
 		category "Utility"
 		"cost"
-		"shields" 2700
+		"shields" 4100
 		"hull" 19800
-		"hull repair rate" 1.8
-		"hull energy" .45
-		"hull heat" 1.35
+		"hull repair rate" 2.05
+		"hull energy" .5125
+		"hull heat" 1.5375
 		"required crew" 15 
 		"bunks" 27
 		"mass" 739

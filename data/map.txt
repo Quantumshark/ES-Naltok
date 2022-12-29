@@ -1481,7 +1481,7 @@ system Nixelog
 			period 49.737
 
 system Norelin
-	pos -1700 -115
+	pos -1711 -111
 	government Telashki
 	habitable 625
 	link Kuragu

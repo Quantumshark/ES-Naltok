@@ -57,6 +57,7 @@ shipyard "Telashki Advanced"
 
 outfitter "Naltok Ammo"
 	"Shrapnel Torpedo"
+	"Local Map"
 
 outfitter "Naltok Basics"
 	"Breaker"
@@ -141,6 +142,7 @@ outfitter "Naltok Advanced"
 
 outfitter "Xochira Ammo"
 	"Halt-Swarm Missile"
+	"Local Map"
 
 outfitter "Xochira Basics"
 	"Halt-Swarm Missile"

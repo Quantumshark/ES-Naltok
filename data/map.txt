@@ -1682,11 +1682,11 @@ system "Amansinaya"
 		sprite star/g5
 		period 10
 	object
-		sprite planet/fog1
+		sprite planet/forest0
 		distance 454.95
 		period 132.992
 	object
-		sprite planet/rock0
+		sprite planet/ocean7-b
 		distance 715.19
 		period 262.128
 	object "Wormhole Naltok"

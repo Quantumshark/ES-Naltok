@@ -412,7 +412,7 @@ system Ngotesh
 
 system Norelon
 	pos -1700 157
-	government Xochira
+	government Uninhabited
 	arrival 5000
 	habitable 50000
 	link Loxelon
@@ -1303,7 +1303,7 @@ system Lotegok
 
 system Lekonet
 	pos -1624 -189
-	government Telashki
+	government Uninhabited
 	arrival 3000
 	habitable 3000
 	link Nixelog
@@ -1434,7 +1434,7 @@ system Golonex
 
 system Nixelog
 	pos -1657 -134
-	government Telashki
+	government Uninhabited
 	habitable 850.92
 	link Kuragu
 	link Lekonet
@@ -1503,7 +1503,7 @@ system Nixelog
 
 system Norelin
 	pos -1711 -111
-	government Telashki
+	government Uninhabited
 	arrival 5000
 	habitable 50000
 	link Kuragu

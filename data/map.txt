@@ -50,18 +50,21 @@ system Chategri
 			distance 372
 			period 30.654
 
-system Tekochi
-	pos -1420 231
+system Choxera
+	pos -1543 305
 	government Xochira
-	arrival 3630
-	habitable 3630
+	arrival 1310
+	habitable 1310
+	link Chategri
 	link Ligoxel
-	asteroids "small rock" 9 5.52
-	asteroids "medium rock" 124 4.12
-	asteroids "large rock" 35 5.2
-	asteroids "small metal" 108 3.28
-	asteroids "medium metal" 42 4.04
-	asteroids "large metal" 7 3.92
+	link Ngotesh
+	link "Xeko Naltok"
+	asteroids "small rock" 1 2.402
+	asteroids "medium rock" 9 2.517
+	asteroids "large rock" 32 2.059
+	asteroids "small metal" 48 2.259
+	asteroids "medium metal" 57 4.29
+	asteroids "large metal" 109 3.346
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -74,38 +77,85 @@ system Tekochi
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
 	object
-		sprite star/f5-old
-		distance 23.652
-		period 9.435
-		offset 180
+		sprite star/f8
+		period 10
 	object
-		sprite star/k0
-		distance 83.348
-		period 9.435
+		sprite planet/lava1
+		distance 373.24
+		period 9.812
+	object
+		sprite planet/rock3
+		distance 546.85
+		period 24.271
+	object
+		sprite planet/desert3
+		distance 1296.41
+		period 62.679
+		object
+			sprite planet/europa
+			distance 150
+			period 19.141
 	object
 		sprite planet/rock13
-		distance 1264.988
-		period 36.772
-	object
-		sprite planet/dust6
-		distance 1715.988
-		period 130.329
-	object
-		sprite planet/tethys
-		distance 2314.988
-		period 198.34
-	object
-		sprite planet/gas17
-		distance 3306.88
-		period 944.539
+		distance 1656.77
+		period 191.729
 		object
-			sprite planet/rock17
-			distance 233
-			period 15.195
-		object
-			sprite planet/dust3
-			distance 372
-			period 30.654
+			sprite planet/dust5
+			distance 175
+			period 29.102
+	object
+		sprite planet/gas16
+		distance 3418.38
+		period 860.07
+
+system Keloxen
+	pos -1529 37
+	government Telashki
+	arrival 500
+	habitable 486.68
+	link Linekol
+	asteroids "medium rock" 2 6.82
+	asteroids "large rock" 1 6.6
+	asteroids "small metal" 8 3.74
+	asteroids "medium metal" 14 7.535
+	asteroids "large metal" 12 2.805
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k5
+		period 10
+	object
+		sprite planet/rock9
+		distance 151.41
+		period 33.781
+	object Legash
+		sprite planet/ocean0
+		distance 472.97
+		period 186.504
+		object Shochox
+			sprite planet/ice7
+			distance 148
+			period 21.758
+	object
+		sprite planet/desert4
+		distance 894.97
+		period 485.457
+	object
+		sprite planet/rock14
+		distance 1024.01
+		period 594.148
+	object
+		sprite planet/gas7
+		distance 1985.7
+		period 1604.39
 
 system Ligoxel
 	pos -1480 253
@@ -166,6 +216,306 @@ system Ligoxel
 			sprite planet/luna
 			distance 363
 			period 20.268
+
+system Lixetog
+	pos -1537 224
+	government Xochira
+	arrival 851
+	habitable 851
+	link Ligoxel
+	link "Xeko Naltok"
+	asteroids "small rock" 7 4.03
+	asteroids "medium rock" 32 5.785
+	asteroids "large rock" 3 3.705
+	asteroids "small metal" 7 3.835
+	asteroids "medium metal" 5 8.97
+	asteroids "large metal" 1 3.445
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	fleet "Xochira Interdictor" 1200
+	object
+		sprite star/k5
+		distance 45
+		period 11.702
+		offset 180
+	object
+		sprite star/k5
+		distance 45
+		period 11.702
+	object
+		sprite planet/lava2
+		distance 193.01
+		period 36.749
+	object
+		sprite planet/cloud2
+		distance 420.02
+		period 117.974
+	object Tokraget
+		sprite planet/desert4
+		distance 644.98
+		period 224.492
+	object
+		sprite planet/gas8
+		distance 1611.39
+		period 886.507
+		object
+			sprite planet/rock14
+			distance 207
+			period 15.854
+		object
+			sprite planet/rock17
+			distance 307
+			period 28.634
+		object
+			sprite planet/oberon
+			distance 449
+			period 50.646
+		object
+			sprite planet/dust1
+			distance 549
+			period 68.476
+
+system Loxelon
+	pos -1643 174
+	government Xochira
+	arrival 500
+	habitable 125.92
+	link Norelon
+	link Rixengol
+	link Vokegol
+	asteroids "small rock" 7 7.336
+	asteroids "medium rock" 17 6.259
+	asteroids "large rock" 7 4.361
+	asteroids "small metal" 7 3.745
+	asteroids "medium metal" 14 6.874
+	asteroids "large metal" 19 3.386
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite planet/browndwarf-t-rouge
+		period 10
+	object
+		sprite planet/desert3
+		distance 463.25
+		period 193.25
+	object
+		sprite planet/lava3
+		distance 684.34
+		period 346.98
+	object
+		sprite planet/gas17
+		distance 1191.78
+		period 797.425
+		object
+			sprite planet/rock17
+			distance 204
+			period 12.449
+		object
+			sprite planet/dust5
+			distance 308
+			period 23.094
+	object
+		sprite planet/callisto
+		distance 1743.78
+		period 1411.35
+	object
+		sprite planet/neptune
+		distance 4232.03
+		period 5336.04
+		object
+			sprite planet/rock7
+			distance 191
+			period 13.152
+		object
+			sprite planet/oberon
+			distance 322
+			period 28.788
+		object
+			sprite planet/rock3
+			distance 462
+			period 49.476
+
+system Ngotesh
+	pos -1592 333
+	government Xochira
+	arrival 500
+	habitable 500
+	link Choxera
+	asteroids "small rock" 3 4.106
+	asteroids "medium rock" 7 3.968
+	asteroids "large rock" 13 3.795
+	asteroids "small metal" 4 2.139
+	asteroids "large metal" 4 5.072
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/m8
+		distance 60.067
+		period 10.144
+	object
+		sprite star/m8
+		distance 60.067
+		period 10.144
+		offset 180
+	object Shogteg
+		sprite planet/cloud3
+		distance 284.943
+		period 22.407
+	object
+		sprite planet/dust2
+		distance 474.703
+		period 48.181
+	object
+		sprite planet/rock19
+		distance 652.113
+		period 77.576
+	object
+		sprite planet/gas11
+		distance 1295
+		period 217.096
+		object
+			sprite planet/desert4
+			distance 261
+			period 13.907
+		object
+			sprite planet/rock17
+			distance 356
+			period 22.154
+	object
+		sprite planet/dust4
+		distance 3199.84
+		period 843.214
+
+system Norelon
+	pos -1700 157
+	government Xochira
+	arrival 5000
+	habitable 50000
+	link Loxelon
+	link Vokegol
+	asteroids "small rock" 14 8.197
+	asteroids "medium rock" 23 3.664
+	asteroids "large rock" 10 9.067
+	asteroids "small metal" 85 8.135
+	asteroids "medium metal" 104 7.825
+	asteroids "large metal" 89 4.347
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	hazard Star-Worms 100
+	object
+		sprite star/wr
+		period 10
+	object
+		sprite planet/uranus
+		distance 1228.01
+		period 523.782
+		object
+			sprite planet/ice7
+			distance 213
+			period 13.281
+		object
+			sprite planet/rock14
+			distance 327
+			period 25.264
+		object
+			sprite planet/rhea
+			distance 442
+			period 39.702
+		object
+			sprite planet/dust5
+			distance 573
+			period 58.601
+	object
+		sprite planet/gas5
+		distance 2764.42
+		period 1769.11
+		object
+			sprite planet/ice0
+			distance 229
+			period 11.524
+		object
+			sprite planet/rock7
+			distance 310
+			period 18.151
+
+system Rixengol
+	pos -1660 214
+	government Xochira
+	arrival 500
+	habitable 305
+	link Loxelon
+	link Xangoret
+	link "Xeko Naltok"
+	asteroids "medium rock" 23 5.751
+	asteroids "large rock" 1 6.115
+	asteroids "small metal" 1 6.698
+	asteroids "medium metal" 2 9.828
+	asteroids "large metal" 1 9.828
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/m8
+		period 10
+	object
+		sprite planet/gas10
+		distance 271.41
+		period 71.542
+	object
+		sprite planet/oberon
+		distance 493.02
+		period 175.153
+	object
+		sprite planet/lava3
+		distance 647.98
+		period 263.914
+	object
+		sprite planet/rock17
+		distance 827.19
+		period 380.652
+	object
+		sprite planet/callisto
+		distance 2512.44
+		period 2014.95
 
 system Roxeka
 	pos -1444 415
@@ -228,21 +578,18 @@ system Roxeka
 			distance 430
 			period 22.776
 
-system Choxera
-	pos -1543 305
+system Tekochi
+	pos -1420 231
 	government Xochira
-	arrival 1310
-	habitable 1310
-	link Chategri
+	arrival 3630
+	habitable 3630
 	link Ligoxel
-	link Ngotesh
-	link "Xeko Naltok"
-	asteroids "small rock" 1 2.402
-	asteroids "medium rock" 9 2.517
-	asteroids "large rock" 32 2.059
-	asteroids "small metal" 48 2.259
-	asteroids "medium metal" 57 4.29
-	asteroids "large metal" 109 3.346
+	asteroids "small rock" 9 5.52
+	asteroids "medium rock" 124 4.12
+	asteroids "large rock" 35 5.2
+	asteroids "small metal" 108 3.28
+	asteroids "medium metal" 42 4.04
+	asteroids "large metal" 7 3.92
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -255,50 +602,53 @@ system Choxera
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
 	object
-		sprite star/f8
-		period 10
+		sprite star/f5-old
+		distance 23.652
+		period 9.435
+		offset 180
 	object
-		sprite planet/lava1
-		distance 373.24
-		period 9.812
-	object
-		sprite planet/rock3
-		distance 546.85
-		period 24.271
-	object
-		sprite planet/desert3
-		distance 1296.41
-		period 62.679
-		object
-			sprite planet/europa
-			distance 150
-			period 19.141
+		sprite star/k0
+		distance 83.348
+		period 9.435
 	object
 		sprite planet/rock13
-		distance 1656.77
-		period 191.729
-		object
-			sprite planet/dust5
-			distance 175
-			period 29.102
+		distance 1264.988
+		period 36.772
 	object
-		sprite planet/gas16
-		distance 3418.38
-		period 860.07
+		sprite planet/dust6
+		distance 1715.988
+		period 130.329
+	object
+		sprite planet/tethys
+		distance 2314.988
+		period 198.34
+	object
+		sprite planet/gas17
+		distance 3306.88
+		period 944.539
+		object
+			sprite planet/rock17
+			distance 233
+			period 15.195
+		object
+			sprite planet/dust3
+			distance 372
+			period 30.654
 
-system "Xeko Naltok"
-	pos -1584 251
-	government Xochira
-	habitable 420.68
-	link Choxera
-	link Lixetog
-	link Rixengol
-	link Xangoret
-	asteroids "small rock" 20 7.507
-	asteroids "medium rock" 49 6.403
-	asteroids "large rock" 5 5.41
-	asteroids "medium metal" 16 5.686
-	asteroids "large metal" 1 8.004
+system Vokegol
+	pos -1651 124
+	government "Naltok (Neutral)"
+	arrival 500
+	habitable 203.68
+	link Loxelon
+	link Norelon
+	link Tokilok
+	asteroids "small rock" 16 2.176
+	asteroids "medium rock" 9 3.434
+	asteroids "large rock" 23 4.114
+	asteroids "small metal" 2 2.584
+	asteroids "medium metal" 10 3.774
+	asteroids "large metal" 6 2.516
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -309,26 +659,39 @@ system "Xeko Naltok"
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet "Xochira Interdictor" 800
 	object
-		sprite star/k5
-		period 10
+		sprite star/f-dwarf
+		distance 20
+		period 5
 	object
-		sprite planet/rock1
-		distance 232.25
-		period 68.365
-	object Nareltok
-		sprite planet/forest1-b
-		distance 472.09
-		period 221.628
-	object Shajoli
-		sprite planet/ice8
-		distance 664.34
-		period 429.139
+		sprite star/f-dwarf
+		distance 20
+		period 5
+		offset 180
 	object
-		sprite planet/gas0
-		distance 1881.75
-		period 1480.07
+		sprite planet/dust7
+		distance 159
+		period 36.353
+	object
+		sprite planet/dust3
+		distance 355.25
+		period 121.406
+	object
+		sprite planet/rock5
+		distance 503.25
+		period 204.698
+	object
+		sprite planet/gas10
+		distance 1570.94
+		period 1128.96
+	object
+		sprite planet/gas7
+		distance 2702.1
+		period 2546.77
+		object
+			sprite planet/rock3
+			distance 265
+			period 15.346
 
 system Xangoret
 	pos -1656 282
@@ -401,316 +764,19 @@ system Xangoret
 			distance 222
 			period 17.608
 
-system Lixetog
-	pos -1537 224
+system "Xeko Naltok"
+	pos -1584 251
 	government Xochira
-	arrival 851
-	habitable 851
-	link Ligoxel
-	link "Xeko Naltok"
-	asteroids "small rock" 7 4.03
-	asteroids "medium rock" 32 5.785
-	asteroids "large rock" 3 3.705
-	asteroids "small metal" 7 3.835
-	asteroids "medium metal" 5 8.97
-	asteroids "large metal" 1 3.445
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	fleet "Xochira Interdictor" 1200
-	object
-		sprite star/k5
-		distance 45
-		period 11.702
-		offset 180
-	object
-		sprite star/k5
-		distance 45
-		period 11.702
-	object
-		sprite planet/lava2
-		distance 193.01
-		period 36.749
-	object
-		sprite planet/cloud2
-		distance 420.02
-		period 117.974
-	object Tokraget
-		sprite planet/desert4
-		distance 644.98
-		period 224.492
-	object
-		sprite planet/gas8
-		distance 1611.39
-		period 886.507
-		object
-			sprite planet/rock14
-			distance 207
-			period 15.854
-		object
-			sprite planet/rock17
-			distance 307
-			period 28.634
-		object
-			sprite planet/oberon
-			distance 449
-			period 50.646
-		object
-			sprite planet/dust1
-			distance 549
-			period 68.476
-
-system Rixengol
-	pos -1660 214
-	government Xochira
-	arrival 500
-	habitable 305
-	link Loxelon
-	link Xangoret
-	link "Xeko Naltok"
-	asteroids "medium rock" 23 5.751
-	asteroids "large rock" 1 6.115
-	asteroids "small metal" 1 6.698
-	asteroids "medium metal" 2 9.828
-	asteroids "large metal" 1 9.828
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite star/m8
-		period 10
-	object
-		sprite planet/gas10
-		distance 271.41
-		period 71.542
-	object
-		sprite planet/oberon
-		distance 493.02
-		period 175.153
-	object
-		sprite planet/lava3
-		distance 647.98
-		period 263.914
-	object
-		sprite planet/rock17
-		distance 827.19
-		period 380.652
-	object
-		sprite planet/callisto
-		distance 2512.44
-		period 2014.95
-
-system Loxelon
-	pos -1643 174
-	government Xochira
-	arrival 500
-	habitable 125.92
-	link Norelon
-	link Rixengol
-	link Vokegol
-	asteroids "small rock" 7 7.336
-	asteroids "medium rock" 17 6.259
-	asteroids "large rock" 7 4.361
-	asteroids "small metal" 7 3.745
-	asteroids "medium metal" 14 6.874
-	asteroids "large metal" 19 3.386
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite planet/browndwarf-t-rouge
-		period 10
-	object
-		sprite planet/desert3
-		distance 463.25
-		period 193.25
-	object
-		sprite planet/lava3
-		distance 684.34
-		period 346.98
-	object
-		sprite planet/gas17
-		distance 1191.78
-		period 797.425
-		object
-			sprite planet/rock17
-			distance 204
-			period 12.449
-		object
-			sprite planet/dust5
-			distance 308
-			period 23.094
-	object
-		sprite planet/callisto
-		distance 1743.78
-		period 1411.35
-	object
-		sprite planet/neptune
-		distance 4232.03
-		period 5336.04
-		object
-			sprite planet/rock7
-			distance 191
-			period 13.152
-		object
-			sprite planet/oberon
-			distance 322
-			period 28.788
-		object
-			sprite planet/rock3
-			distance 462
-			period 49.476
-
-system Norelon
-	pos -1700 157
-	government Xochira
-	arrival 5000
-	habitable 50000
-	link Loxelon
-	link Vokegol
-	asteroids "small rock" 14 8.197
-	asteroids "medium rock" 23 3.664
-	asteroids "large rock" 10 9.067
-	asteroids "small metal" 85 8.135
-	asteroids "medium metal" 104 7.825
-	asteroids "large metal" 89 4.347
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	hazard Star-Worms 100
-	object
-		sprite star/wr
-		period 10
-	object
-		sprite planet/uranus
-		distance 1228.01
-		period 523.782
-		object
-			sprite planet/ice7
-			distance 213
-			period 13.281
-		object
-			sprite planet/rock14
-			distance 327
-			period 25.264
-		object
-			sprite planet/rhea
-			distance 442
-			period 39.702
-		object
-			sprite planet/dust5
-			distance 573
-			period 58.601
-	object
-		sprite planet/gas5
-		distance 2764.42
-		period 1769.11
-		object
-			sprite planet/ice0
-			distance 229
-			period 11.524
-		object
-			sprite planet/rock7
-			distance 310
-			period 18.151
-
-system Vokegol
-	pos -1651 124
-	government "Naltok (Neutral)"
-	arrival 500
-	habitable 203.68
-	link Loxelon
-	link Norelon
-	link Tokilok
-	asteroids "small rock" 16 2.176
-	asteroids "medium rock" 9 3.434
-	asteroids "large rock" 23 4.114
-	asteroids "small metal" 2 2.584
-	asteroids "medium metal" 10 3.774
-	asteroids "large metal" 6 2.516
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite star/f-dwarf
-		distance 20
-		period 5
-	object
-		sprite star/f-dwarf
-		distance 20
-		period 5
-		offset 180
-	object
-		sprite planet/dust7
-		distance 159
-		period 36.353
-	object
-		sprite planet/dust3
-		distance 355.25
-		period 121.406
-	object
-		sprite planet/rock5
-		distance 503.25
-		period 204.698
-	object
-		sprite planet/gas10
-		distance 1570.94
-		period 1128.96
-	object
-		sprite planet/gas7
-		distance 2702.1
-		period 2546.77
-		object
-			sprite planet/rock3
-			distance 265
-			period 15.346
-
-system Ngotesh
-	pos -1592 333
-	government Xochira
-	arrival 500
-	habitable 500
+	habitable 420.68
 	link Choxera
-	asteroids "small rock" 3 4.106
-	asteroids "medium rock" 7 3.968
-	asteroids "large rock" 13 3.795
-	asteroids "small metal" 4 2.139
-	asteroids "large metal" 4 5.072
+	link Lixetog
+	link Rixengol
+	link Xangoret
+	asteroids "small rock" 20 7.507
+	asteroids "medium rock" 49 6.403
+	asteroids "large rock" 5 5.41
+	asteroids "medium metal" 16 5.686
+	asteroids "large metal" 1 8.004
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -721,92 +787,26 @@ system Ngotesh
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	object
-		sprite star/m8
-		distance 60.067
-		period 10.144
-	object
-		sprite star/m8
-		distance 60.067
-		period 10.144
-		offset 180
-	object Shogteg
-		sprite planet/cloud3
-		distance 284.943
-		period 22.407
-	object
-		sprite planet/dust2
-		distance 474.703
-		period 48.181
-	object
-		sprite planet/rock19
-		distance 652.113
-		period 77.576
-	object
-		sprite planet/gas11
-		distance 1295
-		period 217.096
-		object
-			sprite planet/desert4
-			distance 261
-			period 13.907
-		object
-			sprite planet/rock17
-			distance 356
-			period 22.154
-	object
-		sprite planet/dust4
-		distance 3199.84
-		period 843.214
-
-system Keloxen
-	pos -1529 37
-	government Telashki
-	arrival 500
-	habitable 486.68
-	link Linekol
-	asteroids "medium rock" 2 6.82
-	asteroids "large rock" 1 6.6
-	asteroids "small metal" 8 3.74
-	asteroids "medium metal" 14 7.535
-	asteroids "large metal" 12 2.805
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
+	fleet "Xochira Interdictor" 800
 	object
 		sprite star/k5
 		period 10
 	object
-		sprite planet/rock9
-		distance 151.41
-		period 33.781
-	object Legash
-		sprite planet/ocean0
-		distance 472.97
-		period 186.504
-		object Shochox
-			sprite planet/ice7
-			distance 148
-			period 21.758
+		sprite planet/rock1
+		distance 232.25
+		period 68.365
+	object Nareltok
+		sprite planet/forest1-b
+		distance 472.09
+		period 221.628
+	object Shajoli
+		sprite planet/ice8
+		distance 664.34
+		period 429.139
 	object
-		sprite planet/desert4
-		distance 894.97
-		period 485.457
-	object
-		sprite planet/rock14
-		distance 1024.01
-		period 594.148
-	object
-		sprite planet/gas7
-		distance 1985.7
-		period 1604.39
+		sprite planet/gas0
+		distance 1881.75
+		period 1480.07
 
 system Tolonek
 	pos -1579 68

@@ -517,7 +517,7 @@ system Rixengol
 system Loxelon
 	pos -1643 174
 	government Xochira
-	arrival 200
+	arrival 500
 	habitable 125.92
 	link Norelon
 	link Rixengol
@@ -539,23 +539,8 @@ system Loxelon
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/l-dwarf
-		distance 30
+		sprite planet/browndwarf-t-rouge
 		period 10
-	object
-		sprite star/l-dwarf
-		distance 30
-		period 10
-		offset 120
-	object
-		sprite star/l-dwarf
-		distance 30
-		period 10
-		offset 240
-	object
-		sprite planet/lava2
-		distance 134.25
-		period 30.149
 	object
 		sprite planet/desert3
 		distance 463.25

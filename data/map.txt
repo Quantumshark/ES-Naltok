@@ -1630,7 +1630,7 @@ system Kuragu
 		period 349.82
 		offset 220
 
-system "Wormhole End"
+system "Vverev"
 	pos -1438.5 488.25
 	government Uninhabited
 	attributes wormhole
@@ -1640,35 +1640,43 @@ system "Wormhole End"
 		sprite star/k5
 		period 10
 	object
+		sprite planet/lava0
+		distance 503.522
+		period 462.128
+	object
 		sprite planet/lava3
 		distance 861.682
-		period 40.15
+		period 740.15
 	object
 		sprite planet/lava5
 		distance 1381.632
-		period 132.992
-	object
-		sprite planet/lava0
-		distance 503.522
-		period 262.128
+		period 1032.992
 	object
 		sprite planet/lava2-b
 		distance 1840.757
-		period 1225.68
+		period 1325.68
 	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
 		distance 2500
 		hazard "Shield-depleting Wormhole" 1
 
-system "Wormhole Start"
+system "Amansinaya"
 	pos -862.5 339.25
 	government Uninhabited
 	attributes wormhole
 	arrival 1400
 	habitable 1400
 	object
-		sprite star/g0
+		sprite star/g5
 		period 10
+	object
+		sprite planet/fog1
+		distance 454.95
+		period 132.992
+	object
+		sprite planet/rock0
+		distance 715.19
+		period 262.128
 	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
 		distance 3500

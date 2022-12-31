@@ -630,7 +630,7 @@ system Tekochi
 			sprite planet/rock17
 			distance 233
 			period 15.195
-		object
+		object Xejolki
 			sprite planet/dust3
 			distance 372
 			period 30.654
@@ -1693,6 +1693,7 @@ system "Vverev"
 		sprite planet/wormhole-yellow
 		distance 2500
 		period 1000
+		offset 180
 		hazard "Shield-depleting Wormhole" 1
 
 system "Amansinaya"
@@ -1836,6 +1837,13 @@ planet Vigechox
 
 planet "Wormhole Naltok"
 	description ""
+
+planet Xejolki
+	attributes naltok xochira research
+	landcape land/sky0
+	description "Though it is currently deep in Xochira space, many of the inhabitants of this moon remain loyal to the Telashki. The original settlements here were small, primarily established in order to strip-mine the topsoil, which was atypically high in nickel and cadmium."
+	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting signals from nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
+	spaceport "There are a suprisingly high number of Xochira ground troops here."
 
 planet Xorechige
 	attributes military naltok urban xochira

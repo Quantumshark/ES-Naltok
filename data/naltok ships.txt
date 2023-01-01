@@ -641,7 +641,7 @@ ship "Pike"
 		"cargo space" 119
 		"outfit space" 806
 		"weapon capacity" 328
-		"engine capacity" 204
+		"engine capacity" 237
 		"heat protection" 3
 		"burn protection" 1
 	outfits
@@ -742,12 +742,12 @@ ship "Kaluga"
 			"Xochira"
 		"cost" 17723000
 		"shields" 8600
-		"hull" 50800
-		"hull repair rate" 3.6
-		"hull energy" .9
-		"hull heat" 2.7
+		"hull" 53800
+		"hull repair rate" 3.8
+		"hull energy" .95
+		"hull heat" 2.85
 		"required crew" 71
-		"bunks" 84
+		"bunks" 82
 		"mass" 801
 		"drag" 11.9
 		"heat dissipation" .15
@@ -796,19 +796,19 @@ ship "Coelacanth"
 		"cost"
 		"shields" 11300
 		"hull" 80300
-		"hull repair rate" 4.5
-		"hull energy" 1.125
-		"hull heat" 3.375
+		"hull repair rate" 4.7
+		"hull energy" 1.175
+		"hull heat" 3.525
 		"required crew" 114
 		"bunks" 143
-		"mass" 1181
+		"mass" 1381
 		"drag" 28.05
 		"heat dissipation" .11
 		"fuel capacity" 500
 		"cargo space" 98
 		"outfit space" 1104
 		"weapon capacity" 503
-		"engine capacity" 238
+		"engine capacity" 268
 		"heat protection" 3
 		"burn protection" 1
 	outfits

@@ -154,7 +154,7 @@ outfit "Sky-Shredder"
 		"firing heat" 12
 		"shield damage" 37
 		"hull damage" 31
-	description ""
+	description "The Sky-Shredder is designed to strip the shields from fast-moving opponents, allowing the powerful but unwieldy Steel-Render or a salvo of Shrapnel Torpedoes to deal with their hull armour."
 
 outfit "Leech-Ray"
 	category "Guns"
@@ -311,7 +311,7 @@ outfit "Shrapnel Torpedo Launcher"
 		ammo "Shrapnel Torpedo"
 		icon "icon/shrapneltorpedo"
 		"submunition" "Torpedo Shrapnel" 15
-		"split range" 200
+		"split range" 150
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
@@ -346,7 +346,7 @@ outfit "Shrapnel Torpedo Pod"
 		ammo "Shrapnel Torpedo"
 		icon "icon/shrapneltorpedo"
 		"submunition" "Torpedo Shrapnel" 15
-		"split range" 200
+		"split range" 150
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
@@ -392,7 +392,7 @@ outfit "Torpedo Shrapnel"
 		"inaccuracy" 22
 		"velocity" 8
 		"random velocity" 25
-		"lifetime" 20
+		"lifetime" 15
 		"random lifetime" 20
 		"missile strength" 2
 		"shield damage" 75

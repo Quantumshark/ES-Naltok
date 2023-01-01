@@ -793,7 +793,7 @@ ship "Coelacanth"
 	thumbnail "thumbnail/coelacanth"
 	attributes
 		category "Heavy Warship"
-		"cost"
+		"cost" 28956000
 		"shields" 11300
 		"hull" 80300
 		"hull repair rate" 4.7

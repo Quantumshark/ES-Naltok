@@ -638,7 +638,7 @@ ship "Pike"
 		"drag" 8.7
 		"heat dissipation" .2
 		"fuel capacity" 600
-		"cargo space" 119
+		"cargo space" 139
 		"outfit space" 806
 		"weapon capacity" 328
 		"engine capacity" 237

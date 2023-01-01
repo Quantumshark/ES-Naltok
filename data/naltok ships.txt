@@ -144,19 +144,19 @@ ship "Herring"
 	thumbnail "thumbnail/herring"
 	attributes
 		category "Light Freighter"
-		"cost" 392000
+		"cost" 462000
 		"shields" 300
 		"hull" 1500
 		"hull repair rate" .25
 		"hull energy" .0625
 		"hull heat" .1875
-		"required crew" 1
-		"bunks" 2
+		"required crew" 2
+		"bunks" 3
 		"mass" 98
 		"drag" 1.8
 		"heat dissipation" .29
 		"fuel capacity" 400
-		"cargo space" 62
+		"cargo space" 92
 		"outfit space" 124
 		"weapon capacity" 31
 		"engine capacity" 45

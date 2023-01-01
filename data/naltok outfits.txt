@@ -53,10 +53,10 @@ outfit "Lobster Reactor"
 	category "Power"
 	cost 17832300
 	thumbnail "outfit/large naltok fission"
-	"mass" 184
-	"outfit space" -184
-	"energy generation" 32.2
-	"heat generation" 17.05
+	"mass" 166
+	"outfit space" -166
+	"energy generation" 29.1
+	"heat generation" 15.35
 	description "This enormous fission reactor, far larger than most human reactors, is only used on the very largest of Naltok ships. This is partially because Naltok technology rarely requires this much power, but primarily because the heat output, though relatively low by the standards of most other races, is enough to cause major problems for all but the largest of Naltok ships."
 
 outfit "Stream Shield Generator"

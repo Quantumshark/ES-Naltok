@@ -184,13 +184,13 @@ ship "Conger"
 		"hull repair rate" .6
 		"hull energy" .15
 		"hull heat" .45
-		"required crew" 3
-		"bunks" 4
+		"required crew" 4
+		"bunks" 5
 		"mass" 218
 		"drag" 4.3
 		"heat dissipation" .24
 		"fuel capacity" 600
-		"cargo space" 237
+		"cargo space" 287
 		"outfit space" 264
 		"weapon capacity" 58
 		"engine capacity" 105

@@ -156,7 +156,7 @@ ship "Herring"
 		"drag" 1.8
 		"heat dissipation" .29
 		"fuel capacity" 400
-		"cargo space" 61
+		"cargo space" 62
 		"outfit space" 124
 		"weapon capacity" 31
 		"engine capacity" 45

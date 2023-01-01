@@ -234,8 +234,8 @@ ship "Flounder"
 		"hull repair rate" 1.2
 		"hull energy" .3
 		"hull heat" .9
-		"required crew" 7
-		"bunks" 12
+		"required crew" 12
+		"bunks" 17
 		"mass" 861
 		"drag" 12.1
 		"heat dissipation" .11

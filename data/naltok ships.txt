@@ -682,7 +682,7 @@ ship "Mola"
 		"hull energy" .725
 		"hull heat" 2.175
 		"required crew" 56
-		"bunks" 66
+		"bunks" 68
 		"mass" 594
 		"drag" 10.8
 		"heat dissipation" .15

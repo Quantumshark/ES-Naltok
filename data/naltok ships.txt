@@ -871,11 +871,11 @@ ship "Remora"
 	attributes
 		category "Fighter"
 		"cost"
-		"shields" 400
-		"hull" 2600
-		"hull repair rate" .5
-		"hull energy" .125
-		"hull heat" .375
+		"shields" 600
+		"hull" 2800
+		"hull repair rate" .6
+		"hull energy" .15
+		"hull heat" .45
 		"required crew" 1
 		"bunks" 1
 		"mass" 37

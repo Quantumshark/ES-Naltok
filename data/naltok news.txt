@@ -18,19 +18,87 @@ news "telashki scientist"
 		word
 			"Naltok scientist"
 	message
-		word
-			`"`
-		word
-			"It amazes me that Humans and Naltok share the same amino acids, DNA bases and translational apparatus! It's a shame we've never managed to get a DNA sample from a Quarg."
-			"Have you seen the Star-Worms of Norelon? They're beautiful to watch, but they can be a real headache if they get onto a planet with the right surface conditions."
-			"I wonder if there's alien life out there? Besides you, obviously. And the Quarg. And the Alphas. And the Star-Worms, I suppose. Okay, now I think about it there's probably quite a lot."
-			"I wish the Quarg were more cooperative. They clearly know so much that we don't, but they've never been willing to share."
-			"My transgenic bacterial samples grew 233% more rapidly on average than the control group! That's an improvement of 0.43% over the last batch!"
-			"Would you be willing to bring me some soil samples from your homeworld? I'm studying the connections between soil microbiomes and physiological features of sentient species."
-			"The bacteria in Naltok starship hulls actually combine enzymes isolated from species from four different planets, as well as many totally artificial designs."
-			"Metallurgy? It's an interesting subject, but quite dated. If you ask me, the major advances of this milennium will be in xenobiology."
-		word
-			`"`
+		phrase
+			"telashki scientist misc"
+			"telashki scientist information control"
+
+phrase "telashki scientist misc"
+	word
+		`"`
+	word
+		"It amazes me that Humans and Naltok share the same amino acids, DNA bases and translational apparatus! It's a shame we've never managed to get a DNA sample from a Quarg."
+		"Have you seen the Star-Worms of Norelon? They're beautiful to watch, but they can be a real headache if they get onto a planet with the right surface conditions."
+		"I wonder if there's alien life out there? Besides you, obviously. And the Quarg. And the Alphas. And the Star-Worms, I suppose. Okay, now I think about it there's probably quite a lot."
+		"I wish the Quarg were more cooperative. They clearly know so much that we don't, but they've never been willing to share."
+		"My transgenic bacterial samples grew 233% more rapidly on average than the control group! That's an improvement of 0.43% over the last batch!"
+		"Would you be willing to bring me some soil samples from your homeworld? I'm studying the connections between soil microbiomes and physiological features of sentient species."
+		"The bacteria in Naltok starship hulls actually combine enzymes isolated from species from four different planets, as well as many totally artificial designs."
+		"Metallurgy? It's an interesting subject, but quite dated. If you ask me, the major advances of this milennium will be in xenobiology."
+	word
+		`"`
+
+phrase "telashki scientist information control"
+	word
+		`"`
+	word
+		"I heard"
+		"Someone told me"
+		"An Alpha told me"
+		"One of the Alphas told me"
+		"I overheard someone mention"
+	word
+		" that "
+	word
+		"Human governments"
+		"the Republic and Syndicate"
+		"your governments"
+		"governments in Human space"
+		"corporations in Human space"
+		"Human companies"
+	word
+		" "
+	word
+		"often"
+		"freqently"
+		"commonly"
+		"sometimes"
+		"tend to"
+		"usually"
+		"occasionally"
+	word
+		" "
+	word
+		"conceal"
+		"hide"
+		"supress"
+		"refuse to publish"
+		"decline to publish"
+		"do not release"
+	word
+		" "
+	word
+		"new"
+		"novel"
+		"recent"
+		"advanced"
+	word
+		"discoveries"
+		"technologies"
+		"designs"
+		"research"
+	word
+		". "
+	word
+		"The Ministry of Genetic Research would never allow that here."
+		"Doesn't that slow your progress as a species?"
+		"Doesn't that make it hard to peer-review things?"
+		"If I tried that, I'd be in serious trouble."
+		"Why would you do that?"
+		"It doesn't make sense to me."
+		"It doesn't make sense to me, but that's aliens for you. No offense."
+		"But you'd never do that, would you?"
+		"How does that even work?"
+		"Is that even legal?"
 
 news "naltok merchant"
 	location

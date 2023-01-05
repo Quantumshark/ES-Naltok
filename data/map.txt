@@ -497,7 +497,7 @@ system Rixengol
 		sprite star/m8
 		period 10
 	object
-		sprite planet/gas10
+		sprite planet/dust3
 		distance 271.41
 		period 71.542
 	object

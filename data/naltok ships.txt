@@ -78,8 +78,8 @@ ship "Marlin"
 	attributes
 		category "Space Liner"
 		"cost" 0
-		"shields" 2300
-		"hull" 10100
+		"shields" 2700
+		"hull" 14100
 		"hull repair rate" 1.1
 		"hull energy" .275
 		"hull heat" .825

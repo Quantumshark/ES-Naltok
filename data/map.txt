@@ -1729,7 +1729,7 @@ planet Chireke
 planet Gorloxek
 	attributes uninhabited
 	landscape land/forest7
-	description "This planet is home to a spectacularly diverse biosphere, thanks to the large forested continents and huge ocean. If it were located in human space this world would doubtless be home to billions, yet despite having had a major population centre only two systems away the Naltok appear not to have made any attempt to colonise it."
+	description "This planet is home to a spectacularly diverse biosphere, thanks to the large forested continents and huge ocean. If it were located in human space this world would doubtless be home to billions, yet despite having had a major population centre only two systems away for millenia the Naltok appear not to have made any attempt to colonise it."
 
 planet Joklanok
 	attributes naltok xochira urban factory

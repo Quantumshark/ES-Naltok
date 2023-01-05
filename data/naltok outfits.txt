@@ -10,7 +10,7 @@
 
 outfit "Nauplius Cell"
 	category "Power"
-	cost 78100
+	cost 47100
 	thumbnail "outfit/naltok cell"
 	"mass" 14
 	"outfit space" -14

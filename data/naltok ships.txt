@@ -190,7 +190,7 @@ ship "Conger"
 		"drag" 4.3
 		"heat dissipation" .24
 		"fuel capacity" 600
-		"cargo space" 287
+		"cargo space" 242
 		"outfit space" 264
 		"weapon capacity" 58
 		"engine capacity" 105

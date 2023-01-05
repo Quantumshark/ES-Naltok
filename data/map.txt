@@ -87,7 +87,7 @@ system Choxera
 		sprite planet/rock3
 		distance 546.85
 		period 24.271
-	object
+	object Joklanok
 		sprite planet/desert3
 		distance 1296.41
 		period 62.679
@@ -1468,8 +1468,8 @@ system Nixelog
 		sprite planet/cloud3
 		distance 253.634
 		period 49.841
-	object
-		sprite planet/forest0
+	object Gorloxek
+		sprite planet/earth-b
 		distance 850.92
 		period 300.1
 	object
@@ -1726,6 +1726,22 @@ planet Chireke
 	description "Unfortunately, those same conditions also make Chireke the perfect home for a wide range of incredibly fast-growing plant species, many of which can grow through metres of solid concrete with the same ease with which most plants would grow through a few centimetres of soil. Every attempt to establish major settlements here has been reduced to rubble and reclaimed by the jungle within a few months."
 	spaceport "The spaceport sits atop a high mountain plateau, where the cold, dry conditions and thin air inhibit plant growth enough that permanent structures can be established. The unique flora of this planet have given rise to a fairly large lumber industry, and the railway from the mountaintop to the jungle below has become a fairly large tourist attraction as well."
 
+planet Gorloxek
+	attributes uninhabited
+	landscape land/forest7
+	description "This planet is home to a spectacularly diverse biosphere, thanks to the large forested continents and huge ocean. If it were located in human space this world would doubtless be home to billions, yet despite having had a major population centre only two systems away the Naltok appear not to have made any attempt to colonise it."
+
+planet Joklanok
+	attributes naltok xochira urban factory
+	landscape land/city14-sfiera
+	description "Joklanok is home to several landmasses with ideal conditions to support large cities. It is also home to a colossal desert continent which spans most of the equator, and which frequently fills the atmosphere with catastrophic and unpredictable sandstorms which can often reach all the way to the poles."
+	description "To combat the wear from the sandstorms the Naltok built enormous, sloped buildings from the same mineralising bacterial communities used in their ships. In addition to resisting the sandstorms, the largest city here also famously survived an asteroid impact - after evacuating the whole city, the residents were surprised to see that within a few weeks the buildings had recovered completely."
+	spaceport `The primary spaceport here was originally a temporary portbuilt to facilitate evacuation in preparation for the asteroid strike. Having been both larger and more streamlined than the original port, the "Evacuation Port" was expanded and refurbished by the Ministry of Transport and is now widely considered to be the most pleasant spaceport anywhere in Naltok space.
+	shipyard "Naltok Basics"
+	shipyard "Xochira Basics"
+	outfitter "Naltok Intermediate"
+	outfitter "Xochira Intermediate"
+
 planet Kevoshek
 	attributes mining naltok telashki
 	landscape land/snow13
@@ -1806,7 +1822,7 @@ planet Shajoli
 	government Uninhabited
 
 planet Shochox
-	attributes factory naltok telashki urban
+	attributes factory naltok telashki urban mining
 	landscape land/city12
 	description "This unusually large moon is home to a wide range of large manufacturing industries, many of which benefit from the slightly lower gravity here, and also to several fairly large cities."
 	description "Recently, a fairly large mining operation has begun here. The Telashki have been forced to begin harvesting deposits which they had previously overlooked thanks to their war with the Xochira, and a very deep deposit of nickel here drew the attention of the Ministry of Minerals."

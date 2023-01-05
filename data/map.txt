@@ -1736,7 +1736,7 @@ planet Joklanok
 	landscape land/city14-sfiera
 	description "Joklanok is home to several landmasses with ideal conditions to support large cities. It is also home to a colossal desert continent which spans most of the equator, and which frequently fills the atmosphere with catastrophic and unpredictable sandstorms which can often reach all the way to the poles."
 	description "To combat the wear from the sandstorms the Naltok built enormous, sloped buildings from the same mineralising bacterial communities used in their ships. In addition to resisting the sandstorms, the largest city here also famously survived an asteroid impact - after evacuating the whole city, the residents were surprised to see that within a few weeks the buildings had recovered completely."
-	spaceport `The primary spaceport here was originally a temporary portbuilt to facilitate evacuation in preparation for the asteroid strike. Having been both larger and more streamlined than the original port, the "Evacuation Port" was expanded and refurbished by the Ministry of Transport and is now widely considered to be the most pleasant spaceport anywhere in Naltok space.
+	spaceport `The primary spaceport here was originally a temporary port built to facilitate evacuation in preparation for the asteroid strike. Having been both larger and more streamlined than the original port, the "Evacuation Port" was expanded and refurbished by the Ministry of Transport and is now widely considered to be the most pleasant spaceport anywhere in Naltok space.
 	shipyard "Naltok Basics"
 	shipyard "Xochira Basics"
 	outfitter "Naltok Intermediate"

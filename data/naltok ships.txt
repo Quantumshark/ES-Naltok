@@ -763,7 +763,7 @@ ship "Kaluga"
 		"fuel capacity" 400
 		"cargo space" 0
 		"outfit space" 894
-		"weapon capacity" 403
+		"weapon capacity" 413
 		"engine capacity" 178
 		"heat protection" 3
 		"burn protection" 1

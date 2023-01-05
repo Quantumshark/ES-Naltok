@@ -237,16 +237,25 @@ ship "Flounder"
 		"required crew" 12
 		"bunks" 17
 		"mass" 861
-		"drag" 12.1
+		"drag" 14.1
 		"heat dissipation" .11
 		"fuel capacity" 600
 		"cargo space" 866
-		"outfit space" 681
+		"outfit space" 631
 		"weapon capacity" 173
 		"engine capacity" 113
 		"heat protection" 3
 		"burn protection" 1
 	outfits
+		"Naltok Anti-Missile" 3
+		"Triple Breaker Turret" 2
+
+		"Nauplius Cell" 6
+		"Pond Battery" 4
+		"Stream Shield Generator" 2
+
+		"Iguana Thruster"
+		"Gecko Steering"
 		"Hyperdrive"
 
 	turret

@@ -85,7 +85,7 @@ ship "Marlin"
 		"hull heat" .825
 		"required crew" 31
 		"bunks" 147
-		"mass" 273
+		"mass" 312
 		"drag" 6.3
 		"heat dissipation" .23
 		"fuel capacity" 600

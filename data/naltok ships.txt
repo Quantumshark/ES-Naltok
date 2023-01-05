@@ -145,8 +145,8 @@ ship "Herring"
 	attributes
 		category "Light Freighter"
 		"cost" 462000
-		"shields" 300
-		"hull" 1500
+		"shields" 400
+		"hull" 1900
 		"hull repair rate" .25
 		"hull energy" .0625
 		"hull heat" .1875
@@ -180,7 +180,7 @@ ship "Conger"
 		category "Light Freighter"
 		"cost" 2486000
 		"shields" 900
-		"hull" 5300
+		"hull" 6100
 		"hull repair rate" .6
 		"hull energy" .15
 		"hull heat" .45

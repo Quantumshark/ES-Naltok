@@ -878,7 +878,7 @@ system Tolonek
 		period 2499.49
 
 system Keloteg
-	pos -1518 131
+	pos -1528 131
 	government Telashki
 	arrival 500
 	habitable 446.68

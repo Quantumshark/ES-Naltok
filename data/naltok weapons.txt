@@ -223,14 +223,14 @@ outfit "Halt-Swarm Launcher"
 		"reload" 30
 		"firing energy" .1
 		"firing heat" 7.3
-		"acceleration" 1.9
+		"acceleration" 1.98
 		"drag" .11
-		"turn" 2.0
+		"turn" 3.3
 		"homing" 3
-		"radar tracking" .5
+		"radar tracking" .73
 		"shield damage" 97
 		"hull damage" 97
-		"slowing damage" 8
+		"slowing damage" 7.7
 		"missile strength" 3
 	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
 
@@ -262,14 +262,14 @@ outfit "Halt-Swarm Pod"
 		"reload" 45
 		"firing energy" .1
 		"firing heat" 7.3
-		"acceleration" 1.9
+		"acceleration" 1.98
 		"drag" .11
-		"turn" 2.0
+		"turn" 3.3
 		"homing" 3
-		"radar tracking" .5
+		"radar tracking" .73
 		"shield damage" 97
 		"hull damage" 97
-		"slowing damage" 8
+		"slowing damage" 7.7
 		"missile strength" 3
 	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."

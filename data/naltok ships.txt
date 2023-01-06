@@ -948,3 +948,10 @@ ship "Minnow"
 	gun "Breaker"
 	description `This tiny drone, typically used for mining, mounts the bare minimum hardware required to power two Breaker cannons and a tiny set of engines. To make further savings on space, the Minnow has a built-in battery, rather than expanding it to fit the rather bulky batteries used in larger Naltok ships.`
 	description `	Drones do not come equipped with a hyperdrive. You cannot carry a drone unless you have a ship in your fleet with a drone bay.`
+
+ship "Minnow" "Minnow (Scanner)"
+	outfits
+		"Broad-Spectrum Scanner"
+		"Nauplius Cell"
+		"Agama Thruster"
+		"Agama Steering"

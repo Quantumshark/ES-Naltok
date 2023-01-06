@@ -3,6 +3,7 @@ system Chategri
 	government Xochira
 	arrival 5000
 	habitable 5400
+	haze _menu/haze-33
 	link Choxera
 	link Roxeka
 	asteroids "small rock" 9 5.52
@@ -55,6 +56,7 @@ system Choxera
 	government Xochira
 	arrival 1310
 	habitable 1310
+	haze _menu/haze-33
 	link Chategri
 	link Ligoxel
 	link Ngotesh
@@ -113,6 +115,7 @@ system Keloxen
 	government Telashki
 	arrival 500
 	habitable 486.68
+	haze _menu/haze-33
 	link Linekol
 	asteroids "medium rock" 2 6.82
 	asteroids "large rock" 1 6.6
@@ -162,6 +165,7 @@ system Ligoxel
 	government Xochira
 	arrival 500
 	habitable 430
+	haze _menu/haze-33
 	link Choxera
 	link Lixetog
 	link Tekochi
@@ -222,6 +226,7 @@ system Lixetog
 	government Xochira
 	arrival 851
 	habitable 851
+	haze _menu/haze-33
 	link Ligoxel
 	link "Xeko Naltok"
 	asteroids "small rock" 7 4.03
@@ -288,6 +293,7 @@ system Loxelon
 	government Xochira
 	arrival 500
 	habitable 125.92
+	haze _menu/haze-33
 	link Norelon
 	link Rixengol
 	link Vokegol
@@ -356,6 +362,7 @@ system Ngotesh
 	government Xochira
 	arrival 500
 	habitable 500
+	haze _menu/haze-33
 	link Choxera
 	asteroids "small rock" 3 4.106
 	asteroids "medium rock" 7 3.968
@@ -415,6 +422,7 @@ system Norelon
 	government Uninhabited
 	arrival 5000
 	habitable 50000
+	haze _menu/haze-33
 	link Loxelon
 	link Vokegol
 	asteroids "small rock" 14 8.197
@@ -475,6 +483,7 @@ system Rixengol
 	government Xochira
 	arrival 500
 	habitable 305
+	haze _menu/haze-33
 	link Loxelon
 	link Xangoret
 	link "Xeko Naltok"
@@ -520,7 +529,9 @@ system Rixengol
 system Roxeka
 	pos -1444 415
 	government Xochira
+	arrival 500
 	habitable 427
+	haze _menu/haze-33
 	link Chategri
 	asteroids "small rock" 4 2.6
 	asteroids "medium rock" 122 1.747
@@ -583,6 +594,7 @@ system Tekochi
 	government Xochira
 	arrival 3630
 	habitable 3630
+	haze _menu/haze-67
 	link Ligoxel
 	asteroids "small rock" 9 5.52
 	asteroids "medium rock" 124 4.12
@@ -640,6 +652,7 @@ system Vokegol
 	government "Naltok (Neutral)"
 	arrival 500
 	habitable 203.68
+	haze _menu/haze-33
 	link Loxelon
 	link Norelon
 	link Tokilok
@@ -698,6 +711,7 @@ system Xangoret
 	government Xochira
 	arrival 2420
 	habitable 2420
+	haze _menu/haze-33
 	link Rixengol
 	link "Xeko Naltok"
 	asteroids "small rock" 4 3.73
@@ -767,7 +781,9 @@ system Xangoret
 system "Xeko Naltok"
 	pos -1584 251
 	government Xochira
+	arrival 500
 	habitable 420.68
+	haze _menu/haze-33
 	link Choxera
 	link Lixetog
 	link Rixengol
@@ -813,6 +829,7 @@ system Tolonek
 	government Telashki
 	arrival 500
 	habitable 320
+	haze _menu/haze-33
 	link Kelojol
 	link Keloteg
 	link Tikelo
@@ -865,6 +882,7 @@ system Keloteg
 	government Telashki
 	arrival 500
 	habitable 446.68
+	haze _menu/haze-33
 	link Tolonek
 	asteroids "small rock" 10 2.142
 	asteroids "medium rock" 78 1.932
@@ -919,6 +937,7 @@ system Tikelo
 	government Telashki
 	arrival 500
 	habitable 203.28
+	haze _menu/haze-33
 	link Golonex
 	link Tokilok
 	link Tolonek
@@ -977,6 +996,7 @@ system Tokilok
 	government Telashki
 	arrival 200
 	habitable 33.28
+	haze _menu/haze-33
 	link Tikelo
 	link Vokegol
 	asteroids "large rock" 5 2.957
@@ -1024,6 +1044,7 @@ system Linekol
 	government Telashki
 	arrival 200
 	habitable 486.68
+	haze _menu/haze-33
 	link Kelojol
 	link Keloxen
 	link Varajol
@@ -1091,6 +1112,7 @@ system Varajol
 	government Telashki
 	arrival 500
 	habitable 486.68
+	haze _menu/haze-33
 	link Kelojol
 	link Linekol
 	link Vokelon
@@ -1150,6 +1172,7 @@ system Kelojol
 	government Telashki
 	arrival 500
 	habitable 320
+	haze _menu/haze-33
 	link Golonex
 	link Linekol
 	link Tolonek
@@ -1207,6 +1230,7 @@ system Vokelon
 	government Telashki
 	arrival 500
 	habitable 135
+	haze _menu/haze-33
 	link Varajol
 	asteroids "small rock" 34 3.469
 	asteroids "medium rock" 36 1.499
@@ -1260,6 +1284,7 @@ system Lotegok
 	government Telashki
 	arrival 500
 	habitable 500
+	haze _menu/haze-33
 	link Golonex
 	link Kuragu
 	asteroids "large metal" 1 5.148
@@ -1306,6 +1331,7 @@ system Lekonet
 	government Uninhabited
 	arrival 3000
 	habitable 3000
+	haze _menu/haze-33
 	link Nixelog
 	asteroids "small rock" 13 5.685
 	asteroids "medium rock" 26 4.932
@@ -1368,6 +1394,7 @@ system Golonex
 	government Telashki
 	arrival 1705
 	habitable 1705
+	haze _menu/haze-33
 	link Kelojol
 	link Lotegok
 	link Tikelo
@@ -1436,6 +1463,7 @@ system Nixelog
 	pos -1657 -134
 	government Uninhabited
 	habitable 850.92
+	haze _menu/haze-33
 	link Kuragu
 	link Lekonet
 	link Norelin
@@ -1506,6 +1534,7 @@ system Norelin
 	government Uninhabited
 	arrival 5000
 	habitable 50000
+	haze _menu/haze-33
 	link Kuragu
 	link Nixelog
 	asteroids "large metal" 1 1.386
@@ -1557,6 +1586,7 @@ system Kuragu
 	attributes ringworld
 	arrival 700
 	habitable 700
+	haze _menu/haze-33
 	link Lotegok
 	link Nixelog
 	link Norelin
@@ -1659,6 +1689,7 @@ system "Vverev"
 	attributes wormhole
 	arrival 500
 	habitable 425
+	haze _menu/haze-33
 	object
 		sprite star/k5
 		period 10

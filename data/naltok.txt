@@ -163,7 +163,7 @@ outfitter "Xochira Advanced"
 	"Halt-Swarm Rack"
 	"Halt-Swarm Launcher"
 	"Halt-Swarm Pod"
-	"Drainer"
+	"Leech-Ray"
 	"Ripper Pistols"
 	"Shredder Minigun"
 

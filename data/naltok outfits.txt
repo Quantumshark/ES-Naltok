@@ -99,6 +99,22 @@ outfit "Pond Battery"
 	"energy capacity" 5343 
 	description "Naltok batteries are bulky and not particularly effective. The best that can be said about them is that the Naltok, evidently realising this, make them available at a very low price."
 
+outfit "Broad-Spectrum Scanner"
+	category "Systems"
+	cost 435000
+	thumbnail "outfit/broad-spectrum scanner"
+	"mass" 13
+	"outfit space" -13
+	"energy consumption" .45
+	"atmosphere scan" 370
+	"asteroid scan power" 37
+	"cargo scan power" 37
+	"cargo scan speed" 5
+	"outfit scan power" 37
+	"outfit scan speed" 5
+	description "This large scanner is able to scan and analyse almost any material, and is commonly used by Telashki surveillance ships to monitor merchants, asteroids and planetary weather."
+	description "Although the design predates the split between the Xochira and Telashki by several centuries, the Xochira do not produce or stock these scanners, nor do they employ them on their ships."
+
 outfit "Short-Burst Cloak"
 	category "Systems"
 	cost 1736000

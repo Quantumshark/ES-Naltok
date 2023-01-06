@@ -133,7 +133,7 @@ system Keloxen
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/k5
+		sprite star/k3
 		period 10
 	object
 		sprite planet/rock9
@@ -192,7 +192,7 @@ system Ligoxel
 		period 12.67
 		offset 180
 	object
-		sprite star/m8
+		sprite star/m5
 		distance 54.154
 		period 12.67
 	object
@@ -550,7 +550,7 @@ system Roxeka
 	trade Plastic 390
 	fleet "Xochira Interdictor" 500
 	object
-		sprite star/k5
+		sprite star/k8
 		period 10
 	object
 		sprite planet/lava3
@@ -619,7 +619,7 @@ system Tekochi
 		period 9.435
 		offset 180
 	object
-		sprite star/k0
+		sprite star/k3
 		distance 83.348
 		period 9.435
 	object
@@ -805,7 +805,7 @@ system "Xeko Naltok"
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
 	object
-		sprite star/k5
+		sprite star/k3
 		period 10
 	object
 		sprite planet/rock1
@@ -1042,7 +1042,7 @@ system Tokilok
 system Linekol
 	pos -1517 -10
 	government Telashki
-	arrival 200
+	arrival 500
 	habitable 486.68
 	haze _menu/haze-33
 	link Kelojol
@@ -1064,7 +1064,7 @@ system Linekol
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/k0
+		sprite star/k3
 		period 10
 	object
 		sprite planet/lava7

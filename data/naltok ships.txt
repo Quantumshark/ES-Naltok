@@ -812,13 +812,13 @@ ship "Coelacanth"
 		"cost" 28956000
 		"shields" 11300
 		"hull" 80300
-		"hull repair rate" 4.7
-		"hull energy" 1.175
-		"hull heat" 3.525
+		"hull repair rate" 5.3
+		"hull energy" 1.325
+		"hull heat" 3.975
 		"required crew" 114
 		"bunks" 143
-		"mass" 1381
-		"drag" 28.05
+		"mass" 1431
+		"drag" 28.85
 		"heat dissipation" .11
 		"fuel capacity" 500
 		"cargo space" 98

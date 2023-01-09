@@ -907,7 +907,6 @@ system Keloteg
 		sprite planet/forest5
 		distance 920.153
 		period 108.417
-		offset 284.791
 		object
 			sprite planet/callisto
 			distance 143
@@ -916,17 +915,14 @@ system Keloteg
 		sprite planet/rock6
 		distance 1269.963
 		period 328.2
-		offset 234.146
 	object
 		sprite planet/desert8
 		distance 1737.1
 		period 632.109
-		offset 225.249
 	object
 		sprite planet/gas2
 		distance 2608.16
 		period 1431.1
-		offset 3.206
 		object Kevoshek
 			sprite planet/dust0
 			distance 203

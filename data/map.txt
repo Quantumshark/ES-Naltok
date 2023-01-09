@@ -683,23 +683,23 @@ system Vokegol
 		offset 180
 	object
 		sprite planet/dust7
-		distance 159
-		period 36.353
+		distance 759
+		period 436.353
 	object
 		sprite planet/dust3
-		distance 355.25
-		period 121.406
+		distance 1155.25
+		period 621.406
 	object
 		sprite planet/rock5
-		distance 503.25
-		period 204.698
+		distance 1603.25
+		period 804.698
 	object
 		sprite planet/gas10
-		distance 1570.94
+		distance 2570.94
 		period 1128.96
 	object
 		sprite planet/gas7
-		distance 2702.1
+		distance 3702.1
 		period 2546.77
 		object
 			sprite planet/rock3

@@ -354,7 +354,7 @@ outfit "Shell-Splitter Core"
 		sprite "projectile/typhoon"
 			"frame rate" 2
 			"random start frame"
-		"hit effect" "heaver shard hit"
+		"hit effect" "torpedo hit"
 		"velocity" 4
 		"lifetime" 240
 		"acceleration" .5
@@ -362,6 +362,7 @@ outfit "Shell-Splitter Core"
 		"turn" 4.3
 		"homing" 4
 		"infrared tracking" .95
+		"optical tracking" .25
 		"missile strength" 8
 		"shield damage" 950
 		"hull damage" 1350
@@ -375,6 +376,7 @@ outfit "Shell-Splitter Husk"
 		"inaccuracy" 180
 		"random velocity" 8
 		"drag" .1
+		"acceleration" .1
 		"lifetime" 900
 		"missile strength" 75
 

@@ -431,7 +431,7 @@ ship "Archerfish"
 		
 		"Gecko Steering"
 		"Gecko Thruster"
-		"Anole Thruster"
+		"Agama Thruster"
 		"Hyperdrive"
 
 	gun "Leech-Ray"

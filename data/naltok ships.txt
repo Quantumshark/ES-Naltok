@@ -230,8 +230,8 @@ ship "Conger"
 			"hull damage" 175
 			"hit force" 525
 	outfits
-		"Shrapnel Torpedo Pod" 2
-		"Shrapnel Torpedo" 4
+		"Shell-Splitter Pod" 2
+		"Shell-Splitter Torpedo" 4
 		"Naltok Anti-Missile"
 		"Copepod Generator"
 		"Stream Shield Generator"
@@ -239,8 +239,8 @@ ship "Conger"
 		"Gecko Steering"
 		"Hyperdrive"
 
-	gun "Shrapnel Torpedo Pod"
-	gun "Shrapnel Torpedo Pod"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
 	turret "Naltok Anti-Missile"
 	bay "Drone"
 	description `The Conger is a decently mobile light freighter occasionally used by the Naltok. Though not as commonly used as one might expect due to the common practice in Naltok space of hauling cargo in refitted warships, the Conger is still hugely popular as a mid-range freighter.`
@@ -372,8 +372,8 @@ ship "Tetra"
 			"hit force" 405
 	outfits
 		"Breaker"
-		"Shrapnel Torpedo Pod" 4
-		"Shrapnel Torpedo" 8
+		"Shell-Splitter Pod" 4
+		"Shell-Splitter" 8
 
 		"Copepod Generator"
 		"Pond Battery"
@@ -384,11 +384,11 @@ ship "Tetra"
 		"Hyperdrive"
 
 	gun "Breaker"
-	gun "Shrapnel Torpedo Pod"
-	gun "Shrapnel Torpedo Pod"
-	gun "Shrapnel Torpedo Pod"
-	gun "Shrapnel Torpedo Pod"
-	description `The Tetra is a versatile small ship built by the Telashki. Originally intended as an inexpensive counter to the Archerfish, the Tetra has since been shown to be quite effective when armed with shrapnel torpedoes and used in small squadrons against much larger ships.`
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
+	description `The Tetra is a versatile small ship built by the Telashki. Originally intended as an inexpensive counter to the Archerfish, the Tetra has since been shown to be quite effective when armed with Shell-Splitters and used in small squadrons against much larger ships.`
 
 ship "Archerfish"
 	plural "Archerfish"
@@ -469,9 +469,9 @@ ship "Piranha"
 			"hull damage" 350
 			"hit force" 1050
 	outfits
-		"Shrapnel Torpedo Launcher" 2
-		"Shrapnel Torpedo Tube" 3
-		"Shrapnel Torpedo" 34
+		"Shell-Splitter Launcher" 2
+		"Shell-Splitter Tube" 3
+		"Shell-Splitter Torpedo" 34
 		"Triple Breaker Turret"
 		"Copepod Generator"
 		"Pond Battery"
@@ -481,8 +481,8 @@ ship "Piranha"
 		"Gecko Thruster"
 		"Hyperdrive"
 
-	gun "Shrapnel Torpedo Launcher"
-	gun "Shrapnel Torpedo Launcher"
+	gun "Shell-Splitter Launcher"
+	gun "Shell-Splitter Launcher"
 	gun
 	turret "Triple Breaker Turret"
 	description `The Piranha is a well-rounded light warship, possibly the oldest Naltok warship design in service. Allegedly, the Piranha has been operated with more combinations of equipment than any other Naltok ship, and that versatility has allowed it to remain in service for longer than any other Naltok warship - in fact, the original design is more than a thousand years old.`
@@ -515,9 +515,9 @@ ship "Piranha" "Piranha (Tough)"
 
 ship "Piranha" "Piranha (Xochira)"
 	outfits
-		"Shrapnel Torpedo Launcher" 2
-		"Shrapnel Torpedo Tube" 3
-		"Shrapnel Torpedo" 34
+		"Shell-Splitter Launcher" 2
+		"Shell-Splitter Tube" 3
+		"Shell-Splitter" 34
 		"Triple Breaker Turret"
 		"Copepod Generator"
 		"Pond Battery"
@@ -561,8 +561,8 @@ ship "Piranha" "Piranha (Xochira Tough)"
 
 ship "Piranha" "Piranha (Cargo)"
 	outfits
-		"Shrapnel Torpedo Pod" 3
-		"Shrapnel Torpedo" 6
+		"Shell-Splitter Pod" 3
+		"Shell-Splitter Torpedo" 6
 		
 		"Copepod Generator"
 		"Pond Battery"
@@ -588,8 +588,8 @@ ship "Piranha" "Piranha (Mining)"
 
 ship "Piranha" "Piranha (Bunks)"
 	outfits
-		"Shrapnel Torpedo Pod" 3
-		"Shrapnel Torpedo" 6
+		"Shell-Splitter Pod" 3
+		"Shell-Splitter Torpedo" 6
 		
 		"Copepod Generator"
 		"Pond Battery"
@@ -631,8 +631,8 @@ ship "Barracuda"
 			"hit force" 1350
 	outfits
 		"Breaker" 2
-		"Shrapnel Torpedo Launcher" 4
-		"Shrapnel Torpedo" 44
+		"Shell-Splitter Launcher" 4
+		"Shell-Splitter Torpedo" 44
 
 		"Copepod Generator"
 		"Pond Battery"
@@ -644,12 +644,12 @@ ship "Barracuda"
 
 	gun "Breaker"
 	gun "Breaker"
-	gun "Shrapnel Torpedo Launcher"
-	gun "Shrapnel Torpedo Launcher"
+	gun "Shell-Splitter Launcher"
+	gun "Shell-Splitter Launcher"
 	gun
 	gun
-	gun "Shrapnel Torpedo Launcher"
-	gun "Shrapnel Torpedo Launcher"
+	gun "Shell-Splitter Launcher"
+	gun "Shell-Splitter Launcher"
 	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull and only a single pair of forward-facing guns for close combat.`
 
 ship "Barracuda" "Barracuda (Halt-Swarm)"
@@ -797,9 +797,9 @@ ship "Pike"
 	outfits
 		"Triple Breaker Turret"
 		"Steel-Render" 2
-		"Shrapnel Torpedo Launcher" 4
-		"Shrapnel Torpedo Tube" 3
-		"Shrapnel Torpedo" 56
+		"Shell-Splitter Launcher" 4
+		"Shell-Splitter Tube" 3
+		"Shell-Splitter Torpedo" 56
 		
 		"Crayfish Reactor"
 		"Pond Battery" 2

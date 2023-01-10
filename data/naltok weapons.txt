@@ -154,7 +154,7 @@ outfit "Sky-Shredder"
 		"firing heat" 12
 		"shield damage" 37
 		"hull damage" 31
-	description "The Sky-Shredder is designed to strip the shields from fast-moving opponents, allowing the powerful but unwieldy Steel-Render or a salvo of Shrapnel Torpedoes to deal with their hull armour."
+	description "The Sky-Shredder is designed to strip the shields from fast-moving opponents, allowing the powerful but unwieldy Steel-Render or a salvo of Shell-Splitter Torpedoes to deal with their hull armour."
 
 outfit "Leech-Ray"
 	category "Guns"
@@ -256,110 +256,126 @@ outfit "Halt-Swarm Rack"
 	ammo "Halt-Swarm Missile"
 	description "The Halt-Swarm Rack is used to store extra ammunition for Halt-Swarm Launchers."
 	
-outfit "Shrapnel Torpedo Launcher"
+outfit "Shell-Splitter Launcher"
 	category "Secondary Weapons"
 	cost 413700
-	thumbnail "outfit/shrapnel torpedo launcher"
+	thumbnail "outfit/shell-splitter launcher"
 	"mass" 17
 	"outfit space" -39
 	"weapon capacity" -39
 	"gun ports" -1
-	"shrapnel torpedo capacity" 11
+	"shell-splitter capacity" 11
 	weapon
 		sprite "projectile/torpedo"
 			"frame rate" 2
 			"random start frame"
 		sound "torpedo"
-		ammo "Shrapnel Torpedo"
-		icon "icon/shrapneltorpedo"
-		"submunition" "Torpedo Shrapnel" 15
-		"split range" 150
+		ammo "Shell-Splitter Torpedo"
+		icon "icon/shellsplitter"
+		"submunition" "Shell-Splitter Core"
+		"submunition" "Shell-Splitter Husk" 5
+		"split range" 350
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
-		"velocity" 10
+		"velocity" 3
 		"lifetime" 600
 		"reload" 240
 		"firing energy" 1
 		"firing heat" 4
-		"acceleration" .18
-		"drag" .025
+		"acceleration" .3
+		"drag" .01
 		"turn" 2.0
-		"homing" 4
+		"homing" 2
 		"infrared tracking" .95
 		"missile strength" 75
-	description "Shrapnel torpedoes are an unusual missile weapon favoured by the Naltok. Rather than simply strike a target and detonate, Shrapnel torpedoes instead approach a target, then explode into a spray of deadly shrapnel which shreds through hull plating. This makes them far harder to dodge than other missile weapons."
+	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind a large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
 
-outfit "Shrapnel Torpedo Pod"
+outfit "Shell-Splitter Pod"
 	category "Secondary Weapons"
 	cost 143700
-	thumbnail "outfit/shrapnel torpedo pod"
+	thumbnail "outfit/shell-splitter pod"
 	"mass" 3
 	"outfit space" -7
 	"weapon capacity" -7
 	"gun ports" -1
-	"shrapnel torpedo capacity" 2
+	"shell-splitter capacity" 2
 	weapon
 		sprite "projectile/torpedo"
 			"frame rate" 2
 			"random start frame"
 		sound "torpedo"
-		ammo "Shrapnel Torpedo"
-		icon "icon/shrapneltorpedo"
-		"submunition" "Torpedo Shrapnel" 15
-		"split range" 150
+		ammo "Shell-Splitter Torpedo"
+		icon "icon/shellsplitter"
+		"submunition" "Shell-Splitter Core"
+		"submunition" "Shell-Splitter Husk" 5
+		"split range" 350
 		"fire effect" "torpedo fire"
 		"hit effect" "torpedo hit"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
-		"velocity" 10
+		"velocity" 3
 		"lifetime" 600
 		"burst count" 2
 		"burst reload" 120
 		"reload" 360
 		"firing energy" 1
 		"firing heat" 4
-		"acceleration" .18
-		"drag" .025
+		"acceleration" .3
+		"drag" .01
 		"turn" 2.0
-		"homing" 4
+		"homing" 2
 		"infrared tracking" .95
 		"missile strength" 75
-	description "Shrapnel torpedoes are an unusual missile weapon favoured by the Naltok. Rather than simply strike a target and detonate, Shrapnel torpedoes instead approach a target, then explode into a spray of deadly shrapnel which shreds through hull plating. This makes them far harder to dodge than other missile weapons."
+	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind a large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
 
-outfit "Shrapnel Torpedo"
+outfit "Shell-Splitter Torpedo"
 	category "Ammunition"
 	cost 5600
-	thumbnail "outfit/shrapnel torpedo"
+	thumbnail "outfit/shell-splitter torpedo"
 	"mass" 2
-	"shrapnel torpedo capacity" -1
-	description "A Shrapnel Torpedo serves as ammunition for the Shrapnel Torpedo Launcher. Each launcher has the capacity for 11 shrapnel torpedoes; you cannot install shrapnel torpedoes if you have not first purchased a launcher to store them in."
+	"shell-splitter capacity" -1
+	description "A Shell-Splitter Torpedo serves as ammunition for the Shell-Splitter Launcher. Each launcher has the capacity for 11 Shell-Splitter Torpedoes; you cannot install Shell-Splitter Torpedoes if you have not first purchased a launcher to store them in."
 
-outfit "Shrapnel Torpedo Tube"
+outfit "Shell-Splitter Tube"
 	category "Ammunition"
 	cost 11300
-	thumbnail "outfit/halt-swarm storage"
+	thumbnail "outfit/shell-splitter storage"
 	"mass" 4
 	"outfit space" -12
-	"shrapnel torpedo capacity" 4
-	ammo "Shrapnel Torpedo"
-	description "The Shrapnel Torpedo Tube is used to store extra ammunition for Shrapnel Torpedo Launchers."
+	"shell-splitter capacity" 4
+	ammo "Shell-Splitter Torpedo"
+	description "The Shell-Splitter Tube is used to store extra ammunition for Shell-Splitter Launchers."
 
-outfit "Torpedo Shrapnel"
+outfit "Shell-Splitter Core"
 	weapon
-		sprite "projectile/heaver shard"
+		sprite "projectile/typhoon"
+			"frame rate" 2
+			"random start frame"
 		"hit effect" "heaver shard hit"
-		"inaccuracy" 22
-		"velocity" 8
-		"random velocity" 25
-		"lifetime" 15
-		"random lifetime" 20
-		"missile strength" 2
-		"shield damage" 75
-		"hull damage" 155
-		"hit force" 35
+		"velocity" 4
+		"lifetime" 120
+		"acceleration" .5
+		"drag" .1
+		"turn" 4.3
+		"homing" 4
+		"infrared tracking" .95
+		"missile strength" 8
+		"shield damage" 950
+		"hull damage" 1350
+		"hit force" 600
+
+outfit "Shell-Splitter Husk"
+	weapon
+		sprite "projectile/korath mine"
+			"frame rate" 2
+			"no repeat"
+		"inaccuracy" 180
+		"random velocity" 8
+		"lifetime" 900
+		"missile strength" 75
 
 effect "star-worm"
 	sprite "effect/static"

@@ -356,7 +356,7 @@ outfit "Shell-Splitter Core"
 			"random start frame"
 		"hit effect" "heaver shard hit"
 		"velocity" 4
-		"lifetime" 120
+		"lifetime" 240
 		"acceleration" .5
 		"drag" .1
 		"turn" 4.3
@@ -374,6 +374,7 @@ outfit "Shell-Splitter Husk"
 			"no repeat"
 		"inaccuracy" 180
 		"random velocity" 8
+		"drag" .01
 		"lifetime" 900
 		"missile strength" 75
 

@@ -1713,8 +1713,15 @@ system "Vverev"
 	attributes wormhole
 	arrival 500
 	habitable 425
+	belt 1111
 	haze _menu/haze-33
 	starfield density .35
+	asteroids "small rock" 4 11.98
+	asteroids "medium rock" 1 8.56
+	asteroids "large rock" 2 15.67
+	asteroids "large metal" 3 18.25
+	minables uranium 19 25.88
+	minables silicon 11 30.12
 	object
 		sprite star/k5
 		period 10

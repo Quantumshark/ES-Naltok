@@ -32,6 +32,11 @@ ship "Anchovy"
 		"engine capacity" 53
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 7
+			"shield damage" 70
+			"hull damage" 35
+			"hit force" 105
 	outfits
 		"Nauplius Cell"
 		"Pond Battery"
@@ -67,6 +72,11 @@ ship "Mackerel"
 		"engine capacity" 93
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 25
+			"shield damage" 250
+			"hull damage" 125
+			"hit force" 375
 	outfits
 
 	gun
@@ -97,6 +107,11 @@ ship "Marlin"
 		"engine capacity" 134
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 84
+			"shield damage" 840
+			"hull damage" 420
+			"hit force" 1260
 	outfits
 		"Luxury Accommodations"
 		"Hyperdrive"
@@ -131,6 +146,11 @@ ship "Sturgeon"
 		"engine capacity" 193
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 204
+			"shield damage" 2040
+			"hull damage" 1020
+			"hit force" 3060
 	outfits
 
 	gun
@@ -165,6 +185,11 @@ ship "Herring"
 		"engine capacity" 45
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 11
+			"shield damage" 110
+			"hull damage" 55
+			"hit force" 165
 	outfits
 		"Nauplius Cell"
 		"Pond Battery"
@@ -199,6 +224,11 @@ ship "Conger"
 		"engine capacity" 105
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 35
+			"shield damage" 350
+			"hull damage" 175
+			"hit force" 525
 	outfits
 		"Shrapnel Torpedo Pod" 2
 		"Shrapnel Torpedo" 4
@@ -249,6 +279,11 @@ ship "Flounder"
 		"engine capacity" 113
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 102
+			"shield damage" 1020
+			"hull damage" 510
+			"hit force" 1530
 	outfits
 		"Naltok Anti-Missile" 3
 		"Triple Breaker Turret" 2
@@ -293,6 +328,11 @@ ship "Grouper"
 		"engine capacity" 187
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 239
+			"shield damage" 2390
+			"hull damage" 1195
+			"hit force" 3585
 	gun
 	gun
 	gun
@@ -325,6 +365,11 @@ ship "Tetra"
 		"engine capacity" 79
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 27
+			"shield damage" 270
+			"hull damage" 135
+			"hit force" 405
 	outfits
 		"Breaker"
 		"Shrapnel Torpedo Pod" 4
@@ -371,6 +416,11 @@ ship "Archerfish"
 		"engine capacity" 91
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 54
+			"shield damage" 540
+			"hull damage" 270
+			"hit force" 810
 	outfits
 		"Leech-Ray" 2
 		"Krill Generator"
@@ -412,6 +462,11 @@ ship "Piranha"
 		"engine capacity" 104
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 69
+			"shield damage" 690
+			"hull damage" 345
+			"hit force" 1035
 	outfits
 		"Shrapnel Torpedo Launcher" 2
 		"Shrapnel Torpedo Tube" 3
@@ -509,6 +564,11 @@ ship "Barracuda"
 		"engine capacity" 117
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 90
+			"shield damage" 900
+			"hull damage" 450
+			"hit force" 1350
 	outfits
 		"Breaker" 2
 		"Shrapnel Torpedo Launcher" 4
@@ -583,6 +643,11 @@ ship "Albacore"
 		"engine capacity" 121
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 102
+			"shield damage" 1020
+			"hull damage" 510
+			"hit force" 1530
 	outfits
 		"Ripper Pistols" 12
 		"Shredder Minigun" 4
@@ -623,6 +688,11 @@ ship "Moray"
 		"engine capacity" 113
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 143
+			"shield damage" 1430
+			"hull damage" 715
+			"hit force" 2145
 	outfits
 
 		"Hyperdrive"
@@ -659,6 +729,11 @@ ship "Pike"
 		"engine capacity" 237
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 263
+			"shield damage" 2630
+			"hull damage" 1315
+			"hit force" 3945
 	outfits
 		"Triple Breaker Turret"
 		"Steel-Render" 2
@@ -708,6 +783,11 @@ ship "Mola"
 		"engine capacity" 186
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 228
+			"shield damage" 2280
+			"hull damage" 1140
+			"hit force" 3420
 	outfits
 		"Star-Worm Launcher" 2
 		"Star-Worm Capsule" 16
@@ -774,6 +854,11 @@ ship "Kaluga"
 		"engine capacity" 178
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 312
+			"shield damage" 3120
+			"hull damage" 1560
+			"hit force" 4880
 	outfits
 		"Steel-Render" 1
 		"Sky-Shredder" 4
@@ -827,6 +912,11 @@ ship "Coelacanth"
 		"engine capacity" 268
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 458
+			"shield damage" 4580
+			"hull damage" 2290
+			"hit force" 6870
 	outfits
 
 		"Hyperdrive"
@@ -871,6 +961,11 @@ ship "Lamprey"
 		"engine capacity" 37
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 12
+			"shield damage" 120
+			"hull damage" 60
+			"hit force" 180
 	outfits
 		"Leech-Ray"
 		"Nauplius Cell"
@@ -903,6 +998,11 @@ ship "Remora"
 		"engine capacity" 27
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 17
+			"shield damage" 170
+			"hull damage" 85
+			"hit force" 255
 	outfits
 		"Breaker" 4
 		"Stream Shield Generator"
@@ -938,6 +1038,11 @@ ship "Minnow"
 		"energy capacity" 300
 		"heat protection" 3
 		"burn protection" 1
+		weapon
+			"blast radius" 6
+			"shield damage" 60
+			"hull damage" 30
+			"hit force" 90
 	outfits
 		"Breaker" 2
 		"Nauplius Cell"

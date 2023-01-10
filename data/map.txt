@@ -1769,6 +1769,10 @@ system "Amansinaya"
 		sprite star/g5
 		period 10
 	object
+		sprite planet/gas5-hot
+		distance 170
+		period 4.31768
+	object
 		sprite planet/forest0
 		distance 1454.95
 		period 1132.992

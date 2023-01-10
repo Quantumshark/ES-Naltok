@@ -1796,7 +1796,7 @@ planet Chireke
 planet Gorloxek
 	attributes uninhabited
 	landscape land/forest7
-	description "This planet is home to a spectacularly diverse biosphere, thanks to the large forested continents and huge ocean. If it were located in human space this world would doubtless be home to billions, yet despite having had a major population centre only two systems away for millenia the Naltok appear not to have made any attempt to colonise it."
+	description "This planet is home to a spectacularly diverse biosphere, thanks to its large forested continents and shallow temperate ocean. If it were located in human space this world would doubtless be home to billions, yet despite having had a major population centre only two systems away for millenia the Naltok appear not to have made any attempt to colonise it."
 
 planet Joklanok
 	attributes naltok xochira urban factory
@@ -1949,4 +1949,5 @@ planet Xutajol
 	spaceport "The landing pads on this planet are connected by a convoluted system of miniature canals crossed over by walkways. Following the signposts along the canals would take you to the recently expanded old Naltok spaceport, with the excess moisture they favour in their dwellings. Following the walkways instead brings you to the new port, an odd mixture of Human and Naltok architecture which has been furnished first and foremost for the planet's Human and Alpha residents."
 	shipyard "Naltok Basics"
 	outfitter "Naltok Basics"
+	outfitter "Telashki Basics"
 

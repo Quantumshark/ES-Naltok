@@ -166,6 +166,10 @@ outfitter "Xochira Advanced"
 	"Leech-Ray"
 	"Ripper Pistols"
 	"Shredder Minigun"
+	"Broad-Spectrum Scanner"
+
+outfitter "Telashki Basics"
+	"Broad-Spectrum Scanner"
 
 outfitter "Telashki Intermediate"
 	"Fuel Vat"

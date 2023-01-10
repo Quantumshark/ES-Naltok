@@ -113,7 +113,7 @@ outfit "Broad-Spectrum Scanner"
 	"outfit scan power" 47
 	"outfit scan speed" 23
 	description "This large scanner is able to scan and analyse almost any material, and is commonly used by Telashki surveillance ships to monitor merchants, asteroids and planetary weather."
-	description "Although the design predates the split between the Xochira and Telashki by several centuries, the Xochira do not produce or stock these scanners, nor do they employ them on their ships."
+	description "Although the design predates the split between the Xochira and Telashki by several centuries, the Xochira rarely produce or stock these scanners, only using them to assist with asteroid mining."
 
 outfit "Short-Burst Cloak"
 	category "Systems"

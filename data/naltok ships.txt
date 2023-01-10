@@ -464,10 +464,10 @@ ship "Piranha"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 69
-			"shield damage" 690
-			"hull damage" 345
-			"hit force" 1035
+			"blast radius" 70
+			"shield damage" 700
+			"hull damage" 350
+			"hit force" 1050
 	outfits
 		"Shrapnel Torpedo Launcher" 2
 		"Shrapnel Torpedo Tube" 3

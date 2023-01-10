@@ -191,9 +191,9 @@ outfit "Monitor Thruster"
 	category "Engines"
 	"cost" 1027300
 	thumbnail "outfit/huge naltok thruster"
-	"mass" 109
-	"outfit space" -109
-	"engine capacity" -109
+	"mass" 108
+	"outfit space" -108
+	"engine capacity" -108
 	"thrust" 94.2
 	"thrusting energy" 2.05
 	"thrusting heat" 2.4
@@ -266,9 +266,9 @@ outfit "Monitor Steering"
 	category "Engines"
 	"cost" 1347800
 	thumbnail "outfit/huge naltok steering"
-	"mass" 127
-	"outfit space" -127
-	"engine capacity" -127
+	"mass" 128
+	"outfit space" -128
+	"engine capacity" -128
 	"turn" 4546.2
 	"turning energy" 2.3
 	"turning heat" 2.9

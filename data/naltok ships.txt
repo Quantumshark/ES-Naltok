@@ -411,9 +411,9 @@ ship "Archerfish"
 		"heat dissipation" .41
 		"fuel capacity" 300
 		"cargo space" 7
-		"outfit space" 311
+		"outfit space" 320
 		"weapon capacity" 82
-		"engine capacity" 91
+		"engine capacity" 92
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -431,6 +431,7 @@ ship "Archerfish"
 		
 		"Gecko Steering"
 		"Gecko Thruster"
+		"Anole Thruster"
 		"Hyperdrive"
 
 	gun "Leech-Ray"

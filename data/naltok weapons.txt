@@ -374,8 +374,8 @@ outfit "Shell-Splitter Husk"
 			"frame rate" 2
 			"no repeat"
 		"inaccuracy" 180
-		"random velocity" 12
-		"drag" .05
+		"random velocity" 15
+		"drag" .1
 		"acceleration" .05
 		"lifetime" 800
 		"random lifetime" 250

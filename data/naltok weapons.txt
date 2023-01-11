@@ -374,10 +374,11 @@ outfit "Shell-Splitter Husk"
 			"frame rate" 2
 			"no repeat"
 		"inaccuracy" 180
-		"random velocity" 8
-		"drag" .1
-		"acceleration" .1
-		"lifetime" 900
+		"random velocity" 12
+		"drag" .05
+		"acceleration" .05
+		"lifetime" 800
+		"random lifetime" 250
 		"missile strength" 75
 
 effect "star-worm"

@@ -364,8 +364,8 @@ outfit "Shell-Splitter Core"
 		"infrared tracking" .95
 		"optical tracking" .25
 		"missile strength" 8
-		"shield damage" 1950
-		"hull damage" 3350
+		"shield damage" 1750
+		"hull damage" 2550
 		"hit force" 600
 
 outfit "Shell-Splitter Husk"

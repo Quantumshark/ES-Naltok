@@ -22,7 +22,7 @@ government "Naltok (Neutral)"
 		ignore "Acid Grub"
 
 government "Telashki"
-	swizzle 3
+	swizzle 15
 	color .01 .93 .72
 	"crew attack" 1.7
 	"crew defense" 2.9
@@ -37,7 +37,7 @@ government "Telashki"
 
 government "Telashki (Attacking)"
 	"display name" "Telashki"
-	swizzle 3
+	swizzle 15
 	"crew attack" 1.7
 	"crew defense" 2.9
 	"player reputation" 5
@@ -50,7 +50,7 @@ government "Telashki (Attacking)"
 		ignore "Acid Grub"
 
 government "Xochira"
-	swizzle 4
+	swizzle 24
 	color .81 .23 .97
 	"crew attack" .9
 	"crew defense" 1.9
@@ -62,12 +62,14 @@ government "Xochira"
 		"Naltok (Neutral)" 1
 		"Telashki" -.01
 		"Alpha" -.01
+	"penalty for"
+		assist 0
 	illegals
 		ignore "Acid Grub"
 
 government "Xochira (Attacking)"
 	"display name" "Xochira"
-	swizzle 4
+	swizzle 24
 	"crew attack" .9
 	"crew defense" 1.9
 	"player reputation" -10
@@ -77,5 +79,7 @@ government "Xochira (Attacking)"
 		"Naltok (Neutral)" 1
 		"Telashki" -.01
 		"Alpha" -.01
+	"penalty for"
+		assist 0
 	illegals
 		ignore "Acid Grub"

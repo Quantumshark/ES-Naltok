@@ -60,7 +60,7 @@ government "Xochira"
 		"Xochira (Attacking)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
-		"Telashki" -.2
+		"Telashki" -.01
 		"Alpha" -.01
 	illegals
 		ignore "Acid Grub"
@@ -75,7 +75,7 @@ government "Xochira (Attacking)"
 		"Xochira" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
-		"Telashki" -.2
+		"Telashki" -.01
 		"Alpha" -.01
 	illegals
 		ignore "Acid Grub"

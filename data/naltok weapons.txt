@@ -131,7 +131,7 @@ outfit "Steel-Render"
 		"blast radius" 10
 		"shield damage" 256
 		"hull damage" 614
-		"hit force" 500
+		"hit force" 750
 	description "Although it is only minimally effective against shields, the Naltok's famed Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
 
 outfit "Sky-Shredder"
@@ -232,6 +232,7 @@ outfit "Halt-Swarm Launcher"
 		"radar tracking" .73
 		"shield damage" 97
 		"hull damage" 97
+		"hit force" 50
 		"slowing damage" 7.7
 		"missile strength" 3
 	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
@@ -368,7 +369,7 @@ outfit "Shell-Splitter Core"
 		"missile strength" 8
 		"shield damage" 1750
 		"hull damage" 2250
-		"hit force" 600
+		"hit force" 1200
 
 outfit "Shell-Splitter Husk"
 	weapon

@@ -128,7 +128,6 @@ outfit "Steel-Render"
 		"reload" 75
 		"firing energy" 137
 		"firing heat" 96
-		"blast radius" 5
 		"shield damage" 256
 		"hull damage" 614
 		"hit force" 750

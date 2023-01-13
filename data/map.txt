@@ -399,7 +399,7 @@ system Ngotesh
 		sprite planet/cloud3
 		distance 284.943
 		period 22.407
-	object
+	object Chexilok
 		sprite planet/dust2
 		distance 474.703
 		period 48.181
@@ -514,7 +514,7 @@ system Rixengol
 	object
 		sprite star/m8
 		period 10
-	object
+	object Raxnolak
 		sprite planet/dust3
 		distance 271.41
 		period 71.542
@@ -867,17 +867,17 @@ system Tolonek
 	object
 		sprite star/m0
 		period 10
-	object
+	object Thosekrol
 		sprite planet/rock1
-		distance 156.29
+		distance 326.29
 		period 43.69
 	object
 		sprite planet/titan
-		distance 549.54
+		distance 649.54
 		period 288.061
 	object
 		sprite planet/jupiter
-		distance 1060.23
+		distance 1160.23
 		period 771.943
 		object
 			sprite planet/oberon
@@ -1217,8 +1217,8 @@ system Kelojol
 		sprite planet/cloud7
 		distance 186.24
 		period 56.832
-	object
-		sprite planet/ocean1
+	object Ganolek
+		sprite planet/ocean7-b
 		distance 393.25
 		period 174.377
 	object
@@ -1488,7 +1488,7 @@ system Nixelog
 	starfield density .5
 	link Kuragu
 	link Lekonet
-	link Norelin
+	link Thoreklin
 	asteroids "small rock" 8 9.148
 	asteroids "medium rock" 13 5.67
 	asteroids "large rock" 10 7.106
@@ -1551,7 +1551,7 @@ system Nixelog
 			distance 537
 			period 49.737
 
-system Norelin
+system Thoreklin
 	pos -1711 -111
 	government Uninhabited
 	arrival 5000
@@ -1613,7 +1613,7 @@ system Kuragu
 	starfield density .4
 	link Lotegok
 	link Nixelog
-	link Norelin
+	link Thoreklin
 	asteroids "small rock" 15 7.022
 	asteroids "small metal" 11 8.501
 	trade Clothing 290
@@ -1786,12 +1786,24 @@ system "Amansinaya"
 		period 1000
 		hazard "Shield-depleting Wormhole" 1
 
+planet Chexilok
+	attributes naltok xochira
+	landscape land/desert6
+	description ""
+	spaceport ""
+	
 planet Chireke
 	attributes naltok rural telashki
 	landscape land/forest3
 	description "The environmental conditions on this planet make it almost the perfect home for the Naltok - the first explorers to land here described the conditions as more homely than their homeworld."
 	description "Unfortunately, those same conditions also make Chireke the perfect home for a wide range of incredibly fast-growing plant species, many of which can grow through metres of solid concrete with the same ease with which most plants would grow through a few centimetres of soil. Every attempt to establish major settlements here has been reduced to rubble and reclaimed by the jungle within a few months."
 	spaceport "The spaceport sits atop a high mountain plateau, where the cold, dry conditions and thin air inhibit plant growth enough that permanent structures can be established. The unique flora of this planet have given rise to a fairly large lumber industry, and the railway from the mountaintop to the jungle below has become a fairly large tourist attraction as well."
+
+planet Ganolek
+	attributes naltok rural telashki
+	landscape land/fields5
+	description ""
+	spaceport ""
 
 planet Gorloxek
 	attributes uninhabited
@@ -1873,6 +1885,15 @@ planet Ngakego
 	outfitter "Naltok Advanced"
 	outfitter "Telashki Advanced"
 
+planet Raxnolak
+	attributes military naltok xochira
+	landscape land/badlands1
+	description ""
+	spaceport ""
+	outfitter "Naltok Ammo"
+	outfitter "Xochira Ammo"
+	"required reputation" 5
+
 planet Ruxanguv
 	attributes military naltok xochira
 	landscape land/beach0
@@ -1902,6 +1923,12 @@ planet Shogteg
 	landscape land/desert4
 	description "Though too hot to be habitable by most species, this planet nonetheless harbours a fairly diverse biosphere comprised entirely of temperature-tolerant bacteria. Most Naltok biotechnology can trace at least part of its design to the extremely thermostable proteins produced by the bacteria here."
 	spaceport "The spaceport here is quite small, with docking tubes that connect your ship directly to the largest of the research centres on this planet. Despite the hostile surface conditions, this planet is home to several such locations, as the work of identifying and sequencing every bacterial species here is still ongoing."
+
+planet Thosekrol
+	attributes naltok telashki
+	landscape land/fields6
+	description ""
+	spaceport ""
 
 planet Tokraget
 	attributes naltok research rural xochira

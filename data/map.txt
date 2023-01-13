@@ -1222,7 +1222,7 @@ system Kelojol
 		distance 186.24
 		period 56.832
 	object Ganolek
-		sprite planet/ocean7-b
+		sprite planet/forest6
 		distance 393.25
 		period 174.377
 	object

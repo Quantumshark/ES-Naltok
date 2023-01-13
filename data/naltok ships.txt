@@ -773,7 +773,7 @@ ship "Pike"
 		category "Heavy Warship"
 		"cost" 12678000
 		"shields" 6300
-		"hull" 46300
+		"hull" 43300
 		"hull repair rate" 3.1
 		"hull energy" .775
 		"hull heat" 2.325

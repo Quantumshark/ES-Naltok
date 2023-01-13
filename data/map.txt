@@ -1083,7 +1083,7 @@ system Linekol
 		period 10
 	object
 		sprite star/k-dwarf
-		distance 50
+		distance 74
 		period 11.1
 	object
 		sprite planet/lava7

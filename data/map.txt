@@ -1057,7 +1057,7 @@ system Linekol
 	pos -1517 -10
 	government Telashki
 	arrival 500
-	habitable 486.68
+	habitable 526.68
 	haze _menu/haze-33
 	starfield density .4
 	link Kelojol
@@ -1082,12 +1082,16 @@ system Linekol
 		sprite star/k3
 		period 10
 	object
+		sprite star/k-dwarf
+		distance 50
+		period 11.1
+	object
 		sprite planet/lava7
-		distance 133.16
+		distance 193.16
 		period 27.861
 	object
 		sprite planet/rock9
-		distance 594
+		distance 584
 		period 262.493
 		object
 			sprite planet/rock3

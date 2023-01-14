@@ -1824,6 +1824,7 @@ planet Joklanok
 	shipyard "Xochira Basics"
 	outfitter "Naltok Intermediate"
 	outfitter "Xochira Intermediate"
+	"required reputation" 5
 
 planet Kevoshek
 	attributes mining naltok telashki
@@ -1878,6 +1879,7 @@ planet Nareltok
 	shipyard "Naltok Intermediate"
 	outfitter "Naltok Intermediate"
 	outfitter "Xochira Basics"
+	"required reputation" 25
 
 planet Ngakego
 	attributes factory naltok telashki urban
@@ -1892,7 +1894,7 @@ planet Ngakego
 planet Raxnolak
 	attributes military naltok xochira
 	landscape land/badlands1
-	description ""
+	description "This "
 	spaceport ""
 	outfitter "Naltok Ammo"
 	outfitter "Xochira Ammo"
@@ -1927,6 +1929,7 @@ planet Shogteg
 	landscape land/desert4
 	description "Though too hot to be habitable by most species, this planet nonetheless harbours a fairly diverse biosphere comprised entirely of temperature-tolerant bacteria. Most Naltok biotechnology can trace at least part of its design to the extremely thermostable proteins produced by the bacteria here."
 	spaceport "The spaceport here is quite small, with docking tubes that connect your ship directly to the largest of the research centres on this planet. Despite the hostile surface conditions, this planet is home to several such locations, as the work of identifying and sequencing every bacterial species here is still ongoing."
+	"required reputation" 25
 
 planet Thosekrol
 	attributes naltok telashki
@@ -1940,6 +1943,7 @@ planet Tokraget
 	description "Despite the low gravity, this planet has become a fairly large agricultural settlement, as well as an ideal site for low-gravity research. Crops here reach impressive sizes far earlier than on other planets, and several of the local plants are popular throughout Naltok space for their unique flavours."
 	description "Thanks in part to their semiaquatic nature, the Naltok do not suffer most of the health problems associated with long-term living in low-gravity that humans would experience."
 	spaceport "The spaceport here features higher ceilings and more floors than most Naltok buildings, and the locals tower over the visitors - some are almost as tall as you."
+	"required reputation" 5
 
 planet Vigechox
 	attributes naltok urban xochira
@@ -1951,6 +1955,7 @@ planet Vigechox
 	outfitter "Xochira Advanced"
 	shipyard "Naltok Advanced"
 	shipyard "Xochira Advanced"
+	"required reputation" 25
 
 planet "Wormhole Naltok"
 	description ""
@@ -1959,8 +1964,9 @@ planet Xejolki
 	attributes naltok xochira research
 	landcape land/sky0
 	description "Though it is currently deep in Xochira space, many of the inhabitants of this moon remain loyal to the Telashki. The original settlements here were small, primarily established in order to strip-mine the topsoil, which was atypically high in nickel and cadmium."
-	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting signals from nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
+	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting radio signals from nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
 	spaceport "There are a suprisingly high number of Xochira ground troops here."
+	"required reputation" 50
 
 planet Xorechige
 	attributes military naltok urban xochira
@@ -1971,6 +1977,7 @@ planet Xorechige
 	shipyard "Xochira Advanced"
 	outfitter "Naltok Advanced"
 	outfitter "Xochira Advanced"
+	"required reputation" 25
 
 planet Xutajol
 	attributes naltok rural telashki

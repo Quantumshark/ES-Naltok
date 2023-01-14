@@ -15,7 +15,7 @@ mission "First Contact: Naltok (Telashki)"
 	source
 		government "Telashki"
 	destination Raxnolak
-	clearance
+#	clearance
 	on offer
 		conversation
 			`This planet is populated by a species of aliens that remind you of giant newts, slightly shorter than you and with large eyes and dark, rubbery skin. They move languidly through the spaceport, which appears to be flooded with around a foot of water, and several of them come in to watch your ship as you land.`
@@ -72,12 +72,12 @@ mission "First Contact: Naltok (Telashki)"
 				decline
 	on enter
 		"reputation: Telashki" <?= -10
-		"reputation: Xochira" >?= 0
+#		"reputation: Xochira" >?= 0
 		log "Factions" "Telashki" `The Telashki govern the north of Naltok space. They are apparently harbouring at least one Alpha, though you did not have the opportunity to learn more.`
 		log "Factions" "Xochira" `According to the Telashki, the Xochira are a group of "xenophobes and technophobes" who control the south of Naltok space. Whatever their nature, they attacked you when you first entered their space.`
 		log "Factions" "Naltok" `The Naltok are a species of aliens living on the westernmost fringes of the galaxy. They resemble newts, or perhaps salamanders or toads, and seem to prefer to live in relatively damp conditions - most of their living spaces are wholly or partially flooded with water. Their space is divided between two rival factions, the Telashki in the north and the Xochira in the south.`
 		log `Encountered an amphibian-like alien species called the Naltok to the west of the Deep. Met an Alpha there, and escaped alive, but angered the 'Telashki' in the process.`
-		dialog ``
+		fail
 	on decline
 		log "Factions" "Telashki" `The Telashki govern the north of Naltok space. They are harbouring several Alphas, all of whom arrived prior to the Xochira's formation and are now trapped. The central governing body of their society appears to be the "ministries", one of which is the Ministry of Alien Life.`
 		log "Factions" "Xochira" `According to the Telashki, the Xochira are a group of "xenophobes and technophobes" who control the south of Naltok space. Whatever their nature, they attacked you when you first entered their space.`

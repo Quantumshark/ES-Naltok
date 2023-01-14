@@ -500,6 +500,20 @@ ship "Piranha" "Piranha (Charging)"
 		"Iguana Thruster"
 		"Hyperdrive"
 
+ship "Piranha" "Piranha (Scanning)"
+	outfits
+		"Breaker" 3
+		"Triple Breaker Turret"
+
+		"Krill Generator"
+		"Pond Battery"
+		"River Shield Generator" 1
+		"Broad-Spectrum Scanner"
+		
+		"Gecko Steering"
+		"Iguana Thruster"
+		"Hyperdrive"
+
 ship "Piranha" "Piranha (Tough)"
 	outfits
 		"Breaker" 3

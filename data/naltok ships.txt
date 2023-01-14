@@ -33,7 +33,7 @@ ship "Anchovy"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 7
+			"blast radius" 5
 			"shield damage" 70
 			"hull damage" 35
 			"hit force" 105
@@ -73,7 +73,7 @@ ship "Mackerel"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 25
+			"blast radius" 20
 			"shield damage" 250
 			"hull damage" 125
 			"hit force" 375
@@ -108,7 +108,7 @@ ship "Marlin"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 84
+			"blast radius" 64
 			"shield damage" 840
 			"hull damage" 420
 			"hit force" 1260
@@ -147,7 +147,7 @@ ship "Sturgeon"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 204
+			"blast radius" 154
 			"shield damage" 2040
 			"hull damage" 1020
 			"hit force" 3060
@@ -186,7 +186,7 @@ ship "Herring"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 11
+			"blast radius" 8
 			"shield damage" 110
 			"hull damage" 55
 			"hit force" 165
@@ -225,7 +225,7 @@ ship "Conger"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 35
+			"blast radius" 28
 			"shield damage" 350
 			"hull damage" 175
 			"hit force" 525
@@ -280,7 +280,7 @@ ship "Flounder"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 102
+			"blast radius" 72
 			"shield damage" 1020
 			"hull damage" 510
 			"hit force" 1530
@@ -329,7 +329,7 @@ ship "Grouper"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 239
+			"blast radius" 169
 			"shield damage" 2390
 			"hull damage" 1195
 			"hit force" 3585
@@ -366,14 +366,14 @@ ship "Tetra"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 27
+			"blast radius" 21
 			"shield damage" 270
 			"hull damage" 135
 			"hit force" 405
 	outfits
 		"Breaker"
 		"Shell-Splitter Pod" 4
-		"Shell-Splitter" 8
+		"Shell-Splitter Torpedo" 8
 
 		"Copepod Generator"
 		"Pond Battery"
@@ -417,7 +417,7 @@ ship "Archerfish"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 54
+			"blast radius" 42
 			"shield damage" 540
 			"hull damage" 270
 			"hit force" 810
@@ -464,7 +464,7 @@ ship "Piranha"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 70
+			"blast radius" 55
 			"shield damage" 700
 			"hull damage" 350
 			"hit force" 1050
@@ -625,7 +625,7 @@ ship "Barracuda"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 90
+			"blast radius" 68
 			"shield damage" 900
 			"hull damage" 450
 			"hit force" 1350
@@ -704,7 +704,7 @@ ship "Albacore"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 102
+			"blast radius" 72
 			"shield damage" 1020
 			"hull damage" 510
 			"hit force" 1530
@@ -749,7 +749,7 @@ ship "Moray"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 143
+			"blast radius" 108
 			"shield damage" 1430
 			"hull damage" 715
 			"hit force" 2145
@@ -790,7 +790,7 @@ ship "Pike"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 263
+			"blast radius" 193
 			"shield damage" 2630
 			"hull damage" 1315
 			"hit force" 3945
@@ -844,7 +844,7 @@ ship "Mola"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 228
+			"blast radius" 178
 			"shield damage" 2280
 			"hull damage" 1140
 			"hit force" 3420
@@ -915,7 +915,7 @@ ship "Kaluga"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 312
+			"blast radius" 242
 			"shield damage" 3120
 			"hull damage" 1560
 			"hit force" 4880
@@ -973,7 +973,7 @@ ship "Coelacanth"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 458
+			"blast radius" 308
 			"shield damage" 4580
 			"hull damage" 2290
 			"hit force" 6870
@@ -1022,7 +1022,7 @@ ship "Lamprey"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 12
+			"blast radius" 8
 			"shield damage" 120
 			"hull damage" 60
 			"hit force" 180
@@ -1059,7 +1059,7 @@ ship "Remora"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 17
+			"blast radius" 12
 			"shield damage" 170
 			"hull damage" 85
 			"hit force" 255
@@ -1099,7 +1099,7 @@ ship "Minnow"
 		"heat protection" 3
 		"burn protection" 1
 		weapon
-			"blast radius" 6
+			"blast radius" 4
 			"shield damage" 60
 			"hull damage" 30
 			"hit force" 90

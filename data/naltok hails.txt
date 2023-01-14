@@ -8,3 +8,65 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+phrase "hostile telashki"
+	phrase
+		"telashki: interested to study you"
+		"telashki: looking forward to studying you"
+
+phrase "telashki: interested to study you"
+	phrase
+		"telashki: interested to"
+	word
+		" "
+	phrase
+		"telashki: study you"
+	word
+		"."
+		"!"
+
+phrase "telashki: interested to study you"
+	phrase
+		"telashki: looking forward to"
+	word
+		" "
+	phrase
+		"telashki: studying you"
+	word
+		"."
+		"!"
+
+phrase "telashki: interested to"
+	word
+		"I'd love to"
+		"I'd like to"
+		"I want to"
+		"I'll"
+		"I will"
+		"I'm going to"
+		"I hope I can"
+		"The Ministry are going to"
+		"The Ministry will"
+		"We are going to"
+		"We will"
+
+phrase "telashki: looking forward to"
+		"I'm looking forward to"
+		"I'm going to enjoy"
+		"The Ministry are bound to enjoy"
+
+phrase "telashki: study you"
+	word
+		"analyse your genome"
+		"analyse your biology"
+		"analyse your ship"
+		"analyse the remains of your ship"
+		"collect up what's left of your ship"
+		"experiment on you"
+		"experiment on your remains"
+		"dissect you"
+		"have a look at your organs"
+		"perform an autopsy on you"
+		"put you back together"
+		"work out how all the little pieces of you fit together"
+		
+

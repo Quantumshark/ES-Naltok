@@ -1758,7 +1758,7 @@ system "Vverev"
 			offset 180
 	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
-		distance 2500
+		distance 3500
 		period 1000
 		offset 180
 		hazard "Shield-depleting Wormhole" 1
@@ -1795,6 +1795,7 @@ planet Chexilok
 	landscape land/desert6
 	description ""
 	spaceport ""
+	"required reputation" 25
 	
 planet Chireke
 	attributes naltok rural telashki

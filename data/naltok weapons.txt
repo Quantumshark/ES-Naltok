@@ -357,7 +357,7 @@ outfit "Shell-Splitter Core"
 			"frame rate" 2
 			"random start frame"
 		"hit effect" "torpedo hit"
-		"velocity" 4
+		"velocity" -4
 		"lifetime" 240
 		"acceleration" .5
 		"drag" .1
@@ -375,7 +375,7 @@ outfit "Shell-Splitter Husk"
 		sprite "projectile/korath mine"
 			"frame rate" 2
 			"no repeat"
-		"inaccuracy" 180
+		"inaccuracy" 60
 		"random velocity" 15
 		"drag" .1
 		"acceleration" .05

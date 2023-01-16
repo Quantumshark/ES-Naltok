@@ -794,7 +794,7 @@ ship "Pike"
 		"required crew" 43
 		"bunks" 91
 		"mass" 562
-		"drag" 8.7
+		"drag" 9.2
 		"heat dissipation" .2
 		"fuel capacity" 600
 		"cargo space" 196
@@ -848,7 +848,7 @@ ship "Mola"
 		"required crew" 56
 		"bunks" 68
 		"mass" 608
-		"drag" 10.8
+		"drag" 11.4
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 24
@@ -918,8 +918,8 @@ ship "Kaluga"
 		"hull heat" 2.85
 		"required crew" 72
 		"bunks" 80
-		"mass" 800
-		"drag" 11.9
+		"mass" 960
+		"drag" 13.2
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 0

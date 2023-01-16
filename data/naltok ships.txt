@@ -1129,6 +1129,7 @@ ship "Minnow"
 		"hull repair rate" .2
 		"hull energy" .05
 		"hull heat" .15
+		"automaton" 1
 		"mass" 33
 		"drag" .45
 		"heat dissipation" .48

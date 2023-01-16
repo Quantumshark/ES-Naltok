@@ -621,8 +621,8 @@ ship "Barracuda"
 	attributes
 		category "Medium Warship"
 		"cost" 4742000
-		"shields" 3700
-		"hull" 14300
+		"shields" 4100
+		"hull" 15300
 		"hull repair rate" 1.9
 		"hull energy" .475
 		"hull heat" 1.425
@@ -700,8 +700,8 @@ ship "Albacore"
 		licenses 
 			"Xochira"
 		"cost"
-		"shields" 4300
-		"hull" 16100
+		"shields" 4700
+		"hull" 18100
 		"hull repair rate" 2.1
 		"hull energy" .525
 		"hull heat" 1.575
@@ -746,7 +746,7 @@ ship "Moray"
 		category "Medium Warship"
 		"cost"
 		"shields" 5600
-		"hull" 23100
+		"hull" 28100
 		"hull repair rate" 2.8
 		"hull energy" .7
 		"hull heat" 2.1
@@ -759,7 +759,7 @@ ship "Moray"
 		"cargo space" 88
 		"outfit space" 518
 		"weapon capacity" 264
-		"engine capacity" 114
+		"engine capacity" 104
 		"heat protection" 3
 		"burn protection" 1
 		weapon

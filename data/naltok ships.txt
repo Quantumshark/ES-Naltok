@@ -816,8 +816,8 @@ ship "Pike"
 		"Shell-Splitter Torpedo" 64
 		
 		"Crayfish Reactor"
-		"Pond Battery" 1
-		"River Shield Generator" 2
+		"Pond Battery" 2
+		"River Shield Generator"
 
 		"Monitor Thruster"
 		"Monitor Steering"

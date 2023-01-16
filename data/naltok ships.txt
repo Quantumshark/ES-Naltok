@@ -26,10 +26,10 @@ ship "Anchovy"
 		"drag" 1.2
 		"heat dissipation" .35
 		"fuel capacity" 500
-		"cargo space" 17
+		"cargo space" 18
 		"outfit space" 110
-		"weapon capacity" 13
-		"engine capacity" 53
+		"weapon capacity" 16
+		"engine capacity" 56
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -67,9 +67,9 @@ ship "Mackerel"
 		"heat dissipation" .31
 		"fuel capacity" 700
 		"cargo space" 38
-		"outfit space" 257
-		"weapon capacity" 59
-		"engine capacity" 93
+		"outfit space" 256
+		"weapon capacity" 64
+		"engine capacity" 94
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -102,8 +102,8 @@ ship "Marlin"
 		"heat dissipation" .23
 		"fuel capacity" 600
 		"cargo space" 71
-		"outfit space" 427
-		"weapon capacity" 87
+		"outfit space" 428
+		"weapon capacity" 88
 		"engine capacity" 134
 		"heat protection" 3
 		"burn protection" 1
@@ -136,14 +136,14 @@ ship "Sturgeon"
 		"hull heat" 2.175
 		"required crew" 43
 		"bunks" 313
-		"mass" 701
+		"mass" 702
 		"drag" 9.2
 		"heat dissipation" .17
 		"fuel capacity" 500
 		"cargo space" 368
-		"outfit space" 713
-		"weapon capacity" 209
-		"engine capacity" 193
+		"outfit space" 716
+		"weapon capacity" 212
+		"engine capacity" 194
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -181,8 +181,8 @@ ship "Herring"
 		"fuel capacity" 400
 		"cargo space" 92
 		"outfit space" 124
-		"weapon capacity" 31
-		"engine capacity" 45
+		"weapon capacity" 32
+		"engine capacity" 46
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -221,7 +221,7 @@ ship "Conger"
 		"cargo space" 242
 		"outfit space" 264
 		"weapon capacity" 58
-		"engine capacity" 105
+		"engine capacity" 106
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -269,14 +269,14 @@ ship "Flounder"
 		"hull heat" .9
 		"required crew" 12
 		"bunks" 17
-		"mass" 861
+		"mass" 864
 		"drag" 14.1
 		"heat dissipation" .11
 		"fuel capacity" 600
-		"cargo space" 866
-		"outfit space" 631
-		"weapon capacity" 173
-		"engine capacity" 113
+		"cargo space" 864
+		"outfit space" 630
+		"weapon capacity" 174
+		"engine capacity" 114
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -318,14 +318,14 @@ ship "Grouper"
 		"hull heat" 1.5375
 		"required crew" 15 
 		"bunks" 27
-		"mass" 739
+		"mass" 744
 		"drag" 9.8
 		"heat dissipation" .19
 		"fuel capacity" 4000
-		"cargo space" 57
-		"outfit space" 583
-		"weapon capacity" 131
-		"engine capacity" 187
+		"cargo space" 64
+		"outfit space" 584
+		"weapon capacity" 132
+		"engine capacity" 188
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -359,10 +359,10 @@ ship "Tetra"
 		"drag" 1.8
 		"heat dissipation" .43
 		"fuel capacity" 500
-		"cargo space" 17
-		"outfit space" 217
+		"cargo space" 16
+		"outfit space" 218
 		"weapon capacity" 62
-		"engine capacity" 79
+		"engine capacity" 80
 		"heat protection" 3
 		"burn protection" 1
 		weapon
@@ -410,7 +410,7 @@ ship "Archerfish"
 		"drag" 2.25
 		"heat dissipation" .41
 		"fuel capacity" 300
-		"cargo space" 7
+		"cargo space" 8
 		"outfit space" 320
 		"weapon capacity" 82
 		"engine capacity" 92
@@ -453,13 +453,13 @@ ship "Piranha"
 		"hull heat" 1.2
 		"required crew" 5
 		"bunks" 11
-		"mass" 311
+		"mass" 312
 		"drag" 3.8
 		"heat dissipation" .38
 		"fuel capacity" 600
-		"cargo space" 51
-		"outfit space" 353
-		"weapon capacity" 113
+		"cargo space" 52
+		"outfit space" 360
+		"weapon capacity" 116
 		"engine capacity" 104
 		"heat protection" 3
 		"burn protection" 1
@@ -632,10 +632,10 @@ ship "Barracuda"
 		"drag" 4.9
 		"heat dissipation" .35
 		"fuel capacity" 500
-		"cargo space" 53
-		"outfit space" 403
+		"cargo space" 56
+		"outfit space" 404
 		"weapon capacity" 196
-		"engine capacity" 117
+		"engine capacity" 118
 		"heat protection" 3
 		"burn protection" 1
 		weapon

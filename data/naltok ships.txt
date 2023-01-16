@@ -770,6 +770,18 @@ ship "Moray"
 	outfits
 
 		"Hyperdrive"
+		"Sky-Shredder" 4
+		"Shell-Splitter Launcher"
+		"Shell-Splitter Torpedo" 11
+		"Breaker" 2
+
+		"Krill Generator"
+		"Pond Battery" 2
+		"River Shield Generator" 2
+
+		"Gecko Steering"
+		"Gecko Thruster"
+		
 
 	gun
 	gun

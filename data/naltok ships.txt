@@ -809,7 +809,7 @@ ship "Pike"
 			"hull damage" 1315
 			"hit force" 3945
 	outfits
-		"Triple Breaker Turret"
+		"Naltok Anti-Missile"
 		"Steel-Render" 2
 		"Shell-Splitter Launcher" 4
 		"Shell-Splitter Tube" 3

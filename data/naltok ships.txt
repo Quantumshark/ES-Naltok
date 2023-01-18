@@ -923,11 +923,11 @@ ship "Mola"
 	bay "Fighter"
 	bay "Fighter"
 	bay "Fighter"
-	bay "Drone"
-	bay "Drone"
-	bay "Drone"
-	bay "Drone"
-	description `The Mola is a heavy carrier designed by the Telashki. Though underarmed for its size, the Mola's strength lies in its large complement of Remora fighters. Fully stocked, the Mola can in theory add another 40 weapons to its armament, enough to overwhelm almost any opponent.`
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	description `The Mola is a heavy carrier designed by the Telashki. Though underarmed for its size, the Mola's strength lies in its large complement of Remora fighters. Fully stocked, the Mola can in theory bring more than fifty weapons to bear against a target, enough to overwhelm almost any opponent.`
 
 ship "Kaluga"
 	plural "Kaluga"
@@ -1003,8 +1003,8 @@ ship "Coelacanth"
 		"hull heat" 3.975
 		"required crew" 114
 		"bunks" 143
-		"mass" 1431
-		"drag" 28.85
+		"mass" 1880
+		"drag" 29.1
 		"heat dissipation" .11
 		"fuel capacity" 500
 		"cargo space" 98

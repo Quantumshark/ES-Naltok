@@ -27,7 +27,7 @@ outfit "Breaker"
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
-		"shield damage" 5.5
+		"discharge damage" .075
 		"hull damage" 12
 	description "The Breaker is primarily designed for mining, though it is quite commonly used as a small weapon. As with most Naltok technology, the designers prioritised efficiency over power, resulting in a weapon that compares unfavourably to even a human beam laser or energy blaster - particularly in its near-total inability to damage shields."
 
@@ -53,7 +53,7 @@ outfit "Breaker Turret"
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
-		"shield damage" 5.5
+		"discharge damage" .075
 		"hull damage" 12
 	description "This turret carries a single Breaker. It is small, and turns incredibly quickly to track targets, responding to threats faster than any Human or Naltok operator could. Because of this, it is entirely computer-controlled, similar to anti-missile turrets."
 
@@ -94,7 +94,7 @@ outfit "Breaker Submunition"
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
-		"shield damage" 5.5
+		"discharge damage" .075
 		"hull damage" 12
 
 effect "breaker impact"
@@ -128,7 +128,7 @@ outfit "Steel-Render"
 		"reload" 75
 		"firing energy" 137
 		"firing heat" 96
-		"shield damage" 256
+		"discharge damage" 2.56
 		"hull damage" 614
 		"hit force" 750
 	description "Although it is only minimally effective against shields, the Naltok's famed Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."

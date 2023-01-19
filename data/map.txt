@@ -1861,15 +1861,16 @@ planet Kutora
 planet Legash
 	attributes naltok research telashki
 	landscape land/water12
-	description "This planet, with its abnormally deep oceans which are home to an extremely wide range of animal life, is home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land."
-	spaceport "The spaceport is located near the base of the Ministry building, which also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding to the present day."
+	description "The many separated oceans of Legash are both unusually deep and unusually narrow, as if they were enormous scars on the planet's surface filled with water, and as a result are home to an incredible diversity of animal life. 
+	description "This planet is home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land."
+	spaceport "The spaceport is located near the base of the Ministry building, and also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding to the present day."
 	outfitter "Naltok Basics"
 	outfitter "Telashki Advanced"
 
 planet Lonechox
 	attributes naltok rural xochira
 	landscape land/sea17-harro
-	description "This moon is situated almost perfectly within this system's habitable zone, and is home to a large water ocean and several landmasses. Unfortunately, none of those landmasses exists for more than a few hours at a time. The enormous tides here reveal and submerge vast tracts of land several times a day, making the planet unsuitable for long-term habitation, either in traditional cities or large vessels."
+	description "This moon is situated almost perfectly within this system's habitable zone, and is home to a large water ocean and several landmasses. Unfortunately, none of those landmasses exists for more than a few hours at a time. The enormous tides here reveal and submerge vast tracts of land several times a day, making the planet unsuitable for large-scale colonisation, either in traditional cities or large vessels."
 	description "The only inhabitants of this planet are small fishing communities, using smaller vessels and keeping to deeper water to avoid being stranded when the tides go out."
 
 planet Nareltok

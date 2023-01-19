@@ -33,6 +33,27 @@ news "telashki broadcast"
 		phrase
 			"telashki spaceport broadcast"
 
+news "naltok merchant"
+	location
+		attributes "naltok"
+	name
+		word
+			"Naltok captain"
+			"Naltok crew member"
+			"Naltok merchant"
+	message
+		word
+			`"`
+		word
+			"Minnow drones are brilliant for mining - or at least, they would be if they had asteroid scanners. As it is, they have to be directed from their mothership - at that point, why are they even drones?"
+			"Top tip from a veteran: if you strip down the weapons and shields on a Piranha, you can fit a surprising amount of cargo or bunk space in there."
+			"I'm never going to try landing a Flounder again."
+			"There's a lot of potential money to be made running commodities back and forth across the frontlines, but I'm not willing to risk trying."
+			"Have you seen the railway on Chireke? If you haven't, it's worth a visit. You'll probably be able to find a job hauling lumber once you're there, so the trip will pay for itself!"
+		word
+			`"`
+	
+
 phrase "telashki spaceport broadcast"
 	word
 		"A monitor suddenly lights up and begins displaying several extremely detailed pictures of a bacterial cell, accompanied by labels in the Naltok language. Before you have time to get a good look, a group of excited scientists pushes you aside and congregates around the screen."
@@ -120,23 +141,3 @@ phrase "telashki scientist information control"
 		"How does that even work?"
 		"Is that even legal?"
 
-news "naltok merchant"
-	location
-		attributes "naltok"
-	name
-		word
-			"Naltok captain"
-			"Naltok crew member"
-			"Naltok merchant"
-	message
-		word
-			`"`
-		word
-			"Minnow drones are brilliant for mining - or at least, they would be if they had asteroid scanners. As it is, they have to be directed from their mothership - at that point, why are they even drones?"
-			"Top tip from a veteran: if you strip down the weapons and shields on a Piranha, you can fit a surprising amount of cargo or bunk space in there."
-			"I'm never going to try landing a Flounder again."
-			"There's a lot of potential money to be made running commodities back and forth across the frontlines, but I'm not willing to risk trying."
-			"Have you seen the railway on Chireke? If you haven't, it's worth a visit. You'll probably be able to find a job hauling lumber once you're there, so the trip will pay for itself!"
-		word
-			`"`
-	

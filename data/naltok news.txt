@@ -22,6 +22,20 @@ news "telashki scientist"
 			"telashki scientist misc" 3
 			"telashki scientist information control" 1
 
+news "telashki broadcast"
+	location
+		government "Telashki"
+	name
+		word
+			"Television screen"
+	message
+		phrase
+			"telashki spaceport broadcast"
+
+phrase "telashki spaceport broadcast"
+	word
+		"A monitor suddenly lights up and begins displaying several extremely detailed pictures of a bacterial cell, accompanied by labels in the Naltok language. Before you have time to get a good look, a group of excited scientists pushes you aside and congregates around the screen."
+
 phrase "telashki scientist misc"
 	word
 		`"`

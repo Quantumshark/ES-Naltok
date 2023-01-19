@@ -1896,7 +1896,7 @@ planet Ngakego
 planet Raxnolak
 	attributes military naltok xochira
 	landscape land/badlands1
-	description "This "
+	description "This is the frontline of the Xochira in their war against the Telashki."
 	spaceport ""
 	outfitter "Naltok Ammo"
 	outfitter "Xochira Ammo"

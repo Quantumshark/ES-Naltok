@@ -8,46 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-ship "Anchovy"
-	plural "Anchovies"
-	sprite "ship/anchovy"
-	thumbnail "thumbnail/anchovy"
-	attributes
-		category "Transport"
-		"cost" 290000
-		"shields" 300
-		"hull" 1100
-		"hull repair rate" .2
-		"hull energy" .05
-		"hull heat" .15
-		"required crew" 1
-		"bunks" 7
-		"mass" 66
-		"drag" 1.2
-		"heat dissipation" .35
-		"fuel capacity" 500
-		"cargo space" 18
-		"outfit space" 110
-		"weapon capacity" 16
-		"engine capacity" 56
-		"heat protection" 3
-		"burn protection" 1
-		weapon
-			"blast radius" 5
-			"shield damage" 70
-			"hull damage" 35
-			"hit force" 105
-	outfits
-		"Nauplius Cell"
-		"Pond Battery"
-		"Stream Shield Generator"
-		"Agama Thruster"
-		"Agama Steering"
-		"Hyperdrive"
-
-	gun
-	description `With the exception of the tiny, uncrewed Minnow drones, the Anchovy is the least expensive ship sold in Naltok space. This low cost alone makes it one of the most popular ships for new pilots, despite having little else to offer.`
-
 ship "Mackerel"
 	plural "Mackerel"
 	sprite "ship/mackerel"

@@ -19,8 +19,8 @@ news "telashki scientist"
 			"Naltok scientist"
 	message
 		phrase
-			"telashki scientist misc"
-			"telashki scientist information control"
+			"telashki scientist misc" 3
+			"telashki scientist information control" 1
 
 phrase "telashki scientist misc"
 	word

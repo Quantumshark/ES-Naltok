@@ -37,7 +37,7 @@ phrase "telashki spaceport broadcast"
 	word
 		"A monitor suddenly lights up and begins displaying several extremely detailed pictures of a bacterial cell, accompanied by labels in the Naltok language. Before you have time to get a good look, a group of excited scientists pushes you aside and congregates around the screen."
 		`A regular broadcast is interrupted by some "Breaking News" about a newly discovered bacterial species. Despite the translation provided, most of the discussion is so complicated that you are unable to make out anything but the most basic details.`
-		""
+		"A small window opens up in the corner of a monitor, displaying a video feed of the Vokegol system for a few minutes before dissapearing again."
 
 phrase "telashki scientist misc"
 	word

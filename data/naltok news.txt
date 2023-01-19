@@ -96,6 +96,8 @@ phrase "telashki scientist information control"
 		"recent"
 		"advanced"
 	word
+		" "
+	word
 		"discoveries"
 		"technologies"
 		"designs"

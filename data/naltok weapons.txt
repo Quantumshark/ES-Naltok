@@ -117,6 +117,7 @@ outfit "Steel-Render"
 	"turret mounts" -1
 	"required crew" 1
 	weapon
+		"cluster"
 		sprite "projectile/steel-render"
 		sound "steel-render"
 		"hit effect" "steel-render hit"

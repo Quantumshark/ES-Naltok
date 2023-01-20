@@ -364,7 +364,7 @@ system Loxelon
 			period 49.476
 
 system Ngotesh
-	pos -1592 333
+	pos -1622 373
 	government Xochira
 	arrival 500
 	habitable 500
@@ -1302,7 +1302,7 @@ system Vokelon
 			period 27.933
 
 system Lotegok
-	pos -1683 -34
+	pos -1693 -44
 	government Telashki
 	arrival 500
 	habitable 500
@@ -1350,7 +1350,7 @@ system Lotegok
 		period 1355.15
 
 system Lekonet
-	pos -1624 -189
+	pos -1624 -209
 	government Uninhabited
 	arrival 3000
 	habitable 3000
@@ -1485,7 +1485,7 @@ system Golonex
 			period 48.748
 
 system Nixelog
-	pos -1657 -134
+	pos -1667 -144
 	government Uninhabited
 	habitable 850.92
 	haze _menu/haze-33
@@ -1556,7 +1556,7 @@ system Nixelog
 			period 49.737
 
 system Thoreklin
-	pos -1711 -111
+	pos -1721 -121
 	government Uninhabited
 	arrival 5000
 	habitable 50000
@@ -1608,7 +1608,7 @@ system Thoreklin
 			period 53.463
 
 system Kuragu
-	pos -1653 -85
+	pos -1663 -95
 	government Quarg
 	attributes ringworld
 	arrival 700

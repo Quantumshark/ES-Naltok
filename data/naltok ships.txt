@@ -887,6 +887,9 @@ ship "Mola"
 	bay "Fighter"
 	bay "Fighter"
 	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
+	bay "Fighter"
 	description `The Mola is a heavy carrier designed by the Telashki. Though underarmed for its size, the Mola's strength lies in its large complement of Remora fighters. Fully stocked, the Mola can in theory bring more than fifty weapons to bear against a target, enough to overwhelm almost any opponent.`
 
 ship "Kaluga"

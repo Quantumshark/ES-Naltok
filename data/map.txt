@@ -364,7 +364,7 @@ system Loxelon
 			period 49.476
 
 system Ngotesh
-	pos -1622 373
+	pos -1612 373
 	government Xochira
 	arrival 500
 	habitable 500

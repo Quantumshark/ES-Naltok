@@ -151,7 +151,7 @@ outfit "Sky-Shredder"
 		"turret turn" 3.2
 		"inaccuracy" 3
 		"velocity" 19
-		"lifetime" 21
+		"lifetime" 19
 		"reload" 7
 		"firing energy" 15
 		"firing heat" 12

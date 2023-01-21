@@ -202,7 +202,7 @@ ship "Conger"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
 	turret "Naltok Anti-Missile"
-	bay "Drone"
+	bay "Drone" 0 0
 	description `The Conger is a decently mobile light freighter occasionally used by the Naltok. Though not as commonly used as one might expect due to the common practice in Naltok space of hauling cargo in refitted warships, the Conger is still hugely popular as a mid-range freighter.`
 	description `Furthermore, the presence of a drone bay within the Conger's sizeable cargo pod makes it an excellent base for a Minnow mining drone, making the Conger an essential component of any asteroid-mining fleet.`
 
@@ -261,8 +261,8 @@ ship "Flounder"
 	turret
 	turret
 	turret
-	bay "Drone"
-	bay "Drone"
+	bay "Drone" 0 0
+	bay "Drone" 0 0
 	description `The Flounder is a massive freighter used by the Naltok to carry huge quantities of supplies between planets. A popular joke among the Naltok is that all their ships are named for fish, but only the Flounder flies like one. The handling of the Flounder is so legendarily bad that the latest model has been designed to carry two Minnow drones, because waiting for the drones to ferry cargo up and down through the atmosphere is generally agreed to be a preferable alternative to attempting to land the Flounder in a spaceport.`
 
 ship "Grouper"
@@ -298,8 +298,8 @@ ship "Grouper"
 	gun
 	turret
 	turret
-	bay "Drone"
-	bay "Drone"
+	bay "Drone" 0 0
+	bay "Drone" 0 0
 	description `As part of their plans to root out the Alphas from all of Human space, the Xochira designed the Grouper as a support vessel able to continually refuel their warships during long journeys.`
 
 ship "Tetra"
@@ -666,11 +666,11 @@ ship "Albacore"
 	gun
 	gun
 	turret
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
 	description `With all their facilities for large ship production being used to produce the new Kaluga, the Xochira were forced to compromise and build this much smaller counterpart to the Mola heavy carriers of the Telashki. While less powerful individually, the Albacore does have a sizable edge in terms of its cost - an oft-repeated statistic among Xochira is that two Albacores are less expensive than one Mola, but between them they carry more fighters.`
 
 ship "Moray"
@@ -776,8 +776,8 @@ ship "Pike"
 	turret
 	turret
 	turret
-	bay "Drone"
-	bay "Drone"
+	bay "Drone" 0 0
+	bay "Drone" 0 0
 	description `The Pike is a highly versatile heavy warship, an old Naltok design which has remained popular for centuries. Featuring high mobility, impressive toughness and adequate space for passengers and cargo, the Pike's only real weakness is its relatively small number of weapon hardpoints.`
 
 ship "Pike" "Pike (Tough)"
@@ -849,21 +849,21 @@ ship "Mola"
 	turret
 	turret
 	turret
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
-	bay "Fighter"
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
+	bay "Fighter" 0 0
 	description `The Mola is a heavy carrier designed by the Telashki. Though underarmed for its size, the Mola's strength lies in its large complement of Remora fighters. Fully stocked, the Mola can in theory bring more than fifty weapons to bear against a target, enough to overwhelm almost any opponent.`
 
 ship "Kaluga"
@@ -970,10 +970,10 @@ ship "Coelacanth"
 	turret
 	turret
 	turret
-	bay "Drone"
-	bay "Drone"
-	bay "Drone"
-	bay "Drone"
+	bay "Drone" 0 0
+	bay "Drone" 0 0
+	bay "Drone" 0 0
+	bay "Drone" 0 0
 	description `The original design for the Coelacanth predates the war by a few centuries, having initially been a proposal for a city-ship to house Naltok populations in the event that their planets became too crowded. After many rounds of adjustments and updates, focusing particularly on militarisation, this colossal warship is the result.`
 
 ship "Lamprey"

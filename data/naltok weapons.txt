@@ -129,9 +129,10 @@ outfit "Steel-Render"
 		"reload" 125
 		"firing energy" 256
 		"firing heat" 160
+		"firing force" 1000
 		"shield damage" 534
 		"hull damage" 921
-		"hit force" 1250
+		"hit force" 1500
 	description "Although it is only minimally effective against shields, the Naltok's famed Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
 
 outfit "Sky-Shredder"

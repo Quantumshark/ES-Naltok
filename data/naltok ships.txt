@@ -38,9 +38,17 @@ ship "Mackerel"
 			"hull damage" 125
 			"hit force" 375
 	outfits
-
+		"Naltok Anti-Missile"
+		"Copepod Generator"
+		"Pond Battery"
+		"Stream Shield Generator"
+		"River Shield Generator"
+		"Gecko Thruster"
+		"Gecko Steering"
+		"Hyperdrive"
+		
 	gun
-	turret
+	turret "Naltok Anti-Missile"
 	description `The Mackerel is a fairly unremarkable mid-range transport vessel, decently mobile and with adequate passenger space. What sets apart the Mackerel, and the reason it is such a popular and well-known ship among the Naltok, is its history.`
 	description `In the early days of the war, many Naltok civilians on both sides found themselves stranded on the wrong side of the frontline or separated from their friends and family. Merchant captains saw the opportunity this presented and, with implicit approval from both of the warring governments, rallied a fleet of Mackerel transport vessels to ferry citizens to their desired side of the boundary.`
 
@@ -73,7 +81,14 @@ ship "Marlin"
 			"hull damage" 420
 			"hit force" 1260
 	outfits
+		"Breaker" 2
+		"Naltok Anti-Missile" 3
+		"River Shield Generator" 2
+		"Krill Generator"
+		"Pond Battery"
 		"Luxury Accommodations"
+		"Iguana Thruster"
+		"Iguana Steering"
 		"Hyperdrive"
 
 	gun

@@ -16,12 +16,10 @@ fleet "Xochira Interdictor"
 
 
 shipyard "Naltok Basics"
-	"Anchovy"
 	"Herring"
 	"Minnow"
 
 shipyard "Naltok Intermediate"
-	"Anchovy"
 	"Mackerel"
 	"Herring"
 	"Conger"
@@ -29,7 +27,6 @@ shipyard "Naltok Intermediate"
 	"Minnow"
 
 shipyard "Naltok Advanced"
-	"Anchovy"
 	"Mackerel"
 	"Marlin"
 	"Herring"

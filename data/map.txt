@@ -385,7 +385,7 @@ system Ngotesh
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 251
 	object
 		sprite star/m8
 		distance 60.067

@@ -1792,9 +1792,10 @@ system "Amansinaya"
 
 planet Chexilok
 	attributes naltok xochira
-	landscape land/desert6
-	description ""
-	spaceport ""
+	landscape land/desert2
+	description "This otherwise unremarkable desert planet is believed to have once been home to a shallow ocean that covered most of its surface, the only remains of which are found in the vast oilfields that supply more than two thirds of the oil used in Naltok space."
+	description "While the Naltok are generally more cautious about the overuse of plastics than humanity, and have moved away from fossil fuels as an energy source entirely, they nonetheless require moderate amounts of various oil derivatives for industrial processes."
+	spaceport "You have never seen the Naltok move as quickly as they do here. Visiting merchant captains rush to pick up their deliveries as quickly as they are able to, spending as little time as possible in the hot, dry air."
 	"required reputation" 25
 	
 planet Chireke
@@ -1936,8 +1937,13 @@ planet Shogteg
 planet Thosekrol
 	attributes naltok telashki
 	landscape land/fields6
-	description ""
-	spaceport ""
+	description "Insofar as the Telashki have a capital, this is it. In addition to its population of nearly ten billion, Thosekrol is also home to the headquarters of the Ministry of War, Ministry of Transport and Ministry of Minerals and to their second largest shipyards after Ngakego."
+	description "Rather than expanding outwards into the countryside, the cities here have been made taller and denser, leaving most of the planet untouched."
+	spaceport "The spaceport on Thosekrol is situated at the south pole, connected to the rest of the planet by an incredibly complex underground network of railways and canals. Even within the spaceport itself, there are a series of tiny passenger scuttles that efficiently transport visitors between the various shops and utilities."
+	shipyard "Naltok Intermediate"
+	shipyard "Telashki Advanced"
+	outfitter "Naltok Advanced"
+	outfitter "Telashki Advanced"
 
 planet Tokraget
 	attributes naltok research rural xochira

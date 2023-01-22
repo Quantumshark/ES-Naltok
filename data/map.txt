@@ -1897,10 +1897,10 @@ planet Ngakego
 planet Raxnolak
 	attributes military naltok xochira
 	landscape land/badlands1
-	description "This is the frontline of the Xochira in their war against the Telashki."
-	spaceport ""
-	outfitter "Naltok Ammo"
-	outfitter "Xochira Ammo"
+	description "This small mining world has expanded massively in recent years after becoming the frontline of the Xochira in their war against the Telashki."
+	spaceport "Based on the density of the crowds and the difficulties you had in finding a vacant landing pad, the spaceport here has not yet been expanded to meet the needs of the recently-established military base."
+	outfitter "Naltok Basics"
+	outfitter "Xochira Basics"
 	"required reputation" 5
 
 planet Ruxanguv

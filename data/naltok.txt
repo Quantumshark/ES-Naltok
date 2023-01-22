@@ -24,6 +24,7 @@ shipyard "Naltok Intermediate"
 	"Herring"
 	"Conger"
 	"Piranha"
+	"Barracuda"
 	"Minnow"
 
 shipyard "Naltok Advanced"

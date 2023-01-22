@@ -445,7 +445,7 @@ ship "Piranha"
 	gun "Shell-Splitter Launcher"
 	gun
 	turret "Triple Breaker Turret"
-	description `The Piranha is a well-rounded light warship, possibly the oldest Naltok warship design in service. Allegedly, the Piranha has been operated with more combinations of equipment than any other Naltok ship, and that versatility has allowed it to remain in service for longer than any other Naltok warship - in fact, the original design is more than a thousand years old.`
+	description `The Piranha is the oldest Naltok warship design in service, and was the first to employ the biotechnological hull construction which is now standard on all their ships. `
 
 ship "Piranha" "Piranha (Scanning)"
 	outfits
@@ -532,21 +532,7 @@ ship "Piranha" "Piranha (Mining)"
 
 		"Gecko Steering"
 		"Iguana Thruster"
-		"Hyperdrive"
-
-ship "Piranha" "Piranha (Bunks)"
-	outfits
-		"Shell-Splitter Pod" 3
-		"Shell-Splitter Torpedo" 6
-		
-		"Copepod Generator"
-		"Pond Battery"
-		"River Shield Generator"
-		"Bunk Room" 6
-
-		"Gecko Steering"
-		"Gecko Thruster"
-		"Hyperdrive"		
+		"Hyperdrive"	
 
 ship "Barracuda"
 	plural "Barracuda"

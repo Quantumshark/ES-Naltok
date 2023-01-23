@@ -334,7 +334,7 @@ ship "Tetra"
 		"drag" 1.8
 		"heat dissipation" .43
 		"fuel capacity" 500
-		"cargo space" 16
+		"cargo space" 11
 		"outfit space" 218
 		"weapon capacity" 62
 		"engine capacity" 80

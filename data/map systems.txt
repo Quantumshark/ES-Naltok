@@ -304,6 +304,79 @@ system Ligoxel
 			distance 363
 			period 20.268
 
+system Linekol
+	pos -1517 -10
+	government Telashki
+	arrival 500
+	habitable 526.68
+	haze _menu/haze-33
+	starfield density .4
+	link Kelojol
+	link Keloxen
+	link Varajol
+	asteroids "small rock" 1 3.775
+	asteroids "large rock" 10 3.432
+	asteroids "small metal" 1 3.458
+	asteroids "medium metal" 2 3.96
+	asteroids "large metal" 3 2.983
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k3
+		period 10
+	object
+		sprite star/k-dwarf
+		distance 74
+		period 11.1
+	object
+		sprite planet/lava7
+		distance 193.16
+		period 27.861
+	object
+		sprite planet/rock9
+		distance 584
+		period 262.493
+		object
+			sprite planet/rock3
+			distance 150
+			period 23.564
+	object
+		sprite planet/desert0
+		distance 1058.84
+		period 624.718
+		object
+			sprite planet/dust3
+			distance 130
+			period 18.633
+	object
+		sprite planet/tethys
+		distance 1865.53
+		period 1460.97
+	object
+		sprite planet/gas9
+		distance 2670.82
+		period 2502.68
+		object
+			sprite planet/ice7
+			distance 258
+			period 15.539
+		object
+			sprite planet/dust7
+			distance 379
+			period 27.666
+		object
+			sprite planet/rock0
+			distance 539
+			period 46.922
+
 system Lixetog
 	pos -1537 224
 	government Xochira
@@ -737,6 +810,115 @@ system Tekochi
 			distance 372
 			period 30.654
 
+system Tikelo
+	pos -1649 53
+	government Telashki
+	arrival 500
+	habitable 203.28
+	haze _menu/haze-33
+	starfield density .4
+	link Golonex
+	link Tokilok
+	link Tolonek
+	asteroids "small rock" 1 4.952
+	asteroids "medium rock" 9 5.405
+	asteroids "large rock" 1 1.928
+	asteroids "large metal" 2 3.629
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/m8
+		period 10
+	object Kolxacha
+		sprite planet/rock18
+		distance 277.96
+		period 96.134
+	object
+		sprite planet/titan
+		distance 438.77
+		period 240.7
+	object
+		sprite planet/desert3
+		distance 627.93
+		period 412.086
+	object
+		sprite planet/gas17
+		distance 1666.49
+		period 1781.66
+		object
+			sprite planet/dust1
+			distance 217
+			period 13.657
+		object
+			sprite planet/dust0
+			distance 298
+			period 21.979
+		object
+			sprite planet/ice0
+			distance 407
+			period 35.08
+		object
+			sprite planet/rock0
+			distance 591
+			period 61.384
+
+system Tokilok
+	pos -1679 82
+	government Telashki
+	arrival 200
+	habitable 33.28
+	haze _menu/haze-33
+	starfield density .3
+	link Tikelo
+	link Vokegol
+	asteroids "large rock" 5 2.957
+	asteroids "large metal" 1 3.674
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/m-dwarf
+		period 10
+	object
+		sprite planet/dust6
+		distance 136.56
+		period 41.793
+	object
+		sprite planet/callisto
+		distance 339.56
+		period 163.869
+	object
+		sprite planet/ice4
+		distance 718.77
+		period 504.668
+		object
+			sprite planet/rock7
+			distance 127
+			period 17.992
+	object
+		sprite planet/lava1
+		distance 991.66
+		period 817.835
+	object
+		sprite planet/jupiter
+		distance 2981.1
+		period 4262.71
+
 system Tolonek
 	pos -1579 68
 	government Telashki
@@ -970,188 +1152,6 @@ system "Xeko Naltok"
 		sprite planet/gas0
 		distance 1881.75
 		period 1480.07
-
-system Tikelo
-	pos -1649 53
-	government Telashki
-	arrival 500
-	habitable 203.28
-	haze _menu/haze-33
-	starfield density .4
-	link Golonex
-	link Tokilok
-	link Tolonek
-	asteroids "small rock" 1 4.952
-	asteroids "medium rock" 9 5.405
-	asteroids "large rock" 1 1.928
-	asteroids "large metal" 2 3.629
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite star/m8
-		period 10
-	object Kolxacha
-		sprite planet/rock18
-		distance 277.96
-		period 96.134
-	object
-		sprite planet/titan
-		distance 438.77
-		period 240.7
-	object
-		sprite planet/desert3
-		distance 627.93
-		period 412.086
-	object
-		sprite planet/gas17
-		distance 1666.49
-		period 1781.66
-		object
-			sprite planet/dust1
-			distance 217
-			period 13.657
-		object
-			sprite planet/dust0
-			distance 298
-			period 21.979
-		object
-			sprite planet/ice0
-			distance 407
-			period 35.08
-		object
-			sprite planet/rock0
-			distance 591
-			period 61.384
-
-system Tokilok
-	pos -1679 82
-	government Telashki
-	arrival 200
-	habitable 33.28
-	haze _menu/haze-33
-	starfield density .3
-	link Tikelo
-	link Vokegol
-	asteroids "large rock" 5 2.957
-	asteroids "large metal" 1 3.674
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite star/m-dwarf
-		period 10
-	object
-		sprite planet/dust6
-		distance 136.56
-		period 41.793
-	object
-		sprite planet/callisto
-		distance 339.56
-		period 163.869
-	object
-		sprite planet/ice4
-		distance 718.77
-		period 504.668
-		object
-			sprite planet/rock7
-			distance 127
-			period 17.992
-	object
-		sprite planet/lava1
-		distance 991.66
-		period 817.835
-	object
-		sprite planet/jupiter
-		distance 2981.1
-		period 4262.71
-
-system Linekol
-	pos -1517 -10
-	government Telashki
-	arrival 500
-	habitable 526.68
-	haze _menu/haze-33
-	starfield density .4
-	link Kelojol
-	link Keloxen
-	link Varajol
-	asteroids "small rock" 1 3.775
-	asteroids "large rock" 10 3.432
-	asteroids "small metal" 1 3.458
-	asteroids "medium metal" 2 3.96
-	asteroids "large metal" 3 2.983
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite star/k3
-		period 10
-	object
-		sprite star/k-dwarf
-		distance 74
-		period 11.1
-	object
-		sprite planet/lava7
-		distance 193.16
-		period 27.861
-	object
-		sprite planet/rock9
-		distance 584
-		period 262.493
-		object
-			sprite planet/rock3
-			distance 150
-			period 23.564
-	object
-		sprite planet/desert0
-		distance 1058.84
-		period 624.718
-		object
-			sprite planet/dust3
-			distance 130
-			period 18.633
-	object
-		sprite planet/tethys
-		distance 1865.53
-		period 1460.97
-	object
-		sprite planet/gas9
-		distance 2670.82
-		period 2502.68
-		object
-			sprite planet/ice7
-			distance 258
-			period 15.539
-		object
-			sprite planet/dust7
-			distance 379
-			period 27.666
-		object
-			sprite planet/rock0
-			distance 539
-			period 46.922
 
 system Varajol
 	pos -1529 -51

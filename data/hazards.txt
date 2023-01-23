@@ -4,7 +4,7 @@ hazard "Star-Worms"
 	"system-wide"
 	"environmental effect" "star-worm hazard" 10
 	weapon
-		"shield damage" 2.5
+		"shield damage" .5
 
 hazard "Shield-depleting Wormhole"
 	"constant strength"

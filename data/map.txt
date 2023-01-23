@@ -1828,7 +1828,7 @@ system Zivrez
 		period 3010.2
 		object
 			sprite planet/dust0
-			distance 210
+			distance 290
 			period 88.88
 
 
@@ -1896,12 +1896,12 @@ system Krivvaz
 		period 1212.12
 		object
 			sprite planet/rock17
-			distance 231.3
+			distance 261.3
 			period 72
 		object
 			sprite planet/lava0
 				scale 0.5
-			distance 390
+			distance 431
 			period 144
 
 planet Chexilok

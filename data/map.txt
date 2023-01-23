@@ -31,7 +31,6 @@ system Chategri
 	arrival 5000
 	habitable 5400
 	haze _menu/haze-33
-	starfield density .4
 	link Choxera
 	link Roxeka
 	asteroids "small rock" 9 5.52
@@ -85,7 +84,6 @@ system Choxera
 	arrival 1310
 	habitable 1310
 	haze _menu/haze-33
-	starfield density .4
 	link Chategri
 	link Ligoxel
 	link Ngotesh
@@ -145,7 +143,6 @@ system Keloxen
 	arrival 500
 	habitable 486.68
 	haze _menu/haze-33
-	starfield density .4
 	link Linekol
 	asteroids "medium rock" 2 6.82
 	asteroids "large rock" 1 6.6
@@ -196,7 +193,6 @@ system Ligoxel
 	arrival 500
 	habitable 430
 	haze _menu/haze-33
-	starfield density .5
 	link Choxera
 	link Lixetog
 	link Tekochi
@@ -258,7 +254,6 @@ system Lixetog
 	arrival 851
 	habitable 851
 	haze _menu/haze-33
-	starfield density .4
 	link Ligoxel
 	link "Xeko Naltok"
 	asteroids "small rock" 7 4.03
@@ -326,7 +321,6 @@ system Loxelon
 	arrival 500
 	habitable 125.92
 	haze _menu/haze-33
-	starfield density .3
 	link Norelon
 	link Rixengol
 	link Vokegol
@@ -396,7 +390,6 @@ system Ngotesh
 	arrival 500
 	habitable 500
 	haze _menu/haze-33
-	starfield density .4
 	link Choxera
 	asteroids "small rock" 3 4.106
 	asteroids "medium rock" 7 3.968
@@ -457,7 +450,6 @@ system Norelon
 	arrival 5000
 	habitable 50000
 	haze _menu/haze-33
-	starfield density .3
 	link Loxelon
 	link Vokegol
 	asteroids "small rock" 14 8.197
@@ -519,7 +511,6 @@ system Rixengol
 	arrival 500
 	habitable 305
 	haze _menu/haze-33
-	starfield density .35
 	link Loxelon
 	link Xangoret
 	link "Xeko Naltok"
@@ -568,7 +559,6 @@ system Roxeka
 	arrival 500
 	habitable 427
 	haze _menu/haze-33
-	starfield density .5
 	link Chategri
 	asteroids "small rock" 4 2.6
 	asteroids "medium rock" 122 1.747
@@ -632,7 +622,6 @@ system Tekochi
 	arrival 3630
 	habitable 3630
 	haze _menu/haze-67
-	starfield density .75
 	link Ligoxel
 	asteroids "small rock" 9 5.52
 	asteroids "medium rock" 124 4.12
@@ -691,7 +680,6 @@ system Vokegol
 	arrival 500
 	habitable 203.68
 	haze _menu/haze-33
-	starfield density .3
 	link Loxelon
 	link Norelon
 	link Tokilok
@@ -714,11 +702,11 @@ system Vokegol
 	object
 		sprite star/f-dwarf
 		distance 20
-		period 2.4143
+		period 2.414
 	object
 		sprite star/f-dwarf
 		distance 20
-		period 2.4143
+		period 2.414
 		offset 180
 	object
 		sprite planet/dust7
@@ -751,7 +739,6 @@ system Xangoret
 	arrival 2420
 	habitable 2420
 	haze _menu/haze-33
-	starfield density .35
 	link Rixengol
 	link "Xeko Naltok"
 	asteroids "small rock" 4 3.73
@@ -824,7 +811,6 @@ system "Xeko Naltok"
 	arrival 500
 	habitable 420.68
 	haze _menu/haze-33
-	starfield density .4
 	link Choxera
 	link Lixetog
 	link Rixengol
@@ -871,7 +857,6 @@ system Tolonek
 	arrival 500
 	habitable 320
 	haze _menu/haze-33
-	starfield density .45
 	link Kelojol
 	link Keloteg
 	link Tikelo
@@ -925,7 +910,6 @@ system Keloteg
 	arrival 980
 	habitable 980
 	haze _menu/haze-33
-	starfield density .4
 	link Tolonek
 	asteroids "small rock" 10 2.142
 	asteroids "medium rock" 78 1.932
@@ -977,7 +961,6 @@ system Tikelo
 	arrival 500
 	habitable 203.28
 	haze _menu/haze-33
-	starfield density .4
 	link Golonex
 	link Tokilok
 	link Tolonek
@@ -1037,7 +1020,6 @@ system Tokilok
 	arrival 200
 	habitable 33.28
 	haze _menu/haze-33
-	starfield density .3
 	link Tikelo
 	link Vokegol
 	asteroids "large rock" 5 2.957
@@ -1086,7 +1068,6 @@ system Linekol
 	arrival 500
 	habitable 526.68
 	haze _menu/haze-33
-	starfield density .4
 	link Kelojol
 	link Keloxen
 	link Varajol
@@ -1159,7 +1140,6 @@ system Varajol
 	arrival 500
 	habitable 486.68
 	haze _menu/haze-33
-	starfield density .4
 	link Kelojol
 	link Linekol
 	link Vokelon
@@ -1220,7 +1200,6 @@ system Kelojol
 	arrival 500
 	habitable 320
 	haze _menu/haze-33
-	starfield density .4
 	link Golonex
 	link Linekol
 	link Tolonek
@@ -1279,7 +1258,6 @@ system Vokelon
 	arrival 500
 	habitable 135
 	haze _menu/haze-33
-	starfield density .4
 	link Varajol
 	asteroids "small rock" 34 3.469
 	asteroids "medium rock" 36 1.499
@@ -1334,7 +1312,6 @@ system Lotegok
 	arrival 500
 	habitable 500
 	haze _menu/haze-33
-	starfield density .4
 	link Golonex
 	link Kuragu
 	asteroids "large metal" 1 5.148
@@ -1382,7 +1359,6 @@ system Lekonet
 	arrival 3000
 	habitable 3000
 	haze _menu/haze-33
-	starfield density .3
 	link Nixelog
 	asteroids "small rock" 13 5.685
 	asteroids "medium rock" 26 4.932
@@ -1446,7 +1422,6 @@ system Golonex
 	arrival 1705
 	habitable 1705
 	haze _menu/haze-33
-	starfield density .4
 	link Kelojol
 	link Lotegok
 	link Tikelo
@@ -1516,7 +1491,6 @@ system Nixelog
 	government Uninhabited
 	habitable 850.92
 	haze _menu/haze-33
-	starfield density .5
 	link Kuragu
 	link Lekonet
 	link Thoreklin
@@ -1588,7 +1562,6 @@ system Thoreklin
 	arrival 5000
 	habitable 50000
 	haze _menu/haze-33
-	starfield density .3
 	link Kuragu
 	link Nixelog
 	asteroids "large metal" 1 1.386
@@ -1641,7 +1614,6 @@ system Kuragu
 	arrival 700
 	habitable 700
 	haze _menu/haze-33
-	starfield density .4
 	link Lotegok
 	link Nixelog
 	link Thoreklin
@@ -1746,7 +1718,6 @@ system Vverev
 	habitable 425
 	belt 1111
 	haze _menu/haze-33
-	starfield density .35
 	link Zivrez
 	asteroids "small rock" 4 11.98
 	asteroids "medium rock" 1 8.56
@@ -2009,7 +1980,6 @@ planet "Wormhole Naltok"
 	description ""
 
 planet Xejolki
-	landcape land/sky0
 	attributes naltok research xochira
 	description "Though it is currently deep in Xochira space, many of the inhabitants of this moon remain loyal to the Telashki. The original settlements here were small, primarily established in order to strip-mine the topsoil, which was atypically high in nickel and cadmium."
 	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting radio signals from nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
@@ -2036,4 +2006,6 @@ planet Xutajol
 	shipyard "Naltok Basics"
 	outfitter "Naltok Basics"
 	outfitter "Telashki Basics"
+
+
 

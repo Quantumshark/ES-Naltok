@@ -1851,16 +1851,24 @@ system Rivvoz
 		period 10
 	object
 		sprite planet/gas5-hot
-		distance 200
-		period 12.21
+		distance 250
+		period 30.01
 	object
 		sprite planet/lava4
 		distance 812
-		period 350.12
+		period 360.12
+	object
+		sprite planet/lava1-b
+		distance 1441
+		period 720.24
+	object
+		sprite planet/lava0-b
+		distance 2001
+		period 1080.36
 	object
 		sprite planet/browndwarf-y
 		distance 4399
-		period 2301.2
+		period 2160.72
 
 system Krivvaz
 	pos -1601 484

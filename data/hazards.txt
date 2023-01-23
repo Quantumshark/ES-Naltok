@@ -6,6 +6,15 @@ hazard "Star-Worms"
 	weapon
 		"shield damage" .5
 
+hazard "Star-Worms (Evolved)"
+	"duration" 75 150
+	"strength" 0.5 1.5
+	"system-wide"
+	"environmental effect" "star-worm hazard" 10
+	weapon
+		"shield damage" 3.5
+		"discharge damage" .15
+
 hazard "Shield-depleting Wormhole"
 	"constant strength"
 	"range" 10

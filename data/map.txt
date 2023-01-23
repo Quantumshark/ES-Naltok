@@ -1887,13 +1887,25 @@ system Krivvaz
 		period 11.1
 		offset 180
 	object
+		sprite planet/lava2-b
+		distance 342
+		period 120.2
+	object
 		sprite planet/lava4
 		distance 918
-		period 370.2
+		period 370.1
+	object
+		sprite planet/lava1-b
+		distance 1557
+		period 670.2
+	object
+		sprite planet/lava6
+		distance 2481
+		period 1070.5
 	object
 		sprite planet/gas9-b
 		distance 3411
-		period 1212.12
+		period 1312.12
 		object
 			sprite planet/rock17
 			distance 261.3

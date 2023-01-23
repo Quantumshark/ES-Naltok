@@ -139,6 +139,58 @@ system Choxera
 		distance 3418.38
 		period 860.07
 
+system Keloteg
+	pos -1528 131
+	government Telashki
+	arrival 980
+	habitable 980
+	haze _menu/haze-33
+	starfield density .4
+	link Tolonek
+	asteroids "small rock" 10 2.142
+	asteroids "medium rock" 78 1.932
+	asteroids "large rock" 32 1.449
+	asteroids "small metal" 5 3.045
+	asteroids "medium metal" 38 2.331
+	asteroids "large metal" 8 2.856
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/k0-old
+		period 10
+	object Chireke
+		sprite planet/forest5
+		distance 920.153
+		period 108.417
+		object
+			sprite planet/callisto
+			distance 143
+			period 19.153
+	object
+		sprite planet/rock6
+		distance 1269.963
+		period 328.2
+	object
+		sprite planet/desert8
+		distance 1737.1
+		period 632.109
+	object
+		sprite planet/gas2
+		distance 2608.16
+		period 1431.1
+		object Kevoshek
+			sprite planet/dust0
+			distance 203
+			period 17.525
+
 system Keloxen
 	pos -1529 37
 	government Telashki
@@ -685,6 +737,60 @@ system Tekochi
 			distance 372
 			period 30.654
 
+system Tolonek
+	pos -1579 68
+	government Telashki
+	arrival 500
+	habitable 320
+	haze _menu/haze-33
+	starfield density .45
+	link Kelojol
+	link Keloteg
+	link Tikelo
+	asteroids "small rock" 32 4.932
+	asteroids "medium rock" 114 5.141
+	asteroids "large rock" 34 5.727
+	asteroids "small metal" 8 4.974
+	asteroids "medium metal" 3 6.27
+	asteroids "large metal" 8 2.341
+	trade Clothing 290
+	trade Electronics 740
+	trade Equipment 530
+	trade Food 350
+	trade "Heavy Metals" 960
+	trade Industrial 720
+	trade "Luxury Goods" 1220
+	trade Medical 680
+	trade Metal 390
+	trade Plastic 390
+	object
+		sprite star/m0
+		period 10
+	object Thosekrol
+		sprite planet/rock1
+		distance 326.29
+		period 43.69
+	object
+		sprite planet/titan
+		distance 649.54
+		period 288.061
+	object
+		sprite planet/jupiter
+		distance 1160.23
+		period 771.943
+		object
+			sprite planet/oberon
+			distance 255
+			period 12.796
+		object
+			sprite planet/dust3
+			distance 356
+			period 21.108
+	object
+		sprite planet/gas3
+		distance 2320.48
+		period 2499.49
+
 system Vokegol
 	pos -1651 124
 	government "Naltok (Neutral)"
@@ -864,112 +970,6 @@ system "Xeko Naltok"
 		sprite planet/gas0
 		distance 1881.75
 		period 1480.07
-
-system Tolonek
-	pos -1579 68
-	government Telashki
-	arrival 500
-	habitable 320
-	haze _menu/haze-33
-	starfield density .45
-	link Kelojol
-	link Keloteg
-	link Tikelo
-	asteroids "small rock" 32 4.932
-	asteroids "medium rock" 114 5.141
-	asteroids "large rock" 34 5.727
-	asteroids "small metal" 8 4.974
-	asteroids "medium metal" 3 6.27
-	asteroids "large metal" 8 2.341
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite star/m0
-		period 10
-	object Thosekrol
-		sprite planet/rock1
-		distance 326.29
-		period 43.69
-	object
-		sprite planet/titan
-		distance 649.54
-		period 288.061
-	object
-		sprite planet/jupiter
-		distance 1160.23
-		period 771.943
-		object
-			sprite planet/oberon
-			distance 255
-			period 12.796
-		object
-			sprite planet/dust3
-			distance 356
-			period 21.108
-	object
-		sprite planet/gas3
-		distance 2320.48
-		period 2499.49
-
-system Keloteg
-	pos -1528 131
-	government Telashki
-	arrival 980
-	habitable 980
-	haze _menu/haze-33
-	starfield density .4
-	link Tolonek
-	asteroids "small rock" 10 2.142
-	asteroids "medium rock" 78 1.932
-	asteroids "large rock" 32 1.449
-	asteroids "small metal" 5 3.045
-	asteroids "medium metal" 38 2.331
-	asteroids "large metal" 8 2.856
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
-	object
-		sprite star/k0-old
-		period 10
-	object Chireke
-		sprite planet/forest5
-		distance 920.153
-		period 108.417
-		object
-			sprite planet/callisto
-			distance 143
-			period 19.153
-	object
-		sprite planet/rock6
-		distance 1269.963
-		period 328.2
-	object
-		sprite planet/desert8
-		distance 1737.1
-		period 632.109
-	object
-		sprite planet/gas2
-		distance 2608.16
-		period 1431.1
-		object Kevoshek
-			sprite planet/dust0
-			distance 203
-			period 17.525
 
 system Tikelo
 	pos -1649 53

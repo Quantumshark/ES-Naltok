@@ -1801,15 +1801,36 @@ system Zivrez
 	link Krivvaz
 	link Rivvoz
 	link Vverev
-	asteroids "small rock" 4 11.98
-	asteroids "medium rock" 1 8.56
-	asteroids "large rock" 2 15.67
+	asteroids "small rock" 3 10.83
+	asteroids "large rock" 1 11.67
+	asteroids "small metal" 5 15.33
 	asteroids "large metal" 3 18.25
-	minables uranium 19 25.88
-	minables silicon 11 30.12
+	minables uranium 12 27.2
+	minables iron 17 31.5
 	object
 		sprite star/m0
 		period 10
+	object
+		sprite planet/lava5
+		distance 330
+		period 130.2
+	object
+		sprite planet/lava1
+		distance 890
+		period 151.11
+	object
+		sprite planet/lava0-b
+		distance 2050
+		period -500.27
+	object
+		sprite planet/browndwarf-l-rouge #at this distance, illumination from within >> light recieved from star, hence the rogue planet sprite is used
+		distance 5100
+		period 3010.2
+		object
+			sprite planet/dust0
+			distance 210
+			period 88.88
+
 
 system Rivvoz
 	pos -1470 570
@@ -1819,19 +1840,27 @@ system Rivvoz
 	haze _menu/haze-33
 	starfield density .2
 	link Zivrez
-	asteroids "small rock" 4 11.98
-	asteroids "medium rock" 1 8.56
-	asteroids "large rock" 2 15.67
-	asteroids "large metal" 3 18.25
-	minables uranium 19 25.88
-	minables silicon 11 30.12
+	asteroids "small rock" 3 12.11
+	asteroids "medium rock" 2 7.63
+	asteroids "small metal" 6 11.43
+	minables uranium 23 28.11
+	minables titanium 7 28.33
+	minables iron 9 26.22
 	object
 		sprite star/k0
 		period 10
 	object
+		sprite planet/gas5-hot
+		distance 200
+		period 12.21
+	object
 		sprite planet/lava4
 		distance 812
 		period 350.12
+	object
+		sprite planet/browndwarf-y
+		distance 4399
+		period 2301.2
 
 system Krivvaz
 	pos -1601 484
@@ -1841,15 +1870,39 @@ system Krivvaz
 	haze _menu/haze-33
 	starfield density .2
 	link Zivrez
-	asteroids "small rock" 4 11.98
-	asteroids "medium rock" 1 8.56
-	asteroids "large rock" 2 15.67
-	asteroids "large metal" 3 18.25
+	asteroids "small rock" 2 14.98
+	asteroids "medium rock" 3 9.56
+	asteroids "small metal" 3 16.67
+	asteroids "medium metal" 1 11.25
 	minables uranium 19 25.88
-	minables silicon 11 30.12
+	minables copper 11 30.12
+	minables titanium 3 26.2
 	object
 		sprite star/k3
-		period 10
+		distance 6
+		period 11.1
+	object
+		sprite star/l-dwarf
+		distance 45
+		period 11.1
+		offset 180
+	object
+		sprite planet/lava4
+		distance 918
+		period 370.2
+	object
+		sprite planet/gas9-b
+		distance 3411
+		period 1212.12
+		object
+			sprite planet/rock17
+			distance 231.3
+			period 72
+		object
+			sprite planet/lava0
+				scale 0.5
+			distance 390
+			period 144
 
 planet Chexilok
 	attributes naltok xochira

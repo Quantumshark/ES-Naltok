@@ -1797,9 +1797,16 @@ system Zivrez
 	arrival 500
 	habitable 300
 	haze _menu/haze-33
+	starfield density .2
 	link Krivvaz
 	link Rivvoz
 	link Vverev
+	asteroids "small rock" 4 11.98
+	asteroids "medium rock" 1 8.56
+	asteroids "large rock" 2 15.67
+	asteroids "large metal" 3 18.25
+	minables uranium 19 25.88
+	minables silicon 11 30.12
 	object
 		sprite star/m0
 		period 10
@@ -1810,7 +1817,14 @@ system Rivvoz
 	arrival 550
 	habitable 550
 	haze _menu/haze-33
+	starfield density .2
 	link Zivrez
+	asteroids "small rock" 4 11.98
+	asteroids "medium rock" 1 8.56
+	asteroids "large rock" 2 15.67
+	asteroids "large metal" 3 18.25
+	minables uranium 19 25.88
+	minables silicon 11 30.12
 	object
 		sprite star/k0
 		period 10
@@ -1825,7 +1839,14 @@ system Krivvaz
 	arrival 500
 	habitable 500
 	haze _menu/haze-33
+	starfield density .2
 	link Zivrez
+	asteroids "small rock" 4 11.98
+	asteroids "medium rock" 1 8.56
+	asteroids "large rock" 2 15.67
+	asteroids "large metal" 3 18.25
+	minables uranium 19 25.88
+	minables silicon 11 30.12
 	object
 		sprite star/k3
 		period 10

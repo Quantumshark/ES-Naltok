@@ -895,14 +895,14 @@ ship "Kaluga"
 			"Xochira"
 		"cost" 17723000
 		"shields" 8600
-		"hull" 53800
+		"hull" 55800
 		"hull repair rate" 3.8
 		"hull energy" .95
 		"hull heat" 2.85
 		"required crew" 72
 		"bunks" 80
-		"mass" 960
-		"drag" 13.2
+		"mass" 1040
+		"drag" 13.6
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 0

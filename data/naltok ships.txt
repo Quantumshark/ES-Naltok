@@ -828,7 +828,7 @@ ship "Mola"
 		"Shell-Splitter Launcher" 2
 		"Shell-Splitter Tube" 10
 		"Shell-Splitter Torpedo" 62
-		"Naltok Anti-Missile" 2
+		"Naltok Anti-Missile" 4
 
 		"Copepod Cell"
 		"Krill Generator"

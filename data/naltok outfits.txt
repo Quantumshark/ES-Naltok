@@ -11,33 +11,32 @@
 outfit "Nauplius Cell"
 	category "Power"
 	cost 47100
-	thumbnail "outfit/naltok cell"
+	thumbnail "outfit/small naltok cell"
 	"mass" 14
 	"outfit space" -14
 	"energy generation" .95
-	"heat generation" .55
-	description "This tiny fuel cell would struggle to power all but the smallest human outfits, but is often adequate for the highly efficient Naltok equipment in their smaller ships."
+	"heat generation" .35
+	description "This tiny bioelectric cell would struggle to power all but the smallest human outfits, but is often adequate for the highly efficient Naltok equipment in their smaller ships."
 
-outfit "Copepod Generator"
+outfit "Copepod Cell"
 	category "Power"
 	cost 354200
-	thumbnail "outfit/small naltok rtg"
+	thumbnail "outfit/large naltok cell"
 	"mass" 32
 	"outfit space" -32
-	"energy generation" 3.55
-	"heat generation" 1.9
-	description "Naltok radioisotopic generators like this one use direct electrical energy harnessing coupled with secondary systems that harness the heat produced. The resulting generator is not particularly powerful, but it only loses a minimal amount of heat to the rest of the ship."
+	"energy generation" 3.15
+	"heat generation" 1.2
+	description "This is the largest bioelectric cell the Naltok use in their ships. Although it is both more powerful and more efficient than human fuel cell technology, it compares far less favourably to radioisotopic and nuclear generators. As such, bioelectric cells are only used in relatively small Naltok ships."
 
 outfit "Krill Generator"
 	category "Power"
 	cost 1132700
-	thumbnail "outfit/large naltok rtg"
+	thumbnail "outfit/naltok rtg"
 	"mass" 59
 	"outfit space" -59
 	"energy generation" 7.15
 	"heat generation" 3.55
-	description "This is the largest radioisotopic generator that the Naltok produce. While most captains of large ships would opt for a Crayfish Reactor to supply their energy requirements, it is quite common for captains to instead employ two of these - taking up slightly more space, but saving more than two thirds of the cost of a reactor."
-	description "Much more rarely, even captains to whom cost is no object will avoid the Crayfish Reactor and opt for two, or even three, of these less powerful radioisotopic generators."
+	description "Naltok radioisotopic generators use direct electrical energy harnessing coupled with secondary systems that harness the heat produced. The resulting generator is not particularly powerful, but it only loses a minimal amount of heat to the rest of the ship."
 
 outfit "Crayfish Reactor"
 	category "Power"

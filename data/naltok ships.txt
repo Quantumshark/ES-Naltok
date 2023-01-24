@@ -39,7 +39,7 @@ ship "Mackerel"
 			"hit force" 375
 	outfits
 		"Naltok Anti-Missile"
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"Stream Shield Generator"
 		"River Shield Generator"
@@ -208,7 +208,7 @@ ship "Conger"
 		"Shell-Splitter Pod" 2
 		"Shell-Splitter Torpedo" 4
 		"Naltok Anti-Missile"
-		"Copepod Generator"
+		"Copepod Cell"
 		"Stream Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
@@ -224,7 +224,7 @@ ship "Conger"
 ship "Conger" "Conger (Unarmed)"
 	outfits
 		"Naltok Anti-Missile"
-		"Copepod Generator"
+		"Copepod Cell"
 		"Stream Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
@@ -350,7 +350,7 @@ ship "Tetra"
 		"Shell-Splitter Pod" 4
 		"Shell-Splitter Torpedo" 8
 
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"Stream Shield Generator"
 
@@ -448,7 +448,7 @@ ship "Piranha"
 		"Shell-Splitter Tube" 3
 		"Shell-Splitter Torpedo" 34
 		"Triple Breaker Turret"
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"River Shield Generator"
 
@@ -482,7 +482,7 @@ ship "Piranha" "Piranha (Xochira)"
 		"Shell-Splitter Tube" 3
 		"Shell-Splitter" 34
 		"Triple Breaker Turret"
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"River Shield Generator"
 		"Ripper Pistols" 5
@@ -512,7 +512,7 @@ ship "Piranha" "Piranha (Xochira Tough)"
 		"Breaker" 3
 		"Triple Breaker Turret"
 
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"River Shield Generator" 3
 		"Ripper Pistols" 5
@@ -527,7 +527,7 @@ ship "Piranha" "Piranha (Cargo)"
 		"Shell-Splitter Pod" 3
 		"Shell-Splitter Torpedo" 6
 		
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"River Shield Generator"
 		"Cargo Expansion" 6
@@ -540,7 +540,7 @@ ship "Piranha" "Piranha (Mining)"
 	outfits
 		"Breaker" 3
 		
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"Broad-Spectrum Scanner"
 		"Cargo Expansion" 5
@@ -583,7 +583,7 @@ ship "Barracuda"
 		"Shell-Splitter Launcher" 4
 		"Shell-Splitter Torpedo" 44
 
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"River Shield Generator"
 
@@ -608,7 +608,7 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 		"Halt-Swarm Missile" 208
 		"Halt-Swarm Rack" 1
 
-		"Copepod Generator"
+		"Copepod Cell"
 		"Pond Battery"
 		"Stream Shield Generator"
 		"Ripper Pistols" 7
@@ -830,7 +830,7 @@ ship "Mola"
 		"Shell-Splitter Torpedo" 62
 		"Naltok Anti-Missile" 2
 
-		"Copepod Generator"
+		"Copepod Cell"
 		"Krill Generator"
 		"Pond Battery" 3
 		"Fuel Vat" 2
@@ -871,7 +871,7 @@ ship "Mola" "Mola (Brawling)"
 		"Breaker Turret" 2
 		"Steel-Render" 2
 
-		"Copepod Generator"
+		"Copepod Cell"
 		"Krill Generator"
 		"Pond Battery" 3
 		"Fuel Vat" 2

@@ -1002,7 +1002,7 @@ ship "Lamprey"
 		category "Fighter"
 		licenses 
 			"Xochira"
-		"cost"
+		"cost" 317800
 		"shields" 300
 		"hull" 2200
 		"hull repair rate" .4
@@ -1039,7 +1039,7 @@ ship "Remora"
 	thumbnail "thumbnail/remora"
 	attributes
 		category "Fighter"
-		"cost"
+		"cost" 201000
 		"shields" 600
 		"hull" 2800
 		"hull repair rate" .6
@@ -1080,7 +1080,7 @@ ship "Minnow"
 	thumbnail "thumbnail/minnow"
 	attributes
 		category "Drone"
-		"cost"
+		"cost" 71300
 		"hull" 1200
 		"hull repair rate" .2
 		"hull energy" .05

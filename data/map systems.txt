@@ -579,8 +579,9 @@ system Ngotesh
 system Norelon
 	pos -1700 157
 	government Uninhabited
-	arrival 5000
-	habitable 50000
+	attributes "nova"
+	arrival 500
+	habitable 100
 	haze _menu/haze-33
 	starfield density .3
 	link Loxelon
@@ -603,7 +604,7 @@ system Norelon
 	trade Plastic 390
 	hazard Star-Worms 100
 	object
-		sprite star/wr
+		sprite star/nova-small
 		period 10
 	object
 		sprite planet/uranus
@@ -1585,8 +1586,9 @@ system Nixelog
 system Thoreklin
 	pos -1721 -121
 	government Uninhabited
-	arrival 5000
-	habitable 50000
+	attributes "nova"
+	arrival 500
+	habitable 100
 	haze _menu/haze-33
 	starfield density .3
 	link Kuragu
@@ -1603,23 +1605,19 @@ system Thoreklin
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/wr
+		sprite star/nova-small
 		period 10
 	object
-		sprite planet/cloud7
-		distance 204.74
-		period 40.15
-	object
 		sprite planet/rock4
-		distance 454.95
-		period 132.992
+		distance 1054.95
+		period 432.992
 	object
 		sprite planet/fog0
-		distance 715.19
-		period 262.128
+		distance 1715.19
+		period 562.128
 	object
 		sprite planet/gas10
-		distance 2219.4
+		distance 2419.4
 		period 1432.96
 		object
 			sprite planet/dust1

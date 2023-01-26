@@ -329,12 +329,12 @@ ship "Tetra"
 		"hull energy" .2375
 		"hull heat" .7125
 		"required crew" 1
-		"bunks" 3
-		"mass" 103
+		"bunks" 2
+		"mass" 104
 		"drag" 1.8
 		"heat dissipation" .43
 		"fuel capacity" 500
-		"cargo space" 11
+		"cargo space" 12
 		"outfit space" 218
 		"weapon capacity" 62
 		"engine capacity" 80

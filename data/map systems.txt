@@ -1405,28 +1405,16 @@ system Lekonet
 		sprite star/k-giant
 		period 10
 	object
-		sprite planet/cloud6
-		distance 490.56
-		period 60.284
-		object
-			sprite planet/luna
-			distance 161
-			period 20.914
-	object
 		sprite planet/lava3
-		distance 832.72
-		period 193.716
-	object
-		sprite planet/rock5
-		distance 1060.01
+		distance 1460.01
 		period 306.975
 	object
 		sprite planet/forest5
-		distance 1374.17
+		distance 2174.17
 		period 428.507
 	object
 		sprite planet/neptune
-		distance 2225.21
+		distance 4125.21
 		period 1028.17
 		object
 			sprite planet/dust5
@@ -1476,10 +1464,6 @@ system Golonex
 		distance 86.848
 		period 12.397
 	object
-		sprite planet/fog0
-		distance 565.848
-		period 82.185
-	object
 		sprite planet/rock9
 		distance 1214.858
 		period 259.268
@@ -1493,7 +1477,7 @@ system Golonex
 		period 1225.68
 		object
 			sprite planet/europa
-			distance 193
+			distance 233
 			period 14.113
 	object
 		sprite planet/gas10
@@ -1562,10 +1546,6 @@ system Nixelog
 			sprite planet/rhea
 			distance 258
 			period 16.877
-	object
-		sprite planet/gas10
-		distance 2679.17
-		period 631.981
 	object
 		sprite planet/gas1
 		distance 3737.53

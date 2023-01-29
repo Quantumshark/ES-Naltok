@@ -732,7 +732,7 @@ ship "Pike"
 	thumbnail "thumbnail/pike"
 	attributes
 		category "Heavy Warship"
-		"cost" 12678000
+		"cost" 27678000
 		"shields" 6300
 		"hull" 43300
 		"hull repair rate" 3.1
@@ -801,7 +801,7 @@ ship "Mola"
 	thumbnail "thumbnail/mola"
 	attributes
 		category "Heavy Warship"
-		"cost" 13236000
+		"cost" 21236000
 		"shields" 6100
 		"hull" 39600
 		"hull repair rate" 2.9
@@ -893,7 +893,7 @@ ship "Kaluga"
 		category "Heavy Warship"
 		licenses 
 			"Xochira"
-		"cost" 17723000
+		"cost" 33723000
 		"shields" 8600
 		"hull" 55800
 		"hull repair rate" 3.8
@@ -951,7 +951,7 @@ ship "Coelacanth"
 	thumbnail "thumbnail/coelacanth"
 	attributes
 		category "Heavy Warship"
-		"cost" 28956000
+		"cost" 58956000
 		"shields" 11300
 		"hull" 80300
 		"hull repair rate" 5.3

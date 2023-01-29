@@ -294,7 +294,7 @@ outfit "Shell-Splitter Launcher"
 		"homing" 2
 		"infrared tracking" .95
 		"missile strength" 75
-	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind a large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
+	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
 
 outfit "Shell-Splitter Pod"
 	category "Secondary Weapons"
@@ -332,7 +332,7 @@ outfit "Shell-Splitter Pod"
 		"homing" 2
 		"infrared tracking" .95
 		"missile strength" 75
-	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind a large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
+	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
 
 outfit "Shell-Splitter Torpedo"

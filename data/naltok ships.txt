@@ -564,7 +564,7 @@ ship "Barracuda"
 		"required crew" 7
 		"bunks" 17
 		"mass" 320
-		"drag" 4.9
+		"drag" 4.6
 		"heat dissipation" .35
 		"fuel capacity" 500
 		"cargo space" 56

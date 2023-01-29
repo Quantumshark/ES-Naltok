@@ -756,14 +756,13 @@ ship "Pike"
 			"hull damage" 1315
 			"hit force" 3945
 	outfits
-		"Naltok Anti-Missile"
-		"Steel-Render" 2
-		"Shell-Splitter Launcher" 4
+		"Steel-Render" 3
+		"Shell-Splitter Launcher" 3
 		"Shell-Splitter Tube" 5
-		"Shell-Splitter Torpedo" 64
+		"Shell-Splitter Torpedo" 53
 		
 		"Crayfish Reactor"
-		"Pond Battery" 2
+		"Pond Battery"
 		"River Shield Generator"
 
 		"Monitor Thruster"
@@ -773,28 +772,12 @@ ship "Pike"
 	gun
 	gun
 	gun
-	gun
 	turret
 	turret
 	turret
 	bay "Drone" 0 0
 	bay "Drone" 0 0
 	description `The Pike is a highly versatile heavy warship, an old Naltok design which has remained popular for centuries. Featuring high mobility, impressive toughness and adequate space for passengers and cargo, the Pike's only real weakness is its relatively small number of weapon hardpoints.`
-
-ship "Pike" "Pike (Tough)"
-		"Naltok Anti-Missile"
-		"Steel-Render" 2
-		"Shell-Splitter Launcher" 4
-		"Shell-Splitter Tube" 3
-		"Shell-Splitter Torpedo" 56
-		
-		"Crayfish Reactor"
-		"Pond Battery" 2
-		"River Shield Generator" 2
-
-		"Iguana Thruster"
-		"Monitor Steering"
-		"Hyperdrive"
 
 ship "Mola"
 	sprite "ship/mola"

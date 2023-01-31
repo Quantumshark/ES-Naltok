@@ -812,7 +812,7 @@ system Tekochi
 			period 30.654
 
 system Tikelo
-	pos -1649 53
+	pos -1669 53
 	government Telashki
 	arrival 500
 	habitable 203.28
@@ -872,7 +872,7 @@ system Tikelo
 			period 61.384
 
 system Tokilok
-	pos -1679 82
+	pos -1699 82
 	government Telashki
 	arrival 200
 	habitable 33.28
@@ -921,7 +921,7 @@ system Tokilok
 		period 4262.71
 
 system Tolonek
-	pos -1579 68
+	pos -1599 68
 	government Telashki
 	arrival 500
 	habitable 320
@@ -1378,7 +1378,7 @@ system Lotegok
 		period 1355.15
 
 system Lekonet
-	pos -1624 -209
+	pos -1614 -249
 	government Uninhabited
 	arrival 3000
 	habitable 3000
@@ -1497,7 +1497,7 @@ system Golonex
 			period 48.748
 
 system Nixelog
-	pos -1667 -144
+	pos -1667 -184
 	government Uninhabited
 	habitable 850.92
 	haze _menu/haze-33
@@ -1564,7 +1564,7 @@ system Nixelog
 			period 49.737
 
 system Thoreklin
-	pos -1721 -121
+	pos -1731 -151
 	government Uninhabited
 	attributes "nova"
 	arrival 500
@@ -1613,7 +1613,7 @@ system Thoreklin
 			period 53.463
 
 system Kuragu
-	pos -1663 -95
+	pos -1663 -115
 	government Quarg
 	attributes ringworld
 	arrival 700

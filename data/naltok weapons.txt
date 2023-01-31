@@ -135,6 +135,17 @@ outfit "Steel-Render"
 		"hit force" 900
 	description "Although it is only minimally effective against shields, the Naltok's famed Steel-Render easily tears through hull plating. Even the unique and powerful hull armour of Naltok ships is at risk against a foe armed with Steel-renders."
 
+effect "steel-render hit"
+	sprite "effect/tracker impact"
+		"no repeat"
+		"frame rate" 20
+	sound "steel-render hit"
+	"lifetime" 16
+	"random angle" 360
+	"random spin" 10
+	"random velocity" .2
+	"velocity scale" -.05
+
 outfit "Sky-Shredder"
 	category "Turrets"
 	cost 876000

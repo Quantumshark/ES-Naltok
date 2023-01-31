@@ -22,7 +22,7 @@ ship "Mackerel"
 		"hull heat" .375
 		"required crew" 4
 		"bunks" 29
-		"mass" 173
+		"mass" 256
 		"drag" 3.1
 		"heat dissipation" .31
 		"fuel capacity" 700
@@ -65,7 +65,7 @@ ship "Marlin"
 		"hull heat" .825
 		"required crew" 31
 		"bunks" 147
-		"mass" 312
+		"mass" 640
 		"drag" 6.3
 		"heat dissipation" .23
 		"fuel capacity" 600
@@ -150,7 +150,7 @@ ship "Herring"
 		"hull heat" .1875
 		"required crew" 2
 		"bunks" 3
-		"mass" 98
+		"mass" 128
 		"drag" 1.8
 		"heat dissipation" .29
 		"fuel capacity" 400
@@ -189,7 +189,7 @@ ship "Conger"
 		"hull heat" .45
 		"required crew" 4
 		"bunks" 5
-		"mass" 218
+		"mass" 320
 		"drag" 4.3
 		"heat dissipation" .24
 		"fuel capacity" 600
@@ -244,8 +244,8 @@ ship "Flounder"
 		"hull heat" .9
 		"required crew" 12
 		"bunks" 17
-		"mass" 864
-		"drag" 14.1
+		"mass" 1280
+		"drag" 13.7
 		"heat dissipation" .11
 		"fuel capacity" 600
 		"cargo space" 864
@@ -267,8 +267,8 @@ ship "Flounder"
 		"Pond Battery" 4
 		"Stream Shield Generator" 2
 
-		"Iguana Thruster"
-		"Gecko Steering"
+		"Iguana Steering"
+		"Gecko Thruster"
 		"Hyperdrive"
 
 	turret
@@ -293,7 +293,7 @@ ship "Grouper"
 		"hull heat" 1.5375
 		"required crew" 15 
 		"bunks" 27
-		"mass" 744
+		"mass" 960
 		"drag" 9.8
 		"heat dissipation" .19
 		"fuel capacity" 4000
@@ -330,7 +330,7 @@ ship "Tetra"
 		"hull heat" .7125
 		"required crew" 1
 		"bunks" 2
-		"mass" 104
+		"mass" 128
 		"drag" 1.6
 		"heat dissipation" .43
 		"fuel capacity" 500
@@ -381,7 +381,7 @@ ship "Archerfish"
 		"hull heat" .825
 		"required crew" 3
 		"bunks" 5
-		"mass" 184
+		"mass" 200
 		"drag" 2.25
 		"heat dissipation" .41
 		"fuel capacity" 300
@@ -428,7 +428,7 @@ ship "Piranha"
 		"hull heat" 1.2
 		"required crew" 5
 		"bunks" 11
-		"mass" 312
+		"mass" 400
 		"drag" 3.8
 		"heat dissipation" .38
 		"fuel capacity" 600
@@ -563,7 +563,7 @@ ship "Barracuda"
 		"hull heat" 1.425
 		"required crew" 7
 		"bunks" 17
-		"mass" 320
+		"mass" 448
 		"drag" 4.6
 		"heat dissipation" .35
 		"fuel capacity" 500
@@ -642,7 +642,7 @@ ship "Albacore"
 		"hull heat" 1.575
 		"required crew" 12
 		"bunks" 24
-		"mass" 408
+		"mass" 512
 		"drag" 6.4
 		"heat dissipation" .29
 		"fuel capacity" 700
@@ -687,7 +687,7 @@ ship "Moray"
 		"hull heat" 2.1
 		"required crew" 22
 		"bunks" 35
-		"mass" 472
+		"mass" 624
 		"drag" 6.3
 		"heat dissipation" .26
 		"fuel capacity" 400
@@ -740,7 +740,7 @@ ship "Pike"
 		"hull heat" 2.325
 		"required crew" 43
 		"bunks" 91
-		"mass" 562
+		"mass" 960
 		"drag" 9.2
 		"heat dissipation" .2
 		"fuel capacity" 600
@@ -792,7 +792,7 @@ ship "Mola"
 		"hull heat" 2.175
 		"required crew" 56
 		"bunks" 68
-		"mass" 608
+		"mass" 1024
 		"drag" 11.4
 		"heat dissipation" .15
 		"fuel capacity" 400
@@ -884,7 +884,7 @@ ship "Kaluga"
 		"hull heat" 2.85
 		"required crew" 72
 		"bunks" 80
-		"mass" 1040
+		"mass" 1600
 		"drag" 13.6
 		"heat dissipation" .15
 		"fuel capacity" 400
@@ -942,7 +942,7 @@ ship "Coelacanth"
 		"hull heat" 3.975
 		"required crew" 114
 		"bunks" 143
-		"mass" 1880
+		"mass" 2056
 		"drag" 29.1
 		"heat dissipation" .11
 		"fuel capacity" 500

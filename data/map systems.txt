@@ -140,7 +140,7 @@ system Choxera
 		period 860.07
 
 system Keloteg
-	pos -1528 131
+	pos -1528 126
 	government Telashki
 	arrival 980
 	habitable 980
@@ -378,7 +378,7 @@ system Linekol
 			period 46.922
 
 system Lixetog
-	pos -1537 224
+	pos -1537 219
 	government Xochira
 	arrival 851
 	habitable 851
@@ -753,7 +753,7 @@ system Roxeka
 			period 22.776
 
 system Tekochi
-	pos -1420 231
+	pos -1415 236
 	government Xochira
 	arrival 3630
 	habitable 3630

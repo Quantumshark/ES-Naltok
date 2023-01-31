@@ -192,7 +192,7 @@ system Keloteg
 			period 17.525
 
 system Keloxen
-	pos -1529 37
+	pos -1529 17
 	government Telashki
 	arrival 500
 	habitable 486.68
@@ -305,7 +305,7 @@ system Ligoxel
 			period 20.268
 
 system Linekol
-	pos -1517 -10
+	pos -1517 -30
 	government Telashki
 	arrival 500
 	habitable 526.68
@@ -812,7 +812,7 @@ system Tekochi
 			period 30.654
 
 system Tikelo
-	pos -1669 53
+	pos -1669 33
 	government Telashki
 	arrival 500
 	habitable 203.28
@@ -921,7 +921,7 @@ system Tokilok
 		period 4262.71
 
 system Tolonek
-	pos -1599 68
+	pos -1599 48
 	government Telashki
 	arrival 500
 	habitable 320
@@ -1155,7 +1155,7 @@ system "Xeko Naltok"
 		period 1480.07
 
 system Varajol
-	pos -1529 -51
+	pos -1529 -71
 	government Telashki
 	arrival 500
 	habitable 486.68
@@ -1216,7 +1216,7 @@ system Varajol
 			period 44.012
 
 system Kelojol
-	pos -1589 -21
+	pos -1589 -41
 	government Telashki
 	arrival 500
 	habitable 320
@@ -1275,7 +1275,7 @@ system Kelojol
 			period 14.517
 
 system Vokelon
-	pos -1567 -84
+	pos -1567 -104
 	government Telashki
 	arrival 500
 	habitable 135
@@ -1330,7 +1330,7 @@ system Vokelon
 			period 27.933
 
 system Lotegok
-	pos -1693 -44
+	pos -1693 -64
 	government Telashki
 	arrival 500
 	habitable 500
@@ -1378,7 +1378,7 @@ system Lotegok
 		period 1355.15
 
 system Lekonet
-	pos -1614 -249
+	pos -1614 -269
 	government Uninhabited
 	arrival 3000
 	habitable 3000
@@ -1430,7 +1430,7 @@ system Lekonet
 			period 48.675
 
 system Golonex
-	pos -1651 7
+	pos -1651 -13
 	government Telashki
 	arrival 1705
 	habitable 1705
@@ -1497,7 +1497,7 @@ system Golonex
 			period 48.748
 
 system Nixelog
-	pos -1667 -184
+	pos -1667 -204
 	government Uninhabited
 	habitable 850.92
 	haze _menu/haze-33
@@ -1564,7 +1564,7 @@ system Nixelog
 			period 49.737
 
 system Thoreklin
-	pos -1731 -151
+	pos -1731 -171
 	government Uninhabited
 	attributes "nova"
 	arrival 500
@@ -1613,7 +1613,7 @@ system Thoreklin
 			period 53.463
 
 system Kuragu
-	pos -1663 -115
+	pos -1663 -135
 	government Quarg
 	attributes ringworld
 	arrival 700

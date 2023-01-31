@@ -577,7 +577,7 @@ system Ngotesh
 		period 843.214
 
 system Norelon
-	pos -1700 157
+	pos -1706 157
 	government Uninhabited
 	attributes "nova"
 	arrival 500

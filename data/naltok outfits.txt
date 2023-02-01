@@ -276,6 +276,23 @@ outfit "Monitor Steering"
 	"steering flare sound" "ion huge"
 	description "There are few, if any, steering systems in the galaxy that are larger than this colossal set. Nevertheless, it still produces less heat than an ion engine half its size, a testament to the spectacular efficiency of Naltok technology."
 
+outfit "Wyrm Afterburner"
+	category "Engines"
+	licenses 
+		"Xochira"
+	"cost"
+	thumbnail "outfit/xochira afterburner"
+	"mass" 16
+	"outfit space" -16
+	"engine capacity" -16
+	"afterburner thrust" 65.5
+	"afterburner fuel" .03
+	"afterburner energy" 1.05
+	"afterburner heat" 2.15
+	"afterburner slowing" .105
+	"afterburner effect" "ionic afterburner"
+	description "Although it is impressively powerful and unusually efficient for an afterburner, the engines of the ship carrying the Wyrm Afterburner are quickly overloaded if it is used for extended periods of time, leaving the ship vulnerable while they recover."
+
 outfit "Ripper Pistols"
 	plural "Ripper Pistols"
 	category "Hand to Hand"

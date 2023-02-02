@@ -167,7 +167,7 @@ ship "Herring"
 			"hit force" 165
 	outfits
 		"Nauplius Cell"
-		"Pond Battery"
+		"Puddle Battery"
 		"Stream Shield Generator"
 		"Agama Thruster"
 		"Agama Steering"
@@ -264,7 +264,8 @@ ship "Flounder"
 		"Triple Breaker Turret" 2
 
 		"Nauplius Cell" 6
-		"Pond Battery" 4
+		"Pond Battery"
+		"Lake Battery"
 		"Stream Shield Generator" 2
 
 		"Iguana Steering"
@@ -351,7 +352,7 @@ ship "Tetra"
 		"Shell-Splitter Torpedo" 8
 
 		"Copepod Cell"
-		"Pond Battery"
+		"Puddle Battery"
 		"Stream Shield Generator"
 
 		"Gecko Steering"
@@ -711,7 +712,7 @@ ship "Moray"
 		"Breaker" 2
 
 		"Krill Generator"
-		"Pond Battery" 3
+		"Lake Battery"
 		"River Shield Generator" 2
 
 		"Gecko Steering"
@@ -815,7 +816,7 @@ ship "Mola"
 
 		"Copepod Cell"
 		"Krill Generator"
-		"Pond Battery" 3
+		"Lake Battery"
 		"Fuel Vat" 2
 		"River Shield Generator"
 		"Acid Grub" 44
@@ -907,7 +908,7 @@ ship "Kaluga"
 		"Halt-Swarm Rack" 1
 
 		"Crayfish Reactor"
-		"Pond Battery" 3
+		"Lake Battery"
 		"River Shield Generator" 3
 		"Ripper Pistols" 71
 		"Shredder Minigun" 3
@@ -1009,7 +1010,7 @@ ship "Lamprey"
 	outfits
 		"Leech-Ray"
 		"Nauplius Cell"
-		"Pond Battery"
+		"Puddle Battery"
 		"Agama Steering"
 		"Anole Thruster"
 	gun "Leech-Ray"
@@ -1049,7 +1050,7 @@ ship "Remora"
 		"Nauplius Cell"
 		"Agama Thruster"
 		"Agama Steering"
-		"Pond Battery"
+		"Puddle Battery"
 
 	gun "Breaker"
 	gun "Breaker"

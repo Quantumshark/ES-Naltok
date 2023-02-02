@@ -100,7 +100,7 @@ outfit "Puddle Battery"
 
 outfit "Pond Battery"
 	category "Power"
-	cost 5130
+	cost 6130
 	thumbnail "outfit/medium naltok battery"
 	"mass" 17
 	"outfit space" -17
@@ -114,7 +114,7 @@ outfit "Lake Battery"
 	"mass" 48
 	"outfit space" -48
 	"energy capacity" 16722
-	description ""
+	description "Despite the general technological edge the Naltok have over humanity, their batteries are surprisingly primitive by human standards - this one is larger than the human equivalent, but also stores less energy."
 
 outfit "Broad-Spectrum Scanner"
 	category "Systems"

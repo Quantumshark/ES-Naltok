@@ -22,7 +22,7 @@ planet Ganolek
 planet Gorloxek
 	attributes uninhabited
 	landscape land/forest7
-	description "The large forested continents and shallow temperate ocean of this world are home to an incredible diversity of invertebrates, most of which resemble insects or crustaceans. The apex predators are pack-hunting carnivores which resemble woodlice the size of horses, and colossal crab-like creatures graze on the open plains." 
+	description "The large forested continents and shallow temperate ocean of this world are home to an incredible diversity of invertebrates, most of which resemble insects or crustaceans. Colossal crab-like creatures graze on the open plains, and the apex predators are pack-hunting carnivores which resemble woodlice the size of horses." 
 
 planet Joklanok
 	attributes factory naltok urban xochira

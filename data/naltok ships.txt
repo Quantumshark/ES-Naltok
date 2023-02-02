@@ -39,7 +39,7 @@ ship "Mackerel"
 			"hit force" 375
 	outfits
 		"Naltok Anti-Missile"
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"Stream Shield Generator"
 		"River Shield Generator"
@@ -84,7 +84,7 @@ ship "Marlin"
 		"Breaker" 2
 		"Naltok Anti-Missile" 3
 		"River Shield Generator" 2
-		"Krill Generator"
+		"Stream Generator"
 		"Pond Battery"
 		"Luxury Accommodations"
 		"Iguana Thruster"
@@ -166,7 +166,7 @@ ship "Herring"
 			"hull damage" 55
 			"hit force" 165
 	outfits
-		"Nauplius Cell"
+		"Spring Cell"
 		"Puddle Battery"
 		"Stream Shield Generator"
 		"Agama Thruster"
@@ -208,7 +208,8 @@ ship "Conger"
 		"Shell-Splitter Pod" 2
 		"Shell-Splitter Torpedo" 4
 		"Naltok Anti-Missile"
-		"Copepod Cell"
+		"Brook Cell"
+		"Pond Battery"
 		"Stream Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
@@ -224,7 +225,7 @@ ship "Conger"
 ship "Conger" "Conger (Unarmed)"
 	outfits
 		"Naltok Anti-Missile"
-		"Copepod Cell"
+		"Brook Cell"
 		"Stream Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
@@ -263,7 +264,7 @@ ship "Flounder"
 		"Naltok Anti-Missile" 3
 		"Triple Breaker Turret" 2
 
-		"Nauplius Cell" 6
+		"Spring Cell" 6
 		"Pond Battery"
 		"Lake Battery"
 		"Stream Shield Generator" 2
@@ -351,7 +352,7 @@ ship "Tetra"
 		"Shell-Splitter Pod" 4
 		"Shell-Splitter Torpedo" 8
 
-		"Copepod Cell"
+		"Brook Cell"
 		"Puddle Battery"
 		"Stream Shield Generator"
 
@@ -399,7 +400,7 @@ ship "Archerfish"
 			"hit force" 810
 	outfits
 		"Leech-Ray" 2
-		"Krill Generator"
+		"Stream Generator"
 		"Pond Battery"
 		"River Shield Generator"
 		"Ripper Pistols" 3
@@ -449,7 +450,7 @@ ship "Piranha"
 		"Shell-Splitter Tube" 3
 		"Shell-Splitter Torpedo" 34
 		"Triple Breaker Turret"
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"River Shield Generator"
 
@@ -468,7 +469,7 @@ ship "Piranha" "Piranha (Scanning)"
 		"Breaker" 3
 		"Triple Breaker Turret"
 
-		"Krill Generator"
+		"Stream Generator"
 		"Pond Battery"
 		"River Shield Generator" 1
 		"Broad-Spectrum Scanner"
@@ -483,7 +484,7 @@ ship "Piranha" "Piranha (Xochira)"
 		"Shell-Splitter Tube" 3
 		"Shell-Splitter" 34
 		"Triple Breaker Turret"
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"River Shield Generator"
 		"Ripper Pistols" 5
@@ -498,7 +499,7 @@ ship "Piranha" "Piranha (Xochira Charging)"
 		"Breaker" 3
 		"Triple Breaker Turret"
 
-		"Krill Generator"
+		"Stream Generator"
 		"Pond Battery"
 		"River Shield Generator" 2
 		"Ripper Pistols" 5
@@ -513,7 +514,7 @@ ship "Piranha" "Piranha (Xochira Tough)"
 		"Breaker" 3
 		"Triple Breaker Turret"
 
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"River Shield Generator" 3
 		"Ripper Pistols" 5
@@ -528,7 +529,7 @@ ship "Piranha" "Piranha (Cargo)"
 		"Shell-Splitter Pod" 3
 		"Shell-Splitter Torpedo" 6
 		
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"River Shield Generator"
 		"Cargo Expansion" 6
@@ -541,7 +542,7 @@ ship "Piranha" "Piranha (Mining)"
 	outfits
 		"Breaker" 3
 		
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"Broad-Spectrum Scanner"
 		"Cargo Expansion" 5
@@ -584,7 +585,7 @@ ship "Barracuda"
 		"Shell-Splitter Launcher" 4
 		"Shell-Splitter Torpedo" 44
 
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"River Shield Generator"
 
@@ -609,7 +610,7 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 		"Halt-Swarm Missile" 208
 		"Halt-Swarm Rack" 1
 
-		"Copepod Cell"
+		"Brook Cell"
 		"Pond Battery"
 		"Stream Shield Generator"
 		"Ripper Pistols" 7
@@ -711,7 +712,7 @@ ship "Moray"
 		"Shell-Splitter Torpedo" 11
 		"Breaker" 2
 
-		"Krill Generator"
+		"Stream Generator"
 		"Lake Battery"
 		"River Shield Generator" 2
 
@@ -762,7 +763,7 @@ ship "Pike"
 		"Shell-Splitter Tube" 5
 		"Shell-Splitter Torpedo" 53
 		
-		"Crayfish Reactor"
+		"River Reactor"
 		"Pond Battery" 2
 		"River Shield Generator"
 
@@ -815,7 +816,7 @@ ship "Mola"
 		"Naltok Anti-Missile" 4
 
 		"Copepod Cell"
-		"Krill Generator"
+		"Stream Generator"
 		"Lake Battery"
 		"Fuel Vat" 2
 		"River Shield Generator"
@@ -856,7 +857,7 @@ ship "Mola" "Mola (Brawling)"
 		"Steel-Render" 2
 
 		"Copepod Cell"
-		"Krill Generator"
+		"Stream Generator"
 		"Pond Battery" 3
 		"Fuel Vat" 2
 		"Stream Shield Generator"
@@ -907,7 +908,7 @@ ship "Kaluga"
 		"Halt-Swarm Missile" 176
 		"Halt-Swarm Rack" 1
 
-		"Crayfish Reactor"
+		"River Reactor"
 		"Lake Battery"
 		"River Shield Generator" 3
 		"Ripper Pistols" 71
@@ -1009,7 +1010,7 @@ ship "Lamprey"
 			"hit force" 180
 	outfits
 		"Leech-Ray"
-		"Nauplius Cell"
+		"Spring Cell"
 		"Puddle Battery"
 		"Agama Steering"
 		"Anole Thruster"
@@ -1047,7 +1048,7 @@ ship "Remora"
 	outfits
 		"Breaker" 4
 		"Stream Shield Generator"
-		"Nauplius Cell"
+		"Spring Cell"
 		"Agama Thruster"
 		"Agama Steering"
 		"Puddle Battery"
@@ -1087,7 +1088,7 @@ ship "Minnow"
 			"hit force" 90
 	outfits
 		"Breaker" 2
-		"Nauplius Cell"
+		"Spring Cell"
 		"Agama Thruster"
 		"Agama Steering"
 
@@ -1099,6 +1100,6 @@ ship "Minnow"
 ship "Minnow" "Minnow (Scanner)"
 	outfits
 		"Broad-Spectrum Scanner"
-		"Nauplius Cell"
+		"Spring Cell"
 		"Agama Thruster"
 		"Agama Steering"

@@ -8,7 +8,7 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-outfit "Nauplius Cell"
+outfit "Spring Cell"
 	category "Power"
 	cost 47100
 	thumbnail "outfit/small naltok cell"
@@ -18,7 +18,7 @@ outfit "Nauplius Cell"
 	"heat generation" .35
 	description "This tiny bioelectric cell would struggle to power all but the smallest human outfits, but is often adequate for the highly efficient Naltok equipment in their smaller ships."
 
-outfit "Copepod Cell"
+outfit "Brook Cell"
 	category "Power"
 	cost 354200
 	thumbnail "outfit/large naltok cell"
@@ -28,7 +28,7 @@ outfit "Copepod Cell"
 	"heat generation" 1.2
 	description "This is the largest bioelectric cell the Naltok use in their ships. Although it is both more powerful and more efficient than human fuel cell technology, it compares far less favourably to radioisotopic and nuclear generators. As such, bioelectric cells are only used in relatively small Naltok ships."
 
-outfit "Krill Generator"
+outfit "Stream Generator"
 	category "Power"
 	cost 1132700
 	thumbnail "outfit/naltok rtg"
@@ -38,7 +38,7 @@ outfit "Krill Generator"
 	"heat generation" 3.55
 	description "Naltok radioisotopic generators use direct electrical energy harnessing coupled with secondary systems that harness the heat produced. The resulting generator is not particularly powerful, but it only loses a minimal amount of heat to the rest of the ship."
 
-outfit "Crayfish Reactor"
+outfit "River Reactor"
 	category "Power"
 	cost 7114900
 	thumbnail "outfit/small naltok fission"
@@ -48,7 +48,7 @@ outfit "Crayfish Reactor"
 	"heat generation" 8.6
 	description "The Naltok prefer not to use fusion reactors on their ships, opting instead for these highly efficient fission reactors. While the resulting generators are less powerful than human fusion technology, they produce vastly less heat."
 
-outfit "Lobster Reactor"
+outfit "Estuary Reactor"
 	category "Power"
 	cost 17832300
 	thumbnail "outfit/large naltok fission"

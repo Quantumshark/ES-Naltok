@@ -692,7 +692,7 @@ ship "Moray"
 		"heat dissipation" .26
 		"fuel capacity" 400
 		"cargo space" 88
-		"outfit space" 518
+		"outfit space" 538
 		"weapon capacity" 264
 		"engine capacity" 104
 		"heat protection" 3
@@ -711,7 +711,7 @@ ship "Moray"
 		"Breaker" 2
 
 		"Krill Generator"
-		"Pond Battery" 2
+		"Pond Battery" 3
 		"River Shield Generator" 2
 
 		"Gecko Steering"
@@ -741,7 +741,7 @@ ship "Pike"
 		"required crew" 43
 		"bunks" 91
 		"mass" 960
-		"drag" 9.2
+		"drag" 9.6
 		"heat dissipation" .2
 		"fuel capacity" 600
 		"cargo space" 196
@@ -793,7 +793,7 @@ ship "Mola"
 		"required crew" 56
 		"bunks" 68
 		"mass" 1024
-		"drag" 11.4
+		"drag" 11.9
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 24
@@ -885,7 +885,7 @@ ship "Kaluga"
 		"required crew" 72
 		"bunks" 80
 		"mass" 1600
-		"drag" 13.6
+		"drag" 14.2
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 0

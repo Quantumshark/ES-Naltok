@@ -1103,3 +1103,37 @@ ship "Minnow" "Minnow (Scanner)"
 		"Spring Cell"
 		"Agama Thruster"
 		"Agama Steering"
+
+ship "Mudskipper"
+	sprite "ship/mudskipper"
+	thumbnail "thumbnail/mudskipper"
+	attributes
+		category "Drone"
+		"cost" 31300
+		"hull" 800
+		"hull repair rate" .1
+		"hull energy" .025
+		"hull heat" .075
+		"automaton" 1
+		"bunks" 2
+		"mass" 44
+		"drag" .55
+		"heat dissipation" .5
+		"cargo space" 8
+		"outfit space" 47
+		"engine capacity" 25
+		"heat protection" 3
+		"burn protection" 1
+		weapon
+			"blast radius" 2
+			"shield damage" 30
+			"hull damage" 15
+			"hit force" 45
+	outfits
+		"Puddle Battery"
+		"Spring Cell"
+		"Agama Thruster"
+		"Agama Steering"
+
+	description `Mudskippers are small autonomous vehicles, incapable of hyperspace travel, which are sometimes used to ferry around people and materials between multiple planets in a system.`
+	description `	Drones do not come equipped with a hyperdrive. You cannot carry a drone unless you have a ship in your fleet with a drone bay.`

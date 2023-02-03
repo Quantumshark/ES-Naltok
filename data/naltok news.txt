@@ -33,6 +33,16 @@ news "telashki broadcast"
 		phrase
 			"telashki spaceport broadcast"
 
+news "xochira broadcast"
+	location
+		government "Xochira"
+	name
+		word
+			""
+	message
+		phrase
+			"xochira spaceport broadcast"
+
 news "naltok merchant"
 	location
 		attributes "naltok"
@@ -141,3 +151,6 @@ phrase "telashki scientist information control"
 		"How does that even work?"
 		"Is that even legal?"
 
+phrase "xochira spaceport broadcast"
+	word
+		"A stylised portrayal of an Archerfish facing off against a Leviathan and two Tetra."

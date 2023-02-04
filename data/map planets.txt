@@ -22,8 +22,10 @@ planet Chireke
 planet Ganolek
 	attributes naltok rural telashki
 	landscape land/fields19
-	description "This highly-developed agricultural world produces enough food to feed the entire population of Telashki space, even without the assistance of the sizeable farms in the nearby systems. As a result, the "
-	spaceport ""
+	description "This highly-developed agricultural world produces enough food to feed the entire population of Telashki space, even without the assistance of the sizeable farms in the nearby systems. As a result, the farmers here have been able to trade off some efficiency for luxury, and Ganolek is now known throughout Naltok space for its delicious and unique cuisine."
+	description "Beneath the surface-level farms are an entirely separate layer of subterranean farmland, with crops grown under artificial lighting which is powered by geothermal energy."
+	spaceport "There are two spaceports on Ganolek, located at the poles - the only part of the planet's surface which are unsuitable for growing crops. Below the south pole, between the spaceport and the subterranean farms, is the headquarters of the Ministry of Agriculture."
+	spaceport "Most of the Naltok here are wearing thick, warm clothing, but nonetheless are more energetic than on most other planets, excitedly discussing the range of cuisine on offer."
 
 planet Gorloxek
 	attributes uninhabited

@@ -1,3 +1,9 @@
+planet Arcadia
+	attributes uninhabited
+	landscape land/fields15
+	description "This planet is home to an incredible diversity of plant and fungal life, but no animal life whatsoever. The forests, plains, skies and seas alike are all perfectly still, a silence broken only by the occasional breeze."
+	description "At certain times of year the wormhole is visible in the night sky, an eerie yellow eye staring down at the silent planet below."
+
 planet Chexilok
 	attributes naltok xochira
 	landscape land/desert2

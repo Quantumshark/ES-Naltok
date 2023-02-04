@@ -13,7 +13,7 @@ system Amansinaya
 		sprite planet/gas7-hot
 		distance 190
 		period 4.31768
-	object
+	object Arcadia
 		sprite planet/forest0
 		distance 1454.95
 		period 1132.992

@@ -136,7 +136,7 @@ system Choxera
 			sprite planet/dust5
 			distance 175
 			period 29.102
-	object
+	object Keltaren
 		sprite planet/gas16
 		distance 3418.38
 		period 860.07

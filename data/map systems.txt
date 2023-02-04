@@ -37,9 +37,9 @@ system Chategri
 	link Choxera
 	link Roxeka
 	asteroids "small rock" 9 5.52
-	asteroids "medium rock" 124 4.12
+	asteroids "medium rock" 84 4.12
 	asteroids "large rock" 35 5.2
-	asteroids "small metal" 108 3.28
+	asteroids "small metal" 78 3.28
 	asteroids "medium metal" 42 4.04
 	asteroids "large metal" 7 3.92
 	trade Clothing 290

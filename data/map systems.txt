@@ -594,16 +594,6 @@ system Norelon
 	asteroids "small metal" 85 8.135
 	asteroids "medium metal" 104 7.825
 	asteroids "large metal" 89 4.347
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
 	hazard Star-Worms 100
 	object
 		sprite star/nova-small
@@ -992,16 +982,6 @@ system Vokegol
 	asteroids "small metal" 2 2.584
 	asteroids "medium metal" 10 3.774
 	asteroids "large metal" 6 2.516
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
 	object
 		sprite star/f-dwarf
 		distance 20
@@ -1393,16 +1373,6 @@ system Lekonet
 	asteroids "small metal" 146 4.64
 	asteroids "medium metal" 31 3.344
 	asteroids "large metal" 21 2.801
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
 	object
 		sprite star/k-giant
 		period 10
@@ -1576,16 +1546,6 @@ system Thoreklin
 	link Kuragu
 	link Nixelog
 	asteroids "large metal" 1 1.386
-	trade Clothing 290
-	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
-	trade "Heavy Metals" 960
-	trade Industrial 720
-	trade "Luxury Goods" 1220
-	trade Medical 680
-	trade Metal 390
-	trade Plastic 390
 	object
 		sprite star/nova-small
 		period 10

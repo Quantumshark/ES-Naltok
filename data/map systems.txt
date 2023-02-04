@@ -4,6 +4,8 @@ system Amansinaya
 	attributes wormhole
 	arrival 1400
 	habitable 1400
+	asteroids "small rock" 4 0.92
+	asteroids "medium rock" 3 1.13
 	object
 		sprite star/g5
 		period 10

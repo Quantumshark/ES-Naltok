@@ -21,8 +21,8 @@ planet Chireke
 
 planet Ganolek
 	attributes naltok rural telashki
-	landscape land/fields5
-	description ""
+	landscape land/fields19
+	description "This highly-developed agricultural world produces enough food to feed the entire population of Telashki space, even without the assistance of the sizeable farms in the nearby systems. As a result, the "
 	spaceport ""
 
 planet Gorloxek

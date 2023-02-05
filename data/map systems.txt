@@ -26,6 +26,10 @@ system Amansinaya
 		distance 3500
 		period 1000
 		hazard "Shield-depleting Wormhole" 1
+		object
+			sprite planet/tethys
+			distance 250
+			period 9.81
 
 system Chategri
 	pos -1511 369

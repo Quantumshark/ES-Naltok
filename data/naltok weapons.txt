@@ -27,8 +27,10 @@ outfit "Breaker"
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
-		"discharge damage" .075
+		"discharge damage" .03
+		"shield damage" 3.5
 		"hull damage" 12
+		"minable damage" 19
 	description "The Breaker is primarily designed for mining, though it is quite commonly used as a small weapon. As with most Naltok technology, the designers prioritised efficiency over power, resulting in a weapon that compares unfavourably to even a human beam laser or energy blaster - particularly in its near-total inability to damage shields."
 
 outfit "Breaker Turret"
@@ -53,8 +55,10 @@ outfit "Breaker Turret"
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
-		"discharge damage" .075
+		"discharge damage" .03
+		"shield damage" 3.5
 		"hull damage" 12
+		"minable damage" 19
 	description "This turret carries a single Breaker. It is small, and turns incredibly quickly to track targets, responding to threats faster than any Human or Naltok operator could. Because of this, it is entirely computer-controlled, similar to anti-missile turrets."
 
 outfit "Triple Breaker Turret"
@@ -94,8 +98,10 @@ outfit "Breaker Submunition"
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
-		"discharge damage" .075
+		"discharge damage" .03
+		"shield damage" 3.5
 		"hull damage" 12
+		"minable damage" 19
 
 effect "breaker impact"
 	sprite "effect/heavy laser impact"

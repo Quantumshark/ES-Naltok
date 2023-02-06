@@ -75,8 +75,8 @@ outfit "Fog Cell"
 	thumbnail "outfit/large naltok solar"
 	"mass" 36
 	"outfit space" -36
-	"energy generation" 1.75
-	"solar collection" 1.75
+	"energy generation" 1.85
+	"solar collection" 1.85
 	"heat generation" 1.35
 	description "These large biophotovoltaic systems never became popular in Naltok space, but perhaps you can find some use for them in the brighter parts of the galaxy."
 

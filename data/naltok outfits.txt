@@ -58,6 +58,28 @@ outfit "Estuary Reactor"
 	"heat generation" 15.35
 	description "This enormous fission reactor, far larger than most human reactors, is only used on the very largest of Naltok ships. This is partially because Naltok technology rarely requires this much power, but primarily because the heat output, though relatively low by the standards of most other races, is enough to cause major problems for all but the largest of Naltok ships."
 
+outfit "Mist Cell"
+	category "Power"
+	cost 44100
+	thumbnail "outfit/small naltok solar"
+	"mass" 17
+	"outfit space" -17
+	"energy generation" .65
+	"solar collection" .65
+	"heat generation" .45
+	description "This is a biophotovoltaic system, a modification of the Spring Cell which allows some harnessing of incoming sunlight. The additional energy provided by the sunlight makes this more powerful than standard biovoltaics in theory, but around the dim stars of the galactic rim this advantage is far less clear-cut, and as a result most Naltok opt for the more reliable bioelectrics."
+
+outfit "Fog Cell"
+	category "Power"
+	cost 103500
+	thumbnail "outfit/large naltok solar"
+	"mass" 36
+	"outfit space" -36
+	"energy generation" 1.75
+	"solar collection" 1.75
+	"heat generation" 1.35
+	description "These large biophotovoltaic systems never became popular in Naltok space, but perhaps you can find some use for them in the brighter parts of the galaxy."
+
 outfit "Stream Shield Generator"
 	category "Systems"
 	cost 71400

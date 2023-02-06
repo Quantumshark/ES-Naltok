@@ -298,7 +298,7 @@ outfit "Wyrm Afterburner"
 	category "Engines"
 	licenses 
 		"Xochira"
-	"cost"
+	"cost" 371700
 	thumbnail "outfit/xochira afterburner"
 	"mass" 16
 	"outfit space" -16

@@ -191,12 +191,18 @@ planet "Wormhole Naltok"
 	description ""
 
 planet Xejolki
-	landcape land/sky0
 	attributes naltok research xochira
+	landcape land/sky0
 	description "Though it is currently deep in Xochira space, many of the inhabitants of this moon remain loyal to the Telashki. The original settlements here were small, primarily established in order to strip-mine the topsoil, which was atypically high in nickel and cadmium."
 	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting radio signals from nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
 	spaceport "There are a suprisingly high number of Xochira ground troops here."
 	"required reputation" 50
+
+planet Xoravil
+	attributes uninhabited
+	landscape land/badlands2
+	description "Although it is within the system's habitable zone, this tiny moon has failed to retain an atmosphere, leaving its surface completely uninhabitable. Although in the past there were huge mines here, supplying minerals for the industries of Vigechox, those have now been abandoned in favour of safer facilities on more habitable planets."
+	government Uninhabited
 
 planet Xorechige
 	attributes military naltok urban xochira

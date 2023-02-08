@@ -1080,7 +1080,7 @@ system Xangoret
 				scale 0.5
 			distance 350
 			period 34.467
-		object
+		object Xoravil
 			sprite planet/dust0
 			distance 473
 			period 54.149

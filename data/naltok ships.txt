@@ -830,7 +830,7 @@ ship "Mola"
 		"Shell-Splitter Torpedo" 62
 		"Naltok Anti-Missile" 4
 
-		"Copepod Cell"
+		"Brook Cell"
 		"Stream Generator"
 		"Lake Battery"
 		"Fuel Vat" 2

@@ -18,7 +18,6 @@ fleet "Xochira Interdictor"
 shipyard "Naltok Basics"
 	"Herring"
 	"Minnow"
-	"Mudskipper"
 
 shipyard "Naltok Intermediate"
 	"Mackerel"
@@ -27,7 +26,6 @@ shipyard "Naltok Intermediate"
 	"Piranha"
 	"Barracuda"
 	"Minnow"
-	"Mudskipper"
 
 shipyard "Naltok Advanced"
 	"Mackerel"
@@ -40,7 +38,6 @@ shipyard "Naltok Advanced"
 	"Moray"
 	"Pike"
 	"Minnow"
-	"Mudskipper"
 
 shipyard "Xochira Basics"
 

@@ -987,12 +987,12 @@ system Vokegol
 	asteroids "medium metal" 10 3.774
 	asteroids "large metal" 6 2.516
 	object
-		sprite star/f-dwarf
-		distance 20
+		sprite star/a-dwarf
+		distance 18
 		period 2.4143
 	object
-		sprite star/f-dwarf
-		distance 20
+		sprite star/a-dwarf
+		distance 18
 		period 2.4143
 		offset 180
 	object

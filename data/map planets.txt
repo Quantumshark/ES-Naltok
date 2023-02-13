@@ -30,7 +30,7 @@ planet Ganolek
 planet Gorloxek
 	attributes uninhabited
 	landscape land/forest7
-	description "The large forested continents and shallow temperate ocean of this world are home to an incredible diversity of invertebrates, most of which resemble insects or crustaceans. Colossal crab-like creatures graze on the open plains, and the apex predators are pack-hunting carnivores which resemble woodlice the size of horses." 
+	description "The large forested continents and shallow temperate ocean of this world are home to an incredible diversity of invertebrates, most of which resemble insects or crustaceans. Colossal crab-like creatures graze on the open plains, and the apex predators are pack-hunting carnivores which resemble woodlice but are the size of horses." 
 
 planet Joklanok
 	attributes factory naltok urban xochira
@@ -193,9 +193,9 @@ planet "Wormhole Naltok"
 planet Xejolki
 	attributes naltok research xochira
 	landcape land/sky0
-	description "Though it is currently deep in Xochira space, many of the inhabitants of this moon remain loyal to the Telashki. The original settlements here were small, primarily established in order to strip-mine the topsoil, which was atypically high in nickel and cadmium."
-	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting radio signals from nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
-	spaceport "There are a suprisingly high number of Xochira ground troops here."
+	description "The original settlements on this dry, dusty moon were small, primarily established in order to strip-mine the abnormally metal-rich topsoil."
+	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting radio signals from several nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
+	spaceport "The spaceport here is surprisingly large, and the size and shape of the landing pads is unusual for Naltok space."
 	"required reputation" 50
 
 planet Xoravil

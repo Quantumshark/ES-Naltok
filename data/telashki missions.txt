@@ -94,5 +94,4 @@ mission "Star-Worm Research 1 (deferred)"
 		dialog
 			`The Naltok from earlier is waiting for you as you land, and hands you 50,000 credits in exchange for your data.`
 			`	"Give me a few minutes to go over this, then meet me in the spaceport whenever you are interested in continuing with this work."`
-	
-	
+

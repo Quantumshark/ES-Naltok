@@ -32,7 +32,7 @@ mission "Star-Worm Research 1"
 				`	"That depends, what do you need?"`
 					goto cautious
 				`	"Will I be paid for this?"`
-				`	"I am too busy to do anything right now, sorry"`
+				`	"I am too busy to do anything right now, sorry."`
 					defer
 			`	The Naltok makes a strange, guttural sound, perhaps their equivalent of laughter. "The Alphas told us as much about you humans, that the only thing that interests you is money. Yes, we will pay you."`
 				goto proposal

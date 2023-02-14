@@ -456,7 +456,7 @@ system Loxelon
 	government Xochira
 	arrival 500
 	habitable 125.92
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .15
 	link Norelon
 	link Rixengol
@@ -588,7 +588,7 @@ system Norelon
 	attributes "nova"
 	arrival 500
 	habitable 100
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .15
 	link Loxelon
 	link Vokegol
@@ -872,7 +872,7 @@ system Tokilok
 	government Telashki
 	arrival 200
 	habitable 33.28
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .15
 	link Tikelo
 	link Vokegol
@@ -975,7 +975,7 @@ system Vokegol
 	government "Naltok (Neutral)"
 	arrival 500
 	habitable 203.68
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .15
 	link Loxelon
 	link Norelon
@@ -1320,8 +1320,8 @@ system Lotegok
 	government Telashki
 	arrival 500
 	habitable 500
-	haze _menu/haze-33
-	"starfield density" .2
+	haze _menu/haze-none
+	"starfield density" .18
 	link Golonex
 	link Kuragu
 	asteroids "large metal" 1 5.148
@@ -1368,7 +1368,7 @@ system Lekonet
 	government Uninhabited
 	arrival 3000
 	habitable 3000
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .15
 	link Nixelog
 	asteroids "small rock" 13 5.685
@@ -1476,7 +1476,7 @@ system Nixelog
 	pos -1667 -204
 	government Uninhabited
 	habitable 850.92
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .25
 	link Kuragu
 	link Lekonet
@@ -1545,8 +1545,8 @@ system Thoreklin
 	attributes "nova"
 	arrival 500
 	habitable 100
-	haze _menu/haze-33
-	"starfield density" .15
+	haze _menu/haze-none
+	"starfield density" .12
 	link Kuragu
 	link Nixelog
 	asteroids "large metal" 1 1.386
@@ -1689,7 +1689,7 @@ system Vverev
 	arrival 500
 	habitable 425
 	belt 1111
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .18
 	link Zivrez
 	asteroids "small rock" 4 11.98
@@ -1740,7 +1740,7 @@ system Zivrez
 	government Uninhabited
 	arrival 500
 	habitable 300
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .1
 	link Krivvaz
 	link Rivvoz
@@ -1781,7 +1781,7 @@ system Rivvoz
 	government Uninhabited
 	arrival 550
 	habitable 550
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .1
 	link Zivrez
 	asteroids "small rock" 3 12.11
@@ -1819,7 +1819,7 @@ system Krivvaz
 	government Uninhabited
 	arrival 500
 	habitable 500
-	haze _menu/haze-33
+	haze _menu/haze-none
 	"starfield density" .1
 	link Zivrez
 	asteroids "small rock" 2 14.98

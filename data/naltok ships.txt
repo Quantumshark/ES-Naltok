@@ -766,8 +766,8 @@ ship "Pike"
 		"hull repair rate" 3.1
 		"hull energy" .775
 		"hull heat" 2.325
-		"required crew" 43
-		"bunks" 91
+		"required crew" 38
+		"bunks" 86
 		"mass" 960
 		"drag" 9.6
 		"heat dissipation" .2

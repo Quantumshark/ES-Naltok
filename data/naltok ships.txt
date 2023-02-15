@@ -706,7 +706,7 @@ ship "Moray"
 	thumbnail "thumbnail/moray"
 	attributes
 		category "Medium Warship"
-		"cost"
+		"cost" 5163000
 		"shields" 5600
 		"hull" 28100
 		"hull repair rate" 2.8
@@ -754,7 +754,7 @@ ship "Moray"
 	turret
 	turret
 	turret
-	description ``
+	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce.`
 
 ship "Pike"
 	sprite "ship/pike"

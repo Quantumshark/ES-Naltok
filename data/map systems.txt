@@ -1547,7 +1547,7 @@ system Thoreklin
 	"starfield density" .12
 	link Kuragu
 	link Nixelog
-	asteroids "large metal" 1 1.386
+	asteroids "small metal" 1 1.386
 	object
 		sprite star/nova-small
 		period 10

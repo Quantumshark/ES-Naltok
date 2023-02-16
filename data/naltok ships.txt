@@ -825,7 +825,7 @@ ship "Mola"
 		"bunks" 68
 		"mass" 1024
 		"drag" 11.9
-		"heat dissipation" .15
+		"heat dissipation" .17
 		"fuel capacity" 400
 		"cargo space" 24
 		"outfit space" 752

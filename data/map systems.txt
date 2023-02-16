@@ -1765,7 +1765,7 @@ system Zivrez
 		distance 2050
 		period -500.27
 	object
-		sprite planet/browndwarf-l-rouge #at this distance, illumination from within >> light recieved from star, hence the rogue planet sprite is used
+		sprite planet/browndwarf-t
 		distance 5100
 		period 3010.2
 		object

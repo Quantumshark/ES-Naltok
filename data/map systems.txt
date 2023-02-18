@@ -159,11 +159,11 @@ system Keloteg
 	asteroids "small metal" 5 3.045
 	asteroids "medium metal" 38 2.331
 	asteroids "large metal" 8 2.856
-	trade Clothing 290
+	trade Clothing 433
 	trade Electronics 740
 	trade Equipment 530
 	trade Food 350
-	trade "Heavy Metals" 960
+	trade "Heavy Metals" 627
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
@@ -930,11 +930,11 @@ system Tolonek
 	asteroids "small metal" 8 4.974
 	asteroids "medium metal" 3 6.27
 	asteroids "large metal" 8 2.341
-	trade Clothing 290
+	trade Clothing 409
 	trade Electronics 740
 	trade Equipment 530
 	trade Food 350
-	trade "Heavy Metals" 960
+	trade "Heavy Metals" 655
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680

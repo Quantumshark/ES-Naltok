@@ -145,12 +145,12 @@ outfit "Broad-Spectrum Scanner"
 	"mass" 13
 	"outfit space" -13
 	"energy consumption" .45
-	"atmosphere scan" 470
-	"asteroid scan power" 47
-	"cargo scan power" 47
-	"cargo scan speed" 23
-	"outfit scan power" 47
-	"outfit scan speed" 23
+	"atmosphere scan" 480
+	"asteroid scan power" 48
+	"cargo scan power" 48
+	"cargo scan efficiency" 32
+	"outfit scan power" 48
+	"outfit scan efficiency" 32
 	description "This large scanner is able to scan and analyse almost any material, and is commonly used by Telashki surveillance ships to monitor merchants, asteroids and planetary weather."
 	description "Although the design predates the split between the Xochira and Telashki by several centuries, the Xochira rarely produce or stock these scanners, only using them to assist with asteroid mining."
 

@@ -1,16 +1,16 @@
 hazard "Star-Worms"
-	"duration" 75 150
+	"duration" 75 175
 	"strength" 0.5 1.5
 	"system-wide"
-	"environmental effect" "star-worm hazard" 10
+	"environmental effect" "star-worm hazard" 15
 	weapon
 		"shield damage" .5
 
 hazard "Star-Worms (Evolved)"
-	"duration" 75 150
+	"duration" 75 175
 	"strength" 0.5 1.5
 	"system-wide"
-	"environmental effect" "star-worm hazard" 10
+	"environmental effect" "star-worm hazard" 15
 	weapon
 		"shield damage" 3.5
 		"discharge damage" .15

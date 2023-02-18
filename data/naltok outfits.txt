@@ -362,7 +362,7 @@ outfit "Acid Grub"
 	cost 34900
 	thumbnail "outfit/naltok acid grub"
 	"capture attack" 2.9
-	"capture defense" 1.4
+	"capture defense" 1.6
 	"unplunderable" 1
 	"illegal" 1500000
 	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat, though they usually find their own augmentations sufficient. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."

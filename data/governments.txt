@@ -24,8 +24,8 @@ government "Naltok (Neutral)"
 government "Telashki"
 	swizzle 15
 	color .01 .93 .72
-	"crew attack" 1.7
-	"crew defense" 2.9
+	"crew attack" 1.1
+	"crew defense" 2.1
 	"player reputation" 5
 	"attitude toward"
 		"Telashki (Attacking)" 1
@@ -38,8 +38,8 @@ government "Telashki"
 government "Telashki (Attacking)"
 	"display name" "Telashki"
 	swizzle 15
-	"crew attack" 1.7
-	"crew defense" 2.9
+	"crew attack" 1.1
+	"crew defense" 2.1
 	"player reputation" 5
 	"attitude toward"
 		"Telashki" 1

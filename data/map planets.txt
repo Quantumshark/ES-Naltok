@@ -187,6 +187,7 @@ planet Vigechox
 	outfitter "Xochira Advanced"
 	"required reputation" 25
 
+#description here needs a redo - this information should be communicated in a first contact mission specific to Vokegol Observatory, rather than in the description.
 planet "Vokegol Observatory"
 	attributes naltok
 	landscape land/station45

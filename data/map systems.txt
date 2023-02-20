@@ -993,7 +993,7 @@ system Vokegol
 		distance 18
 		period 2.4143
 		offset 180
-	object
+	object "Vokegol Observatory"
 		sprite planet/station-vokegol
 			scale .5
 		distance 350

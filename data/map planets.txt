@@ -187,6 +187,13 @@ planet Vigechox
 	outfitter "Xochira Advanced"
 	"required reputation" 25
 
+planet "Vokegol Observatory"
+	attributes naltok
+	landscape land/station45
+	description "This station, operated jointly by representatives of the Telashki and the Xochira, exists to monitor the two white dwarves at the center of this system. Once the cores of stars slightly larger than the sun, the two have been gradually spiralling closer and closer for millions of years. When they collide, they will erupt in a powerful supernova explosion, destroying everything in the system and unleashing deadly radiation for hundreds of light years in every direction."
+	spaceport "Wherever you go in the spaceport, there is always at least one timer in sight, counting down the seconds until the system erupts in a violent supernova."
+	"required reputation" 50
+
 planet "Wormhole Naltok"
 	description ""
 

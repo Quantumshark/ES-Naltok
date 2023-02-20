@@ -9,7 +9,8 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 mission "Star-Worm Research 1"
-	description `Travel to the Norelon system and record the activity of the local "Star-Worms"`
+	name `Star-Worm Research`
+	description `Travel to the Norelon system and record the activity of the local "Star-Worms".`
 	to offer
 		has "First Contact: Naltok (Telashki): offered"
 	source Kutora
@@ -70,6 +71,7 @@ mission "Star-Worm Research 1"
 mission "Star-Worm Research 1 (deferred)"
 	landing
 	minor
+	name `Star-Worm Research`
 	description `Travel to the Norelon system and record the activity of the local "Star-Worms"`
 	to offer
 		has "First Contact: Naltok (Telashki): offered"

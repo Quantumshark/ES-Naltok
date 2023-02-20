@@ -994,6 +994,11 @@ system Vokegol
 		period 2.4143
 		offset 180
 	object
+		sprite planet/station-vokegol
+			scale .5
+		distance 350
+		period 200
+	object
 		sprite planet/dust7
 		distance 759
 		period 436.353

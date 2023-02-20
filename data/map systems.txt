@@ -34,8 +34,8 @@ system Amansinaya
 system Chategri
 	pos -1511 369
 	government Xochira
-	arrival 5000
-	habitable 5400
+	arrival 2400
+	habitable 2400
 	haze _menu/haze-33
 	"starfield density" .2
 	link Choxera
@@ -58,7 +58,7 @@ system Chategri
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
 	object
-		sprite star/f-giant
+		sprite star/g5-old
 		period 10
 	object
 		sprite planet/rock13
@@ -173,7 +173,7 @@ system Keloteg
 		sprite star/k0-old
 		period 10
 	object Chireke
-		sprite planet/forest5
+		sprite planet/forest3-b
 		distance 920.153
 		period 108.417
 		object
@@ -869,7 +869,7 @@ system Tokilok
 	pos -1699 82
 	government Telashki
 	arrival 200
-	habitable 33.28
+	habitable 133.28
 	haze _menu/haze-none
 	"starfield density" .15
 	link Tikelo
@@ -887,7 +887,7 @@ system Tokilok
 	trade Metal 390
 	trade Plastic 390
 	object
-		sprite star/m-dwarf
+		sprite star/m8
 		period 10
 	object
 		sprite planet/dust6
@@ -944,7 +944,7 @@ system Tolonek
 		sprite star/m0
 		period 10
 	object Thosekrol
-		sprite planet/rock1
+		sprite planet/forest2
 		distance 326.29
 		period 43.69
 	object
@@ -1383,7 +1383,7 @@ system Lekonet
 		distance 1460.01
 		period 306.975
 	object
-		sprite planet/forest5
+		sprite planet/desert8
 		distance 2174.17
 		period 428.507
 	object

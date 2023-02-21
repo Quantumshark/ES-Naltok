@@ -197,6 +197,12 @@ planet "Vokegol Observatory"
 
 planet "Wormhole Naltok"
 	description ""
+	wormhole "Wormhole Naltok"
+
+wormhole "Wormhole Naltok"
+	mappable
+	link Amansinaya Vverev
+	link Vverev Amansinaya
 
 planet Xejolki
 	attributes naltok research xochira

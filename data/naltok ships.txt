@@ -770,7 +770,7 @@ ship "Pike"
 		"required crew" 38
 		"bunks" 86
 		"mass" 960
-		"drag" 9.6
+		"drag" 10.3
 		"heat dissipation" .2
 		"fuel capacity" 600
 		"cargo space" 196

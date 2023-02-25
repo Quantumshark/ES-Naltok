@@ -650,6 +650,37 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 	gun "Halt-Swarm Launcher"
 	gun "Halt-Swarm Launcher"
 
+ship "Barracuda" "Barracuda (Leeching)"
+	outfits
+	outfits
+		"Leech-Ray" 2
+		"Halt-Swarm Launcher" 2
+		"Halt-Swarm Missile" 96
+		"Halt-Swarm Rack" 2
+		"Shell-Splitter Pod" 4
+		"Shell-Splitter Torpedo" 8
+
+		"Brook Cell"
+		"Pond Battery"
+		"Stream Shield Generator"
+		"Ripper Pistols" 8
+		"Shredder Minigun" 9
+
+		"Iguana Thruster"
+		"Anole Steering"
+		"Agama Steering"
+		"Wyrm Afterburner"
+		"Hyperdrive"
+
+	gun "Leech-Ray"
+	gun "Leech-Ray"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
+	gun "Halt-Swarm Launcher"
+	gun "Halt-Swarm Launcher"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
+		
 ship "Albacore"
 	sprite "ship/albacore"
 	thumbnail "thumbnail/albacore"

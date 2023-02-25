@@ -547,13 +547,11 @@ ship "Piranha" "Piranha (Xochira Tough)"
 
 ship "Piranha" "Piranha (Cargo)"
 	outfits
-		"Shell-Splitter Pod" 3
-		"Shell-Splitter Torpedo" 6
 		
 		"Brook Cell"
 		"Pond Battery"
 		"River Shield Generator"
-		"Cargo Expansion" 6
+		"Cargo Expansion" 7
 
 		"Gecko Steering"
 		"Gecko Thruster"

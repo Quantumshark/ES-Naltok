@@ -853,7 +853,7 @@ ship "Mola"
 		"required crew" 56
 		"bunks" 68
 		"mass" 1024
-		"drag" 11.9
+		"drag" 13.6
 		"heat dissipation" .17
 		"fuel capacity" 400
 		"cargo space" 24
@@ -1006,7 +1006,7 @@ ship "Coelacanth"
 		"hull heat" 3.975
 		"required crew" 114
 		"bunks" 143
-		"mass" 2056
+		"mass" 2560
 		"drag" 29.1
 		"heat dissipation" .11
 		"fuel capacity" 500

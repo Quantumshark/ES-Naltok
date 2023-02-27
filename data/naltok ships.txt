@@ -936,7 +936,7 @@ ship "Kaluga"
 	thumbnail "thumbnail/kaluga"
 	attributes
 		category "Heavy Warship"
-		licenses 
+		licenses
 			"Xochira"
 		"cost" 33723000
 		"shields" 8600

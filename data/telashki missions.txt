@@ -74,7 +74,6 @@ mission "Star-Worm Research 1 (deferred)"
 	name `Star-Worm Research`
 	description `Travel to the Norelon system and record the activity of the local "Star-Worms"`
 	to offer
-		has "First Contact: Naltok (Telashki): offered"
 		has "deferred norelon recon"
 	source Kutora
 	waypoint Norelon

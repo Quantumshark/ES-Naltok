@@ -196,8 +196,8 @@ outfit "Leech-Ray"
 		"reload" 6
 		"firing energy" 5.3
 		"firing heat" 1.4
-		"shield damage" 12.1
-		"hull damage" 7.9
+		"shield damage" 16.3
+		"hull damage" 11.9
 		"fuel damage" 3.3
 	description "The Leech-Ray is the first weapon developed by the Xochira since the start of the war, designed to prevent an intruder from escaping to safety by draining their hyperspace fuel."
 

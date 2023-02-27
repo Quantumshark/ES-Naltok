@@ -519,7 +519,7 @@ outfit "Naltok Anti-Missile"
 		"reload" 3
 		"firing energy" 2
 		"firing heat" 1.5
-	description "The Naltok anti-missile was originally designed as a defence against the deadly Shrapnel Torpedoes. While the heavily armoured torpedoes themselves were assumed to be largely invulnerable to anti-missile weapons, the damage they caused could be mitigated by taking down the incoming chunks of shrapnel before they could hit. More recently, it has begun to see increased usage against the Halt-Swarm missiles used by the Xochira."
+	description "With no experience of interstellar warfare, the only basis the Naltok had for designing this anti-missile system was their own Shell-Splitter Torpedoes. Though they succeeded in making a highly effective defense against their own weapons, the lack of range makes this a rather poor defense against most other missiles."
 
 effect "naltok anti-missile"
 	sprite "effect/wanderer anti-missile"

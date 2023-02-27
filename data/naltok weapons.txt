@@ -171,7 +171,7 @@ outfit "Sky-Shredder"
 		"firing heat" 12
 		"shield damage" 33
 		"hull damage" 36
-	description "The Sky-Shredder is designed to strip the shields from fast-moving opponents, allowing the powerful but unwieldy Steel-Render or a salvo of Shell-Splitter Torpedoes to deal with their hull armour."
+	description "The Sky-Shredder is designed to take down small, fast-moving opponents, allowing the powerful but unwieldy Steel-Render or a salvo of Shell-Splitter Torpedoes to deal with larger threats."
 
 outfit "Leech-Ray"
 	category "Guns"

@@ -844,6 +844,8 @@ ship "Mola"
 	thumbnail "thumbnail/mola"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"Ministry of War"
 		"cost" 21236000
 		"shields" 6100
 		"hull" 39600

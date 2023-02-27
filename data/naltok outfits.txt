@@ -360,3 +360,8 @@ outfit "Xochira License"
 	category "Licenses"
 	thumbnail "outfit/xochira license"
 	description "The Xochira are very protective of the ships and outfits that they developed after seceding from the Telashki. This token is proof that you have earned their trust, and that as a result they are now willing to sell you their newest technology."
+
+outfit "Ministry of War License"
+	category "Licenses"
+	thumbnail "outfit/ministry license"
+	description "Although the Telashki are generally content to make most of their ships available to any buyers, in times of war the largest of their warships are only available to those actively supporting their military endeavours."

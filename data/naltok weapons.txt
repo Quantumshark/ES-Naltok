@@ -393,8 +393,8 @@ outfit "Shell-Splitter Husk"
 			"no repeat"
 		"inaccuracy" 60
 		"random velocity" 15
-		"drag" .1
-		"acceleration" .05
+		"drag" .05
+		"acceleration" .001
 		"lifetime" 800
 		"random lifetime" 250
 		"missile strength" 75

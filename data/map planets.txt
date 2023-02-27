@@ -206,7 +206,7 @@ wormhole "Wormhole Naltok"
 
 planet Xejolki
 	attributes naltok research xochira
-	landcape land/sky0
+	landscape land/sky0
 	description "The original settlements on this dry, dusty moon were small, primarily established in order to strip-mine the abnormally metal-rich topsoil."
 	description "A few hundred years later, after most of the valuable material had already been removed, the inhabitants began detecting radio signals from several nearby stars, and a small research base was established. Millenia later, the mines are long gone and the research base, having grown considerably, is the largest settlement here."
 	spaceport "The spaceport here is surprisingly large, and the size and shape of the landing pads is unusual for Naltok space."

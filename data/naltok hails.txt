@@ -101,7 +101,7 @@ phrase "telashki: studying you"
 		"performing an autopsy on you"
 		"putting you in a museum"
 		"putting your bones back together"
-		"sequencing your DNA, clone you, and experiment on your clone"
+		"sequencing your DNA, cloning you, and experimenting on your clone"
 		"taking your skeleton apart"
 		"working out how all the little pieces of you fit together"
 

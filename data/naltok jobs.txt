@@ -17,11 +17,11 @@ mission "Telashki Delivery Food Small"
 	to offer
 		random < 70
 	source
-		attributes telashki 
+		government "Telashki"
 		attributes rural
 	destination
 		distance 1 5
-		attributes telashki
+		government "Telashki"
 		not attributes rural
 	on visit
 		dialog phrase "generic cargo on visit"
@@ -38,11 +38,11 @@ mission "Telashki Delivery Food Large"
 	to offer
 		random < 60
 	source
-		attributes telashki 
+		government "Telashki"
 		attributes rural
 	destination
 		distance 1 5
-		attributes telashki
+		government "Telashki"
 		not attributes rural
 	on visit
 		dialog phrase "generic cargo on visit"
@@ -61,7 +61,7 @@ mission "Lumber Delivery Telashki Minor"
 	source Chireke
 	destination
 		distance 1 8
-		attributes telashki
+		government "Telashki"
 	on visit
 		dialog phrase "generic cargo on visit"
 	on complete
@@ -79,7 +79,7 @@ mission "Lumber Delivery Telashki Medium"
 	source Chireke
 	destination
 		distance 1 8
-		attributes telashki
+		government "Telashki"
 	on visit
 		dialog phrase "generic cargo on visit"
 	on complete
@@ -98,7 +98,7 @@ mission "Lumber Delivery Telashki Massive Rush"
 	source Chireke
 	destination
 		distance 1 8
-		attributes telashki
+		government "Telashki"
 	on visit
 		dialog phrase "generic cargo on visit"
 	on complete
@@ -114,11 +114,11 @@ mission "Xochira Delivery Food Small"
 	to offer
 		random < 70
 	source
-		attributes xochira
+		government "Xochira"
 		attributes rural
 	destination
 		distance 1 5
-		attributes xochira
+		government "Xochira"
 		not attributes rural
 	on visit
 		dialog phrase "generic cargo on visit"
@@ -135,11 +135,11 @@ mission "Xochira Delivery Food Large"
 	to offer
 		random < 60
 	source
-		attributes xochira
+		government "Xochira"
 		attributes rural
 	destination
 		distance 1 5
-		attributes xochira
+		government "Xochira"
 		not attributes rural
 	on visit
 		dialog phrase "generic cargo on visit"

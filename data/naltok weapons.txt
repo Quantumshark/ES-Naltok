@@ -194,8 +194,8 @@ outfit "Leech-Ray"
 		"burst reload" 1
 		"burst count" 30
 		"reload" 6
-		"firing energy" 5.3
-		"firing heat" 1.4
+		"firing energy" 7.3
+		"firing heat" 4.7
 		"shield damage" 16.3
 		"hull damage" 11.9
 		"fuel damage" 3.3

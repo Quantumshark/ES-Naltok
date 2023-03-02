@@ -38,7 +38,7 @@ news "xochira broadcast"
 		government "Xochira"
 	name
 		word
-			""
+			"A broadcast"
 	message
 		phrase
 			"xochira spaceport broadcast"
@@ -153,4 +153,4 @@ phrase "telashki scientist information control"
 
 phrase "xochira spaceport broadcast"
 	word
-		"A stylised portrayal of an Archerfish facing off against a Leviathan and two Tetra."
+		"A screen displays a stylised portrayal of an Archerfish facing off against a Falcon and two Tetra, accompanied by upbeat music. Several Naltok children and a couple of adults cheer as the Falcon is destroyed in a simple block-colour explosion."

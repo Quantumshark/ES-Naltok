@@ -1150,6 +1150,8 @@ ship "Minnow"
 		"engine capacity" 25
 		"heat protection" 3
 		"burn protection" 1
+		"full shield permeability" .4
+		"low shield permeability" .4
 		weapon
 			"blast radius" 4
 			"shield damage" 60

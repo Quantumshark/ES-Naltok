@@ -96,11 +96,35 @@ mission "Star-Worm Research 1 (deferred)"
 			`The Naltok from earlier is waiting for you as you land, and hands you 50,000 credits in exchange for your data.`
 			`	"Give me a few minutes to go over this, then meet me in the spaceport whenever you are interested in continuing with this work."`
 
-#mission "Star-Worm Research 2"
-#	name ``
-#	description ``
-#	to offer
-#		or
-#			has "Star-Worm Research 1: done"
-#			has "Star-Worm Research 1 (deferred): done"
-#	source Kutora
+mission "Star-Worm Research 2"
+	name `Star-Worm Recovery`
+	description `Bring this five ton collecting device to the Norelon system, where it will scoop up some "Star-Worms".`
+	to offer
+		or
+			has "Star-Worm Research 1: done"
+			has "Star-Worm Research 1 (deferred): done"
+	source Kutora
+	waypoint Norelon
+	destination Kutora
+	on offer
+		conversation
+			`The Naltok from before meets you in the spaceport. "Ah perfect timing! I just finished analysing your data, and it looks like everything is in order." They pause for a moment. "Ah, I just realised I haven't introduced myself yet. My name is Takirsha Nozirlon, I am head of the Star-Worms Department."`
+			choice #todo: more options here
+				`	"I am <first> <last>, a travelling merchant captain."`
+				`	"I am <first> <last>, the legendary hero of humanity."`
+					to display
+						has "main plot completed"
+				`	"I am <first> <last>, a member of the Free Worlds Council."`
+					to display
+						has "FW Northern 3: done"
+				`	"It's good to see you again. Could you tell me more about the Star-Worms?"`
+					goto starworms
+				`	"Let's skip the formalities. Do you have any more assignments for me?"`
+					goto assignment
+			`	"I am glad for the opportunity to work with you, <first>. I hope this can be the beginning of a long collaborative working relationship between you and the Ministry of Alien Life. Before I tell you about the next part of the plan, would you like to ask anything?"`
+			choice
+				`	"What actually are these Star-Worms?"`
+				`	"No, I don't have anything to ask. What's the plan?"`
+					goto assignment
+			label starworms
+			`	"The Star-Worms are not really worms in the traditional sense - they are actually a complex filamentous arrangement of bacterial cells. They live in the vacuum of space, and are able to extract energy from ionised dust and gas. The most interesting thing we've learned about them is that they seem to be able to propel themselves directionally in a manner not totally dissimilar to ion engines. We've noticed that they often cling to the exterior of ships, and our research has suggested that they are attracted to the shields."`

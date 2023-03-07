@@ -99,6 +99,8 @@ mission "Star-Worm Research 1 (deferred)"
 mission "Star-Worm Research 2"
 	name `Star-Worm Recovery`
 	description `Bring this five ton collecting device to the Norelon system, where it will scoop up some "Star-Worms".`
+	cargo "collecting device" 5
+	blocked "You need five tons of cargo space free to complete this mission. Return here when you have freed up enough space."
 	to offer
 		or
 			has "Star-Worm Research 1: done"
@@ -127,4 +129,20 @@ mission "Star-Worm Research 2"
 				`	"No, I don't have anything to ask. What's the plan?"`
 					goto assignment
 			label starworms
-			`	"The Star-Worms are not really worms in the traditional sense - they are actually a complex filamentous arrangement of bacterial cells. They live in the vacuum of space, and are able to extract energy from ionised dust and gas. The most interesting thing we've learned about them is that they seem to be able to propel themselves directionally in a manner not totally dissimilar to ion engines. We've noticed that they often cling to the exterior of ships, and our research has suggested that they are attracted to the shields."`
+			`	"The Star-Worms are not really worms in the traditional sense - they are actually a complex filamentous arrangement of bacterial cells. They live in the vacuum of space, and are able to extract energy from ionised dust and gas. The most interesting thing we've learned about them is that they seem to be able to propel themselves directionally in a manner not totally dissimilar to the way ion engines work, albeit at a vastly lower specific impulse. We've noticed that they often cling to the exterior of ships, and our research has suggested that they are attracted to the shields."`
+			`	"As yet, the fact that the Star-Worms can only survive in a near-total vacuum, and require the presence of small amounts of ionised matter to provide them with energy, has made it difficult to cultivate them in laboratory environments. We can study their activity, but we cannot effectively allow them to replicate on large scales, so we have been shipping them in from Norelon rather than trying to cultivate them locally."`
+			label assignment
+			`	"To continue our research, we need to ship more Star-Worms here from Norelon. What we need you to do is bring this 5 ton collecting device to the Norelon system, where it will scoop up some Star-Worms for use in our research."`
+			choice
+				`	"Alright, I'll do it."`
+					accept
+	on enter Norelon
+		dialog `You open up your cargo hold and activate the collecting device. You can see the lights from the Star-Worms as they zoom toward the device, which switches off after about half a minute. Time to head back to Kutora`
+	on complete
+		payment 50000
+		dialog
+			`Takirsha is not there to greet you when you land, but some dockworkers with similar uniforms carefully unload the collecting device from your ship and pay you <payment>.`
+			`"Takirsha is in a meeting right now, but she told us to tell you that it will probably take a few weeks to perform the necessary experiments. She will let you know when your help is needed again."`
+		event "star-worm research ready" 14 42
+
+event "star-worm research ready"

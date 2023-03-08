@@ -1029,6 +1029,7 @@ system Xangoret
 	arrival 2420
 	habitable 2420
 	haze _menu/haze-33
+	"starfield density" .18
 	link Rixengol
 	link "Xeko Naltok"
 	asteroids "small rock" 4 3.73

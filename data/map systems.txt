@@ -249,7 +249,7 @@ system Keloxen
 		period 1604.39
 
 system Ligoxel
-	pos -1482.5 291
+	pos -1494 291
 	government Xochira
 	arrival 500
 	habitable 430

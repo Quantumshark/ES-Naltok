@@ -32,7 +32,7 @@ system Amansinaya
 			period 9.81
 
 system Chategri
-	pos -1523.5 420.75
+	pos -1507 429.75
 	government Xochira
 	arrival 2400
 	habitable 2400
@@ -86,7 +86,7 @@ system Chategri
 			period 30.654
 
 system Choxera
-	pos -1536 335
+	pos -1532.5 344.5
 	government Xochira
 	arrival 1310
 	habitable 1310
@@ -146,7 +146,7 @@ system Choxera
 		period 860.07
 
 system Keloteg
-	pos -1542 116
+	pos -1539 119
 	government Telashki
 	arrival 980
 	habitable 980
@@ -198,7 +198,7 @@ system Keloteg
 			period 17.525
 
 system Keloxen
-	pos -1497 0
+	pos -1509 7
 	government Telashki
 	arrival 500
 	habitable 486.68
@@ -249,7 +249,7 @@ system Keloxen
 		period 1604.39
 
 system Ligoxel
-	pos -1498 272
+	pos -1482.5 291
 	government Xochira
 	arrival 500
 	habitable 430
@@ -384,7 +384,7 @@ system Linekol
 			period 46.922
 
 system Lixetog
-	pos -1548 205
+	pos -1544 213
 	government Xochira
 	arrival 851
 	habitable 851
@@ -522,7 +522,7 @@ system Loxelon
 			period 49.476
 
 system Ngotesh
-	pos -1633 397
+	pos -1630 396
 	government Xochira
 	arrival 500
 	habitable 500
@@ -683,7 +683,7 @@ system Rixengol
 		period 2014.95
 
 system Roxeka
-	pos -1436 464
+	pos -1416.5 449
 	government Xochira
 	arrival 500
 	habitable 427
@@ -1096,7 +1096,7 @@ system Xangoret
 			period 17.608
 
 system "Xeko Naltok"
-	pos -1628 279
+	pos -1614 277
 	government Xochira
 	arrival 500
 	habitable 420.68
@@ -1143,7 +1143,7 @@ system "Xeko Naltok"
 		period 1480.07
 
 system Varajol
-	pos -1482 -132
+	pos -1527 -137
 	government Telashki
 	arrival 500
 	habitable 486.68
@@ -1263,7 +1263,7 @@ system Kelojol
 			period 14.517
 
 system Vokelon
-	pos -1531 -170
+	pos -1512.25 -214.75
 	government Telashki
 	arrival 500
 	habitable 135
@@ -1366,7 +1366,7 @@ system Lotegok
 		period 1355.15
 
 system Lekonet
-	pos -1555.5 -377.75
+	pos -1515.5 -377.5
 	government Uninhabited
 	arrival 3000
 	habitable 3000
@@ -1475,7 +1475,7 @@ system Golonex
 			period 48.748
 
 system Nixelog
-	pos -1635 -300
+	pos -1595 -304
 	government Uninhabited
 	habitable 850.92
 	haze _menu/haze-none
@@ -1542,7 +1542,7 @@ system Nixelog
 			period 49.737
 
 system Thoreklin
-	pos -1722 -250
+	pos -1702 -272
 	government Uninhabited
 	attributes nova
 	arrival 500
@@ -1685,7 +1685,7 @@ system Kuragu
 		offset 220
 
 system Vverev
-	pos -1429.5 533.25
+	pos -1394.5 539.25
 	government Uninhabited
 	attributes wormhole
 	arrival 500
@@ -1738,7 +1738,7 @@ system Vverev
 		hazard "Shield-depleting Wormhole" 1
 
 system Zivrez
-	pos -1342 594
+	pos -1227 562
 	government Uninhabited
 	arrival 500
 	habitable 300
@@ -1778,7 +1778,7 @@ system Zivrez
 			period 88.88
 
 system Rivvoz
-	pos -1229 574
+	pos -1300 626
 	government Uninhabited
 	arrival 550
 	habitable 550
@@ -1816,7 +1816,7 @@ system Rivvoz
 		period 2160.72
 
 system Krivvaz
-	pos -1286 495
+	pos -1328 442
 	government Uninhabited
 	arrival 500
 	habitable 500

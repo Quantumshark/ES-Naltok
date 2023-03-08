@@ -1693,7 +1693,7 @@ system Vverev
 	habitable 425
 	belt 1111
 	haze _menu/haze-none
-	"starfield density" .18
+	"starfield density" .12
 	link Zivrez
 	asteroids "small rock" 4 11.98
 	asteroids "medium rock" 1 8.56
@@ -1744,7 +1744,7 @@ system Zivrez
 	arrival 500
 	habitable 300
 	haze _menu/haze-none
-	"starfield density" .1
+	"starfield density" .25
 	link Krivvaz
 	link Rivvoz
 	link Vverev
@@ -1784,7 +1784,7 @@ system Rivvoz
 	arrival 550
 	habitable 550
 	haze _menu/haze-none
-	"starfield density" .1
+	"starfield density" .15
 	link Zivrez
 	asteroids "small rock" 3 12.11
 	asteroids "medium rock" 2 7.63
@@ -1822,7 +1822,7 @@ system Krivvaz
 	arrival 500
 	habitable 500
 	haze _menu/haze-none
-	"starfield density" .1
+	"starfield density" .25
 	link Zivrez
 	asteroids "small rock" 2 14.98
 	asteroids "medium rock" 3 9.56

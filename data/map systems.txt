@@ -1743,7 +1743,7 @@ system Zivrez
 	government Uninhabited
 	arrival 500
 	habitable 300
-	haze _menu/haze-none
+	haze _menu/haze-33
 	"starfield density" .25
 	link Krivvaz
 	link Rivvoz
@@ -1821,7 +1821,7 @@ system Krivvaz
 	government Uninhabited
 	arrival 500
 	habitable 500
-	haze _menu/haze-none
+	haze _menu/haze-33
 	"starfield density" .25
 	link Zivrez
 	asteroids "small rock" 2 14.98

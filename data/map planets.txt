@@ -53,6 +53,7 @@ planet Kevoshek
 
 planet Keltaren
 	attributes "gas giant" "requires: gaslining" uninhabited
+	landscape land/clouds_3
 	description "This is an unusual giant planet with an atmosphere of almost pure carbon dioxide, with only traces of the hydrogen and helium which typically make up the bulk of the atmospheres of gas giants."
 	description "The Naltok have released photosynthetic algae in an attempt to slowly convert the atmosphere into one of near-pure oxygen, which could then serve as a test site for various biological experiments and potentially as a location for future settlement."
 	government Uninhabited

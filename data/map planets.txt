@@ -113,6 +113,7 @@ planet Ngakego
 	spaceport `The spaceport here, like many Naltok buildings, is filled with about a foot of lukewarm water. For the Naltok this is essential, in order to prevent their skin from drying out in the air, but for humans and any other visitors this is inconvenient and highly unpleasant. Unlike many other Naltok buildings however, this building has "Visitor paths" which are almost entirely dry, allowing humans and alphas to traverse most of the spaceport in comfort.`
 	shipyard "Naltok Advanced"
 	shipyard "Telashki Advanced"
+	shipyard "Telashki Pike"
 	outfitter "Naltok Advanced"
 	outfitter "Telashki Advanced"
 
@@ -162,8 +163,8 @@ planet Thosekrol
 	description "Insofar as the Telashki have a capital, this is it. In addition to its population of nearly ten billion, Thosekrol is also home to the headquarters of the Ministry of War, Ministry of Transport and Ministry of Minerals and to their second largest shipyards after Ngakego."
 	description "Rather than expanding outwards into the countryside, the cities here have been made taller and denser, leaving most of the planet untouched."
 	spaceport "The spaceport on Thosekrol is situated at the south pole, connected to the rest of the planet by an incredibly complex underground network of railways and canals. Even within the spaceport itself, there are a series of tiny passenger scuttles that efficiently transport visitors between the various shops and utilities."
-	shipyard "Naltok Intermediate"
-	shipyard "Telashki Advanced"
+	shipyard "Naltok Advanced"
+	shipyard "Telashki Intermediate"
 	outfitter "Naltok Advanced"
 	outfitter "Telashki Advanced"
 
@@ -183,6 +184,7 @@ planet Vigechox
 	spaceport "The spaceport is in the centre of the largest and oldest city on this planet, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here. Some of the architecture in the city is distinctly different from anything you have seen anywhere else in Naltok space."
 	shipyard "Naltok Advanced"
 	shipyard "Xochira Advanced"
+	shipyard "Xochira Pike"
 	outfitter "Naltok Advanced"
 	outfitter "Xochira Advanced"
 	"required reputation" 25
@@ -225,6 +227,7 @@ planet Xorechige
 	spaceport "This is probably the busiest spaceport in Naltok space. Between the large population, the shipyards, and the military base, the amount of traffic here is absolutely staggering - a fact only exacerbated by the hapazard placement of military facilities, most of which were built during the chaotic early stages of the war."
 	shipyard "Naltok Advanced"
 	shipyard "Xochira Advanced"
+	shipyard "Xochira Pike"
 	outfitter "Naltok Advanced"
 	outfitter "Xochira Advanced"
 	"required reputation" 25

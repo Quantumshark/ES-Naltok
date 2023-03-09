@@ -839,6 +839,44 @@ ship "Pike"
 	bay "Drone" 0 0
 	description `The Pike is a highly versatile heavy warship, an old Naltok design which has remained popular for centuries. Featuring high mobility, impressive toughness and adequate space for passengers and cargo, the Pike's only real weakness is its relatively small number of weapon hardpoints.`
 
+ship "Pike" "Pike (Telashki)"
+	add attributes
+		licenses
+			"Ministry of War"
+	outfits
+		"Steel-Render" 3
+		"Shell-Splitter Launcher" 3
+		"Shell-Splitter Tube" 5
+		"Shell-Splitter Torpedo" 53
+		
+		"River Reactor"
+		"Pond Battery" 2
+		"River Shield Generator"
+		"Acid Grub" 41
+
+		"Monitor Thruster"
+		"Monitor Steering"
+		"Hyperdrive"
+
+ship "Pike" "Pike (Xochira)"
+	add attributes
+		licenses
+			"Xochira Military"
+	outfits
+		"Steel-Render" 3
+		"Shell-Splitter Launcher" 3
+		"Shell-Splitter Tube" 5
+		"Shell-Splitter Torpedo" 53
+		
+		"River Reactor"
+		"Pond Battery" 2
+		"River Shield Generator"
+		"Ripper Pistols" 41
+
+		"Monitor Thruster"
+		"Monitor Steering"
+		"Hyperdrive"
+
 ship "Mola"
 	sprite "ship/mola"
 	thumbnail "thumbnail/mola"
@@ -940,6 +978,7 @@ ship "Kaluga"
 		category "Heavy Warship"
 		licenses
 			"Xochira"
+			"Xochira Military"
 		"cost" 33723000
 		"shields" 8600
 		"hull" 55800

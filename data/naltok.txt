@@ -36,7 +36,6 @@ shipyard "Naltok Advanced"
 	"Piranha"
 	"Barracuda"
 	"Moray"
-	"Pike"
 	"Minnow"
 
 shipyard "Xochira Basics"
@@ -47,11 +46,18 @@ shipyard "Xochira Intermediate"
 shipyard "Xochira Advanced"
 	"Archerfish"
 
+shipyard "Xochira Pike"
+	"Pike (Xochira)"
+
 shipyard "Telashki Basics"
 	"Tetra"
 
 shipyard "Telashki Advanced"
 	"Tetra"
+
+shipyard "Telashki Pike"
+	"Pike (Telashki)"
+
 
 outfitter "Naltok Ammo"
 	"Shell-Splitter Torpedo"

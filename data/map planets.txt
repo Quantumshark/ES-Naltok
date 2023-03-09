@@ -6,10 +6,10 @@ planet Arcadia
 
 planet Chexilok
 	attributes naltok
-	landscape land/desert2
-	description "This otherwise unremarkable desert planet is believed to have once been home to a shallow ocean that covered most of its surface, the only remains of which are found in the vast oilfields that supply more than two thirds of the oil used in Naltok space."
+	landscape land/sea5
+	description "This is an unusually hot, dense ocean planet. The pressure at sea level is nearly three times that of Earth, and the concentration of atmospheric carbon dioxide is high enough that it is toxic. The Naltok have established massive quantities of bioengineered algae in the upper waters, which supply more than two thirds of the oil used in Naltok space."
 	description "While the Naltok are generally more cautious about the overuse of plastics than humanity, and have moved away from fossil fuels as an energy source entirely, they nonetheless require moderate amounts of various oil derivatives for industrial processes."
-	spaceport "You have never seen the Naltok move as quickly as they do here. Visiting merchant captains rush to pick up their deliveries as quickly as they are able to, spending as little time as possible in the hot, dry air."
+	spaceport "The spaceport is pressurised, and carefully cooled to a more pleasant temperature. Small windows give views of the immense oceans and piercing sunlight outside, though most are covered by curtains which keep the light and heat at bay."
 	"required reputation" 25
 
 planet Chireke

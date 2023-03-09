@@ -39,6 +39,7 @@ mission "Star-Worm Research 1"
 				goto proposal
 			label eager
 			`	"You seem very eager, perhaps one day you will wish to settle down here and join the Ministry!"`
+				goto proposal
 			label cautious
 			`	"Do not worry, you may listen to the whole proposal before deciding."`
 			label proposal

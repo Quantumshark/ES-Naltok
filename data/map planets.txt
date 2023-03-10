@@ -204,8 +204,8 @@ planet "Wormhole Naltok"
 
 wormhole "Wormhole Naltok"
 	mappable
-	link Amansinaya Vverev
-	link Vverev Amansinaya
+	link Amansinaya 73-Che-Ja
+	link 73-Che-Ja Amansinaya
 
 planet Xejolki
 	attributes naltok research

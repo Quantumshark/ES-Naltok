@@ -1686,7 +1686,7 @@ system Kuragu
 		period 349.82
 		offset 220
 
-system Vverev
+system 73-Che-Ja
 	pos -1494 539
 	government Uninhabited
 	attributes wormhole
@@ -1695,7 +1695,7 @@ system Vverev
 	belt 1111
 	haze _menu/haze-none
 	"starfield density" .12
-	link Zivrez
+	link 78-Ngo-Lon
 	asteroids "small rock" 4 11.98
 	asteroids "medium rock" 1 8.56
 	asteroids "large rock" 2 15.67
@@ -1739,16 +1739,16 @@ system Vverev
 		offset 180
 		hazard "Shield-depleting Wormhole" 1
 
-system Zivrez
+system 78-Ngo-Lon
 	pos -1363 519
 	government Uninhabited
 	arrival 500
 	habitable 300
 	haze _menu/haze-33
 	"starfield density" .25
-	link Krivvaz
-	link Rivvoz
-	link Vverev
+	link 82-Thox-Lo
+	link 74-Go-Ke
+	link 73-Che-Ja
 	asteroids "small rock" 3 10.83
 	asteroids "large rock" 1 11.67
 	asteroids "small metal" 5 15.33
@@ -1779,14 +1779,14 @@ system Zivrez
 			distance 290
 			period 88.88
 
-system Rivvoz
+system 74-Go-Ke
 	pos -1420 601
 	government Uninhabited
 	arrival 550
 	habitable 550
 	haze _menu/haze-none
 	"starfield density" .15
-	link Zivrez
+	link 78-Ngo-Lon
 	asteroids "small rock" 3 12.11
 	asteroids "medium rock" 2 7.63
 	asteroids "small metal" 6 11.43
@@ -1817,14 +1817,14 @@ system Rivvoz
 		distance 4399
 		period 2160.72
 
-system Krivvaz
+system 82-Thox-Lo
 	pos -1333 442
 	government Uninhabited
 	arrival 500
 	habitable 500
 	haze _menu/haze-33
 	"starfield density" .25
-	link Zivrez
+	link 78-Ngo-Lon
 	asteroids "small rock" 2 14.98
 	asteroids "medium rock" 3 9.56
 	asteroids "small metal" 3 16.67

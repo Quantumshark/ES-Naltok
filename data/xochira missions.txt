@@ -7,3 +7,16 @@
 # Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+mission "Xochira: Pirate Recon 1 (Men)"
+	name "Pirate Reconnaissance"
+	description "Fly through the Thule system and record the activity of the pirates there, then return to Ruxanguv and give your logs to the Xochira."
+	to offer
+		#todo: xochira first contact and relevant conditions here
+		not "event: Thule becomes independent"
+	source
+		government Xochira
+	waypoint Men
+	destination Ruxanguv
+	on offer
+		conversation

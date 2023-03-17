@@ -19,6 +19,7 @@ mission "Xochira: Pirate Recon 1 (Men)"
 		attributes military
 	waypoint Men
 	destination Ruxanguv
+	clearance
 	on offer
 		conversation
 			``

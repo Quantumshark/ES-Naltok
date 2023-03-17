@@ -16,7 +16,9 @@ mission "Xochira: Pirate Recon 1 (Men)"
 		not "event: Thule becomes independent"
 	source
 		government Xochira
+		attributes military
 	waypoint Men
 	destination Ruxanguv
 	on offer
 		conversation
+			``

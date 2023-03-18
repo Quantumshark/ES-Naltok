@@ -797,12 +797,12 @@ ship "Pike"
 		"hull energy" .775
 		"hull heat" 2.325
 		"required crew" 38
-		"bunks" 86
+		"bunks" 80
 		"mass" 960
 		"drag" 10.3
 		"heat dissipation" .2
 		"fuel capacity" 600
-		"cargo space" 196
+		"cargo space" 216
 		"outfit space" 808
 		"weapon capacity" 312
 		"engine capacity" 240

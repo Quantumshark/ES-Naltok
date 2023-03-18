@@ -1183,7 +1183,7 @@ ship "Minnow"
 		"mass" 33
 		"drag" .45
 		"heat dissipation" .48
-		"cargo space" 27
+		"cargo space" 32
 		"outfit space" 61
 		"weapon capacity" 14
 		"engine capacity" 25

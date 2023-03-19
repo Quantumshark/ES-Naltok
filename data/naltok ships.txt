@@ -32,7 +32,7 @@ ship "Mackerel"
 		"engine capacity" 94
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 20
@@ -77,7 +77,7 @@ ship "Marlin"
 		"engine capacity" 134
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 64
@@ -125,7 +125,7 @@ ship "Sturgeon"
 		"engine capacity" 194
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 154
@@ -166,7 +166,7 @@ ship "Herring"
 		"engine capacity" 46
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 8
@@ -207,7 +207,7 @@ ship "Conger"
 		"engine capacity" 106
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 28
@@ -265,7 +265,7 @@ ship "Flounder"
 		"engine capacity" 114
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 72
@@ -318,7 +318,7 @@ ship "Grouper"
 		"engine capacity" 188
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 169
@@ -357,7 +357,7 @@ ship "Tetra"
 		"engine capacity" 80
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 21
@@ -410,7 +410,7 @@ ship "Archerfish"
 		"engine capacity" 92
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 42
@@ -459,7 +459,7 @@ ship "Piranha"
 		"engine capacity" 104
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 55
@@ -594,7 +594,7 @@ ship "Barracuda"
 		"engine capacity" 118
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 68
@@ -706,7 +706,7 @@ ship "Albacore"
 		"engine capacity" 122
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 72
@@ -753,7 +753,7 @@ ship "Moray"
 		"engine capacity" 104
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 108
@@ -808,7 +808,7 @@ ship "Pike"
 		"engine capacity" 240
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 193
@@ -902,7 +902,7 @@ ship "Mola"
 		"engine capacity" 186
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 178
@@ -997,7 +997,7 @@ ship "Kaluga"
 		"engine capacity" 178
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 242
@@ -1057,7 +1057,7 @@ ship "Coelacanth"
 		"engine capacity" 268
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 308
@@ -1108,7 +1108,7 @@ ship "Lamprey"
 		"engine capacity" 37
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 8
@@ -1147,7 +1147,7 @@ ship "Remora"
 		"engine capacity" 27
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 12
@@ -1189,7 +1189,7 @@ ship "Minnow"
 		"engine capacity" 25
 		"heat protection" 3
 		"burn protection" 1
-		"full shield permeability" .4
+		"high shield permeability" .4
 		"low shield permeability" .4
 		weapon
 			"blast radius" 4

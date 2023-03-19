@@ -503,7 +503,7 @@ ship "Piranha" "Piranha (Xochira)"
 	outfits
 		"Shell-Splitter Launcher" 2
 		"Shell-Splitter Tube" 3
-		"Shell-Splitter" 34
+		"Shell-Splitter Torpedo" 34
 		"Triple Breaker Turret"
 		"Brook Cell"
 		"Pond Battery"
@@ -956,7 +956,7 @@ ship "Mola" "Mola (Brawling)"
 		"Breaker Turret" 2
 		"Steel-Render" 2
 
-		"Copepod Cell"
+		"Brook Cell"
 		"Stream Generator"
 		"Pond Battery" 3
 		"Fuel Vat" 2

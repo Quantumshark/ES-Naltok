@@ -15,21 +15,21 @@ system Amansinaya
 		period 4.31768
 	object Arcadia
 		sprite planet/forest0
-		distance 1454.95
+		distance 1434.95
 		period 1132.992
 	object
 		sprite planet/ocean7-b
-		distance 1715.19
+		distance 1785.19
 		period 1262.128
+		object
+			sprite planet/tethys
+			distance 165
+			period 9.81
 	object "Wormhole Naltok"
 		sprite planet/wormhole-yellow
 		distance 3500
 		period 1000
 		hazard "Shield-depleting Wormhole" 1
-		object
-			sprite planet/tethys
-			distance 250
-			period 9.81
 
 system Chategri
 	pos -1507 429.75

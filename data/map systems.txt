@@ -592,10 +592,10 @@ system Norelon
 	"starfield density" .15
 	link Loxelon
 	link Vokegol
-	asteroids "small rock" 14 8.197
-	asteroids "medium rock" 23 3.664
-	asteroids "small metal" 85 8.135
-	asteroids "medium metal" 104 7.825
+	asteroids "small rock" 4 8.197
+	asteroids "medium rock" 8 3.664
+	asteroids "small metal" 14 8.135
+	asteroids "medium metal" 21 7.825
 	hazard Star-Worms 100
 	object
 		sprite star/nova-small

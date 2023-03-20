@@ -22,10 +22,11 @@ hazard "Shield-depleting Wormhole"
 		"relative shield damage" 1
 
 effect "star-worm hazard"
-	sprite "effect/static"
-		"no repeat"
+	sprite "effect/ion flare/tiny"
 		"frame rate" 20
-	"lifetime" 19
+	"lifetime" 40
+	"random lifetime" 40
 	"random angle" 360
-	"random spin" 10
-	"random velocity" 1
+	"random spin" 5
+	"velocity" 4
+	"random velocity" 10

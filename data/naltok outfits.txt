@@ -20,7 +20,7 @@ outfit "Spring Cell"
 
 outfit "Brook Cell"
 	category "Power"
-	cost 354200
+	cost 254200
 	thumbnail "outfit/large naltok cell"
 	"mass" 32
 	"outfit space" -32
@@ -30,7 +30,7 @@ outfit "Brook Cell"
 
 outfit "Stream Generator"
 	category "Power"
-	cost 1132700
+	cost 982700
 	thumbnail "outfit/naltok rtg"
 	"mass" 59
 	"outfit space" -59
@@ -40,7 +40,7 @@ outfit "Stream Generator"
 
 outfit "River Reactor"
 	category "Power"
-	cost 7114900
+	cost 6014900
 	thumbnail "outfit/small naltok fission"
 	"mass" 101
 	"outfit space" -101
@@ -50,7 +50,7 @@ outfit "River Reactor"
 
 outfit "Estuary Reactor"
 	category "Power"
-	cost 17832300
+	cost 14832300
 	thumbnail "outfit/large naltok fission"
 	"mass" 166
 	"outfit space" -166
@@ -71,7 +71,7 @@ outfit "Mist Cell"
 
 outfit "Fog Cell"
 	category "Power"
-	cost 103500
+	cost 203500
 	thumbnail "outfit/large naltok solar"
 	"mass" 36
 	"outfit space" -36
@@ -102,7 +102,7 @@ outfit "River Shield Generator"
 
 outfit "Fuel Vat"
 	category "Systems"
-	cost 216300
+	cost 433000
 	thumbnail "outfit/naltok fuel vat"
 	"mass" 31
 	"outfit space" -31
@@ -140,7 +140,7 @@ outfit "Lake Battery"
 
 outfit "Broad-Spectrum Scanner"
 	category "Systems"
-	cost 435000
+	cost 335000
 	thumbnail "outfit/broad-spectrum scanner"
 	"mass" 13
 	"outfit space" -13

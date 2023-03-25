@@ -339,7 +339,7 @@ ship "Guppy"
 	thumbnail "thumbnail/guppy"
 	attributes
 		category "Interceptor"
-		"cost" 301000
+		"cost" 381000
 		"shields" 1100
 		"hull" 4200
 		"hull repair rate" 0.8

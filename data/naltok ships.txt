@@ -367,7 +367,7 @@ ship "Guppy"
 	outfits
 		"Breaker" 2
 
-		"Brook Cell"
+		"Spring Cell" 2
 		"Puddle Battery"
 		"Stream Shield Generator"
 

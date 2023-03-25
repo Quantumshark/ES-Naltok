@@ -346,12 +346,12 @@ ship "Guppy"
 		"hull energy" .2
 		"hull heat" .6
 		"required crew" 1
-		"bunks" 4
+		"bunks" 3
 		"mass" 104
 		"drag" 1.5
 		"heat dissipation" .45
 		"fuel capacity" 500
-		"cargo space" 24
+		"cargo space" 36
 		"outfit space" 184
 		"weapon capacity" 32
 		"engine capacity" 64
@@ -367,17 +367,17 @@ ship "Guppy"
 	outfits
 		"Breaker" 2
 
-		"Spring Cell"
+		"Brook Cell"
 		"Puddle Battery"
 		"Stream Shield Generator"
 
-		"Anole Thruster"
+		"Gecko Thruster"
 		"Anole Steering"
 		"Hyperdrive"
 
 	gun "Breaker"
 	gun "Breaker"
-	description `The Guppy is a small interceptor built by the Naltok.`
+	description `Though it is nominally an interceptor, most Naltok view the Guppy as a mining vessel, and it has gained a reputation as being little more than a crewed Minnow. The questionable decision to give the Guppy one forwards and one rearwards gun has only served to worsen the public perception of it, and consequently Guppies are a rare sight in military and civilian fleets alike.`
 
 ship "Tetra"
 	sprite "ship/tetra"

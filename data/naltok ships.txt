@@ -334,6 +334,51 @@ ship "Grouper"
 	bay "Drone" 0 0
 	description `As part of their plans to root out the Alphas from all of Human space, the Xochira designed the Grouper as a support vessel able to continually refuel their warships during long journeys.`
 
+ship "Guppy"
+	sprite "ship/guppy"
+	thumbnail "thumbnail/guppy"
+	attributes
+		category "Interceptor"
+		"cost" 301000
+		"shields" 1100
+		"hull" 4200
+		"hull repair rate" 0.8
+		"hull energy" .2
+		"hull heat" .6
+		"required crew" 1
+		"bunks" 4
+		"mass" 104
+		"drag" 1.5
+		"heat dissipation" .45
+		"fuel capacity" 500
+		"cargo space" 24
+		"outfit space" 184
+		"weapon capacity" 32
+		"engine capacity" 64
+		"heat protection" 3
+		"burn protection" 1
+		"high shield permeability" .4
+		"low shield permeability" .4
+		weapon
+			"blast radius" 17
+			"shield damage" 230
+			"hull damage" 115
+			"hit force" 345
+	outfits
+		"Breaker" 2
+
+		"Spring Cell"
+		"Puddle Battery"
+		"Stream Shield Generator"
+
+		"Anole Thruster"
+		"Anole Steering"
+		"Hyperdrive"
+
+	gun "Breaker"
+	gun "Breaker"
+	description `The Guppy is a small interceptor built by the Naltok.`
+
 ship "Tetra"
 	sprite "ship/tetra"
 	thumbnail "thumbnail/tetra"
@@ -350,8 +395,8 @@ ship "Tetra"
 		"mass" 128
 		"drag" 1.6
 		"heat dissipation" .43
-		"fuel capacity" 500
-		"cargo space" 12
+		"fuel capacity" 400
+		"cargo space" 6
 		"outfit space" 218
 		"weapon capacity" 62
 		"engine capacity" 80

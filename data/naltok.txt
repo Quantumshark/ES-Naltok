@@ -58,7 +58,6 @@ shipyard "Telashki Advanced"
 shipyard "Telashki Pike"
 	"Pike (Telashki)"
 
-
 outfitter "Naltok Ammo"
 	"Shell-Splitter Torpedo"
 	"Local Map"

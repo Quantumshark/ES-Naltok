@@ -348,7 +348,7 @@ ship "Guppy"
 		"required crew" 1
 		"bunks" 3
 		"mass" 104
-		"drag" 1.5
+		"drag" 1.7
 		"heat dissipation" .45
 		"fuel capacity" 500
 		"cargo space" 36

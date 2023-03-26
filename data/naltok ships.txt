@@ -335,6 +335,7 @@ ship "Grouper"
 	description `As part of their plans to root out the Alphas from all of Human space, the Xochira designed the Grouper as a support vessel able to continually refuel their warships during long journeys.`
 
 ship "Guppy"
+	plural "Guppies"
 	sprite "ship/guppy"
 	thumbnail "thumbnail/guppy"
 	attributes

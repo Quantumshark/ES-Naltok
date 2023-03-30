@@ -971,6 +971,7 @@ system Tolonek
 system Vokegol
 	pos -1676 87
 	government "Naltok (Neutral)"
+	attributes "notable star"
 	arrival 500
 	habitable 203.68
 	haze _menu/haze-none
@@ -1369,6 +1370,7 @@ system Lotegok
 system Lekonet
 	pos -1515.5 -377.5
 	government Uninhabited
+	attributes "giant star" "notable star"
 	arrival 3000
 	habitable 3000
 	haze _menu/haze-none

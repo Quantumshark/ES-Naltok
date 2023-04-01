@@ -28,14 +28,15 @@ government "Telashki"
 	"crew defense" 2.6
 	"player reputation" 5
 	"attitude toward"
-		"Telashki (Attacking)" 1
+		"Telashki (Vokegol)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
 	illegals
 		ignore "Acid Grub"
 
-government "Telashki (Attacking)"
+# Both Naltok factions send fleets to Vokegol, but those fleets don't fight each other.
+government "Telashki (Vokegol)"
 	"display name" "Telashki"
 	swizzle 15
 	"crew attack" 1.1
@@ -57,7 +58,7 @@ government "Xochira"
 	language "Naltok"
 	"player reputation" -10
 	"attitude toward"
-		"Xochira (Attacking)" 1
+		"Xochira (Vokegol)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Telashki" -.01
@@ -67,7 +68,8 @@ government "Xochira"
 	illegals
 		ignore "Acid Grub"
 
-government "Xochira (Attacking)"
+# Both Naltok factions send fleets to Vokegol, but those fleets don't fight each other.
+government "Xochira (Vokegol)"
 	"display name" "Xochira"
 	swizzle 24
 	"crew attack" .8

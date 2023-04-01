@@ -1,8 +1,8 @@
 government "Naltok Merchant"
 	"display name" "Naltok"
 	swizzle 12
-	"crew attack" .7
-	"crew defense" 1.7
+	"crew attack" .5
+	"crew defense" 1.6
 	language "Naltok"
 	"player reputation" 5
 	illegals
@@ -12,8 +12,8 @@ government "Naltok (Neutral)"
 	"display name" "Naltok"
 	swizzle 10
 	color .03 .25 .9
-	"crew attack" .7
-	"crew defense" 1.7
+	"crew attack" .5
+	"crew defense" 1.6
 	language "Naltok"
 	"player reputation" 5
 	"attitude toward"
@@ -25,7 +25,7 @@ government "Telashki"
 	swizzle 15
 	color .01 .93 .72
 	"crew attack" 1.1
-	"crew defense" 2.1
+	"crew defense" 2.6
 	"player reputation" 5
 	"attitude toward"
 		"Telashki (Attacking)" 1
@@ -39,7 +39,7 @@ government "Telashki (Attacking)"
 	"display name" "Telashki"
 	swizzle 15
 	"crew attack" 1.1
-	"crew defense" 2.1
+	"crew defense" 2.6
 	"player reputation" 5
 	"attitude toward"
 		"Telashki" 1
@@ -52,7 +52,7 @@ government "Telashki (Attacking)"
 government "Xochira"
 	swizzle 24
 	color .81 .23 .97
-	"crew attack" .9
+	"crew attack" .8
 	"crew defense" 1.9
 	language "Naltok"
 	"player reputation" -10
@@ -70,7 +70,7 @@ government "Xochira"
 government "Xochira (Attacking)"
 	"display name" "Xochira"
 	swizzle 24
-	"crew attack" .9
+	"crew attack" .8
 	"crew defense" 1.9
 	"player reputation" -10
 	"attitude toward"

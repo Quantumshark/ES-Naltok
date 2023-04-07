@@ -14,6 +14,15 @@ fleet "Xochira Interdictor"
 	personality
 		heroic vindictive
 
+fleet "Small Naltok Merchant"
+	government "Naltok Merchant"
+	names "naltok"
+	personality
+		confusion 40
+		timid
+	variant
+		"Herring"
+	
 
 shipyard "Naltok Basics"
 	"Herring"

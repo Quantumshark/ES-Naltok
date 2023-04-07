@@ -57,6 +57,7 @@ system Chategri
 	trade Metal 390
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
+	fleet "Small Naltok Merchant" 1500
 	object
 		sprite star/g5-old
 		period 10
@@ -113,6 +114,7 @@ system Choxera
 	trade Metal 390
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
+	fleet "Small Naltok Merchant" 800
 	object
 		sprite star/f8
 		period 10
@@ -169,6 +171,7 @@ system Keloteg
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 1000
 	object
 		sprite star/k0-old
 		period 10
@@ -220,6 +223,7 @@ system Keloxen
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 900
 	object
 		sprite star/k3
 		period 10
@@ -275,6 +279,7 @@ system Ligoxel
 	trade Metal 390
 	trade Plastic 390
 	fleet "Xochira Interdictor" 500
+	fleet "Small Naltok Merchant" 700
 	object
 		sprite star/m3
 		distance 22.846
@@ -335,6 +340,7 @@ system Linekol
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 700
 	object
 		sprite star/k3
 		period 10
@@ -409,6 +415,7 @@ system Lixetog
 	trade Metal 390
 	trade Plastic 390
 	fleet "Xochira Interdictor" 1200
+	fleet "Small Naltok Merchant" 900
 	object
 		sprite star/k5
 		distance 45
@@ -477,6 +484,7 @@ system Loxelon
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 3000
 	object
 		sprite planet/browndwarf-t-rouge
 		period 10
@@ -544,6 +552,7 @@ system Ngotesh
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 251
+	fleet "Small Naltok Merchant" 1200
 	object
 		sprite star/m8
 		distance 60.067
@@ -597,6 +606,7 @@ system Norelon
 	asteroids "small metal" 14 8.135
 	asteroids "medium metal" 21 7.825
 	hazard Star-Worms 100
+	fleet "Small Naltok Merchant" 20000
 	object
 		sprite star/nova-small
 		period 10
@@ -658,6 +668,7 @@ system Rixengol
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 1800
 	object
 		sprite star/m8
 		period 10
@@ -706,6 +717,7 @@ system Roxeka
 	trade Metal 390
 	trade Plastic 390
 	fleet "Xochira Interdictor" 500
+	fleet "Small Naltok Merchant" 2000
 	object
 		sprite star/k8
 		period 10
@@ -771,6 +783,7 @@ system Tekochi
 	trade Metal 390
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
+	fleet "Small Naltok Merchant" 1200
 	object
 		sprite star/f5-old
 		distance 23.652
@@ -829,6 +842,7 @@ system Tikelo
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 1800
 	object
 		sprite star/m8
 		period 10
@@ -886,6 +900,7 @@ system Tokilok
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 3000
 	object
 		sprite star/m8
 		period 10
@@ -940,6 +955,7 @@ system Tolonek
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 900
 	object
 		sprite star/m0
 		period 10
@@ -985,6 +1001,7 @@ system Vokegol
 	asteroids "small metal" 2 2.584
 	asteroids "medium metal" 10 3.774
 	asteroids "large metal" 6 2.516
+	fleet "Small Naltok Merchant" 3000
 	object
 		sprite star/a-dwarf
 		distance 18
@@ -1049,6 +1066,7 @@ system Xangoret
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 1200
 	object
 		sprite star/g0-old
 		distance 34.171
@@ -1124,6 +1142,7 @@ system "Xeko Naltok"
 	trade Metal 390
 	trade Plastic 390
 	fleet "Xochira Interdictor" 800
+	fleet "Small Naltok Merchant" 600
 	object
 		sprite star/k3
 		period 10
@@ -1169,6 +1188,7 @@ system Varajol
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 800
 	object
 		sprite star/k0
 		period 10
@@ -1232,6 +1252,7 @@ system Kelojol
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 600
 	object
 		sprite star/m0
 		period 10
@@ -1287,6 +1308,7 @@ system Vokelon
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 2800
 	object
 		sprite star/m8
 		period 10
@@ -1339,6 +1361,7 @@ system Lotegok
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 1000
 	object
 		sprite star/k0
 		period 10
@@ -1435,6 +1458,7 @@ system Golonex
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 600
 	object
 		sprite star/g0
 		distance 34.152
@@ -1502,6 +1526,7 @@ system Nixelog
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
+	fleet "Small Naltok Merchant" 60000
 	object
 		sprite star/g5
 		distance 44.176
@@ -1555,6 +1580,7 @@ system Thoreklin
 	link Kuragu
 	link Nixelog
 	asteroids "small metal" 1 1.386
+	fleet "Small Naltok Merchant" 60000
 	object
 		sprite star/nova-small
 		period 10
@@ -1608,6 +1634,7 @@ system Kuragu
 	trade Metal 390
 	trade Plastic 390
 	fleet "Quarg (Naltok)" 700
+	fleet "Small Naltok Merchant" 10000
 	object
 		sprite star/g3
 		period 10

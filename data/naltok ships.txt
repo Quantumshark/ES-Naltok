@@ -1039,7 +1039,7 @@ ship "Kaluga"
 		"fuel capacity" 400
 		"cargo space" 0
 		"outfit space" 896
-		"weapon capacity" 416
+		"weapon capacity" 444
 		"engine capacity" 178
 		"heat protection" 3
 		"burn protection" 1
@@ -1053,12 +1053,13 @@ ship "Kaluga"
 	outfits
 		"Steel-Render" 1
 		"Sky-Shredder" 4
+		"Naltok Anti-Missile"
 		"Halt-Swarm Launcher" 5
 		"Halt-Swarm Missile" 176
 		"Halt-Swarm Rack" 1
 
 		"River Reactor"
-		"Lake Battery"
+		"Pond Battery"
 		"River Shield Generator" 3
 		"Ripper Pistols" 71
 		"Shredder Minigun" 3
@@ -1073,6 +1074,7 @@ ship "Kaluga"
 	gun
 	gun
 	gun
+	turret
 	turret
 	turret
 	turret

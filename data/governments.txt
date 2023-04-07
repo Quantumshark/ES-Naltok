@@ -21,6 +21,30 @@ government "Naltok (Neutral)"
 	illegals
 		ignore "Acid Grub"
 
+government "Quarg (Naltok)"
+	swizzle 0
+	color .88 .77 0
+	"display name" "Quarg"
+
+	"player reputation" 1
+	"attitude toward"
+		"Quarg" 1
+		"Quarg (Hai)" 1
+		"Quarg (Kor Efret)" 1
+		"Quarg (Gegno)" 1
+	"death sentence" "quarg imprisonment"
+	"hostile hail" "hostile quarg"
+	"hostile disabled hail" "hostile quarg"
+	atrocities
+		"Nanotech Battery"
+		"Antimatter Core"
+		"Quarg Skylance"
+		"Quarg Anti-Missile"
+		"Intrusion Countermeasures"
+		"Medium Graviton Thruster"
+		"Medium Graviton Steering"
+		"Quantum Shield Generator"
+
 government "Telashki"
 	swizzle 15
 	color .01 .93 .72
@@ -32,6 +56,10 @@ government "Telashki"
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
+	"custom penalties for"
+		"Quarg (Naltok)"
+			disable -.1
+			board -.5
 	illegals
 		ignore "Acid Grub"
 
@@ -47,6 +75,10 @@ government "Telashki (Vokegol)"
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
+	"custom penalties for"
+		"Quarg (Naltok)"
+			disable -.1
+			board -.5
 	illegals
 		ignore "Acid Grub"
 

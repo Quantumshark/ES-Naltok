@@ -1585,7 +1585,7 @@ system Thoreklin
 
 system Kuragu
 	pos -1630 -202
-	government Quarg
+	government "Quarg (Naltok)"
 	attributes ringworld
 	arrival 700
 	departure 1000
@@ -1607,7 +1607,7 @@ system Kuragu
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 390
-	fleet Quarg 700
+	fleet "Quarg (Naltok)" 700
 	object
 		sprite star/g3
 		period 10

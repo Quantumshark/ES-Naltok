@@ -1,0 +1,10 @@
+fleet "Quarg (Naltok)"
+	government "Quarg (Naltok)"
+	names "quarg"
+	cargo 3
+	personality
+		forbearing opportunistic
+	variant
+		"Quarg Skylark"
+	variant
+		"Quarg Wardragon"

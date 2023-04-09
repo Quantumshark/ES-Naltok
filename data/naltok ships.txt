@@ -65,13 +65,13 @@ ship "Marlin"
 		"hull repair rate" 1.1
 		"hull energy" .275
 		"hull heat" .825
-		"required crew" 31
-		"bunks" 147
+		"required crew" 32
+		"bunks" 152
 		"mass" 640
 		"drag" 6.3
 		"heat dissipation" .23
 		"fuel capacity" 600
-		"cargo space" 71
+		"cargo space" 64
 		"outfit space" 428
 		"weapon capacity" 88
 		"engine capacity" 134

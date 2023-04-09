@@ -380,6 +380,7 @@ ship "Guppy"
 
 	gun "Breaker"
 	gun "Breaker"
+		angle 180
 	description `Though it is nominally an interceptor, most Naltok view the Guppy as a mining vessel, and it has gained a reputation as being little more than a crewed Minnow. The questionable decision to give the Guppy one forwards and one rearwards gun has only served to worsen the public perception of it, and consequently Guppies are a rare sight in military and civilian fleets alike.`
 
 ship "Tetra"
@@ -429,7 +430,9 @@ ship "Tetra"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
+		angle -30
 	gun "Shell-Splitter Pod"
+		angle 30
 	description `The Tetra is a versatile small ship built by the Telashki. Originally intended as an inexpensive counter to the Archerfish, the Tetra has since been shown to be quite effective when armed with Shell-Splitters and used in small squadrons against much larger ships.`
 
 ship "Archerfish"
@@ -665,11 +668,17 @@ ship "Barracuda"
 	gun "Breaker"
 	gun "Breaker"
 	gun "Shell-Splitter Launcher"
+		angle -90
 	gun "Shell-Splitter Launcher"
+		angle 90
 	gun
+		angle -90
 	gun
+		angle 90
 	gun "Shell-Splitter Launcher"
+		angle -90
 	gun "Shell-Splitter Launcher"
+		angle 90
 	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull and only a single pair of forward-facing guns for close combat.`
 
 ship "Barracuda" "Barracuda (Halt-Swarm)"
@@ -769,7 +778,9 @@ ship "Albacore"
 
 	gun
 	gun
+		angle -30
 	gun
+		angle 30
 	turret
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
@@ -827,6 +838,7 @@ ship "Moray"
 	gun
 	gun
 	gun
+		angle 180
 	turret
 	turret
 	turret
@@ -1073,9 +1085,13 @@ ship "Kaluga"
 
 	gun
 	gun
+		angle -30
 	gun
+		angle 30
 	gun
+		angle -45
 	gun
+		angle 45
 	turret
 	turret
 	turret

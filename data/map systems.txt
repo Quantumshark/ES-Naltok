@@ -1096,16 +1096,17 @@ system Xangoret
 			sprite planet/ocean4-b
 				scale 0.5
 			distance 212
-			period 16.248
+			period 16.61
 		object Vigechox
 			sprite planet/forest2
 				scale 0.5
 			distance 350
-			period 34.467
+			offset 180
+			period 33.22
 		object Xoravil
 			sprite planet/dust0
-			distance 473
-			period 54.149
+			distance 513
+			period 66.44
 	object
 		sprite planet/gas8
 		distance 3409.73

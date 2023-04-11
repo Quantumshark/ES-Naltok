@@ -49,13 +49,13 @@ system Chategri
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 549
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 289
 	fleet "Xochira Interdictor" 800
 	fleet "Small Naltok Merchant" 1500
 	object
@@ -106,13 +106,13 @@ system Choxera
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 509
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 277
 	fleet "Xochira Interdictor" 800
 	fleet "Small Naltok Merchant" 800
 	object
@@ -164,13 +164,13 @@ system Keloteg
 	trade Clothing 433
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 218
 	trade "Heavy Metals" 627
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 400
 	fleet "Small Naltok Merchant" 1000
 	object
 		sprite star/k0-old
@@ -216,13 +216,13 @@ system Keloxen
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 153
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 424
 	fleet "Small Naltok Merchant" 900
 	object
 		sprite star/k3
@@ -271,13 +271,13 @@ system Ligoxel
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 533
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 287
 	fleet "Xochira Interdictor" 500
 	fleet "Small Naltok Merchant" 700
 	object
@@ -333,13 +333,13 @@ system Linekol
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 131
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 406
 	fleet "Small Naltok Merchant" 700
 	object
 		sprite star/k3
@@ -407,13 +407,13 @@ system Lixetog
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 513
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 310
 	fleet "Xochira Interdictor" 1200
 	fleet "Small Naltok Merchant" 900
 	object
@@ -477,13 +477,13 @@ system Loxelon
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 413
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 320
 	fleet "Small Naltok Merchant" 3000
 	object
 		sprite planet/browndwarf-t-rouge
@@ -545,7 +545,7 @@ system Ngotesh
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 531
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
@@ -661,13 +661,13 @@ system Rixengol
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 460
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 306
 	fleet "Small Naltok Merchant" 1800
 	object
 		sprite star/m8
@@ -709,13 +709,13 @@ system Roxeka
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 575
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 298
 	fleet "Xochira Interdictor" 500
 	fleet "Small Naltok Merchant" 2000
 	object
@@ -775,13 +775,13 @@ system Tekochi
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 561
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 305
 	fleet "Xochira Interdictor" 800
 	fleet "Small Naltok Merchant" 1200
 	object
@@ -834,14 +834,14 @@ system Tikelo
 	asteroids "large metal" 2 3.629
 	trade Clothing 290
 	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
+	trade Equipment 701
+	trade Food 245
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 370
 	fleet "Small Naltok Merchant" 1800
 	object
 		sprite star/m8
@@ -893,13 +893,13 @@ system Tokilok
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 300
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 361
 	fleet "Small Naltok Merchant" 3000
 	object
 		sprite star/m8
@@ -948,13 +948,13 @@ system Tolonek
 	trade Clothing 409
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 177
 	trade "Heavy Metals" 655
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 383
 	fleet "Small Naltok Merchant" 900
 	object
 		sprite star/m0
@@ -1059,13 +1059,13 @@ system Xangoret
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 483
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 311
 	fleet "Small Naltok Merchant" 1200
 	object
 		sprite star/g0-old
@@ -1135,13 +1135,13 @@ system "Xeko Naltok"
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 503
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 300
 	fleet "Xochira Interdictor" 800
 	fleet "Small Naltok Merchant" 600
 	object
@@ -1182,13 +1182,13 @@ system Varajol
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 115
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 401
 	fleet "Small Naltok Merchant" 800
 	object
 		sprite star/k0
@@ -1246,13 +1246,13 @@ system Kelojol
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 111
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 393
 	fleet "Small Naltok Merchant" 600
 	object
 		sprite star/m0
@@ -1301,14 +1301,14 @@ system Vokelon
 	asteroids "large metal" 1 1.676
 	trade Clothing 290
 	trade Electronics 740
-	trade Equipment 530
-	trade Food 350
+	trade Equipment 399
+	trade Food 113
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 412
 	fleet "Small Naltok Merchant" 2800
 	object
 		sprite star/m8
@@ -1355,13 +1355,13 @@ system Lotegok
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 191
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 399
 	fleet "Small Naltok Merchant" 1000
 	object
 		sprite star/k0
@@ -1452,13 +1452,13 @@ system Golonex
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 179
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 384
 	fleet "Small Naltok Merchant" 600
 	object
 		sprite star/g0
@@ -1520,13 +1520,13 @@ system Nixelog
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 234
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 433
 	fleet "Small Naltok Merchant" 60000
 	object
 		sprite star/g5
@@ -1627,13 +1627,13 @@ system Kuragu
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
-	trade Food 350
+	trade Food 214
 	trade "Heavy Metals" 960
 	trade Industrial 720
 	trade "Luxury Goods" 1220
 	trade Medical 680
 	trade Metal 390
-	trade Plastic 390
+	trade Plastic 421
 	fleet "Quarg (Naltok)" 700
 	fleet "Small Naltok Merchant" 10000
 	object

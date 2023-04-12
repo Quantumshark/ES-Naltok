@@ -242,4 +242,5 @@ planet Xutajol
 	shipyard "Naltok Basics"
 	outfitter "Naltok Basics"
 	outfitter "Telashki Basics"
+	outfitter "Telashki Alphas"
 

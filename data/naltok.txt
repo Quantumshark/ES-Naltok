@@ -203,3 +203,6 @@ outfitter "Telashki Advanced"
 	"Fuel Vat"
 	"Acid Grub"	
 	"Broad-Spectrum Scanner"
+
+outfitter "Telashki Alphas"
+	"Xochira Security Cracker"

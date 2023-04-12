@@ -44,20 +44,25 @@ shipyard "Naltok Civilian Advanced"
 shipyard "Naltok Military Advanced"
 	"Moray"
 
+#Lamprey will be added during campaign
 shipyard "Xochira Basics"
 
+#Lamprey, Grouper, Albacore will be added during campaign
 shipyard "Xochira Intermediate"
 	"Archerfish"
 
+#Lamprey, Grouper, Albacore, Kaluga will be added during campaign
 shipyard "Xochira Advanced"
 	"Archerfish"
 
 shipyard "Xochira Pike"
 	"Pike (Xochira)"
 
+#Remora will be added during campaign
 shipyard "Telashki Basics"
 	"Tetra"
 
+#Remora, Mola will be added during campaign
 shipyard "Telashki Advanced"
 	"Tetra"
 

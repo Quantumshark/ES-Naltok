@@ -59,7 +59,7 @@ ship "Marlin"
 	thumbnail "thumbnail/marlin"
 	attributes
 		category "Space Liner"
-		"cost" 0
+		"cost" 4330000
 		"shields" 2700
 		"hull" 14100
 		"hull repair rate" 1.1
@@ -250,7 +250,7 @@ ship "Flounder"
 	thumbnail "thumbnail/flounder"
 	attributes
 		category "Heavy Freighter"
-		"cost" 2486000
+		"cost" 7731000
 		"shields" 1900
 		"hull" 18600
 		"hull repair rate" 1.2

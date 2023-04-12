@@ -173,7 +173,7 @@ planet Thosekrol
 	shipyard "Naltok Military Intermediate"
 	shipyard "Naltok Civilian Advanced"
 	shipyard "Naltok Military Advanced"
-	shipyard "Telashki Intermediate"
+	shipyard "Telashki Advanced"
 	outfitter "Naltok Advanced"
 	outfitter "Telashki Advanced"
 

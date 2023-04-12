@@ -712,7 +712,6 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 
 ship "Barracuda" "Barracuda (Leeching)"
 	outfits
-	outfits
 		"Leech-Ray" 2
 		"Halt-Swarm Launcher" 2
 		"Halt-Swarm Missile" 96
@@ -775,9 +774,20 @@ ship "Albacore"
 			"hull damage" 510
 			"hit force" 1530
 	outfits
-		"Ripper Pistols" 12
-		"Shredder Minigun" 6
+		"Halt-Swarm Launcher" 3
+		"Halt-Swarm Missile" 176
+		"Halt-Swarm Rack" 5
+		"Naltok Anti-Missile"
 
+		"River Shield Generator"
+		"Brook Cell"
+		"Puddle Battery"
+		"Ripper Pistols" 12
+		"Shredder Minigun" 7
+
+		"Iguana Thruster"
+		"Gecko Steering"
+		"Wyrm Afterburner"	
 		"Hyperdrive"
 
 	gun

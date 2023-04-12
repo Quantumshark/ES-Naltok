@@ -25,21 +25,21 @@ fleet "Small Naltok Merchant"
 	
 
 shipyard "Naltok Basics"
-	"Herring"
 	"Guppy"
+	"Herring"
 	"Minnow"
 
 shipyard "Naltok Civilian Intermediate"
-	"Mackerel"
 	"Conger"
+	"Mackerel"
 
 shipyard "Naltok Military Intermediate"
-	"Piranha"
 	"Barracuda"
+	"Piranha"
 
 shipyard "Naltok Civilian Advanced"
-	"Marlin"
 	"Flounder"
+	"Marlin"
 
 shipyard "Naltok Military Advanced"
 	"Moray"

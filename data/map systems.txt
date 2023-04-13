@@ -1311,8 +1311,13 @@ system Vokelon
 	trade Plastic 412
 	fleet "Small Naltok Merchant" 2800
 	object
-		sprite star/m8
-		period 10
+		sprite star/f-dwarf
+		distance 5.1
+		period 11.3
+	object
+		sprite star/l-dwarf
+		distance 33.2
+		period 11.3
 	object
 		sprite planet/rock8
 		distance 173.56

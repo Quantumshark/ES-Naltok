@@ -1319,24 +1319,16 @@ system Vokelon
 		distance 33.2
 		period 11.3
 	object
-		sprite planet/rock8
-		distance 173.56
-		period 78.717
-	object
 		sprite planet/desert0
-		distance 450.05
+		distance 550.05
 		period 328.688
 	object
 		sprite planet/gas10
-		distance 1033.05
+		distance 1233.05
 		period 1143.08
 	object
-		sprite planet/gas8
-		distance 1368.54
-		period 1742.93
-	object
 		sprite planet/gas14
-		distance 3965.55
+		distance 2965.55
 		period 8597.03
 		object
 			sprite planet/ice7

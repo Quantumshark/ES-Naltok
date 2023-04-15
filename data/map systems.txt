@@ -1150,9 +1150,8 @@ system "Xeko Naltok"
 	link Lixetog
 	link Rixengol
 	link Xangoret
-	asteroids "small rock" 20 7.507
-	asteroids "medium rock" 11 6.403
-	asteroids "medium metal" 11 5.686
+	asteroids "small rock" 6 7.507
+	asteroids "small metal" 7 5.686
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1181,9 +1180,9 @@ system "Xeko Naltok"
 		distance 664.34
 		period 429.139
 	object
-		sprite planet/gas0
-		distance 1881.75
-		period 1480.07
+		sprite planet/gas13
+		distance 21331.31
+		period -8388.9
 
 system Varajol
 	pos -1527 -137

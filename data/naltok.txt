@@ -212,3 +212,136 @@ outfitter "Telashki Advanced"
 
 outfitter "Telashki Alphas"
 	"Xochira Security Cracker"
+
+phrase "naltok syllable"
+	word
+		"l"
+		"k"
+		"g"
+		"ng"
+		"v"
+		"t"
+		"s"
+		"sh"
+		"f"
+		"j"
+		"ch"
+		"x"
+		"r"
+		"th"
+	word
+		"a"
+		"e"
+		"i"
+		"o"
+		"u"
+	word
+		"" 20
+		"l"
+		"k"
+		"g"
+		"ng"
+		"v"
+		"t"
+		"s"
+		"sh"
+		"f"
+		"j"
+		"ch"
+		"x"
+		"r"
+		"th"
+
+# Ship names:
+phrase "naltok"
+	word
+		"L"
+		"K"
+		"G"
+		"Ng"
+		"V"
+		"T"
+		"S"
+		"Sh"
+		"F"
+		"J"
+		"Ch"
+		"X"
+		"R"
+		"Th"
+	word
+		"a"
+		"e"
+		"i"
+		"o"
+		"u"
+	word
+		"" 20
+		"l"
+		"k"
+		"g"
+		"ng"
+		"v"
+		"t"
+		"s"
+		"sh"
+		"f"
+		"j"
+		"ch"
+		"x"
+		"r"
+		"th"
+	phrase
+		"naltok syllable"
+	word
+		""
+		" "
+	phrase
+		"naltok syllable"
+	phrase
+		"naltok syllable"
+
+phrase "telashki"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	word
+		": "
+	word
+		"Focused"
+		"Observant"
+		"Perceptive"
+		"Prepared"
+		"Ready"
+		"Watchful"
+	word
+		" "
+	word
+		"Eye"
+		"Hand"
+		"Nose"
+		"Ear"
+		"Seer"
+		"Listener"
+		"Tester"
+
+phrase "xochira"
+	word
+		"Kelo"
+		"Xeko"
+		"Voke"
+		"Chox"
+	phrase
+		"naltok syllable"
+	phrase
+		"naltok syllable"
+	word
+		" "
+	phrase
+		"naltok syllable"
+	phrase
+		"naltok syllable"
+	

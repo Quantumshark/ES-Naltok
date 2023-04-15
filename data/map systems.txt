@@ -137,18 +137,18 @@ system Choxera
 			sprite planet/europa
 			distance 150
 			period 19.141
-	object
-		sprite planet/rock13
+	object Keltaren
+		sprite planet/gas16
 		distance 1656.77
 		period 191.729
+	object
+		sprite planet/rock13
+		distance 3418.38
+		period 860.07
 		object
 			sprite planet/dust5
 			distance 175
 			period 29.102
-	object Keltaren
-		sprite planet/gas16
-		distance 3418.38
-		period 860.07
 
 system Keloteg
 	pos -1539 119
@@ -1181,8 +1181,8 @@ system "Xeko Naltok"
 		period 429.139
 	object
 		sprite planet/gas13
-		distance 21331.31
-		period -8388.9
+		distance 10331.31
+		period -4388.9
 
 system Varajol
 	pos -1527 -137

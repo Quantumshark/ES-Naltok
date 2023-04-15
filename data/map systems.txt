@@ -1181,7 +1181,7 @@ system "Xeko Naltok"
 		period 429.139
 	object Lekirat
 		sprite planet/gas13
-		distance 7331.31
+		distance 5131.31
 		period -4388.9
 
 system Varajol

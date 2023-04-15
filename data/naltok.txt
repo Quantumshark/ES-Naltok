@@ -23,6 +23,12 @@ fleet "Small Naltok Merchant"
 	variant
 		"Herring"
 	
+fleet "Naltok Miners"
+	government "Naltok Merchant"
+	names "naltok"
+	personality timid frugal mining harvests
+	variant
+		"Herring (Mining)"
 
 shipyard "Naltok Basics"
 	"Guppy"

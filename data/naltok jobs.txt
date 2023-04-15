@@ -8,47 +8,40 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-mission "Telashki Delivery Food Small"
-	name "Delivery to <planet>"
+mission "Telashki Redundant Research 1"
+	name "Research to <planet>"
 	job
 	repeat
-	description "Deliver <cargo> to <destination>. Payment is <payment>."
-	cargo Food 10 3 .3
-	to offer
-		random < 70
-	source
-		government "Telashki"
-		attributes rural
-	destination
-		distance 1 5
-		government "Telashki"
-		not attributes rural
-	on visit
-		dialog phrase "generic cargo on visit"
-	on complete
-		payment
-		dialog phrase "generic cargo delivery payment"
-
-mission "Telashki Delivery Food Large"
-	name "Delivery to <planet>"
-	job
-	repeat
-	description "Deliver <cargo> to <destination>. Payment is <payment>."
-	cargo Food 20 4 .2
+	description "Deliver a redundant copy of some recent research to <destination>. Payment is <payment>."
 	to offer
 		random < 60
 	source
+		attributes research
 		government "Telashki"
-		attributes rural
 	destination
-		distance 1 5
 		government "Telashki"
-		not attributes rural
-	on visit
-		dialog phrase "generic cargo on visit"
+	on accept
+		dialog `The copied data is carried on a small device, about the size of a small eraser. The attendant who hands it to you advises you to copy it to your ship's computer too, "just in case".`
 	on complete
 		payment
-		dialog phrase "generic cargo delivery payment"
+		dialog `A Naltok wearing the uniform of the Ministry of Genetic Research is waiting for you when you land, and happily takes the data chip from you after paying you <payment>.`
+
+mission "Telashki Redundant Research 2"
+	name "Research to <planet>"
+	job
+	repeat
+	description "Deliver a redundant copy of some recent research to <destination>. Payment is <payment>."
+	to offer
+		random < 40
+	source
+		government "Telashki"
+	destination
+		government "Telashki"
+	on accept
+		dialog `The copied data is carried on a small device, about the size of a small eraser. The attendant who hands it to you advises you to copy it to your ship's computer too, "just in case".`
+	on complete
+		payment
+		dialog `A Naltok wearing the uniform of the Ministry of Transport is waiting for you when you land, and happily takes the data chip from you after paying you <payment>.`
 
 mission "Lumber Delivery Telashki Minor"
 	name "Delivery to <planet>"

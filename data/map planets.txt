@@ -91,6 +91,12 @@ planet Legash
 	outfitter "Naltok Basics"
 	outfitter "Telashki Advanced"
 
+#todo: landscape with less swirlyness, something more like uranus
+planet Lekirat
+	attributes "gas giant" "requires: gaslining" uninhabited
+	landscape land/nasa16
+	description "This enormous ice giant, with an unusually cold, calm atmosphere and a loose retrograde orbit around the outskirts of Xeko Naltok, is believed to have been captured by the star at some point in the last few billion years. The capture event likely destabilised the orbits of much of the material in the system, leaving only the three innermost planets in stable orbits."
+
 planet Lonechox
 	attributes naltok rural
 	landscape land/sea17-harro

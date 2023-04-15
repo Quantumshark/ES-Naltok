@@ -1132,8 +1132,8 @@ system Xangoret
 			period 66.44
 	object
 		sprite planet/gas8
-		distance 3409.73
-		period 2121.79
+		distance 4409.73
+		period 3121.79
 		object
 			sprite planet/dust3
 			distance 222
@@ -1179,7 +1179,7 @@ system "Xeko Naltok"
 		sprite planet/ice8
 		distance 664.34
 		period 429.139
-	object
+	object Lekirat
 		sprite planet/gas13
 		distance 7331.31
 		period -4388.9

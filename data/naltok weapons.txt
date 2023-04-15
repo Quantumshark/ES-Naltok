@@ -167,8 +167,8 @@ outfit "Sky-Shredder"
 		"velocity" 19
 		"lifetime" 19
 		"reload" 7
-		"firing energy" 15
-		"firing heat" 12
+		"firing energy" 12
+		"firing heat" 8
 		"shield damage" 33
 		"hull damage" 36
 	description "The Sky-Shredder is designed to take down small, fast-moving opponents, allowing the powerful but unwieldy Steel-Render or a salvo of Shell-Splitter Torpedoes to deal with larger threats."

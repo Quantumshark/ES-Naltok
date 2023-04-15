@@ -187,7 +187,7 @@ ship "Herring"
 	engine 5 37
 	description `The Herring is the smallest freighter that the Naltok produce. Although more well-off merchants and military logistics fleets typically do not employ it, the Herring is still one of the most common ships in Naltok space due to its popularity with entry-level merchants, who can make a decent profit using it to haul cargo.`
 
-ship "Herring" "Herring (mining)"
+ship "Herring" "Herring (Mining)"
 	outfits
 		"Triple Breaker Turret"
 		"Broad-Spectrum Scanner"

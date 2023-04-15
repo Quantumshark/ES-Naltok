@@ -20,6 +20,7 @@ mission "Telashki Redundant Research 1"
 		government "Telashki"
 	destination
 		government "Telashki"
+		distance 1 8
 	on accept
 		dialog `The copied data is carried on a small device, about the size of a small eraser. The attendant who hands it to you advises you to copy it to your ship's computer too, "just in case".`
 	on complete
@@ -37,6 +38,7 @@ mission "Telashki Redundant Research 2"
 		government "Telashki"
 	destination
 		government "Telashki"
+		distance 1 8
 	on accept
 		dialog `The copied data is carried on a small device, about the size of a small eraser. The attendant who hands it to you advises you to copy it to your ship's computer too, "just in case".`
 	on complete

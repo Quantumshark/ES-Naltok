@@ -1554,6 +1554,7 @@ system Nixelog
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 433
+	fleet "Quarg (Naltok)" 3500
 	fleet "Small Naltok Merchant" 60000
 	fleet "Naltok Miners" 90000
 	object
@@ -1609,21 +1610,23 @@ system Thoreklin
 	link Kuragu
 	link Nixelog
 	asteroids "small metal" 1 1.386
+	minables yottrite 2 4.1
 	fleet "Small Naltok Merchant" 60000
+	fleet "Quarg Miners (Naltok)" 7200
 	object
-		sprite star/nova-small
+		sprite star/nova-old
 		period 10
 	object
 		sprite planet/rock4
-		distance 1054.95
+		distance 1354.95
 		period 432.992
 	object
 		sprite planet/fog0
-		distance 1715.19
+		distance 2165.19
 		period 562.128
 	object
 		sprite planet/gas10
-		distance 2419.4
+		distance 3619.4
 		period 1432.96
 		object
 			sprite planet/dust1

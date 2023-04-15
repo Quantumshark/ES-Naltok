@@ -8,3 +8,11 @@ fleet "Quarg (Naltok)"
 		"Quarg Skylark"
 	variant
 		"Quarg Wardragon"
+
+fleet "Quarg Miners (Naltok)"
+	government "Quarg (Naltok)"
+	names "quarg"
+	personality
+		forbearing opportunistic mining harvests
+	variant
+		"Quarg Skylark"

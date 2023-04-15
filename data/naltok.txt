@@ -26,6 +26,7 @@ fleet "Small Naltok Merchant"
 fleet "Naltok Miners"
 	government "Naltok Merchant"
 	names "naltok"
+	cargo 0
 	personality timid frugal mining harvests
 	variant
 		"Herring (Mining)"

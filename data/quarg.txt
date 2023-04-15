@@ -12,6 +12,7 @@ fleet "Quarg (Naltok)"
 fleet "Quarg Miners (Naltok)"
 	government "Quarg (Naltok)"
 	names "quarg"
+	cargo 0
 	personality
 		forbearing opportunistic mining harvests
 	variant

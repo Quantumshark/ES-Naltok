@@ -693,11 +693,12 @@ ship "Barracuda"
 		angle -90
 	gun "Shell-Splitter Launcher"
 		angle 90
-	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull and only a single pair of forward-facing guns for close combat.`
+	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull. The design also includes a pair of forward-facing Breaker mining weapons, added to allow the ship to work in productive mining operations during peacetime.`
 
 ship "Barracuda" "Barracuda (Halt-Swarm)"
 	outfits
-		"Breaker" 2
+		"Shell-Splitter Pod" 2
+		"Shell-Splitter Torpedo" 4
 		"Halt-Swarm Launcher" 6
 		"Halt-Swarm Missile" 208
 		"Halt-Swarm Rack" 1
@@ -712,8 +713,8 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 		"Gecko Steering"
 		"Hyperdrive"
 
-	gun "Breaker"
-	gun "Breaker"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
 	gun "Halt-Swarm Launcher"
 	gun "Halt-Swarm Launcher"
 	gun "Halt-Swarm Launcher"
@@ -868,7 +869,7 @@ ship "Moray"
 	turret
 	turret
 	turret
-	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce.`
+	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce, though this disadvantage is lessened by the turret-heavy armament and single rear-facing missile launcher, which make the Moray less vulnerable to flanking attacks.`
 
 ship "Pike"
 	sprite "ship/pike"

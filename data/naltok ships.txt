@@ -813,7 +813,7 @@ ship "Albacore"
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
-	description `With all their facilities for large ship production being used to produce the new Kaluga, the Xochira were forced to compromise and build this much smaller counterpart to the Mola heavy carriers of the Telashki. While less powerful individually, the Albacore does have a sizable edge in terms of its cost - an oft-repeated statistic among Xochira is that two Albacores are less expensive than one Mola, but between them they carry more fighters.`
+	description `The Albacore is not intended to be involved in large fleet battles like the Kaluga, but instead to serve as a transporter and deployer for five Lamprey fighters, patrolling the systems previously covered by the Archerfish. Despite this, the Albacore is not completely unarmed, carrying a small armament intended for long-range support, bringing some additional firepower to bear against ships trapped by the Lampreys.`
 
 ship "Moray"
 	sprite "ship/moray"

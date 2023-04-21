@@ -167,8 +167,8 @@ outfit "Sky-Shredder"
 		"velocity" 19
 		"lifetime" 19
 		"reload" 7
-		"firing energy" 15
-		"firing heat" 12
+		"firing energy" 12
+		"firing heat" 8
 		"shield damage" 33
 		"hull damage" 36
 	description "The Sky-Shredder is designed to take down small, fast-moving opponents, allowing the powerful but unwieldy Steel-Render or a salvo of Shell-Splitter Torpedoes to deal with larger threats."
@@ -298,6 +298,7 @@ outfit "Shell-Splitter Launcher"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
 		"velocity" 3
+		"range override" 5000
 		"lifetime" 600
 		"reload" 240
 		"firing energy" 1
@@ -334,6 +335,7 @@ outfit "Shell-Splitter Pod"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
 		"velocity" 3
+		"range override" 5000
 		"lifetime" 600
 		"burst count" 2
 		"burst reload" 120
@@ -393,7 +395,7 @@ outfit "Shell-Splitter Husk"
 			"no repeat"
 		"inaccuracy" 60
 		"random velocity" 15
-		"drag" .05
+		"drag" .08
 		"acceleration" .001
 		"lifetime" 800
 		"random lifetime" 250

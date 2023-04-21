@@ -6,6 +6,8 @@ system Amansinaya
 	habitable 1400
 	asteroids "small rock" 4 0.92
 	asteroids "medium rock" 3 1.13
+	minables aluminum 3 2.5
+	minables silver 2 3.5
 	object
 		sprite star/g5
 		period 10
@@ -103,6 +105,7 @@ system Choxera
 	asteroids "small metal" 48 2.259
 	asteroids "medium metal" 57 4.29
 	asteroids "large metal" 109 3.346
+	minables copper 12 8.5
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -134,18 +137,18 @@ system Choxera
 			sprite planet/europa
 			distance 150
 			period 19.141
-	object
-		sprite planet/rock13
+	object Keltaren
+		sprite planet/gas16
 		distance 1656.77
 		period 191.729
+	object
+		sprite planet/rock13
+		distance 3418.38
+		period 860.07
 		object
 			sprite planet/dust5
 			distance 175
 			period 29.102
-	object Keltaren
-		sprite planet/gas16
-		distance 3418.38
-		period 860.07
 
 system Keloteg
 	pos -1539 119
@@ -161,6 +164,8 @@ system Keloteg
 	asteroids "small metal" 5 3.045
 	asteroids "medium metal" 38 2.331
 	asteroids "large metal" 8 2.856
+	minables titanium 21 21.5
+	minables uranium 2 19.6
 	trade Clothing 433
 	trade Electronics 740
 	trade Equipment 530
@@ -172,6 +177,7 @@ system Keloteg
 	trade Metal 390
 	trade Plastic 400
 	fleet "Small Naltok Merchant" 1000
+	fleet "Naltok Miners" 3000
 	object
 		sprite star/k0-old
 		period 10
@@ -213,6 +219,7 @@ system Keloxen
 	asteroids "small metal" 8 3.74
 	asteroids "medium metal" 14 7.535
 	asteroids "large metal" 12 2.805
+	minables neodymium 3 11.5
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -268,6 +275,8 @@ system Ligoxel
 	asteroids "small metal" 3 2.829
 	asteroids "medium metal" 22 2.1
 	asteroids "large metal" 72 1.326
+	minables iron 16 11.1
+	minables copper 7 8.8
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -280,6 +289,7 @@ system Ligoxel
 	trade Plastic 287
 	fleet "Xochira Interdictor" 500
 	fleet "Small Naltok Merchant" 700
+	fleet "Naltok Miners" 2800
 	object
 		sprite star/m3
 		distance 22.846
@@ -404,6 +414,8 @@ system Lixetog
 	asteroids "small metal" 7 3.835
 	asteroids "medium metal" 5 8.97
 	asteroids "large metal" 1 3.445
+	minables neodymium 19 7.5
+	minables tungsten 8 11.5
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -416,6 +428,7 @@ system Lixetog
 	trade Plastic 310
 	fleet "Xochira Interdictor" 1200
 	fleet "Small Naltok Merchant" 900
+	fleet "Naltok Miners" 2000
 	object
 		sprite star/k5
 		distance 45
@@ -542,6 +555,7 @@ system Ngotesh
 	asteroids "large rock" 13 3.795
 	asteroids "small metal" 4 2.139
 	asteroids "large metal" 4 5.072
+	minables silicon 13 13.1
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -658,6 +672,8 @@ system Rixengol
 	asteroids "small metal" 1 6.698
 	asteroids "medium metal" 2 9.828
 	asteroids "large metal" 1 9.828
+	minables iron 17 10.5
+	minables aluminum 9 9.1
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -669,6 +685,7 @@ system Rixengol
 	trade Metal 390
 	trade Plastic 306
 	fleet "Small Naltok Merchant" 1800
+	fleet "Naltok Miners" 3200
 	object
 		sprite star/m8
 		period 10
@@ -772,6 +789,7 @@ system Tekochi
 	asteroids "small metal" 108 3.28
 	asteroids "medium metal" 42 4.04
 	asteroids "large metal" 7 3.92
+	minables iron 3 7.7
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -890,6 +908,8 @@ system Tokilok
 	link Vokegol
 	asteroids "large rock" 5 2.957
 	asteroids "large metal" 1 3.674
+	minables silicon 17 10.6
+	minables silver 3 13.1
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -901,6 +921,7 @@ system Tokilok
 	trade Metal 390
 	trade Plastic 361
 	fleet "Small Naltok Merchant" 3000
+	fleet "Naltok Miners" 11000
 	object
 		sprite star/m8
 		period 10
@@ -945,6 +966,7 @@ system Tolonek
 	asteroids "small metal" 8 4.974
 	asteroids "medium metal" 3 6.27
 	asteroids "large metal" 8 2.341
+	minables iron 17 11.5
 	trade Clothing 409
 	trade Electronics 740
 	trade Equipment 530
@@ -1001,6 +1023,8 @@ system Vokegol
 	asteroids "small metal" 2 2.584
 	asteroids "medium metal" 10 3.774
 	asteroids "large metal" 6 2.516
+	minables tungsten 3 10.1
+	minables titanium 2 13.3
 	fleet "Small Naltok Merchant" 3000
 	object
 		sprite star/a-dwarf
@@ -1051,11 +1075,10 @@ system Xangoret
 	link Rixengol
 	link "Xeko Naltok"
 	asteroids "small rock" 4 3.73
-	asteroids "medium rock" 23 6.3
+	asteroids "medium rock" 18 6.3
 	asteroids "large rock" 11 6.149
-	asteroids "small metal" 6 2.722
-	asteroids "medium metal" 3 4.536
-	asteroids "large metal" 2 2.772
+	asteroids "small metal" 4 2.722
+	asteroids "medium metal" 2 4.536
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1109,8 +1132,8 @@ system Xangoret
 			period 66.44
 	object
 		sprite planet/gas8
-		distance 3409.73
-		period 2121.79
+		distance 4409.73
+		period 3121.79
 		object
 			sprite planet/dust3
 			distance 222
@@ -1127,11 +1150,8 @@ system "Xeko Naltok"
 	link Lixetog
 	link Rixengol
 	link Xangoret
-	asteroids "small rock" 20 7.507
-	asteroids "medium rock" 49 6.403
-	asteroids "large rock" 5 5.41
-	asteroids "medium metal" 16 5.686
-	asteroids "large metal" 1 8.004
+	asteroids "small rock" 6 7.507
+	asteroids "small metal" 7 5.686
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1159,10 +1179,10 @@ system "Xeko Naltok"
 		sprite planet/ice8
 		distance 664.34
 		period 429.139
-	object
-		sprite planet/gas0
-		distance 1881.75
-		period 1480.07
+	object Lekirat
+		sprite planet/gas13
+		distance 5131.31
+		period -4388.9
 
 system Varajol
 	pos -1527 -137
@@ -1243,6 +1263,7 @@ system Kelojol
 	asteroids "small metal" 19 4.118
 	asteroids "medium metal" 22 2.431
 	asteroids "large metal" 13 3.089
+	minables silicon 19 29.1
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1311,27 +1332,24 @@ system Vokelon
 	trade Plastic 412
 	fleet "Small Naltok Merchant" 2800
 	object
-		sprite star/m8
-		period 10
+		sprite star/f-dwarf
+		distance 5.1
+		period 11.3
 	object
-		sprite planet/rock8
-		distance 173.56
-		period 78.717
+		sprite star/l-dwarf
+		distance 33.2
+		period 11.3
 	object
 		sprite planet/desert0
-		distance 450.05
+		distance 550.05
 		period 328.688
 	object
 		sprite planet/gas10
-		distance 1033.05
+		distance 1233.05
 		period 1143.08
 	object
-		sprite planet/gas8
-		distance 1368.54
-		period 1742.93
-	object
 		sprite planet/gas14
-		distance 3965.55
+		distance 2965.55
 		period 8597.03
 		object
 			sprite planet/ice7
@@ -1352,6 +1370,7 @@ system Lotegok
 	link Golonex
 	link Kuragu
 	asteroids "large metal" 1 5.148
+	minables lead 5 10.5
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1406,6 +1425,10 @@ system Lekonet
 	asteroids "small metal" 146 4.64
 	asteroids "medium metal" 31 3.344
 	asteroids "large metal" 21 2.801
+	minables gold 8 16.2
+	minables silver 11 19.3
+	minables neodymium 3 20.8
+	fleet "Naltok Miners" 90000
 	object
 		sprite star/k-giant
 		period 10
@@ -1449,6 +1472,7 @@ system Golonex
 	asteroids "large rock" 1 3.379
 	asteroids "medium metal" 2 2.392
 	asteroids "large metal" 1 2.542
+	minables silicon 17 11.9
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1517,6 +1541,8 @@ system Nixelog
 	asteroids "small metal" 86 8.694
 	asteroids "medium metal" 83 5.141
 	asteroids "large metal" 105 9.45
+	minables iron 13 21.5
+	minables copper 9 18.6
 	trade Clothing 290
 	trade Electronics 740
 	trade Equipment 530
@@ -1527,7 +1553,9 @@ system Nixelog
 	trade Medical 680
 	trade Metal 390
 	trade Plastic 433
+	fleet "Quarg (Naltok)" 3500
 	fleet "Small Naltok Merchant" 60000
+	fleet "Naltok Miners" 90000
 	object
 		sprite star/g5
 		distance 44.176
@@ -1581,21 +1609,23 @@ system Thoreklin
 	link Kuragu
 	link Nixelog
 	asteroids "small metal" 1 1.386
+	minables yottrite 2 4.1
 	fleet "Small Naltok Merchant" 60000
+	fleet "Quarg Miners (Naltok)" 7200
 	object
-		sprite star/nova-small
+		sprite star/nova-old
 		period 10
 	object
 		sprite planet/rock4
-		distance 1054.95
+		distance 1354.95
 		period 432.992
 	object
 		sprite planet/fog0
-		distance 1715.19
+		distance 2165.19
 		period 562.128
 	object
 		sprite planet/gas10
-		distance 2419.4
+		distance 3619.4
 		period 1432.96
 		object
 			sprite planet/dust1

@@ -23,47 +23,53 @@ fleet "Small Naltok Merchant"
 	variant
 		"Herring"
 	
+fleet "Naltok Miners"
+	government "Naltok Merchant"
+	names "naltok"
+	cargo 0
+	personality timid frugal mining harvests
+	variant
+		"Herring (Mining)"
 
 shipyard "Naltok Basics"
-	"Herring"
 	"Guppy"
+	"Herring"
 	"Minnow"
 
-shipyard "Naltok Intermediate"
-	"Mackerel"
-	"Herring"
+shipyard "Naltok Civilian Intermediate"
 	"Conger"
-	"Guppy"
-	"Piranha"
+	"Mackerel"
+
+shipyard "Naltok Military Intermediate"
 	"Barracuda"
-	"Minnow"
+	"Piranha"
 
-shipyard "Naltok Advanced"
-	"Mackerel"
-	"Marlin"
-	"Herring"
-	"Conger"
+shipyard "Naltok Civilian Advanced"
 	"Flounder"
-	"Guppy"
-	"Piranha"
-	"Barracuda"
-	"Moray"
-	"Minnow"
+	"Marlin"
 
+shipyard "Naltok Military Advanced"
+	"Moray"
+
+#Lamprey will be added during campaign
 shipyard "Xochira Basics"
 
+#Lamprey, Grouper, Albacore will be added during campaign
 shipyard "Xochira Intermediate"
 	"Archerfish"
 
+#Lamprey, Grouper, Albacore, Kaluga will be added during campaign
 shipyard "Xochira Advanced"
 	"Archerfish"
 
 shipyard "Xochira Pike"
 	"Pike (Xochira)"
 
+#Remora will be added during campaign
 shipyard "Telashki Basics"
 	"Tetra"
 
+#Remora, Mola will be added during campaign
 shipyard "Telashki Advanced"
 	"Tetra"
 
@@ -203,3 +209,139 @@ outfitter "Telashki Advanced"
 	"Fuel Vat"
 	"Acid Grub"	
 	"Broad-Spectrum Scanner"
+
+outfitter "Telashki Alphas"
+	"Xochira Security Cracker"
+
+phrase "naltok syllable"
+	word
+		"l"
+		"k"
+		"g"
+		"ng"
+		"v"
+		"t"
+		"s"
+		"sh"
+		"f"
+		"j"
+		"ch"
+		"x"
+		"r"
+		"th"
+	word
+		"a"
+		"e"
+		"i"
+		"o"
+		"u"
+	word
+		"" 20
+		"l"
+		"k"
+		"g"
+		"ng"
+		"v"
+		"t"
+		"s"
+		"sh"
+		"f"
+		"j"
+		"ch"
+		"x"
+		"r"
+		"th"
+
+# Ship names:
+phrase "naltok"
+	word
+		"L"
+		"K"
+		"G"
+		"Ng"
+		"V"
+		"T"
+		"S"
+		"Sh"
+		"F"
+		"J"
+		"Ch"
+		"X"
+		"R"
+		"Th"
+	word
+		"a"
+		"e"
+		"i"
+		"o"
+		"u"
+	word
+		"" 20
+		"l"
+		"k"
+		"g"
+		"ng"
+		"v"
+		"t"
+		"s"
+		"sh"
+		"f"
+		"j"
+		"ch"
+		"x"
+		"r"
+		"th"
+	phrase
+		"naltok syllable"
+	word
+		""
+		" "
+	phrase
+		"naltok syllable"
+	phrase
+		"naltok syllable"
+
+phrase "telashki"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	word
+		": "
+	word
+		"Focused"
+		"Observant"
+		"Perceptive"
+		"Prepared"
+		"Ready"
+		"Watchful"
+	word
+		" "
+	word
+		"Eye"
+		"Hand"
+		"Nose"
+		"Ear"
+		"Seer"
+		"Listener"
+		"Tester"
+
+phrase "xochira"
+	word
+		"Kelo"
+		"Xeko"
+		"Voke"
+		"Chox"
+	phrase
+		"naltok syllable"
+	phrase
+		"naltok syllable"
+	word
+		" "
+	phrase
+		"naltok syllable"
+	phrase
+		"naltok syllable"
+	

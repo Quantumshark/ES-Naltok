@@ -62,7 +62,7 @@ mission "First Contact: Naltok (Telashki)"
 					goto tellname
 				`	"I would prefer not to tell you my name."`
 			`	The Alpha speaks up first. "There's no need to be so uncooperative; we truly mean you no harm. I understand that the years of propaganda you must have been subjected to back in Human space are not easy to overcome, but I must ask that you try to have an open mind. My name is Izarna."`
-			`	The Naltok joins in before you can respond "My name is Choshkal."
+			`	The Naltok joins in before you can respond "My name is Choshkal."`
 				goto choshkal
 			label tellname
 			`	The Alpha smiles. "My name is Izarna. This is Choshkal, a friend of mine from the Ministry of Alien Life."`

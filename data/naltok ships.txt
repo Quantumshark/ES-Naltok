@@ -59,7 +59,7 @@ ship "Marlin"
 	thumbnail "thumbnail/marlin"
 	attributes
 		category "Space Liner"
-		"cost" 0
+		"cost" 4330000
 		"shields" 2700
 		"hull" 14100
 		"hull repair rate" 1.1
@@ -106,6 +106,7 @@ ship "Sturgeon"
 	sprite "ship/sturgeon"
 	thumbnail "thumbnail/sturgeon"
 	attributes
+		"capture class" "naltok capital"
 		category "Utility"
 		"cost" 14172000
 		"shields" 4800
@@ -182,9 +183,20 @@ ship "Herring"
 		"Hyperdrive"
 
 	turret 0 -5
-	engine -5 37
-	engine 5 37
+	engine -7 48
+	engine 7 48
 	description `The Herring is the smallest freighter that the Naltok produce. Although more well-off merchants and military logistics fleets typically do not employ it, the Herring is still one of the most common ships in Naltok space due to its popularity with entry-level merchants, who can make a decent profit using it to haul cargo.`
+
+ship "Herring" "Herring (Mining)"
+	outfits
+		"Triple Breaker Turret"
+		"Broad-Spectrum Scanner"
+		"Spring Cell"
+		"Puddle Battery"
+		"Outfits Expansion"
+		"Anole Thruster"
+		"Anole Steering"
+		"Hyperdrive"
 
 ship "Conger"
 	sprite "ship/conger"
@@ -249,7 +261,7 @@ ship "Flounder"
 	thumbnail "thumbnail/flounder"
 	attributes
 		category "Heavy Freighter"
-		"cost" 2486000
+		"cost" 7731000
 		"shields" 1900
 		"hull" 18600
 		"hull repair rate" 1.2
@@ -301,6 +313,7 @@ ship "Grouper"
 	sprite "ship/grouper"
 	thumbnail "ship/grouper"
 	attributes
+		"capture class" "xochira novelty"
 		category "Utility"
 		"cost"
 		"shields" 4100
@@ -440,6 +453,7 @@ ship "Archerfish"
 	sprite "ship/archerfish"
 	thumbnail "thumbnail/archerfish"
 	attributes
+		"capture class" "xochira novelty"
 		category "Light Warship"
 		licenses 
 			"Xochira"
@@ -679,11 +693,12 @@ ship "Barracuda"
 		angle -90
 	gun "Shell-Splitter Launcher"
 		angle 90
-	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull and only a single pair of forward-facing guns for close combat.`
+	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull. The design also includes a pair of forward-facing Breaker mining weapons, added to allow the ship to work in productive mining operations during peacetime.`
 
 ship "Barracuda" "Barracuda (Halt-Swarm)"
 	outfits
-		"Breaker" 2
+		"Shell-Splitter Pod" 2
+		"Shell-Splitter Torpedo" 4
 		"Halt-Swarm Launcher" 6
 		"Halt-Swarm Missile" 208
 		"Halt-Swarm Rack" 1
@@ -698,8 +713,8 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 		"Gecko Steering"
 		"Hyperdrive"
 
-	gun "Breaker"
-	gun "Breaker"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
 	gun "Halt-Swarm Launcher"
 	gun "Halt-Swarm Launcher"
 	gun "Halt-Swarm Launcher"
@@ -708,7 +723,6 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 	gun "Halt-Swarm Launcher"
 
 ship "Barracuda" "Barracuda (Leeching)"
-	outfits
 	outfits
 		"Leech-Ray" 2
 		"Halt-Swarm Launcher" 2
@@ -742,10 +756,11 @@ ship "Albacore"
 	sprite "ship/albacore"
 	thumbnail "thumbnail/albacore"
 	attributes
+		"capture class" "xochira novelty"
 		category "Medium Warship"
 		licenses 
 			"Xochira"
-		"cost"
+		"cost" 4143000
 		"shields" 4700
 		"hull" 18100
 		"hull repair rate" 2.1
@@ -771,9 +786,20 @@ ship "Albacore"
 			"hull damage" 510
 			"hit force" 1530
 	outfits
-		"Ripper Pistols" 12
-		"Shredder Minigun" 6
+		"Halt-Swarm Launcher" 3
+		"Halt-Swarm Missile" 176
+		"Halt-Swarm Rack" 5
+		"Naltok Anti-Missile"
 
+		"River Shield Generator"
+		"Brook Cell"
+		"Puddle Battery"
+		"Ripper Pistols" 12
+		"Shredder Minigun" 7
+
+		"Iguana Thruster"
+		"Gecko Steering"
+		"Wyrm Afterburner"	
 		"Hyperdrive"
 
 	gun
@@ -787,7 +813,7 @@ ship "Albacore"
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
-	description `With all their facilities for large ship production being used to produce the new Kaluga, the Xochira were forced to compromise and build this much smaller counterpart to the Mola heavy carriers of the Telashki. While less powerful individually, the Albacore does have a sizable edge in terms of its cost - an oft-repeated statistic among Xochira is that two Albacores are less expensive than one Mola, but between them they carry more fighters.`
+	description `The Albacore is not intended to be involved in large fleet battles like the Kaluga, but instead to serve as a transporter and deployer for five Lamprey fighters, patrolling the systems previously covered by the Archerfish. Despite this, the Albacore is not completely unarmed, carrying a small armament intended for long-range support, bringing some additional firepower to bear against ships trapped by the Lampreys.`
 
 ship "Moray"
 	sprite "ship/moray"
@@ -843,12 +869,13 @@ ship "Moray"
 	turret
 	turret
 	turret
-	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce.`
+	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce, though this disadvantage is lessened by the turret-heavy armament and single rear-facing missile launcher, which make the Moray less vulnerable to flanking attacks.`
 
 ship "Pike"
 	sprite "ship/pike"
 	thumbnail "thumbnail/pike"
 	attributes
+		"capture class" "naltok capital"
 		category "Heavy Warship"
 		"cost" 27678000
 		"shields" 6300
@@ -941,6 +968,7 @@ ship "Mola"
 	sprite "ship/mola"
 	thumbnail "thumbnail/mola"
 	attributes
+		"capture class" "naltok capital"
 		category "Heavy Warship"
 		licenses
 			"Ministry of War"
@@ -1035,6 +1063,10 @@ ship "Kaluga"
 	sprite "ship/kaluga"
 	thumbnail "thumbnail/kaluga"
 	attributes
+		"capture class" "naltok capital"
+		"capture class" "xochira novelty"
+			"success" .1
+			"lock down" .2
 		category "Heavy Warship"
 		licenses
 			"Xochira"
@@ -1104,6 +1136,7 @@ ship "Coelacanth"
 	sprite "ship/coelacanth"
 	thumbnail "thumbnail/coelacanth"
 	attributes
+		"capture class" "naltok capital"
 		category "Heavy Warship"
 		"cost" 58956000
 		"shields" 11300

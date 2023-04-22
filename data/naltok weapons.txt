@@ -514,7 +514,7 @@ outfit "Naltok Anti-Missile"
 	weapon
 		"hardpoint sprite" "hardpoint/wanderer anti-missile"
 		"hardpoint offset" 6.
-		"hit effect" "naltok anti-missile"
+		"fire effect" "naltok anti-missile"
 		"anti-missile" 8
 		"velocity" 120
 		"lifetime" 1
@@ -524,7 +524,7 @@ outfit "Naltok Anti-Missile"
 	description "With no experience of interstellar warfare, the only basis the Naltok had for designing this anti-missile system was their own Shell-Splitter Torpedoes. Though they succeeded in making a highly effective defense against their own weapons, the lack of range makes this a rather poor defense against most other missiles."
 
 effect "naltok anti-missile"
-	sprite "effect/wanderer anti-missile"
+	sprite "effect/naltok anti-missile"
 		"no repeat"
 		"frame rate" 2
 	sound "heavy anti-missile"

@@ -1169,8 +1169,8 @@ system "Xeko Naltok"
 		period 10
 	object
 		sprite planet/rock1
-		distance 232.25
-		period 68.365
+		distance 152.25
+		period 49.365
 	object Nareltok
 		sprite planet/forest1-b
 		distance 472.09

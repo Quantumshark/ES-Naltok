@@ -643,7 +643,7 @@ ship "Barracuda"
 		category "Medium Warship"
 		"cost" 4742000
 		"shields" 4100
-		"hull" 15300
+		"hull" 16700
 		"hull repair rate" 1.9
 		"hull energy" .475
 		"hull heat" 1.425
@@ -653,10 +653,10 @@ ship "Barracuda"
 		"drag" 4.6
 		"heat dissipation" .35
 		"fuel capacity" 500
-		"cargo space" 56
-		"outfit space" 404
+		"cargo space" 72
+		"outfit space" 412
 		"weapon capacity" 196
-		"engine capacity" 118
+		"engine capacity" 128
 		"heat protection" 3
 		"burn protection" 1
 		"high shield permeability" .4
@@ -762,14 +762,14 @@ ship "Albacore"
 			"Xochira"
 		"cost" 4143000
 		"shields" 4700
-		"hull" 18100
+		"hull" 18600
 		"hull repair rate" 2.1
 		"hull energy" .525
 		"hull heat" 1.575
 		"required crew" 12
 		"bunks" 24
 		"mass" 512
-		"drag" 6.4
+		"drag" 6.2
 		"heat dissipation" .29
 		"fuel capacity" 700
 		"cargo space" 12
@@ -832,7 +832,7 @@ ship "Moray"
 		"drag" 6.3
 		"heat dissipation" .26
 		"fuel capacity" 400
-		"cargo space" 88
+		"cargo space" 112
 		"outfit space" 538
 		"weapon capacity" 264
 		"engine capacity" 104

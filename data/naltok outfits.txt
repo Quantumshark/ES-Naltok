@@ -328,8 +328,8 @@ outfit "Ripper Pistols"
 		"Xochira"
 	cost 16300
 	thumbnail "outfit/naltok pistols"
-	"capture attack" 1.1
-	"capture defense" 0.9
+	"capture attack" 1.2
+	"capture defense" 1.0
 	"unplunderable" 1
 	description "While the Telashki typically rely on their biological enhancements in hand to hand combat, Xochira combatants will usually enter battle armed with a pair of these powerful and reliable machine pistols."
 
@@ -340,8 +340,8 @@ outfit "Shredder Minigun"
 	cost 57800
 	thumbnail "outfit/naltok minigun"
 	"required crew" 1
-	"capture attack" 1.7
-	"capture defense" 2.8
+	"capture attack" 1.9
+	"capture defense" 3.1
 	"unplunderable" 1
 	description "When Ripper Pistols prove ineffective, some Xochira combatants will deploy the Shredder Minigun. This is a terrifying weapon to face regardless of the circumstances, but handling it does require special training."
 	

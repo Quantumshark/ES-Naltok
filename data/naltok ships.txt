@@ -518,7 +518,7 @@ ship "Piranha"
 		"drag" 3.8
 		"heat dissipation" .38
 		"fuel capacity" 600
-		"cargo space" 52
+		"cargo space" 64
 		"outfit space" 360
 		"weapon capacity" 116
 		"engine capacity" 104

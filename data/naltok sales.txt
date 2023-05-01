@@ -1,0 +1,191 @@
+# Copyright (c) 2023 by Alex di Giovanni
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+shipyard "Naltok Basics"
+	"Guppy"
+	"Herring"
+	"Minnow"
+
+shipyard "Naltok Civilian Intermediate"
+	"Conger"
+	"Mackerel"
+
+shipyard "Naltok Military Intermediate"
+	"Barracuda"
+	"Piranha"
+
+shipyard "Naltok Civilian Advanced"
+	"Flounder"
+	"Marlin"
+
+shipyard "Naltok Military Advanced"
+	"Moray"
+
+#Lamprey will be added during campaign
+shipyard "Xochira Basics"
+
+#Lamprey, Grouper, Albacore will be added during campaign
+shipyard "Xochira Intermediate"
+	"Archerfish"
+
+#Lamprey, Grouper, Albacore, Kaluga will be added during campaign
+shipyard "Xochira Advanced"
+	"Archerfish"
+
+shipyard "Xochira Pike"
+	"Pike (Xochira)"
+
+#Remora will be added during campaign
+shipyard "Telashki Basics"
+	"Tetra"
+
+#Remora, Mola will be added during campaign
+shipyard "Telashki Advanced"
+	"Tetra"
+
+shipyard "Telashki Pike"
+	"Pike (Telashki)"
+
+outfitter "Naltok Ammo"
+	"Shell-Splitter Torpedo"
+	"Local Map"
+
+outfitter "Naltok Basics"
+	"Breaker"
+	"Shell-Splitter Torpedo"
+	"Shell-Splitter Tube"
+	"Spring Cell"
+	"Mist Cell"
+	"Stream Shield Generator"
+	"Puddle Battery"
+	"Pond Battery"
+	"Agama Thruster"
+	"Anole Thruster"
+	"Agama Steering"
+	"Anole Steering"
+	"Hyperdrive"
+	"Bunk Room"
+	"Small Bunk Room"
+	"Outfits Expansion"
+	"Cargo Expansion"
+	"Local Map"
+
+outfitter "Naltok Intermediate"
+	"Breaker"
+	"Breaker Turret"
+	"Triple Breaker Turret"
+	"Sky-Shredder"
+	"Shell-Splitter Torpedo"
+	"Shell-Splitter Tube"
+	"Naltok Anti-Missile"
+	"Spring Cell"
+	"Brook Cell"
+	"Mist Cell"
+	"Fog Cell"
+	"Stream Generator"
+	"Stream Shield Generator"
+	"River Shield Generator"
+	"Puddle Battery"
+	"Pond Battery"
+	"Lake Battery"
+	"Agama Thruster"
+	"Anole Thruster"
+	"Gecko Thruster"
+	"Agama Steering"
+	"Anole Steering"
+	"Gecko Steering"
+	"Luxury Accommodations"
+	"Hyperdrive"
+	"Bunk Room"
+	"Small Bunk Room"
+	"Outfits Expansion"
+	"Cargo Expansion"
+	"Local Map"
+
+outfitter "Naltok Advanced"
+	"Breaker"
+	"Breaker Turret"
+	"Triple Breaker Turret"
+	"Steel-Render"
+	"Sky-Shredder"
+	"Shell-Splitter Torpedo"
+	"Shell-Splitter Tube"
+	"Shell-Splitter Launcher"
+	"Shell-Splitter Pod"
+	"Naltok Anti-Missile"
+	"Spring Cell"
+	"Brook Cell"
+	"Mist Cell"
+	"Fog Cell"
+	"Stream Generator"
+	"River Reactor"
+	"Stream Shield Generator"
+	"River Shield Generator"
+	"Puddle Battery"
+	"Pond Battery"
+	"Lake Battery"
+	"Broad-Spectrum Scanner"
+	"Agama Thruster"
+	"Anole Thruster"
+	"Gecko Thruster"
+	"Iguana Thruster"
+	"Monitor Thruster"
+	"Agama Steering"
+	"Anole Steering"
+	"Gecko Steering"
+	"Iguana Steering"
+	"Monitor Steering"
+	"Hyperdrive"
+	"Luxury Accommodations"
+	"Bunk Room"
+	"Small Bunk Room"
+	"Outfits Expansion"
+	"Cargo Expansion"
+	"Local Map"
+
+outfitter "Xochira Ammo"
+	"Halt-Swarm Missile"
+	"Local Map"
+
+outfitter "Xochira Basics"
+	"Halt-Swarm Missile"
+	"Halt-Swarm Rack"
+	"Ripper Pistols"
+
+outfitter "Xochira Intermediate"
+	"Halt-Swarm Missile"
+	"Halt-Swarm Rack"
+	"Halt-Swarm Launcher"
+	"Ripper Pistols"
+
+outfitter "Xochira Advanced"
+	"Halt-Swarm Missile"
+	"Halt-Swarm Rack"
+	"Halt-Swarm Launcher"
+	"Leech-Ray"
+	"Ripper Pistols"
+	"Shredder Minigun"
+	"Wyrm Afterburner"
+
+outfitter "Telashki Basics"
+	"Broad-Spectrum Scanner"
+
+outfitter "Telashki Intermediate"
+	"Fuel Vat"
+	"Acid Grub"
+	"Broad-Spectrum Scanner"
+	
+outfitter "Telashki Advanced"
+	"Fuel Vat"
+	"Acid Grub"	
+	"Broad-Spectrum Scanner"
+
+outfitter "Telashki Alphas"
+	"Xochira Security Cracker"

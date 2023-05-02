@@ -879,7 +879,7 @@ ship "Pike"
 		category "Heavy Warship"
 		"cost" 27678000
 		"shields" 6300
-		"hull" 43300
+		"hull" 41700
 		"hull repair rate" 3.1
 		"hull energy" .775
 		"hull heat" 2.325
@@ -974,7 +974,7 @@ ship "Mola"
 			"Ministry of War"
 		"cost" 21236000
 		"shields" 6100
-		"hull" 39600
+		"hull" 37600
 		"hull repair rate" 2.9
 		"hull energy" .725
 		"hull heat" 2.175

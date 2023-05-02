@@ -1234,7 +1234,9 @@ ship "Remora"
 			"hull damage" 85
 			"hit force" 255
 	outfits
-		"Breaker" 4
+		"Breaker" 2
+		"Shell-Splitter Pod" 2
+		"Shell-Splitter Torpedo" 4
 		"Stream Shield Generator"
 		"Spring Cell"
 		"Agama Thruster"
@@ -1243,8 +1245,8 @@ ship "Remora"
 
 	gun "Breaker"
 	gun "Breaker"
-	gun "Breaker"
-	gun "Breaker"
+	gun "Shell-Splitter Pod"
+	gun "Shell-Splitter Pod"
 	description `Rather than chasing down enemy vessels at high speed, Remora fighters are intended to fight alongside a carrier, serving as a protective screen.`
 	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 

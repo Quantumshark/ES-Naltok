@@ -986,8 +986,8 @@ ship "Mola"
 		"fuel capacity" 400
 		"cargo space" 24
 		"outfit space" 752
-		"weapon capacity" 254
-		"engine capacity" 186
+		"weapon capacity" 214
+		"engine capacity" 160
 		"heat protection" 3
 		"burn protection" 1
 		"high shield permeability" .4
@@ -1011,7 +1011,8 @@ ship "Mola"
 		"Acid Grub" 44
 
 		"Hyperdrive"
-		"Monitor Thruster"
+		"Iguana Thruster"
+		"Anole Thruster"
 		"Iguana Steering"
 
 	gun
@@ -1036,27 +1037,6 @@ ship "Mola"
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
 	description `The Mola is a heavy carrier designed by the Telashki. Though underarmed for its size, the Mola's strength lies in its large complement of Remora fighters. Fully stocked, the Mola can in theory bring more than fifty weapons to bear against a target, enough to overwhelm almost any opponent.`
-
-ship "Mola" "Mola (Brawling)"
-	outfits
-		"Star-Worm Launcher" 2
-		"Star-Worm Capsule" 16
-		"Breaker Turret" 2
-		"Steel-Render" 2
-
-		"Brook Cell"
-		"Stream Generator"
-		"Pond Battery" 3
-		"Fuel Vat" 2
-		"Stream Shield Generator"
-		"River Shield Generator"
-		"Acid Grub" 52
-
-		"Hyperdrive"
-		"Anole Thruster"
-		"Anole Steering"
-		"Iguana Thruster"
-		"Iguana Steering"
 
 ship "Kaluga"
 	plural "Kaluga"

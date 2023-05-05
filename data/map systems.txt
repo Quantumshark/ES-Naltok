@@ -28,7 +28,7 @@ system Amansinaya
 			distance 165
 			period 9.81
 	object "Wormhole Naltok"
-		sprite planet/wormhole-yellow
+		sprite planet/wormhole-distorted
 		distance 3500
 		period 1000
 		hazard "Shield-depleting Wormhole" 1
@@ -1793,7 +1793,7 @@ system 73-Che-Ja
 			period -16.248
 			offset 180
 	object "Wormhole Naltok"
-		sprite planet/wormhole-yellow
+		sprite planet/wormhole-distorted
 		distance 3500
 		period 1000
 		offset 180

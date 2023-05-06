@@ -827,7 +827,7 @@ ship "Moray"
 		"hull energy" .7
 		"hull heat" 2.1
 		"required crew" 22
-		"bunks" 35
+		"bunks" 42
 		"mass" 624
 		"drag" 6.3
 		"heat dissipation" .26

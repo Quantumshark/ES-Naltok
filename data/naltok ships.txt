@@ -1179,7 +1179,7 @@ ship "Lamprey"
 		"hull heat" .3
 		"required crew" 1
 		"bunks" 1
-		"mass" 46
+		"mass" 64
 		"drag" .67
 		"heat dissipation" .43
 		"outfit space" 116
@@ -1218,10 +1218,10 @@ ship "Remora"
 		"hull heat" .45
 		"required crew" 1
 		"bunks" 1
-		"mass" 37
+		"mass" 56
 		"drag" .76
 		"heat dissipation" .45
-		"outfit space" 109
+		"outfit space" 112
 		"weapon capacity" 28
 		"engine capacity" 27
 		"heat protection" 3
@@ -1261,7 +1261,7 @@ ship "Minnow"
 		"hull energy" .05
 		"hull heat" .15
 		"automaton" 1
-		"mass" 33
+		"mass" 40
 		"drag" .45
 		"heat dissipation" .48
 		"cargo space" 32

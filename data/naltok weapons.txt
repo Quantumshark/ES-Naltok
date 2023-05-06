@@ -153,16 +153,16 @@ outfit "Sky-Shredder"
 	category "Turrets"
 	cost 876000
 	thumbnail "outfit/sky-shredder"
-	"mass" 42
-	"outfit space" -42
-	"weapon capacity" -42
+	"mass" 36
+	"outfit space" -36
+	"weapon capacity" -36
 	"turret mounts" -1
 	"required crew" 1
 	weapon
 		sprite "projectile/sky-shredder"
 		sound "sky-shredder"
 		"hit effect" "sky-shredder hit"
-		"turret turn" 3.2
+		"turret turn" 3.4
 		"inaccuracy" 3
 		"velocity" 19
 		"lifetime" 19

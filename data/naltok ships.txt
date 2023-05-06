@@ -937,7 +937,8 @@ ship "Pike" "Pike (Telashki)"
 		"Shell-Splitter Torpedo" 53
 		
 		"River Reactor"
-		"Pond Battery" 2
+		"Pond Battery"
+		"Spring Cell"
 		"River Shield Generator"
 		"Acid Grub" 41
 
@@ -958,7 +959,8 @@ ship "Pike" "Pike (Xochira)"
 		"River Reactor"
 		"Pond Battery" 2
 		"River Shield Generator"
-		"Ripper Pistols" 41
+		"Ripper Pistols" 46
+		"Shredder Minigun" 20
 
 		"Monitor Thruster"
 		"Monitor Steering"

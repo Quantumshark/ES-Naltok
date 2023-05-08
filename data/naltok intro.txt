@@ -98,7 +98,7 @@ mission "First Contact: Naltok (Xochira)"
 	clearance
 	on offer
 		conversation
-			`As you blast open the airlock of the mysterious ship that had been attacking you, you find yourself face to face with an alien and knee-deep in water. The alien resembles a giant newt, with dark, rubbery skin and large eyes, and is slightly shorter than you. The water is lukewarm, and quickly washes over your lower legs.`
+			`As you blast open the airlock of the mysterious ship that attacked you, you find yourself face to face with an alien and knee-deep in water. The alien vaguely reminds you of a giant newt or salamander, with dark, rubbery skin and large eyes, and is slightly shorter than you. The water is lukewarm, and quickly washes over your lower legs.`
 			`	The alien immediately reaches down to its waist, where you see two pistols holstered.`
 			choice
 				`	(Raise my hands.)`
@@ -112,10 +112,10 @@ mission "First Contact: Naltok (Xochira)"
 				`	(Say nothing.)`
 					goto silencep
 			`	The alien appears not to understand you. It begins speaking in its own language, then stops after realising you do not understand it.`
-				goto siren
+				goto device
 			label silencep
 			`	The alien stares at you hesitantly, evidently waiting for you to make a move.`
-				goto siren
+				goto device
 			label threaten
 			`	The alien draws both its pistols and points them at you, but does not fire. You both stand in silence, weapons pointed towards each other.`
 			choice
@@ -123,27 +123,51 @@ mission "First Contact: Naltok (Xochira)"
 				`	(Say nothing.)`
 					goto silence
 			`	The alien does not appear to understand you, but begins speaking in its own language. When it sees that you do not understand, it stops and continues staring.`
-				goto siren
+				goto device
 			label silence
 			`	You and the alien continue holding each other at gunpoint for nearly a minute. The air on the ship is excessively damp, and you realise that neither you nor the alien have blinked.`
-			label siren
-			`	Suddenly, a light on the ceiling begins to flash in a piercing green colour, and a loud unpleasant sound begins playing from a small device on the ceiling.`
-			`	The alien stands motionless for a couple of seconds, then drops its weapons, raises its hands and slowly steps towards you.`
+			label device
+			`	The alien slowly reaches down to its waist and withdraws a small, flat hexagonal device from its pocket. The alien slowly brings the device up until it is slightly below its head, such that both you and the device are within the field of view of its large eyes, then begins pressing some buttons on the device.`
+			`	After a couple of seconds, you hear a slow, synthetic voice coming from the device: "Human. You are human." The alien looks you in the eyes, awaiting a response.`
 			choice
-				`	(Do nothing.)`
-				`	(Shoot it.)`
+				`	"Yes, I am human."`
+				`	"No, I don't think so."`
+				`	"What are you?"`
+					goto question1
+				`	"How does that thing work?"`
+					goto question2
+			label notalpha
+			`	The device continues: "You are not Alpha."`
+			choice
+				`	"I am not an Alpha."`
+					goto peacechance
+				`	"How do you know about the Alphas?"`
+					goto tenuous
+			label question1
+			`	The device pauses for a few seconds, and you see the reflection of some coloured flashes of light in the face of the alien. After a few more moments, the alien presses some buttons again, and the device continues to speak: "Naltok. We are Naltok."`
+				goto notalpha
+			label question2
+			`	The device pauses for a few seconds, and you see the reflection of some coloured flashes of light in the face of the alien. The alien presses several combinations of buttons on the device, and after a few mrore seconds the device continues to speak: "Speaking device. Speaking Human."`
+				goto notalpha
+			label peacechance
+			`	You see the reflection of the device's screen in the alien's eyes. Some text appears, and the alien drops both its pistols to the ground, then puts the device down and looks at you expectantly.`
+			choice
+				`	(Discard my weapons.)`
+					goto peacesuccess
+				`	(Open fire.)`
 					goto murder
-			`	The alien walks past you, towards your ship. Moments later, an alarm from your ship indicates that there is a significant radiation leak on the alien ship.`
-			`	You quickly run back to your ship and take off, moments before the alien ship is ripped apart by a huge explosion.`
-				launch
+			label tenuous
+			`	The device flashes, and the alien's expression changes. The device repeats itself: "You are not Alpha."`
+			choice
+				`	"I am not an Alpha."`
+					goto peacechance
+				`	(Just shoot them.)`
+					goto murder
 			label murder
 			`	You reach for your gun and pull the trigger. The alien stumbles and falls down, apparently dead.` 
 			`	Perhaps things could have ended differently, but any chance of peace between you and these aliens is now gone. All that remains now is to continue with your plans to either loot or steal this ship.`
-				decline
+				decline #todo: have the boarded ship lose one crew member here
 	on accept
-		dialog
-			`As soon as it is on your ship, the alien takes some kind of device from its pocket and begins speaking into it quickly. After a few moments, your sensors inform you that the other ships in the system have apparently stopped attacking you.`
-			`	The alien walks over to your starmap and points at itself, then at a particular nearby system. It seems as though it wishes to be taken there.`
 		"reputation: Xochira" >?= 1
 	on fail
 		"reputation: Xochira" <?= -1

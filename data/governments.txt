@@ -63,12 +63,32 @@ government "Telashki"
 	illegals
 		ignore "Acid Grub"
 
-# Both Naltok factions send fleets to Vokegol, but those fleets don't fight each other.
+# Ministry of Transport logistics fleets are noncombatants, so have the same crew stats as the regular Naltok.
+# All fleets using this government should have either timid or pacifist personality.
+government "Telashki (Ministry of Transport)"
+	"display name" "Telashki"
+	swizzle 15
+	"crew attack" .5
+	"crew defense" 1.6
+	"player reputation" 5
+	"attitude toward"
+		"Telashki" 1
+		"Naltok Merchant" .3
+		"Naltok (Neutral)" 1
+		"Xochira" -.2
+	"custom penalties for"
+		"Quarg (Naltok)"
+			disable -.1
+			board -.5
+	illegals
+		ignore "Acid Grub"
+
+# Both Naltok factions send support fleets to Vokegol, but those fleets don't fight each other.
 government "Telashki (Vokegol)"
 	"display name" "Telashki"
 	swizzle 15
-	"crew attack" 1.1
-	"crew defense" 2.6
+	"crew attack" .5
+	"crew defense" 1.6
 	"player reputation" 5
 	"attitude toward"
 		"Telashki" 1
@@ -100,12 +120,12 @@ government "Xochira"
 	illegals
 		ignore "Acid Grub"
 
-# Both Naltok factions send fleets to Vokegol, but those fleets don't fight each other.
+# Both Naltok factions send support fleets to Vokegol, but those fleets don't fight each other.
 government "Xochira (Vokegol)"
 	"display name" "Xochira"
 	swizzle 24
-	"crew attack" .8
-	"crew defense" 1.9
+	"crew attack" .5
+	"crew defense" 1.6
 	"player reputation" -10
 	"attitude toward"
 		"Xochira" 1

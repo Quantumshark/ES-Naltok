@@ -356,9 +356,9 @@ ship "Grouper"
 		"Hyperdrive"
 	gun
 	gun
-		angle -30
+		angle -60
 	gun
-		angle 30
+		angle 60
 	turret
 	turret
 	bay "Drone" 0 0

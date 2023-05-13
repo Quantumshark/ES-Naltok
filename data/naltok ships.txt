@@ -329,7 +329,7 @@ ship "Grouper"
 		"fuel capacity" 4000
 		"cargo space" 64
 		"outfit space" 584
-		"weapon capacity" 132
+		"weapon capacity" 136
 		"engine capacity" 188
 		"heat protection" 3
 		"burn protection" 1
@@ -340,6 +340,20 @@ ship "Grouper"
 			"shield damage" 2390
 			"hull damage" 1195
 			"hit force" 3585
+	outfits
+		"Naltok Anti-Missile" 2
+		"Halt-Swarm Launcher" 3
+		"Halt-Swarm Missile" 160
+		"Halt-Swarm Rack" 4
+
+		"Stream Generator"
+		"Lake Battery"
+		"River Shield Generator" 2
+
+		"Iguana Steering"
+		"Iguana Thruster"
+		"Gecko Thruster"
+		"Hyperdrive"
 	gun
 	gun
 	gun

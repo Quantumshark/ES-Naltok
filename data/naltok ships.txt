@@ -229,8 +229,7 @@ ship "Conger"
 			"hull damage" 175
 			"hit force" 525
 	outfits
-		"Shell-Splitter Pod" 2
-		"Shell-Splitter Torpedo" 4
+		"Breaker" 2
 		"Naltok Anti-Missile"
 		"Brook Cell"
 		"Pond Battery"
@@ -239,8 +238,8 @@ ship "Conger"
 		"Gecko Steering"
 		"Hyperdrive"
 
-	gun "Shell-Splitter Pod"
-	gun "Shell-Splitter Pod"
+	gun "Breaker"
+	gun "Breaker"
 	turret "Naltok Anti-Missile"
 	bay "Drone" 0 0
 	description `The Conger is a decently mobile light freighter occasionally used by the Naltok. Though not as commonly used as one might expect due to the common practice in Naltok space of hauling cargo in refitted warships, the Conger is still hugely popular as a mid-range freighter.`

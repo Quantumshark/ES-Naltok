@@ -1129,58 +1129,6 @@ ship "Kaluga"
 	turret
 	description `No thought was given to questions of range, peacetime utility or speed when the Kaluga was designed. Instead, every effort available was focused on making the toughest and deadliest single warship anywhere in Naltok space.`
 
-ship "Coelacanth"
-	sprite "ship/coelacanth"
-	thumbnail "thumbnail/coelacanth"
-	attributes
-		"capture class" "naltok capital"
-		category "Heavy Warship"
-		"cost" 58956000
-		"shields" 11300
-		"hull" 80300
-		"hull repair rate" 5.3
-		"hull energy" 1.325
-		"hull heat" 3.975
-		"required crew" 114
-		"bunks" 143
-		"mass" 2816
-		"drag" 29.1
-		"heat dissipation" .11
-		"fuel capacity" 500
-		"cargo space" 98
-		"outfit space" 1104
-		"weapon capacity" 503
-		"engine capacity" 268
-		"heat protection" 3
-		"burn protection" 1
-		"high shield permeability" .4
-		"low shield permeability" .4
-		weapon
-			"blast radius" 308
-			"shield damage" 4580
-			"hull damage" 2290
-			"hit force" 6870
-	outfits
-
-		"Hyperdrive"
-
-	gun
-	gun
-	turret
-	turret
-	turret
-	turret
-	turret
-	turret
-	turret
-	turret
-	turret
-	bay "Drone" 0 0
-	bay "Drone" 0 0
-	bay "Drone" 0 0
-	bay "Drone" 0 0
-	description `The original design for the Coelacanth predates the war by a few centuries, having initially been a proposal for a city-ship to house Naltok populations in the event that their planets became too crowded. After many rounds of adjustments and updates, focusing particularly on militarisation, this colossal warship is the result.`
-
 ship "Lamprey"
 	sprite "ship/lamprey"
 	thumbnail "thumbnail/lamprey"

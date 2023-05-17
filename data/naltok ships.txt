@@ -10,8 +10,8 @@
 
 ship "Mackerel"
 	plural "Mackerel"
-	sprite "ship/mackerel"
-	thumbnail "thumbnail/mackerel"
+	sprite "ship/naltok mackerel"
+	thumbnail "thumbnail/naltok mackerel"
 	attributes
 		category "Transport"
 		"cost" 1320000
@@ -55,8 +55,8 @@ ship "Mackerel"
 	description `In the early days of the war, many Naltok civilians on both sides found themselves stranded on the wrong side of the frontline or separated from their friends and family. Merchant captains saw the opportunity this presented and, with implicit approval from both of the warring governments, rallied a fleet of Mackerel transport vessels to ferry citizens to their desired side of the boundary.`
 
 ship "Marlin"
-	sprite "ship/marlin"
-	thumbnail "thumbnail/marlin"
+	sprite "ship/naltok marlin"
+	thumbnail "thumbnail/naltok marlin"
 	attributes
 		category "Space Liner"
 		"cost" 4330000
@@ -103,8 +103,8 @@ ship "Marlin"
 	description `When Naltok wish to travel in comfort, they do so in the Marlin.`
 
 ship "Sturgeon"
-	sprite "ship/sturgeon"
-	thumbnail "thumbnail/sturgeon"
+	sprite "ship/naltok sturgeon"
+	thumbnail "thumbnail/naltok sturgeon"
 	attributes
 		"capture class" "naltok capital"
 		category "Utility"
@@ -145,8 +145,8 @@ ship "Sturgeon"
 
 ship "Herring"
 	plural "Herring"
-	sprite "ship/herring"
-	thumbnail "thumbnail/herring"
+	sprite "ship/naltok herring"
+	thumbnail "thumbnail/naltok herring"
 	attributes
 		category "Light Freighter"
 		"cost" 462000
@@ -199,8 +199,8 @@ ship "Herring" "Herring (Mining)"
 		"Hyperdrive"
 
 ship "Conger"
-	sprite "ship/conger"
-	thumbnail "thumbnail/conger"
+	sprite "ship/naltok conger"
+	thumbnail "thumbnail/naltok conger"
 	attributes
 		category "Light Freighter"
 		"cost" 2486000
@@ -256,8 +256,8 @@ ship "Conger" "Conger (Unarmed)"
 		"Cargo Expansion" 4
 
 ship "Flounder"
-	sprite "ship/flounder"
-	thumbnail "thumbnail/flounder"
+	sprite "ship/naltok flounder"
+	thumbnail "thumbnail/naltok flounder"
 	attributes
 		category "Heavy Freighter"
 		"cost" 7731000
@@ -309,8 +309,8 @@ ship "Flounder"
 	description `For any pilots willing to endure its disastrous mobility, the Flounder does offer a spectacular cargo capacity, far larger than any human freighter.`
 
 ship "Grouper"
-	sprite "ship/grouper"
-	thumbnail "ship/grouper"
+	sprite "ship/naltok grouper"
+	thumbnail "ship/naltok grouper"
 	attributes
 		"capture class" "xochira novelty"
 		category "Utility"
@@ -366,8 +366,8 @@ ship "Grouper"
 
 ship "Guppy"
 	plural "Guppies"
-	sprite "ship/guppy"
-	thumbnail "thumbnail/guppy"
+	sprite "ship/naltok guppy"
+	thumbnail "thumbnail/naltok guppy"
 	attributes
 		category "Interceptor"
 		"cost" 381000
@@ -412,8 +412,8 @@ ship "Guppy"
 	description `Though it is nominally an interceptor, most Naltok view the Guppy as a mining vessel, and it has gained a reputation as being little more than a crewed Minnow. The questionable decision to give the Guppy one forwards and one rearwards gun has only served to worsen the public perception of it, and consequently Guppies are a rare sight in military and civilian fleets alike.`
 
 ship "Tetra"
-	sprite "ship/tetra"
-	thumbnail "thumbnail/tetra"
+	sprite "ship/naltok tetra"
+	thumbnail "thumbnail/naltok tetra"
 	attributes
 		category "Interceptor"
 		"cost" 837000
@@ -465,8 +465,8 @@ ship "Tetra"
 
 ship "Archerfish"
 	plural "Archerfish"
-	sprite "ship/archerfish"
-	thumbnail "thumbnail/archerfish"
+	sprite "ship/naltok archerfish"
+	thumbnail "thumbnail/naltok archerfish"
 	attributes
 		"capture class" "xochira novelty"
 		category "Light Warship"
@@ -517,8 +517,8 @@ ship "Archerfish"
 
 ship "Piranha"
 	plural "Piranha"
-	sprite "ship/piranha"
-	thumbnail "thumbnail/piranha"
+	sprite "ship/naltok piranha"
+	thumbnail "thumbnail/naltok piranha"
 	attributes
 		category "Light Warship"
 		"cost" 2344000
@@ -652,8 +652,8 @@ ship "Piranha" "Piranha (Mining)"
 
 ship "Barracuda"
 	plural "Barracuda"
-	sprite "ship/barracuda"
-	thumbnail "thumbnail/barracuda"
+	sprite "ship/naltok barracuda"
+	thumbnail "thumbnail/naltok barracuda"
 	attributes
 		category "Medium Warship"
 		"cost" 4742000
@@ -768,8 +768,8 @@ ship "Barracuda" "Barracuda (Leeching)"
 	gun "Shell-Splitter Pod"
 		
 ship "Albacore"
-	sprite "ship/albacore"
-	thumbnail "thumbnail/albacore"
+	sprite "ship/naltok albacore"
+	thumbnail "thumbnail/naltok albacore"
 	attributes
 		"capture class" "xochira novelty"
 		category "Medium Warship"
@@ -831,8 +831,8 @@ ship "Albacore"
 	description `The Albacore is not intended to be involved in large fleet battles like the Kaluga, but instead to serve as a transporter and deployer for five Lamprey fighters, patrolling the systems previously covered by the Archerfish. Despite this, the Albacore is not completely unarmed, carrying a small armament intended for long-range support, bringing some additional firepower to bear against ships trapped by the Lampreys.`
 
 ship "Moray"
-	sprite "ship/moray"
-	thumbnail "thumbnail/moray"
+	sprite "ship/naltok moray"
+	thumbnail "thumbnail/naltok moray"
 	attributes
 		category "Medium Warship"
 		"cost" 5163000
@@ -887,8 +887,8 @@ ship "Moray"
 	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce, though this disadvantage is lessened by the turret-heavy armament and single rear-facing missile launcher, which make the Moray less vulnerable to flanking attacks.`
 
 ship "Pike"
-	sprite "ship/pike"
-	thumbnail "thumbnail/pike"
+	sprite "ship/naltok pike"
+	thumbnail "thumbnail/naltok pike"
 	attributes
 		"capture class" "naltok capital"
 		category "Heavy Warship"
@@ -982,8 +982,8 @@ ship "Pike" "Pike (Xochira)"
 		"Hyperdrive"
 
 ship "Mola"
-	sprite "ship/mola"
-	thumbnail "thumbnail/mola"
+	sprite "ship/naltok mola"
+	thumbnail "thumbnail/naltok mola"
 	attributes
 		"capture class" "naltok capital"
 		category "Heavy Warship"
@@ -1057,8 +1057,8 @@ ship "Mola"
 
 ship "Kaluga"
 	plural "Kaluga"
-	sprite "ship/kaluga"
-	thumbnail "thumbnail/kaluga"
+	sprite "ship/naltok kaluga"
+	thumbnail "thumbnail/naltok kaluga"
 	attributes
 		"capture class" "naltok capital"
 		"capture class" "xochira novelty"
@@ -1130,8 +1130,8 @@ ship "Kaluga"
 	description `No thought was given to questions of range, peacetime utility or speed when the Kaluga was designed. Instead, every effort available was focused on making the toughest and deadliest single warship anywhere in Naltok space.`
 
 ship "Lamprey"
-	sprite "ship/lamprey"
-	thumbnail "thumbnail/lamprey"
+	sprite "ship/naltok lamprey"
+	thumbnail "thumbnail/naltok lamprey"
 	attributes
 		category "Fighter"
 		licenses 
@@ -1171,8 +1171,8 @@ ship "Lamprey"
 
 ship "Remora"
 	plural "Remora"
-	sprite "ship/remora"
-	thumbnail "thumbnail/remora"
+	sprite "ship/naltok remora"
+	thumbnail "thumbnail/naltok remora"
 	attributes
 		category "Fighter"
 		"cost" 201000
@@ -1216,8 +1216,8 @@ ship "Remora"
 	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 
 ship "Minnow"
-	sprite "ship/minnow"
-	thumbnail "thumbnail/minnow"
+	sprite "ship/naltok minnow"
+	thumbnail "thumbnail/naltok minnow"
 	attributes
 		category "Drone"
 		"cost" 71300

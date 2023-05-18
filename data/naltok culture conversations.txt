@@ -8,14 +8,18 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-mission ""
+mission "Xochira: Alpha interactions"
 	minor
 	invisible
 	to offer
-		random < 30
+		random < 10
+		has "language: naltok"
 	source
-		government
+		government Xochira
 	on offer
 		conversation
-			``
+			`As you are walking through the spaceport, you notice a young Naltok watching you from afar.`
+			choice
+				``
+				``
 				decline

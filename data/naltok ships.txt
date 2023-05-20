@@ -1097,8 +1097,8 @@ ship "Kaluga"
 		"Steel-Render" 1
 		"Sky-Shredder" 4
 		"Naltok Anti-Missile"
-		"Halt-Swarm Launcher" 5
-		"Halt-Swarm Missile" 176
+		"Halt-Swarm Launcher" 6
+		"Halt-Swarm Missile" 208
 		"Halt-Swarm Rack" 1
 
 		"River Reactor"
@@ -1112,6 +1112,7 @@ ship "Kaluga"
 		"Gecko Steering"
 		"Hyperdrive"
 
+	gun
 	gun
 	gun
 		angle -30

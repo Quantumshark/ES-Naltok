@@ -342,7 +342,7 @@ ship "Grouper"
 	outfits
 		"Naltok Anti-Missile" 2
 		"Halt-Swarm Launcher" 3
-		"Halt-Swarm Missile" 160
+		"Halt-Swarm Missile" 320
 		"Halt-Swarm Rack" 4
 
 		"Stream Generator"
@@ -715,7 +715,7 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 		"Shell-Splitter Pod" 2
 		"Shell-Splitter Torpedo" 4
 		"Halt-Swarm Launcher" 6
-		"Halt-Swarm Missile" 208
+		"Halt-Swarm Missile" 416
 		"Halt-Swarm Rack" 1
 
 		"Brook Cell"
@@ -741,7 +741,7 @@ ship "Barracuda" "Barracuda (Leeching)"
 	outfits
 		"Leech-Ray" 2
 		"Halt-Swarm Launcher" 2
-		"Halt-Swarm Missile" 96
+		"Halt-Swarm Missile" 192
 		"Halt-Swarm Rack" 2
 		"Shell-Splitter Pod" 4
 		"Shell-Splitter Torpedo" 8
@@ -802,7 +802,7 @@ ship "Albacore"
 			"hit force" 1530
 	outfits
 		"Halt-Swarm Launcher" 3
-		"Halt-Swarm Missile" 176
+		"Halt-Swarm Missile" 352
 		"Halt-Swarm Rack" 5
 		"Naltok Anti-Missile"
 
@@ -1098,7 +1098,7 @@ ship "Kaluga"
 		"Sky-Shredder" 4
 		"Naltok Anti-Missile"
 		"Halt-Swarm Launcher" 6
-		"Halt-Swarm Missile" 208
+		"Halt-Swarm Missile" 416
 		"Halt-Swarm Rack" 1
 
 		"River Reactor"

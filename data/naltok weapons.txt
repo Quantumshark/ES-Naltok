@@ -222,7 +222,7 @@ outfit "Halt-Swarm Launcher"
 	"outfit space" -29
 	"weapon capacity" -29
 	"gun ports" -1
-	"halt-swarm capacity" 32
+	"halt-swarm capacity" 64
 	weapon
 		"stream"
 		sprite "projectile/meteor"
@@ -258,7 +258,7 @@ outfit "Halt-Swarm Missile"
 		"Xochira"
 	cost 1270
 	thumbnail "outfit/halt-swarm missile"
-	"mass" .5
+	"mass" .25
 	"halt-swarm capacity" -1
 	description "A Halt-Swarm rocket serves as ammunition for the Halt-Swarm Launcher. Each launcher has the capacity for 32 halt-swarm missiles; you cannot install halt-swarm missiles if you have not first purchased a launcher to store them in."
 
@@ -270,7 +270,7 @@ outfit "Halt-Swarm Rack"
 	thumbnail "outfit/halt-swarm storage"
 	"mass" 3
 	"outfit space" -11
-	"halt-swarm capacity" 16
+	"halt-swarm capacity" 32
 	ammo "Halt-Swarm Missile"
 	description "The Halt-Swarm Rack is used to store extra ammunition for Halt-Swarm Launchers."
 	

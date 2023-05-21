@@ -134,13 +134,26 @@ ship "Sturgeon"
 			"hull damage" 1020
 			"hit force" 3060
 	outfits
+		"Shell-Splitter Launcher"
+		"Shell-Splitter Torpedo" 11
+		"Steel-Render"
+		"Naltok Anti-Missile" 4
 
-	gun
-	turret
-	turret
-	turret
-	turret
-	turret
+		"River Reactor"
+		"Pond Battery"
+		"Fuel Vat"
+		"River Shield Generator" 3
+
+		"Monitor Steering"
+		"Iguana Thruster"
+		"Hyperdrive"
+
+	gun "Shell-Splitter Launcher"
+	turret "Steel-Render"
+	turret "Naltok Anti-Missile"
+	turret "Naltok Anti-Missile"
+	turret "Naltok Anti-Missile"
+	turret "Naltok Anti-Missile"
 	description `The Sturgeon is not designed to participate directly in ship to ship combat, although it is sufficiently resilient to ignore even fairly concentrated fire. Instead, it is a ground assault ship, designed to bring large numbers of troops and vehicles to the surface of a hostile planet.`
 
 ship "Herring"

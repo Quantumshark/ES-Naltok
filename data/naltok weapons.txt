@@ -339,7 +339,7 @@ outfit "Shell-Splitter Pod"
 		"lifetime" 600
 		"burst count" 2
 		"burst reload" 120
-		"reload" 360
+		"reload" 480
 		"firing energy" 1
 		"firing heat" 4
 		"acceleration" .3

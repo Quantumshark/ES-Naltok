@@ -289,7 +289,7 @@ outfit "Shell-Splitter Launcher"
 			"random start frame"
 		sound "torpedo"
 		ammo "Shell-Splitter Torpedo"
-		icon "icon/shellsplitter"
+		icon "icon/shell-splitter"
 		"submunition" "Shell-Splitter Core"
 		"submunition" "Shell-Splitter Husk" 5
 		"split range" 350
@@ -326,7 +326,7 @@ outfit "Shell-Splitter Pod"
 			"random start frame"
 		sound "torpedo"
 		ammo "Shell-Splitter Torpedo"
-		icon "icon/shellsplitter"
+		icon "icon/shell-splitter"
 		"submunition" "Shell-Splitter Core"
 		"submunition" "Shell-Splitter Husk" 5
 		"split range" 350
@@ -436,7 +436,7 @@ outfit "Star-Worm Launcher"
 			"random start frame"
 		sound "torpedo"
 		ammo "Star-Worm Capsule"
-		icon "icon/starworm"
+		icon "icon/star-worm"
 		"die effect" "star-worm" 5
 		"die effect" "star-worm fragment" 3
 		"hit effect" "star-worm" 5
@@ -468,7 +468,7 @@ outfit "Star-Worm Pod"
 			"random start frame"
 		sound "torpedo"
 		ammo "Star-Worm Capsule"
-		icon "icon/starworm"
+		icon "icon/star-worm"
 		"velocity" 9
 		"lifetime" 120
 		"burst reload" 240

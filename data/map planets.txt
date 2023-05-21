@@ -10,7 +10,7 @@ planet Chexilok
 	description "This is an unusually hot, dense ocean planet. The pressure at sea level is nearly three times that on Earth, and the concentration of atmospheric carbon dioxide is high enough that it is toxic. The Naltok have established massive quantities of bioengineered algae in the upper waters, which supply more than two thirds of the oil used in Naltok space."
 	description "While the Naltok are generally more cautious about the overuse of plastics than humanity, and have moved away from fossil fuels as an energy source entirely, they nonetheless require moderate amounts of various oil derivatives for industrial processes."
 	spaceport "The spaceport is pressurised, and carefully cooled to a more pleasant temperature. Small windows give views of the immense oceans and piercing sunlight outside, though most are covered by curtains which keep the light and heat at bay."
-	"required reputation" 25
+	"required reputation" 5
 
 planet Chireke
 	attributes naltok rural
@@ -42,7 +42,7 @@ planet Joklanok
 	shipyard "Xochira Basics"
 	outfitter "Naltok Intermediate"
 	outfitter "Xochira Intermediate"
-	"required reputation" 5
+	"required reputation" 15
 
 planet Kevoshek
 	attributes mining naltok
@@ -112,7 +112,7 @@ planet Nareltok
 	shipyard "Naltok Civilian Intermediate"
 	outfitter "Naltok Intermediate"
 	outfitter "Xochira Basics"
-	"required reputation" 25
+	"required reputation" 50
 
 planet Ngakego
 	attributes factory naltok urban
@@ -144,7 +144,7 @@ planet Ruxanguv
 	spaceport "The spaceport is clearly built for military purposes, as are the many others on this planet. Warships, particularly Archerfish and Barracuda, are constantly landing, rearming and taking off here, and you can see vehicles carrying Halt-Swarm missiles from several warehouses to re-arm the landed ships."
 	outfitter "Naltok Ammo"
 	outfitter "Xochira Ammo"
-	"required reputation" 50
+	"required reputation" 25
 
 planet Shajoli
 	attributes naltok uninhabited
@@ -205,7 +205,7 @@ planet Vigechox
 	shipyard "Xochira Intermediate"
 	outfitter "Naltok Advanced"
 	outfitter "Xochira Advanced"
-	"required reputation" 25
+	"required reputation" 50
 
 #description here needs a redo - this information should be communicated in a first contact mission specific to Vokegol Observatory, rather than in the description.
 planet "Vokegol Observatory"

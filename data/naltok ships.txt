@@ -672,8 +672,8 @@ ship "Barracuda"
 	attributes
 		category "Medium Warship"
 		"cost" 4742000
-		"shields" 4100
-		"hull" 16700
+		"shields" 4200
+		"hull" 17600
 		"hull repair rate" 1.9
 		"hull energy" .475
 		"hull heat" 1.425
@@ -684,8 +684,8 @@ ship "Barracuda"
 		"heat dissipation" .35
 		"fuel capacity" 500
 		"cargo space" 72
-		"outfit space" 412
-		"weapon capacity" 196
+		"outfit space" 416
+		"weapon capacity" 208
 		"engine capacity" 128
 		"heat protection" 3
 		"burn protection" 1

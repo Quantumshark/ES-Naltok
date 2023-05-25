@@ -111,12 +111,15 @@ government "Xochira"
 	"player reputation" -10
 	"attitude toward"
 		"Xochira (Vokegol)" 1
+		"Xochira (Training)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Telashki" -.01
 		"Alpha" -.01
 	"penalty for"
 		assist 0
+	"foreign penalties for"
+		"Xochira (Training)"
 	illegals
 		ignore "Acid Grub"
 
@@ -129,12 +132,15 @@ government "Xochira (Vokegol)"
 	"player reputation" -10
 	"attitude toward"
 		"Xochira" 1
+		"Xochira (Training)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Telashki" -.01
 		"Alpha" -.01
 	"penalty for"
 		assist 0
+	"foreign penalties for"
+		"Xochira (Training)"
 	illegals
 		ignore "Acid Grub"
 
@@ -147,5 +153,6 @@ government "Xochira (Training)"
 	"player reputation" -1000
 	"penalty for"
 		"disable" 0
+		"assist" 0
 	illegals
 		ignore "Acid Grub"

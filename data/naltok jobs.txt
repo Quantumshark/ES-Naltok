@@ -108,7 +108,7 @@ mission "Xochira Military Drill 1"
 	repeat
 	description "Engage the <npc> in simulated battle to provide valuable combat experience for the crew, who have recently begun their training. Disable it, but do not board or destroy it. Payment is <payment>."
 	to offer
-		random < 15
+		random < 20
 		has "language: naltok"
 	source
 		government "Xochira"
@@ -129,7 +129,7 @@ mission "Xochira Military Drill 2"
 	repeat
 	description "Engage the <npc> in simulated battle to provide valuable combat experience for the crew, who are still in training. Disable it, but do not board or destroy it. Payment is <payment>."
 	to offer
-		random < 10
+		random < 15
 		has "language: naltok"
 	source
 		government "Xochira"
@@ -150,7 +150,7 @@ mission "Xochira Military Drill 3"
 	repeat
 	description "Engage the <npc> in simulated battle to provide valuable combat experience for the crew, who are completing their training. Disable it, but do not board or destroy it. Payment is <payment>."
 	to offer
-		random < 5
+		random < 10
 		has "language: naltok"
 	source
 		government "Xochira"

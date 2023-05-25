@@ -53,6 +53,7 @@ government "Telashki"
 	"player reputation" 5
 	"attitude toward"
 		"Telashki (Vokegol)" 1
+		"Telashki (Ministry of Transport)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
@@ -73,6 +74,7 @@ government "Telashki (Ministry of Transport)"
 	"player reputation" 5
 	"attitude toward"
 		"Telashki" 1
+		"Telashki (Vokegol)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
@@ -92,6 +94,7 @@ government "Telashki (Vokegol)"
 	"player reputation" 5
 	"attitude toward"
 		"Telashki" 1
+		"Telashki (Ministry of Transport)" 1
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2

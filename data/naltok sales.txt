@@ -46,7 +46,7 @@ shipyard "Xochira Pike"
 shipyard "Telashki Basics"
 	"Tetra"
 
-#Remora, Mola will be added during campaign
+#Remora, Mola, Sturgeon will be added during campaign
 shipyard "Telashki Advanced"
 	"Tetra"
 

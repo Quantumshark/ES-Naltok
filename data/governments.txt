@@ -137,3 +137,15 @@ government "Xochira (Vokegol)"
 		assist 0
 	illegals
 		ignore "Acid Grub"
+
+# For the combat training jobs. Crew have some combat training, but are weaker than the fully-trained soldiers of the regular Xochira faction
+government "Xochira (Training)"
+	"display name" "Xochira"
+	swizzle 24
+	"crew attack" .6
+	"crew defense" 1.7
+	"player reputation" -1000
+	"penalty for"
+		"disable" 0
+	illegals
+		ignore "Acid Grub"

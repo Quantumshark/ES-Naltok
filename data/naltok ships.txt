@@ -1096,8 +1096,8 @@ ship "Kaluga"
 		"heat dissipation" .15
 		"fuel capacity" 400
 		"cargo space" 0
-		"outfit space" 896
-		"weapon capacity" 444
+		"outfit space" 912
+		"weapon capacity" 448
 		"engine capacity" 178
 		"heat protection" 3
 		"burn protection" 1
@@ -1116,8 +1116,8 @@ ship "Kaluga"
 		"Halt-Swarm Missile" 416
 		"Halt-Swarm Rack" 1
 
-		"River Reactor"
-		"Pond Battery"
+		"Estuary Reactor"
+		"Puddle Battery"
 		"River Shield Generator" 3
 		"Ripper Pistols" 71
 		"Shredder Minigun" 3

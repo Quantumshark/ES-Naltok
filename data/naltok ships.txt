@@ -411,7 +411,7 @@ ship "Guppy"
 			"hull damage" 115
 			"hit force" 345
 	outfits
-		"Breaker" 2
+		"Breaker" 3
 
 		"Spring Cell" 2
 		"Puddle Battery"
@@ -423,8 +423,9 @@ ship "Guppy"
 
 	gun "Breaker"
 	gun "Breaker"
+	gun "Breaker"
 		angle 180
-	description `Though it is nominally an interceptor, most Naltok view the Guppy as a mining vessel, and it has gained a reputation as being little more than a crewed Minnow. The questionable decision to give the Guppy one forwards and one rearwards gun has only served to worsen the public perception of it, and consequently Guppies are a rare sight in military and civilian fleets alike.`
+	description `Though it is nominally an interceptor, most Naltok view the Guppy as a mining vessel, and it has gained a reputation as being little more than a crewed Minnow. The questionable decision to give the Guppy a rearwards-facing gun has only served to worsen the public perception of it, and consequently Guppies are a rare sight in military and civilian fleets alike.`
 
 ship "Tetra"
 	sprite "ship/naltok tetra"

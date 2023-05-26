@@ -63,3 +63,9 @@ mission "Xochira culture: Alpha interactions"
 			label worse
 			`	`
 				decline
+			label seen
+			`	`
+				decline
+			label telashki
+			`	`
+				decline

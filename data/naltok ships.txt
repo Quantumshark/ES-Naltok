@@ -1023,7 +1023,7 @@ ship "Mola"
 		"fuel capacity" 400
 		"cargo space" 24
 		"outfit space" 752
-		"weapon capacity" 214
+		"weapon capacity" 144
 		"engine capacity" 160
 		"heat protection" 3
 		"burn protection" 1
@@ -1035,9 +1035,9 @@ ship "Mola"
 			"hull damage" 1140
 			"hit force" 3420
 	outfits
-		"Shell-Splitter Launcher" 2
-		"Shell-Splitter Tube" 10
-		"Shell-Splitter Torpedo" 62
+		"Shell-Splitter Launcher"
+		"Shell-Splitter Tube" 16
+		"Shell-Splitter Torpedo" 75
 		"Naltok Anti-Missile" 4
 
 		"Brook Cell"
@@ -1052,7 +1052,6 @@ ship "Mola"
 		"Anole Thruster"
 		"Iguana Steering"
 
-	gun
 	gun
 	turret
 	turret

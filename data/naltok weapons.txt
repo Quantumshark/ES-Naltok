@@ -298,7 +298,7 @@ outfit "Shell-Splitter Launcher"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
 		"velocity" 3
-		"range override" 5000
+		"range override" 4800
 		"lifetime" 600
 		"reload" 240
 		"firing energy" 1
@@ -335,7 +335,7 @@ outfit "Shell-Splitter Pod"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
 		"velocity" 3
-		"range override" 5000
+		"range override" 4800
 		"lifetime" 600
 		"burst count" 2
 		"burst reload" 120

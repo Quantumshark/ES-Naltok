@@ -459,8 +459,8 @@ ship "Tetra"
 			"hit force" 405
 	outfits
 		"Breaker"
-		"Shell-Splitter Pod" 4
-		"Shell-Splitter Torpedo" 8
+		"Shell-Splitter Pod" 6
+		"Shell-Splitter Torpedo" 12
 
 		"Brook Cell"
 		"Puddle Battery"
@@ -475,6 +475,10 @@ ship "Tetra"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
 		angle -30
+	gun "Shell-Splitter Pod"
+		angle -30
+	gun "Shell-Splitter Pod"
+		angle 30
 	gun "Shell-Splitter Pod"
 		angle 30
 	description `The Tetra is a versatile small ship built by the Telashki. Originally intended as an inexpensive counter to the Archerfish, the Tetra has since been shown to be quite effective when armed with Shell-Splitters and used in small squadrons against much larger ships.`

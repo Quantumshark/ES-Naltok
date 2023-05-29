@@ -245,11 +245,11 @@ outfit "Halt-Swarm Launcher"
 		"turn" 3.3
 		"homing" 3
 		"radar tracking" .73
-		"shield damage" 97
-		"hull damage" 97
-		"hit force" 50
+		"shield damage" 115
+		"hull damage" 115
+		"hit force" 70
 		"slowing damage" 7.7
-		"missile strength" 3
+		"missile strength" 4
 	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in burst of four missiles."
 
 outfit "Halt-Swarm Missile"

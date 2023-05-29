@@ -43,11 +43,11 @@ system Chategri
 	link Choxera
 	link Roxeka
 	asteroids "small rock" 9 5.52
-	asteroids "medium rock" 84 4.12
-	asteroids "large rock" 35 5.2
-	asteroids "small metal" 78 3.28
-	asteroids "medium metal" 42 4.04
-	asteroids "large metal" 7 3.92
+	asteroids "medium rock" 44 4.12
+	asteroids "large rock" 17 5.2
+	asteroids "small metal" 38 3.28
+	asteroids "medium metal" 22 4.04
+	asteroids "large metal" 5 3.92
 	fleet "Xochira Interdictor" 800
 	fleet "Small Naltok Merchant" 1500
 	object
@@ -90,11 +90,11 @@ system Choxera
 	link Ngotesh
 	link "Xeko Naltok"
 	asteroids "small rock" 1 2.402
-	asteroids "medium rock" 9 2.517
-	asteroids "large rock" 32 2.059
-	asteroids "small metal" 48 2.259
-	asteroids "medium metal" 57 4.29
-	asteroids "large metal" 109 3.346
+	asteroids "medium rock" 4 2.517
+	asteroids "large rock" 16 2.059
+	asteroids "small metal" 28 2.259
+	asteroids "medium metal" 37 4.29
+	asteroids "large metal" 59 3.346
 	minables copper 12 8.5
 	trade Clothing 290
 	trade Electronics 700
@@ -148,12 +148,12 @@ system Keloteg
 	haze _menu/haze-33
 	"starfield density" .2
 	link Tolonek
-	asteroids "small rock" 10 2.142
-	asteroids "medium rock" 78 1.932
-	asteroids "large rock" 32 1.449
-	asteroids "small metal" 5 3.045
-	asteroids "medium metal" 38 2.331
-	asteroids "large metal" 8 2.856
+	asteroids "small rock" 5 2.142
+	asteroids "medium rock" 39 1.932
+	asteroids "large rock" 16 1.449
+	asteroids "small metal" 3 3.045
+	asteroids "medium metal" 19 2.331
+	asteroids "large metal" 4 2.856
 	minables titanium 21 21.5
 	minables uranium 2 19.6
 	trade Clothing 433
@@ -206,9 +206,9 @@ system Keloxen
 	link Linekol
 	asteroids "medium rock" 2 6.82
 	asteroids "large rock" 1 6.6
-	asteroids "small metal" 8 3.74
-	asteroids "medium metal" 14 7.535
-	asteroids "large metal" 12 2.805
+	asteroids "small metal" 4 3.74
+	asteroids "medium metal" 7 7.535
+	asteroids "large metal" 6 2.805
 	minables neodymium 3 11.5
 	trade Clothing 290
 	trade Electronics 601
@@ -260,11 +260,11 @@ system Ligoxel
 	link Lixetog
 	link Tekochi
 	asteroids "small rock" 15 1.724
-	asteroids "medium rock" 6 1.68
-	asteroids "large rock" 63 1.635
+	asteroids "medium rock" 3 1.68
+	asteroids "large rock" 31 1.635
 	asteroids "small metal" 3 2.829
-	asteroids "medium metal" 22 2.1
-	asteroids "large metal" 72 1.326
+	asteroids "medium metal" 12 2.1
+	asteroids "large metal" 39 1.326
 	minables iron 16 11.1
 	minables copper 7 8.8
 	trade Clothing 290
@@ -326,10 +326,10 @@ system Linekol
 	link Keloxen
 	link Varajol
 	asteroids "small rock" 1 3.775
-	asteroids "large rock" 10 3.432
+	asteroids "large rock" 5 3.432
 	asteroids "small metal" 1 3.458
 	asteroids "medium metal" 2 3.96
-	asteroids "large metal" 3 2.983
+	asteroids "large metal" 2 2.983
 	fleet "Small Naltok Merchant" 700
 	object
 		sprite star/k3
@@ -388,11 +388,11 @@ system Lixetog
 	"starfield density" .2
 	link Ligoxel
 	link "Xeko Naltok"
-	asteroids "small rock" 7 4.03
-	asteroids "medium rock" 32 5.785
-	asteroids "large rock" 3 3.705
-	asteroids "small metal" 7 3.835
-	asteroids "medium metal" 5 8.97
+	asteroids "small rock" 4 4.03
+	asteroids "medium rock" 16 5.785
+	asteroids "large rock" 2 3.705
+	asteroids "small metal" 4 3.835
+	asteroids "medium metal" 3 8.97
 	asteroids "large metal" 1 3.445
 	minables neodymium 19 7.5
 	minables tungsten 8 11.5
@@ -461,12 +461,12 @@ system Loxelon
 	link Norelon
 	link Rixengol
 	link Vokegol
-	asteroids "small rock" 7 7.336
-	asteroids "medium rock" 17 6.259
-	asteroids "large rock" 7 4.361
-	asteroids "small metal" 7 3.745
-	asteroids "medium metal" 14 6.874
-	asteroids "large metal" 19 3.386
+	asteroids "small rock" 3 7.336
+	asteroids "medium rock" 9 6.259
+	asteroids "large rock" 4 4.361
+	asteroids "small metal" 3 3.745
+	asteroids "medium metal" 7 6.874
+	asteroids "large metal" 11 3.386
 	fleet "Small Naltok Merchant" 3000
 	object
 		sprite planet/browndwarf-t-rouge
@@ -520,11 +520,11 @@ system Ngotesh
 	haze _menu/haze-33
 	"starfield density" .2
 	link Choxera
-	asteroids "small rock" 3 4.106
-	asteroids "medium rock" 7 3.968
-	asteroids "large rock" 13 3.795
-	asteroids "small metal" 4 2.139
-	asteroids "large metal" 4 5.072
+	asteroids "small rock" 2 4.106
+	asteroids "medium rock" 4 3.968
+	asteroids "large rock" 7 3.795
+	asteroids "small metal" 2 2.139
+	asteroids "large metal" 2 5.072
 	minables silicon 13 13.1
 	trade Clothing 290
 	trade Electronics 729
@@ -585,10 +585,10 @@ system Norelon
 	"starfield density" .15
 	link Loxelon
 	link Vokegol
-	asteroids "small rock" 4 8.197
-	asteroids "medium rock" 8 3.664
-	asteroids "small metal" 14 8.135
-	asteroids "medium metal" 21 7.825
+	asteroids "small rock" 2 8.197
+	asteroids "medium rock" 4 3.664
+	asteroids "small metal" 7 8.135
+	asteroids "medium metal" 10 7.825
 	hazard Star-Worms 100
 	fleet "Small Naltok Merchant" 20000
 	object
@@ -637,8 +637,7 @@ system Rixengol
 	link Loxelon
 	link Xangoret
 	link "Xeko Naltok"
-	asteroids "medium rock" 23 5.751
-	asteroids "large rock" 1 6.115
+	asteroids "medium rock" 13 5.751
 	asteroids "small metal" 1 6.698
 	asteroids "medium metal" 2 9.828
 	asteroids "large metal" 1 9.828
@@ -688,9 +687,9 @@ system Roxeka
 	haze _menu/haze-33
 	"starfield density" .25
 	link Chategri
-	asteroids "small rock" 4 2.6
-	asteroids "medium rock" 122 1.747
-	asteroids "large rock" 8 2.746
+	asteroids "small rock" 2 2.6
+	asteroids "medium rock" 58 1.747
+	asteroids "large rock" 4 2.746
 	asteroids "medium metal" 1 1.082
 	asteroids "large metal" 1 2.683
 	trade Clothing 290
@@ -753,12 +752,12 @@ system Tekochi
 	haze _menu/haze-67
 	"starfield density" .5
 	link Ligoxel
-	asteroids "small rock" 9 5.52
-	asteroids "medium rock" 124 4.12
-	asteroids "large rock" 35 5.2
-	asteroids "small metal" 108 3.28
-	asteroids "medium metal" 42 4.04
-	asteroids "large metal" 7 3.92
+	asteroids "small rock" 4 5.52
+	asteroids "medium rock" 61 4.12
+	asteroids "large rock" 14 5.2
+	asteroids "small metal" 51 3.28
+	asteroids "medium metal" 21 4.04
+	asteroids "large metal" 3 3.92
 	minables iron 3 7.7
 	trade Clothing 290
 	trade Electronics 803
@@ -817,9 +816,9 @@ system Tikelo
 	link Tokilok
 	link Tolonek
 	asteroids "small rock" 1 4.952
-	asteroids "medium rock" 9 5.405
+	asteroids "medium rock" 4 5.405
 	asteroids "large rock" 1 1.928
-	asteroids "large metal" 2 3.629
+	asteroids "large metal" 1 3.629
 	trade Clothing 290
 	trade Electronics 730
 	trade Equipment 351
@@ -876,7 +875,7 @@ system Tokilok
 	"starfield density" .15
 	link Tikelo
 	link Vokegol
-	asteroids "large rock" 5 2.957
+	asteroids "large rock" 3 2.957
 	asteroids "large metal" 1 3.674
 	minables silicon 17 10.6
 	minables silver 3 13.1
@@ -920,12 +919,12 @@ system Tolonek
 	link Kelojol
 	link Keloteg
 	link Tikelo
-	asteroids "small rock" 32 4.932
-	asteroids "medium rock" 114 5.141
-	asteroids "large rock" 34 5.727
-	asteroids "small metal" 8 4.974
-	asteroids "medium metal" 3 6.27
-	asteroids "large metal" 8 2.341
+	asteroids "small rock" 16 4.932
+	asteroids "medium rock" 47 5.141
+	asteroids "large rock" 13 5.727
+	asteroids "small metal" 4 4.974
+	asteroids "medium metal" 1 6.27
+	asteroids "large metal" 2 2.341
 	minables iron 17 11.5
 	trade Clothing 409
 	trade Electronics 680
@@ -977,12 +976,12 @@ system Vokegol
 	link Loxelon
 	link Norelon
 	link Tokilok
-	asteroids "small rock" 16 2.176
-	asteroids "medium rock" 9 3.434
-	asteroids "large rock" 23 4.114
-	asteroids "small metal" 2 2.584
-	asteroids "medium metal" 10 3.774
-	asteroids "large metal" 6 2.516
+	asteroids "small rock" 8 2.176
+	asteroids "medium rock" 5 3.434
+	asteroids "large rock" 10 4.114
+	asteroids "small metal" 1 2.584
+	asteroids "medium metal" 5 3.774
+	asteroids "large metal" 3 2.516
 	minables tungsten 3 10.1
 	minables titanium 2 13.3
 	fleet "Small Naltok Merchant" 3000
@@ -1034,11 +1033,11 @@ system Xangoret
 	"starfield density" .18
 	link Rixengol
 	link "Xeko Naltok"
-	asteroids "small rock" 4 3.73
-	asteroids "medium rock" 18 6.3
-	asteroids "large rock" 11 6.149
-	asteroids "small metal" 4 2.722
-	asteroids "medium metal" 2 4.536
+	asteroids "small rock" 3 3.73
+	asteroids "medium rock" 9 6.3
+	asteroids "large rock" 4 6.149
+	asteroids "small metal" 2 2.722
+	asteroids "medium metal" 1 4.536
 	trade Clothing 290
 	trade Electronics 721
 	trade Equipment 450
@@ -1110,8 +1109,8 @@ system "Xeko Naltok"
 	link Lixetog
 	link Rixengol
 	link Xangoret
-	asteroids "small rock" 6 7.507
-	asteroids "small metal" 7 5.686
+	asteroids "small rock" 3 7.507
+	asteroids "small metal" 4 5.686
 	trade Clothing 290
 	trade Electronics 735
 	trade Equipment 538
@@ -1154,11 +1153,11 @@ system Varajol
 	link Kelojol
 	link Linekol
 	link Vokelon
-	asteroids "small rock" 2 4.589
-	asteroids "large rock" 3 4.457
-	asteroids "small metal" 3 3.846
-	asteroids "medium metal" 8 5.812
-	asteroids "large metal" 3 5.026
+	asteroids "small rock" 1 4.589
+	asteroids "medium rock" 2 4.457
+	asteroids "small metal" 1 3.846
+	asteroids "medium metal" 4 5.812
+	asteroids "large metal" 1 5.026
 	trade Clothing 290
 	trade Electronics 681
 	trade Equipment 480
@@ -1217,12 +1216,12 @@ system Kelojol
 	link Linekol
 	link Tolonek
 	link Varajol
-	asteroids "small rock" 26 2.002
-	asteroids "medium rock" 15 4.147
-	asteroids "large rock" 25 3.489
-	asteroids "small metal" 19 4.118
-	asteroids "medium metal" 22 2.431
-	asteroids "large metal" 13 3.089
+	asteroids "small rock" 13 2.002
+	asteroids "medium rock" 7 4.147
+	asteroids "large rock" 12 3.489
+	asteroids "small metal" 9 4.118
+	asteroids "medium metal" 11 2.431
+	asteroids "large metal" 6 3.089
 	minables silicon 19 29.1
 	trade Clothing 290
 	trade Electronics 729
@@ -1275,10 +1274,10 @@ system Vokelon
 	haze _menu/haze-33
 	"starfield density" .2
 	link Varajol
-	asteroids "small rock" 34 3.469
-	asteroids "medium rock" 36 1.499
-	asteroids "large rock" 39 4.175
-	asteroids "medium metal" 11 2.881
+	asteroids "small rock" 17 3.469
+	asteroids "medium rock" 18 1.499
+	asteroids "large rock" 11 4.175
+	asteroids "medium metal" 5 2.881
 	asteroids "large metal" 1 1.676
 	fleet "Small Naltok Merchant" 2800
 	object
@@ -1319,8 +1318,8 @@ system Lotegok
 	"starfield density" .18
 	link Golonex
 	link Kuragu
-	asteroids "large metal" 1 5.148
 	minables lead 5 10.5
+	minables iron 3 9.9
 	trade Clothing 290
 	trade Electronics 820
 	trade Equipment 424
@@ -1369,12 +1368,12 @@ system Lekonet
 	haze _menu/haze-none
 	"starfield density" .15
 	link Nixelog
-	asteroids "small rock" 13 5.685
-	asteroids "medium rock" 26 4.932
-	asteroids "large rock" 4 2.633
-	asteroids "small metal" 146 4.64
-	asteroids "medium metal" 31 3.344
-	asteroids "large metal" 21 2.801
+	asteroids "small rock" 7 5.685
+	asteroids "medium rock" 13 4.932
+	asteroids "large rock" 2 2.633
+	asteroids "small metal" 71 4.64
+	asteroids "medium metal" 15 3.344
+	asteroids "large metal" 11 2.801
 	minables gold 8 16.2
 	minables silver 11 19.3
 	minables neodymium 3 20.8
@@ -1419,7 +1418,6 @@ system Golonex
 	link Tikelo
 	asteroids "small rock" 1 4.485
 	asteroids "medium rock" 1 2.601
-	asteroids "large rock" 1 3.379
 	asteroids "medium metal" 2 2.392
 	asteroids "large metal" 1 2.542
 	minables silicon 17 11.9
@@ -1485,12 +1483,12 @@ system Nixelog
 	link Kuragu
 	link Lekonet
 	link Thoreklin
-	asteroids "small rock" 8 9.148
-	asteroids "medium rock" 13 5.67
-	asteroids "large rock" 10 7.106
-	asteroids "small metal" 86 8.694
-	asteroids "medium metal" 83 5.141
-	asteroids "large metal" 105 9.45
+	asteroids "small rock" 4 9.148
+	asteroids "medium rock" 7 5.67
+	asteroids "large rock" 5 7.106
+	asteroids "small metal" 43 8.694
+	asteroids "medium metal" 41 5.141
+	asteroids "large metal" 55 9.45
 	minables iron 13 21.5
 	minables copper 9 18.6
 	fleet "Quarg (Naltok)" 3500
@@ -1592,8 +1590,8 @@ system Kuragu
 	link Lotegok
 	link Nixelog
 	link Thoreklin
-	asteroids "small rock" 15 7.022
-	asteroids "small metal" 11 8.501
+	asteroids "small rock" 8 7.022
+	asteroids "small metal" 6 8.501
 	trade Clothing 290
 	trade Electronics 871
 	trade Equipment 470

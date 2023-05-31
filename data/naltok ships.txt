@@ -919,7 +919,7 @@ ship "Pike"
 		"hull energy" .775
 		"hull heat" 2.325
 		"required crew" 38
-		"bunks" 80
+		"bunks" 64
 		"mass" 960
 		"drag" 10.3
 		"heat dissipation" .2
@@ -995,7 +995,7 @@ ship "Pike" "Pike (Xochira)"
 		"Pond Battery" 2
 		"River Shield Generator"
 		"Ripper Pistols" 46
-		"Shredder Minigun" 20
+		"Shredder Minigun" 4
 
 		"Monitor Thruster"
 		"Monitor Steering"

@@ -13,6 +13,17 @@ fleet "Xochira Interdictor"
 	names "xochira"
 	personality
 		heroic vindictive
+#	variant 40
+#		"Archerfish" 2
+#	variant 10
+#		"Archerfish" 3
+#	variant 3
+#		"Archerfish" 2
+#		"Barracuda (Leeching)"
+#	variant
+#		"Archerfish"
+#		"Barracuda (Leeching)"
+#		"Barracuda (Halt-Swarm)"
 
 fleet "Small Naltok Merchant"
 	government "Naltok Merchant"
@@ -20,8 +31,37 @@ fleet "Small Naltok Merchant"
 	personality
 		confusion 40
 		timid
-	variant
+	variant 30
 		"Herring"
+	variant 5
+		"Herring" 2
+#	variant 15
+#		"Conger"
+#		"Minnow"
+#	variant 25
+#		"Piranha (Cargo)"
+#	variant 2
+#		"Guppy"
+
+fleet "Ministry of Transport Logistics"
+	government "Telashki (Ministry of Transport)"
+	names "telashki transport"
+	personality timid
+#	variant 30
+#		"Conger" 5
+#	variant 20
+#		"Conger" 4
+#	variant 5
+#		"Conger" 6
+
+fleet "Small Telashki"
+	government "Telashki"
+	names "telashki"
+	personality heroic
+#	variant 20
+#		"Tetra" 2
+#	variant 10
+#		"Tetra" 3
 	
 fleet "Naltok Miners"
 	government "Naltok Merchant"

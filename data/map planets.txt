@@ -55,7 +55,7 @@ planet Keltaren
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/clouds_03
 	description "This is an unusual giant planet with an atmosphere of almost pure carbon dioxide, with only traces of the hydrogen and helium which typically make up the bulk of the atmospheres of gas giants."
-	description "The Naltok have released photosynthetic algae in an attempt to slowly convert the atmosphere into one of near-pure oxygen, which could then serve as a test site for various biological experiments and potentially as a location for future settlement."
+	description "The Naltok have released photosynthetic algae into the upper atmosphere in an attempt to slowly convert it into one of near-pure oxygen, which could then serve as a test site for various biological experiments and potentially as a location for future settlement."
 	government Uninhabited
 
 planet Kolxacha
@@ -87,7 +87,7 @@ planet Legash
 	landscape land/water12
 	description "The many separated oceans of Legash are both unusually deep and unusually narrow, as if they were enormous scars on the planet's surface filled with water, and as a result are home to an incredible diversity of animal life."
 	description "This planet is home to the headquarters of the Ministry of Genetic Research, viewed by many as the most prestigious of all the Telashki ministries. Carefully planned terraforming operations have transformed much of the land into idyllic (by Naltok standards) swamps and marshes, and the Ministry building with its immediately recognisable double helix motif is visible for hundreds of miles across the flat and mostly empty land."
-	spaceport "The spaceport is located near the base of the Ministry building, and also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding to the present day."
+	spaceport "The spaceport is located near the base of the Ministry building, and also seems to serve as some kind of visitor centre or museum. Plaques, sculptures and posters display the history of the Ministry and its many accomplishments, from its initial founding over five thousand years ago to the present day."
 	outfitter "Naltok Basics"
 	outfitter "Telashki Advanced"
 
@@ -195,8 +195,8 @@ planet Vigechox
 	attributes naltok urban
 	landscape land/water18
 	description "Vigechox was the first world outside their home system that the Naltok were able to colonise. Although the gravity here is lower than on their homeworld, conditions are otherwise fairly close to ideal for the Naltok. Motivated in part by how close they had come to extinction on their home planet, the Naltok sent a generation ship to this system long before they discovered the hyperdrive, and the society here was separated from the rest of their species for nearly two hundred years."
-	description "The population here welcomed the arrival of the first hyperspace-capable vessels here with open arms, and quickly integrated into the interstellar Naltok society, but there are still some cultural differences between here and the rest of their space."
-	spaceport "The spaceport is in the centre of the largest and oldest city on this planet, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here. Some of the architecture in the city is distinctly different from anything you have seen anywhere else in Naltok space."
+	description "The population here welcomed the arrival of the first hyperspace-capable vessels from their homeworld with open arms, and quickly integrated into the interstellar Naltok society, but there are still some cultural differences between here and the rest of their space."
+	spaceport "The spaceport is in the centre of the largest and oldest city on this world, and there is a viewing gallery that overlooks the generation ship that originally brought the first Naltok settlers here. Some of the architecture in the city is distinctly different from anything you have seen anywhere else in Naltok space."
 	shipyard "Naltok Basics"
 	shipyard "Naltok Civilian Intermediate"
 	shipyard "Naltok Military Intermediate"

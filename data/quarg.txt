@@ -1,3 +1,4 @@
+#todo: when quarg have more ships, there should be predominantly freighters here.
 fleet "Quarg (Naltok)"
 	government "Quarg (Naltok)"
 	names "quarg"

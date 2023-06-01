@@ -1053,6 +1053,7 @@ ship "Mola"
 		"Iguana Steering"
 
 	gun
+		angle 180
 	turret
 	turret
 	turret

@@ -10,7 +10,7 @@
 
 mission "Telashki: Bright Star Biophotovoltaics: Mist"
 	name `Star Research`
-	description `Travel to <system>, and observe the way that your Mist Cell behaves in the bright starlight.`
+	description `Travel to <waypoints>, and observe the way that your Mist Cell behaves in the bright starlight.`
 	to offer
 		has "First Contact: Naltok (Telashki): offered"
 		has "outfit (installed): Mist Cell"

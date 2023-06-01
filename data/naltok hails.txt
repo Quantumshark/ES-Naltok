@@ -8,6 +8,15 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+phrase "telashki: ministries"
+	word
+		"Genetic Research"
+		"Transport"
+		"Alien Life"
+		"War"
+		"Agriculture"
+		"Minerals"
+
 phrase "hostile telashki"
 	phrase
 		"telashki: interested to study you"
@@ -108,4 +117,3 @@ phrase "telashki: studying you"
 		"sequencing your DNA, cloning you, and experimenting on your clone"
 		"taking your skeleton apart"
 		"working out how all the little pieces of you fit together"
-

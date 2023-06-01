@@ -8,6 +8,27 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+mission "Telashki: Bright Star Biophotovoltaics: Mist"
+	name `Star Research`
+	description `Travel to <system>, and observe the way that your Mist Cell behaves in the bright starlight.`
+	to offer
+		has "First Contact: Naltok (Telashki): offered"
+		has "outfit (installed): Mist Cell"
+		random < 15
+	source
+		government Telashki
+	destination Legash
+	waypoint Rigel
+	on offer
+		conversation
+			``
+	on enter Rigel
+		dialog `You record the requested data on the Mist Cell.`
+	on complete
+		payment 48000
+		conversation
+			``
+
 mission "Star-Worm Research 1"
 	name `Star-Worm Research`
 	description `Travel to the Norelon system and record the activity of the local "Star-Worms".`

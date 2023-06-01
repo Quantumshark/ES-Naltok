@@ -19,8 +19,8 @@ news "telashki scientist"
 			"Naltok scientist"
 	message
 		phrase
-			"telashki scientist misc" 3
-			"telashki scientist information control" 2
+			"telashki scientist misc" 2
+			"telashki scientist information control"
 
 news "telashki broadcast"
 	location
@@ -69,6 +69,7 @@ phrase "telashki spaceport broadcast"
 		"A monitor suddenly lights up and begins displaying several extremely detailed pictures of a bacterial cell, accompanied by labels in the Naltok language. Before you have time to get a good look, a group of excited scientists pushes you aside and congregates around the screen."
 		`A regular broadcast is interrupted by some "Breaking News" about a newly discovered bacterial species. Despite the translation provided, most of the discussion is so complicated that you are unable to make out anything but the most basic details.`
 		"A small window opens up in the corner of a monitor, displaying a video feed of the Vokegol system for a few minutes before dissapearing again."
+		"A short bulletin from the Ministry of ${telashki: ministries} briefly summarises several recent minor discoveries, acompanied by instructions on where to look for a more detailed account."	
 
 phrase "telashki scientist misc"
 	word
@@ -82,6 +83,7 @@ phrase "telashki scientist misc"
 		"Would you be willing to bring me some soil samples from your homeworld? I'm studying the connections between soil microbiomes and physiological features of sentient species."
 		"The bacteria in Naltok starship hulls actually combine enzymes isolated from species from four different planets, as well as many totally artificial designs."
 		"Metallurgy? It's an interesting subject, but quite dated. If you ask me, the major advances of this milennium will be in xenobiology."
+		"I'm technically supposed to be at work right now, but there isn't much I can do until my current experiment finishes running."
 	word
 		`"`
 

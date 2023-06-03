@@ -260,7 +260,7 @@ outfit "Halt-Swarm Missile"
 	thumbnail "outfit/halt-swarm missile"
 	"mass" .25
 	"halt-swarm capacity" -1
-	description "A Halt-Swarm Missile serves as ammunition for the Halt-Swarm Launcher. Each launcher has the capacity for 32 halt-swarm missiles; you cannot install halt-swarm missiles if you have not first purchased a launcher to store them in."
+	description "Halt-Swarm missiles are very fast, but deal only minor direct damage to their target. Instead, their primary role is incapacitating the target's propulsion, leaving it unable to escape from other more damaging weapons."
 
 outfit "Halt-Swarm Rack"
 	category "Ammunition"
@@ -357,7 +357,7 @@ outfit "Shell-Splitter Torpedo"
 	thumbnail "outfit/shell-splitter torpedo"
 	"mass" 2
 	"shell-splitter capacity" -1
-	description "A Shell-Splitter Torpedo serves as ammunition for the Shell-Splitter Launcher. Each launcher has the capacity for 11 Shell-Splitter Torpedoes; you cannot install Shell-Splitter Torpedoes if you have not first purchased a launcher to store them in."
+	description "Shell-Splitter torpedoes are fast and heavily armoured at the cost of handling, but reverse these characteristics by discarding their armour and switching to smaller more precise engines when they get close to their target. The discarded husks of armour often distract anti-missile systems, protecting the torpedoes' vulnerable cores."
 
 outfit "Shell-Splitter Tube"
 	category "Ammunition"

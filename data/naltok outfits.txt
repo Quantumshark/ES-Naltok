@@ -161,7 +161,7 @@ outfit "Agama Thruster"
 	"mass" 11
 	"outfit space" -11
 	"engine capacity" -11
-	"thrust" 6.25
+	"thrust" 7.54
 	"thrusting energy" .3
 	"thrusting heat" .3
 	"flare sprite" "effect/naltok flare/tiny"
@@ -176,7 +176,7 @@ outfit "Anole Thruster"
 	"mass" 19
 	"outfit space" -19
 	"engine capacity" -19
-	"thrust" 12.31
+	"thrust" 13.78
 	"thrusting energy" .45
 	"thrusting heat" .5
 	"flare sprite" "effect/naltok flare/small"
@@ -191,7 +191,7 @@ outfit "Gecko Thruster"
 	"mass" 34
 	"outfit space" -34
 	"engine capacity" -34
-	"thrust" 24.51
+	"thrust" 25.9
 	"thrusting energy" .75
 	"thrusting heat" .8
 	"flare sprite" "effect/naltok flare/medium"
@@ -221,7 +221,7 @@ outfit "Monitor Thruster"
 	"mass" 108
 	"outfit space" -108
 	"engine capacity" -108
-	"thrust" 94.2
+	"thrust" 90.45
 	"thrusting energy" 2.05
 	"thrusting heat" 2.4
 	"flare sprite" "effect/naltok flare/huge"

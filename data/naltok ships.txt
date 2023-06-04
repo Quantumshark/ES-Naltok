@@ -288,7 +288,7 @@ ship "Flounder"
 		"heat dissipation" .11
 		"fuel capacity" 600
 		"cargo space" 864
-		"outfit space" 630
+		"outfit space" 512
 		"weapon capacity" 174
 		"engine capacity" 114
 		"heat protection" 3

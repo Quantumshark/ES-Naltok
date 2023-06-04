@@ -792,7 +792,7 @@ ship "Albacore"
 	thumbnail "thumbnail/naltok albacore"
 	attributes
 		"capture class" "xochira novelty"
-		category "Medium Warship"
+		category "Light Carrier"
 		licenses 
 			"Xochira"
 		"cost" 4143000
@@ -1006,7 +1006,7 @@ ship "Mola"
 	thumbnail "thumbnail/naltok mola"
 	attributes
 		"capture class" "naltok capital"
-		category "Heavy Warship"
+		category "Heavy Carrier"
 		licenses
 			"Ministry of War"
 		"cost" 21236000

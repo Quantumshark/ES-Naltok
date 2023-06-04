@@ -1036,14 +1036,13 @@ ship "Mola"
 			"hit force" 3420
 	outfits
 		"Shell-Splitter Launcher"
-		"Shell-Splitter Tube" 16
-		"Shell-Splitter Torpedo" 75
+		"Shell-Splitter Tube" 24
+		"Shell-Splitter Torpedo" 107
 		"Naltok Anti-Missile" 4
 
-		"Brook Cell"
 		"Stream Generator"
-		"Lake Battery"
-		"Fuel Vat" 2
+		"Pond Battery"
+		"Fuel Vat"
 		"River Shield Generator"
 		"Acid Grub" 44
 

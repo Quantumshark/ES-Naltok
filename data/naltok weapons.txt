@@ -357,7 +357,7 @@ outfit "Shell-Splitter Torpedo"
 	thumbnail "outfit/shell-splitter torpedo"
 	"mass" 2
 	"shell-splitter capacity" -1
-	description "Shell-Splitter torpedoes are fast and heavily armoured at the cost of handling, but reverse these characteristics by discarding their armour and switching to smaller more precise engines when they get close to their target. The discarded husks of armour often distract anti-missile systems, protecting the torpedoes' vulnerable cores."
+	description "Shell-Splitter torpedoes are fast and heavily armoured at the cost of handling, but reverse these characteristics by discarding their armour and switching to smaller more precise engines when they get close to their target. The discarded husks of armour often distract anti-missile systems, protecting the torpedoes' vulnerable cores during their final approach."
 
 outfit "Shell-Splitter Tube"
 	category "Ammunition"

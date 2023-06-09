@@ -125,7 +125,7 @@ outfit "Steel-Render"
 		sound "steel-render"
 		"hit effect" "steel-render hit"
 		"live effect" "steel-render live" 9
-		"turret turn" 1.35
+		"turret turn" .95
 		"inaccuracy" 1
 		"velocity" 13
 		"lifetime" 91

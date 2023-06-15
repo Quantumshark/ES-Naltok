@@ -353,7 +353,7 @@ outfit "Acid Grub"
 	"capture defense" 1.9
 	"unplunderable" 1
 	"illegal" 1500000
-	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat, though they usually find their own augmentations sufficient. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
+	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
 	description "While laws regulating the use of biological weapons were not written with anything like the Acid Grub in mind, most non-Naltok governments will cite the excessive suffering of the victims as reason enough to fine you severely for posessing one."
 
 outfit "Xochira Security Cracker"

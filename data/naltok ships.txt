@@ -683,7 +683,7 @@ ship "Barracuda"
 		"hull energy" .575
 		"hull heat" 1.725
 		"required crew" 7
-		"bunks" 18
+		"bunks" 20
 		"mass" 448
 		"drag" 4.6
 		"heat dissipation" .35

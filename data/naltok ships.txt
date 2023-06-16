@@ -868,7 +868,7 @@ ship "Moray"
 		"heat dissipation" .26
 		"fuel capacity" 400
 		"cargo space" 112
-		"outfit space" 538
+		"outfit space" 568
 		"weapon capacity" 264
 		"engine capacity" 104
 		"heat protection" 3
@@ -1095,7 +1095,7 @@ ship "Kaluga"
 		"hull heat" 2.85
 		"required crew" 72
 		"bunks" 80
-		"mass" 1600
+		"mass" 1616
 		"drag" 14.2
 		"heat dissipation" .15
 		"fuel capacity" 400

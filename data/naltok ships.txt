@@ -1232,7 +1232,7 @@ ship "Remora"
 	gun "Breaker"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
-	description `The Remora is a heavy fighter-bomber intended for use with the Mola heavy carrier. Despite lacking the high speed of more traditional fighters, the Remora's toughness and armament make it a credible threat to much larger ships, especially when deployed en masse.`
+	description `The Remora is a heavy fighter-bomber intended for deployment from the Mola heavy carrier. Despite lacking the high speed of more traditional fighters, the Remora's toughness and armament make it a credible threat to much larger ships, especially when deployed en masse.`
 	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 
 ship "Minnow"

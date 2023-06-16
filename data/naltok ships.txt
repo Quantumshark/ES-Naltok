@@ -867,7 +867,7 @@ ship "Moray"
 		"drag" 6.3
 		"heat dissipation" .26
 		"fuel capacity" 400
-		"cargo space" 112
+		"cargo space" 128
 		"outfit space" 568
 		"weapon capacity" 264
 		"engine capacity" 104

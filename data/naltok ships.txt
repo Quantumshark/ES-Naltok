@@ -883,7 +883,8 @@ ship "Moray"
 	outfits
 
 		"Hyperdrive"
-		"Sky-Shredder" 4
+		"Sky-Shredder" 2
+		"Steel-Render" 2
 		"Shell-Splitter Launcher"
 		"Shell-Splitter Torpedo" 11
 		"Breaker" 2
@@ -896,14 +897,14 @@ ship "Moray"
 		"Gecko Thruster"
 		
 
-	gun
-	gun
-	gun
+	gun "Breaker"
+	gun "Breaker"
+	gun "Shell-Splitter Launcher"
 		angle 180
-	turret
-	turret
-	turret
-	turret
+	turret "Sky-Shredder"
+	turret "Sky-Shredder"
+	turret "Steel-Render"
+	turret "Steel-Render"
 	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce, though this disadvantage is lessened by the turret-heavy armament and single rear-facing missile launcher, which make the Moray less vulnerable to flanking attacks.`
 
 ship "Pike"

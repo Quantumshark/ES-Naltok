@@ -43,8 +43,8 @@ ship "Mackerel"
 		"Naltok Anti-Missile"
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
-		"River Shield Generator"
+		"Marsh Shield Generator"
+		"Bog Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
 		"Hyperdrive"
@@ -87,7 +87,7 @@ ship "Marlin"
 	outfits
 		"Breaker" 2
 		"Naltok Anti-Missile" 3
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 		"Stream Generator"
 		"Pond Battery"
 		"Luxury Accommodations"
@@ -144,7 +144,7 @@ ship "Sturgeon"
 		"River Reactor"
 		"Pond Battery"
 		"Fuel Vat"
-		"River Shield Generator" 3
+		"Bog Shield Generator" 3
 
 		"Monitor Steering"
 		"Iguana Thruster"
@@ -192,7 +192,7 @@ ship "Herring"
 	outfits
 		"Spring Cell"
 		"Puddle Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Agama Thruster"
 		"Agama Steering"
 		"Hyperdrive"
@@ -248,7 +248,7 @@ ship "Conger"
 		"Naltok Anti-Missile"
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
 		"Hyperdrive"
@@ -264,7 +264,7 @@ ship "Conger" "Conger (Unarmed)"
 	outfits
 		"Naltok Anti-Missile"
 		"Brook Cell"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
 		"Hyperdrive"
@@ -307,7 +307,7 @@ ship "Flounder"
 		"Spring Cell" 6
 		"Pond Battery"
 		"Lake Battery"
-		"Stream Shield Generator" 2
+		"Marsh Shield Generator" 2
 
 		"Iguana Steering"
 		"Gecko Thruster"
@@ -362,7 +362,7 @@ ship "Grouper"
 
 		"Stream Generator"
 		"Lake Battery"
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 
 		"Iguana Steering"
 		"Iguana Thruster"
@@ -415,7 +415,7 @@ ship "Guppy"
 
 		"Spring Cell" 2
 		"Puddle Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 
 		"Gecko Thruster"
 		"Anole Steering"
@@ -464,7 +464,7 @@ ship "Tetra"
 
 		"Brook Cell"
 		"Puddle Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 
 		"Gecko Steering"
 		"Gecko Thruster"
@@ -521,7 +521,7 @@ ship "Archerfish"
 		"Leech-Ray" 2
 		"Stream Generator"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Ripper Pistols" 3
 		"Shredder Minigun" 2
 		
@@ -573,7 +573,7 @@ ship "Piranha"
 		"Triple Breaker Turret"
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 
 		"Gecko Steering"
 		"Gecko Thruster"
@@ -592,7 +592,7 @@ ship "Piranha" "Piranha (Scanning)"
 
 		"Stream Generator"
 		"Pond Battery"
-		"River Shield Generator" 1
+		"Bog Shield Generator" 1
 		"Broad-Spectrum Scanner"
 		
 		"Gecko Steering"
@@ -607,7 +607,7 @@ ship "Piranha" "Piranha (Xochira)"
 		"Triple Breaker Turret"
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 
@@ -622,7 +622,7 @@ ship "Piranha" "Piranha (Xochira Charging)"
 
 		"Stream Generator"
 		"Pond Battery"
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 		
@@ -637,7 +637,7 @@ ship "Piranha" "Piranha (Xochira Tough)"
 
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator" 3
+		"Bog Shield Generator" 3
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 
@@ -650,7 +650,7 @@ ship "Piranha" "Piranha (Cargo)"
 		
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Cargo Expansion" 7
 
 		"Gecko Steering"
@@ -708,7 +708,7 @@ ship "Barracuda"
 
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 
 		"Iguana Thruster"
 		"Gecko Steering"
@@ -740,7 +740,7 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Ripper Pistols" 7
 		"Shredder Minigun" 5
 
@@ -768,7 +768,7 @@ ship "Barracuda" "Barracuda (Leeching)"
 
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Ripper Pistols" 8
 		"Shredder Minigun" 9
 
@@ -826,7 +826,7 @@ ship "Albacore"
 		"Halt-Swarm Rack" 5
 		"Naltok Anti-Missile"
 
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Brook Cell"
 		"Puddle Battery"
 		"Ripper Pistols" 12
@@ -891,7 +891,7 @@ ship "Moray"
 
 		"Stream Generator"
 		"Lake Battery"
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 
 		"Gecko Steering"
 		"Gecko Thruster"
@@ -946,7 +946,7 @@ ship "Pike"
 		
 		"River Reactor"
 		"Pond Battery" 2
-		"River Shield Generator"
+		"Bog Shield Generator"
 
 		"Monitor Thruster"
 		"Monitor Steering"
@@ -975,7 +975,7 @@ ship "Pike" "Pike (Telashki)"
 		"River Reactor"
 		"Pond Battery"
 		"Spring Cell"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Acid Grub" 41
 
 		"Monitor Thruster"
@@ -994,7 +994,7 @@ ship "Pike" "Pike (Xochira)"
 		
 		"River Reactor"
 		"Pond Battery" 2
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Ripper Pistols" 46
 		"Shredder Minigun" 4
 
@@ -1044,7 +1044,7 @@ ship "Mola"
 		"Stream Generator"
 		"Pond Battery"
 		"Fuel Vat"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Acid Grub" 44
 
 		"Hyperdrive"
@@ -1123,7 +1123,7 @@ ship "Kaluga"
 
 		"Estuary Reactor"
 		"Puddle Battery"
-		"River Shield Generator" 3
+		"Bog Shield Generator" 3
 		"Ripper Pistols" 71
 		"Shredder Minigun" 3
 
@@ -1223,7 +1223,7 @@ ship "Remora"
 		"Breaker" 2
 		"Shell-Splitter Pod" 2
 		"Shell-Splitter Torpedo" 4
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Spring Cell"
 		"Agama Thruster"
 		"Agama Steering"

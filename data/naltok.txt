@@ -68,8 +68,10 @@ fleet "Naltok Miners"
 	names "naltok"
 	cargo 0
 	personality timid frugal mining harvests
-	variant
+	variant 10
 		"Herring (Mining)"
+#	variant 3
+#		"Guppy"
 
 phrase "naltok syllable"
 	word

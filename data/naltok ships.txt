@@ -43,8 +43,8 @@ ship "Mackerel"
 		"Naltok Anti-Missile"
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
-		"River Shield Generator"
+		"Marsh Shield Generator"
+		"Bog Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
 		"Hyperdrive"
@@ -87,7 +87,7 @@ ship "Marlin"
 	outfits
 		"Breaker" 2
 		"Naltok Anti-Missile" 3
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 		"Stream Generator"
 		"Pond Battery"
 		"Luxury Accommodations"
@@ -144,7 +144,7 @@ ship "Sturgeon"
 		"River Reactor"
 		"Pond Battery"
 		"Fuel Vat"
-		"River Shield Generator" 3
+		"Bog Shield Generator" 3
 
 		"Monitor Steering"
 		"Iguana Thruster"
@@ -192,7 +192,7 @@ ship "Herring"
 	outfits
 		"Spring Cell"
 		"Puddle Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Agama Thruster"
 		"Agama Steering"
 		"Hyperdrive"
@@ -248,7 +248,7 @@ ship "Conger"
 		"Naltok Anti-Missile"
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
 		"Hyperdrive"
@@ -264,7 +264,7 @@ ship "Conger" "Conger (Unarmed)"
 	outfits
 		"Naltok Anti-Missile"
 		"Brook Cell"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Gecko Thruster"
 		"Gecko Steering"
 		"Hyperdrive"
@@ -288,7 +288,7 @@ ship "Flounder"
 		"heat dissipation" .11
 		"fuel capacity" 600
 		"cargo space" 864
-		"outfit space" 630
+		"outfit space" 512
 		"weapon capacity" 174
 		"engine capacity" 114
 		"heat protection" 3
@@ -307,7 +307,7 @@ ship "Flounder"
 		"Spring Cell" 6
 		"Pond Battery"
 		"Lake Battery"
-		"Stream Shield Generator" 2
+		"Marsh Shield Generator" 2
 
 		"Iguana Steering"
 		"Gecko Thruster"
@@ -362,7 +362,7 @@ ship "Grouper"
 
 		"Stream Generator"
 		"Lake Battery"
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 
 		"Iguana Steering"
 		"Iguana Thruster"
@@ -415,7 +415,7 @@ ship "Guppy"
 
 		"Spring Cell" 2
 		"Puddle Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 
 		"Gecko Thruster"
 		"Anole Steering"
@@ -464,7 +464,7 @@ ship "Tetra"
 
 		"Brook Cell"
 		"Puddle Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 
 		"Gecko Steering"
 		"Gecko Thruster"
@@ -521,7 +521,7 @@ ship "Archerfish"
 		"Leech-Ray" 2
 		"Stream Generator"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Ripper Pistols" 3
 		"Shredder Minigun" 2
 		
@@ -573,7 +573,7 @@ ship "Piranha"
 		"Triple Breaker Turret"
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 
 		"Gecko Steering"
 		"Gecko Thruster"
@@ -592,7 +592,7 @@ ship "Piranha" "Piranha (Scanning)"
 
 		"Stream Generator"
 		"Pond Battery"
-		"River Shield Generator" 1
+		"Bog Shield Generator" 1
 		"Broad-Spectrum Scanner"
 		
 		"Gecko Steering"
@@ -607,7 +607,7 @@ ship "Piranha" "Piranha (Xochira)"
 		"Triple Breaker Turret"
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 
@@ -622,7 +622,7 @@ ship "Piranha" "Piranha (Xochira Charging)"
 
 		"Stream Generator"
 		"Pond Battery"
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 		
@@ -637,7 +637,7 @@ ship "Piranha" "Piranha (Xochira Tough)"
 
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator" 3
+		"Bog Shield Generator" 3
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 
@@ -650,7 +650,7 @@ ship "Piranha" "Piranha (Cargo)"
 		
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Cargo Expansion" 7
 
 		"Gecko Steering"
@@ -679,15 +679,15 @@ ship "Barracuda"
 		"cost" 4742000
 		"shields" 4200
 		"hull" 17600
-		"hull repair rate" 1.9
-		"hull energy" .475
-		"hull heat" 1.425
+		"hull repair rate" 2.3
+		"hull energy" .575
+		"hull heat" 1.725
 		"required crew" 7
-		"bunks" 17
+		"bunks" 20
 		"mass" 448
 		"drag" 4.6
 		"heat dissipation" .35
-		"fuel capacity" 500
+		"fuel capacity" 600
 		"cargo space" 72
 		"outfit space" 416
 		"weapon capacity" 208
@@ -708,7 +708,7 @@ ship "Barracuda"
 
 		"Brook Cell"
 		"Pond Battery"
-		"River Shield Generator"
+		"Bog Shield Generator"
 
 		"Iguana Thruster"
 		"Gecko Steering"
@@ -740,7 +740,7 @@ ship "Barracuda" "Barracuda (Halt-Swarm)"
 
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Ripper Pistols" 7
 		"Shredder Minigun" 5
 
@@ -768,7 +768,7 @@ ship "Barracuda" "Barracuda (Leeching)"
 
 		"Brook Cell"
 		"Pond Battery"
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Ripper Pistols" 8
 		"Shredder Minigun" 9
 
@@ -826,7 +826,7 @@ ship "Albacore"
 		"Halt-Swarm Rack" 5
 		"Naltok Anti-Missile"
 
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Brook Cell"
 		"Puddle Battery"
 		"Ripper Pistols" 12
@@ -867,8 +867,8 @@ ship "Moray"
 		"drag" 6.3
 		"heat dissipation" .26
 		"fuel capacity" 400
-		"cargo space" 112
-		"outfit space" 538
+		"cargo space" 128
+		"outfit space" 568
 		"weapon capacity" 264
 		"engine capacity" 104
 		"heat protection" 3
@@ -883,27 +883,28 @@ ship "Moray"
 	outfits
 
 		"Hyperdrive"
-		"Sky-Shredder" 4
+		"Sky-Shredder" 2
+		"Steel-Render" 2
 		"Shell-Splitter Launcher"
 		"Shell-Splitter Torpedo" 11
 		"Breaker" 2
 
 		"Stream Generator"
 		"Lake Battery"
-		"River Shield Generator" 2
+		"Bog Shield Generator" 2
 
 		"Gecko Steering"
 		"Gecko Thruster"
 		
 
-	gun
-	gun
-	gun
+	gun "Breaker"
+	gun "Breaker"
+	gun "Shell-Splitter Launcher"
 		angle 180
-	turret
-	turret
-	turret
-	turret
+	turret "Sky-Shredder"
+	turret "Sky-Shredder"
+	turret "Steel-Render"
+	turret "Steel-Render"
 	description `The Moray is a high-performance medium warship, with impressive armament and toughness for its size. Unfortunately, this combat power comes at the cost of fairly poor mobility - the Moray is one of the slowest ships the Naltok produce, though this disadvantage is lessened by the turret-heavy armament and single rear-facing missile launcher, which make the Moray less vulnerable to flanking attacks.`
 
 ship "Pike"
@@ -927,7 +928,7 @@ ship "Pike"
 		"cargo space" 216
 		"outfit space" 808
 		"weapon capacity" 312
-		"engine capacity" 240
+		"engine capacity" 224
 		"heat protection" 3
 		"burn protection" 1
 		"high shield permeability" .4
@@ -945,7 +946,7 @@ ship "Pike"
 		
 		"River Reactor"
 		"Pond Battery" 2
-		"River Shield Generator"
+		"Bog Shield Generator"
 
 		"Monitor Thruster"
 		"Monitor Steering"
@@ -974,7 +975,7 @@ ship "Pike" "Pike (Telashki)"
 		"River Reactor"
 		"Pond Battery"
 		"Spring Cell"
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Acid Grub" 41
 
 		"Monitor Thruster"
@@ -993,7 +994,7 @@ ship "Pike" "Pike (Xochira)"
 		
 		"River Reactor"
 		"Pond Battery" 2
-		"River Shield Generator"
+		"Bog Shield Generator"
 		"Ripper Pistols" 46
 		"Shredder Minigun" 4
 
@@ -1036,15 +1037,14 @@ ship "Mola"
 			"hit force" 3420
 	outfits
 		"Shell-Splitter Launcher"
-		"Shell-Splitter Tube" 16
-		"Shell-Splitter Torpedo" 75
+		"Shell-Splitter Tube" 24
+		"Shell-Splitter Torpedo" 107
 		"Naltok Anti-Missile" 4
 
-		"Brook Cell"
 		"Stream Generator"
-		"Lake Battery"
-		"Fuel Vat" 2
-		"River Shield Generator"
+		"Pond Battery"
+		"Fuel Vat"
+		"Bog Shield Generator"
 		"Acid Grub" 44
 
 		"Hyperdrive"
@@ -1096,7 +1096,7 @@ ship "Kaluga"
 		"hull heat" 2.85
 		"required crew" 72
 		"bunks" 80
-		"mass" 1600
+		"mass" 1616
 		"drag" 14.2
 		"heat dissipation" .15
 		"fuel capacity" 400
@@ -1123,7 +1123,7 @@ ship "Kaluga"
 
 		"Estuary Reactor"
 		"Puddle Battery"
-		"River Shield Generator" 3
+		"Bog Shield Generator" 3
 		"Ripper Pistols" 71
 		"Shredder Minigun" 3
 
@@ -1223,7 +1223,7 @@ ship "Remora"
 		"Breaker" 2
 		"Shell-Splitter Pod" 2
 		"Shell-Splitter Torpedo" 4
-		"Stream Shield Generator"
+		"Marsh Shield Generator"
 		"Spring Cell"
 		"Agama Thruster"
 		"Agama Steering"
@@ -1233,7 +1233,7 @@ ship "Remora"
 	gun "Breaker"
 	gun "Shell-Splitter Pod"
 	gun "Shell-Splitter Pod"
-	description `The Remora is a heavy fighter-bomber intended for use with the Mola heavy carrier. Despite lacking the high speed of more traditional fighters, the Remora's toughness and armament make it a credible threat to much larger ships, especially when deployed en masse.`
+	description `The Remora is a heavy fighter-bomber intended for deployment from the Mola heavy carrier. Despite lacking the high speed of more traditional fighters, the Remora's toughness and armament make it a credible threat to much larger ships, especially when deployed en masse.`
 	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 
 ship "Minnow"

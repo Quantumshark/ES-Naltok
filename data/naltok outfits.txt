@@ -80,7 +80,7 @@ outfit "Fog Cell"
 	"heat generation" 1.35
 	description "These large biophotovoltaic systems never became popular in Naltok space, but perhaps you can find some use for them in the brighter parts of the galaxy."
 
-outfit "Stream Shield Generator"
+outfit "Marsh Shield Generator"
 	category "Systems"
 	cost 71400
 	thumbnail "outfit/small naltok shield"
@@ -90,7 +90,7 @@ outfit "Stream Shield Generator"
 	"shield energy" .125
 	description "Because shields are not their ships' primary form of protection, the Naltok have focused on making their generators more energy-efficient rather than more powerful. As a result, this generator is not much more powerful than its human equivalent, but uses only a fraction of the energy while generating."
 
-outfit "River Shield Generator"
+outfit "Bog Shield Generator"
 	category "Systems"
 	cost 261300
 	thumbnail "outfit/large naltok shield"
@@ -291,14 +291,14 @@ outfit "Iguana Steering"
 
 outfit "Monitor Steering"
 	category "Engines"
-	"cost" 1347800
+	"cost" 1217800
 	thumbnail "outfit/huge naltok steering"
-	"mass" 128
-	"outfit space" -128
-	"engine capacity" -128
-	"turn" 4546.2
-	"turning energy" 2.3
-	"turning heat" 2.9
+	"mass" 115
+	"outfit space" -115
+	"engine capacity" -115
+	"turn" 4091.6
+	"turning energy" 2.07
+	"turning heat" 2.61
 	"steering flare sprite" "effect/naltok flare/huge"
 		"frame rate" 0.8
 	"steering flare sound" "ion huge"
@@ -353,7 +353,7 @@ outfit "Acid Grub"
 	"capture defense" 1.9
 	"unplunderable" 1
 	"illegal" 1500000
-	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat, though they usually find their own augmentations sufficient. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
+	description "Unlike most others, the Telashki apparently have no qualms with using biological weapons in close combat. Fortunately, rather than employing bioengineered pathogens, they appear to prefer weapons like this - a medium-sized synthetic organism which can be easily carried and which spews a spray of deadly acid if disturbed."
 	description "While laws regulating the use of biological weapons were not written with anything like the Acid Grub in mind, most non-Naltok governments will cite the excessive suffering of the victims as reason enough to fine you severely for posessing one."
 
 outfit "Xochira Security Cracker"

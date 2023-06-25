@@ -125,7 +125,7 @@ outfit "Steel-Render"
 		sound "steel-render"
 		"hit effect" "steel-render hit"
 		"live effect" "steel-render live" 9
-		"turret turn" 1.35
+		"turret turn" .95
 		"inaccuracy" 1
 		"velocity" 13
 		"lifetime" 91
@@ -357,7 +357,7 @@ outfit "Shell-Splitter Torpedo"
 	thumbnail "outfit/shell-splitter torpedo"
 	"mass" 2
 	"shell-splitter capacity" -1
-	description "Shell-Splitter torpedoes are fast and heavily armoured at the cost of handling, but reverse these characteristics by discarding their armour and switching to smaller more precise engines when they get close to their target. The discarded husks of armour often distract anti-missile systems, protecting the torpedoes' vulnerable cores."
+	description "Shell-Splitter torpedoes are fast and heavily armoured at the cost of handling, but reverse these characteristics by discarding their armour and switching to smaller more precise engines when they get close to their target. The discarded husks of armour often distract anti-missile systems, protecting the torpedoes' vulnerable cores during their final approach."
 
 outfit "Shell-Splitter Tube"
 	category "Ammunition"
@@ -506,14 +506,12 @@ outfit "Star-Worm Rack"
 outfit "Naltok Anti-Missile"
 	category "Turrets"
 	cost 317000
-	thumbnail "outfit/wanderer anti-missile"
+	thumbnail "outfit/naltok anti-missile"
 	"mass" 23
 	"outfit space" -23
 	"weapon capacity" -23
 	"turret mounts" -1
 	weapon
-		"hardpoint sprite" "hardpoint/wanderer anti-missile"
-		"hardpoint offset" 6.
 		"fire effect" "naltok anti-missile"
 		"anti-missile" 8
 		"velocity" 120

@@ -216,14 +216,14 @@ outfit "Iguana Thruster"
 
 outfit "Monitor Thruster"
 	category "Engines"
-	"cost" 1027300
+	"cost" 927300
 	thumbnail "outfit/huge naltok thruster"
-	"mass" 108
-	"outfit space" -108
-	"engine capacity" -108
-	"thrust" 90.45
-	"thrusting energy" 2.05
-	"thrusting heat" 2.4
+	"mass" 97
+	"outfit space" -97
+	"engine capacity" -97
+	"thrust" 81.34
+	"thrusting energy" 1.85
+	"thrusting heat" 2.16
 	"flare sprite" "effect/naltok flare/huge"
 		"frame rate" 0.8
 	"flare sound" "ion huge"

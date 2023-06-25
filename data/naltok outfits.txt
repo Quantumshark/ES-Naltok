@@ -216,14 +216,14 @@ outfit "Iguana Thruster"
 
 outfit "Monitor Thruster"
 	category "Engines"
-	"cost" 1027300
+	"cost" 927300
 	thumbnail "outfit/huge naltok thruster"
-	"mass" 108
-	"outfit space" -108
-	"engine capacity" -108
-	"thrust" 94.2
-	"thrusting energy" 2.05
-	"thrusting heat" 2.4
+	"mass" 97
+	"outfit space" -97
+	"engine capacity" -97
+	"thrust" 84.8
+	"thrusting energy" 1.85
+	"thrusting heat" 2.16
 	"flare sprite" "effect/naltok flare/huge"
 		"frame rate" 0.8
 	"flare sound" "ion huge"
@@ -291,14 +291,14 @@ outfit "Iguana Steering"
 
 outfit "Monitor Steering"
 	category "Engines"
-	"cost" 1347800
+	"cost" 1217800
 	thumbnail "outfit/huge naltok steering"
-	"mass" 128
-	"outfit space" -128
-	"engine capacity" -128
-	"turn" 4546.2
-	"turning energy" 2.3
-	"turning heat" 2.9
+	"mass" 115
+	"outfit space" -115
+	"engine capacity" -115
+	"turn" 4091.6
+	"turning energy" 2.07
+	"turning heat" 2.61
 	"steering flare sprite" "effect/naltok flare/huge"
 		"frame rate" 0.8
 	"steering flare sound" "ion huge"

@@ -928,7 +928,7 @@ ship "Pike"
 		"cargo space" 216
 		"outfit space" 808
 		"weapon capacity" 312
-		"engine capacity" 240
+		"engine capacity" 224
 		"heat protection" 3
 		"burn protection" 1
 		"high shield permeability" .4

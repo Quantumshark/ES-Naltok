@@ -493,7 +493,7 @@ ship "Archerfish"
 		licenses 
 			"Xochira"
 		"cost" 1896000
-		"shields" 2100
+		"shields" 2200
 		"hull" 8700
 		"hull repair rate" 1.1
 		"hull energy" .275
@@ -542,8 +542,8 @@ ship "Piranha"
 	attributes
 		category "Light Warship"
 		"cost" 2344000
-		"shields" 2700
-		"hull" 11100
+		"shields" 3200
+		"hull" 12400
 		"hull repair rate" 1.6
 		"hull energy" .4
 		"hull heat" 1.2

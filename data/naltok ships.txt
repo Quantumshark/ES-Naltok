@@ -702,7 +702,7 @@ ship "Barracuda"
 			"hull damage" 450
 			"hit force" 1350
 	outfits
-		"Breaker" 2
+		"Breaker"
 		"Shell-Splitter Launcher" 4
 		"Shell-Splitter Torpedo" 44
 
@@ -715,10 +715,13 @@ ship "Barracuda"
 		"Hyperdrive"
 
 	gun "Breaker"
-	gun "Breaker"
 	gun "Shell-Splitter Launcher"
 		angle -90
 	gun "Shell-Splitter Launcher"
+		angle 90
+	gun
+		angle -90
+	gun
 		angle 90
 	gun
 		angle -90
@@ -728,65 +731,8 @@ ship "Barracuda"
 		angle -90
 	gun "Shell-Splitter Launcher"
 		angle 90
-	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull. The design also includes a pair of forward-facing Breaker mining weapons, added to allow the ship to work in productive mining operations during peacetime.`
+	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull. The design also includes single forward-facing Breaker mining weapon, added to allow the ship to work in productive mining operations during peacetime.`
 
-ship "Barracuda" "Barracuda (Halt-Swarm)"
-	outfits
-		"Shell-Splitter Pod" 2
-		"Shell-Splitter Torpedo" 4
-		"Halt-Swarm Launcher" 6
-		"Halt-Swarm Missile" 416
-		"Halt-Swarm Rack" 1
-
-		"Brook Cell"
-		"Pond Battery"
-		"Marsh Shield Generator"
-		"Ripper Pistols" 7
-		"Shredder Minigun" 5
-
-		"Iguana Thruster"
-		"Gecko Steering"
-		"Hyperdrive"
-
-	gun "Shell-Splitter Pod"
-	gun "Shell-Splitter Pod"
-	gun "Halt-Swarm Launcher"
-	gun "Halt-Swarm Launcher"
-	gun "Halt-Swarm Launcher"
-	gun "Halt-Swarm Launcher"
-	gun "Halt-Swarm Launcher"
-	gun "Halt-Swarm Launcher"
-
-ship "Barracuda" "Barracuda (Leeching)"
-	outfits
-		"Leech-Ray" 2
-		"Halt-Swarm Launcher" 2
-		"Halt-Swarm Missile" 192
-		"Halt-Swarm Rack" 2
-		"Shell-Splitter Pod" 4
-		"Shell-Splitter Torpedo" 8
-
-		"Brook Cell"
-		"Pond Battery"
-		"Marsh Shield Generator"
-		"Ripper Pistols" 8
-		"Shredder Minigun" 9
-
-		"Iguana Thruster"
-		"Anole Steering"
-		"Agama Steering"
-		"Wyrm Afterburner"
-		"Hyperdrive"
-
-	gun "Leech-Ray"
-	gun "Leech-Ray"
-	gun "Shell-Splitter Pod"
-	gun "Shell-Splitter Pod"
-	gun "Halt-Swarm Launcher"
-	gun "Halt-Swarm Launcher"
-	gun "Shell-Splitter Pod"
-	gun "Shell-Splitter Pod"
-		
 ship "Albacore"
 	sprite "ship/naltok albacore"
 	thumbnail "thumbnail/naltok albacore"

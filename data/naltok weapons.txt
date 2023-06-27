@@ -266,7 +266,7 @@ outfit "Halt-Swarm Rack"
 	category "Ammunition"
 	licenses 
 		"Xochira"
-	cost 11300
+	cost 12800
 	thumbnail "outfit/halt-swarm rack"
 	"mass" 3
 	"outfit space" -11
@@ -361,7 +361,7 @@ outfit "Shell-Splitter Torpedo"
 
 outfit "Shell-Splitter Tube"
 	category "Ammunition"
-	cost 11300
+	cost 17600
 	thumbnail "outfit/shell-splitter storage"
 	"mass" 4
 	"outfit space" -12

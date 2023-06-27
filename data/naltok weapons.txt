@@ -513,7 +513,7 @@ outfit "Naltok Anti-Missile"
 	"turret mounts" -1
 	weapon
 		"fire effect" "naltok anti-missile"
-		"anti-missile" 8
+		"anti-missile" 12
 		"velocity" 120
 		"lifetime" 1
 		"reload" 3

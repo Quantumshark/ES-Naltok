@@ -267,7 +267,7 @@ outfit "Halt-Swarm Rack"
 	licenses 
 		"Xochira"
 	cost 11300
-	thumbnail "outfit/halt-swarm storage"
+	thumbnail "outfit/halt-swarm rack"
 	"mass" 3
 	"outfit space" -11
 	"halt-swarm capacity" 32

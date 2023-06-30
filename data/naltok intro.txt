@@ -173,21 +173,21 @@ mission "First Contact: Naltok (Xochira)"
 		"reputation: Xochira" <?= -1
 	on complete
 		conversation
-			``
+			`Several ships shadow you as you descend through the atmosphere, but they do not fire at you. When you land, there are guards waiting for you, armed with large, intimidating weapons. Your passenger steps off your ship immediately and begins talking to the guards.`
 		
 
-#mission "Second Contact: Naltok (Telashki)"
-#	landing
-#	to offer
-#		not "First Contact: Naltok (Telashki): offered"
-#		has "First Contact: Naltok (Xochira): offered"
-#	invisible
-#	source
-#		government "Telashki"
-#	on offer
-#		conversation
-#			``
-	
+mission "Second Contact: Naltok (Telashki)"
+	landing
+	to offer
+		not "First Contact: Naltok (Telashki): offered"
+		has "First Contact: Naltok (Xochira): offered"
+	invisible
+	source
+		government "Telashki"
+	on offer
+		conversation
+			`As you come in to land, you see that this planet too is inhabited by Naltok, just like the one you visited south of here. Much like before, you are shadowed by several ships as you descend, but this time they are flying greenish-blue colours, rather than the purples of the Xochira.`
+
 #mission "Second Contact: Naltok (Xochira)"
 #	boarding
 #	to offer

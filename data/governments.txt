@@ -57,10 +57,6 @@ government "Telashki"
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
-	"custom penalties for"
-		"Quarg (Naltok)"
-			disable -.1
-			board -.5
 	illegals
 		ignore "Acid Grub"
 
@@ -78,10 +74,6 @@ government "Telashki (Ministry of Transport)"
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
-	"custom penalties for"
-		"Quarg (Naltok)"
-			disable -.1
-			board -.5
 	illegals
 		ignore "Acid Grub"
 
@@ -98,10 +90,6 @@ government "Telashki (Vokegol)"
 		"Naltok Merchant" .3
 		"Naltok (Neutral)" 1
 		"Xochira" -.2
-	"custom penalties for"
-		"Quarg (Naltok)"
-			disable -.1
-			board -.5
 	illegals
 		ignore "Acid Grub"
 

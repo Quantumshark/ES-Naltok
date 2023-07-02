@@ -67,7 +67,7 @@ planet Kolxacha
 	"required reputation" 25
 
 planet "Kuragu Xochet"
-	attributes quarg station "naltok quarg"
+	attributes quarg station ringworld "naltok quarg"
 	landscape land/station33
 	description "This Quarg ringworld is roughly half complete, the result of more than five millenia of work. Construction here began at around the same time as work began on the Great Pyramids of Egypt back on Earth, and continued throughout the rise and fall of Babylon, Greece, Rome and countless other human civilisations - a testament to the stability and persistence of the Quarg and their society."
 	description "Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation."

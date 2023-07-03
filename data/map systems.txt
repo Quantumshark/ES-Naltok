@@ -127,7 +127,7 @@ system Choxera
 			sprite planet/europa
 			distance 150
 			period 19.141
-	object Keltaren
+	object
 		sprite planet/gas16
 		distance 1656.77
 		period 191.729

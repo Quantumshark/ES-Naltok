@@ -51,13 +51,6 @@ planet Kevoshek
 	description "As such, while the lack of sunlight makes Kevoshek unsuited for large-scale colonisation, it is home to massive automatic mining facilities harvesting material for use in the Naltok reactors and radioisotopic generators."
 	spaceport "The spaceport here, like the mining operations, is entirely automatic - the radiation makes long-term habitation unsafe. Mechanical attendants and computer terminals greet you and the Naltok freight captains looking for well-paid transport jobs to other planets."
 
-planet Keltaren
-	attributes "gas giant" "requires: gaslining" uninhabited
-	landscape land/clouds_03
-	description "This is an unusual giant planet with an atmosphere of almost pure carbon dioxide, with only traces of the hydrogen and helium which typically make up the bulk of the atmospheres of gas giants."
-	description "The Naltok have released photosynthetic algae into the upper atmosphere in an attempt to slowly convert it into one of near-pure oxygen, which could then serve as a test site for various biological experiments and potentially as a location for future settlement."
-	government Uninhabited
-
 planet Kolxacha
 	attributes military naltok
 	landscape land/beach0

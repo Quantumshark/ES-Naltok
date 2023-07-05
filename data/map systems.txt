@@ -342,7 +342,7 @@ system Linekol
 		sprite planet/lava7
 		distance 193.16
 		period 27.861
-	object
+	object Cherexot
 		sprite planet/rock9
 		distance 584
 		period 262.493
@@ -1070,7 +1070,7 @@ system Xangoret
 		sprite planet/lava7
 		distance 1254.389
 		period 1052.379
-	object
+	object Kalxonej
 		sprite planet/gas10
 		distance 2487.48
 		period 1579.757

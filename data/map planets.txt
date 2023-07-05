@@ -4,6 +4,11 @@ planet Arcadia
 	description "This planet is home to an incredible diversity of plant and fungal life, but no animal life whatsoever. The forests, plains, skies and seas alike are all perfectly still, a silence broken only by the occasional breeze."
 	description "At certain times of year the wormhole is visible in the night sky, an eerie eye staring down at the silent planet below."
 
+planet Cherexot
+	attributes uninhabited
+	landscape land/lava2
+	description "For whatever reason, this earth-sized planet, located in the habitable zone of this system, has failed to retain a thick enough atmosphere to support life. Instead, it is enveloped in a thin wisp of toxic sulphur compounds, which render it totally unsuitable for any form of large-scale habitation."
+
 planet Chexilok
 	attributes naltok
 	landscape land/sea5
@@ -43,6 +48,11 @@ planet Joklanok
 	outfitter "Naltok Intermediate"
 	outfitter "Xochira Intermediate"
 	"required reputation" 15
+
+planet Kalxonej
+	attributes "gas giant" "requires: gaslining" uninhabited
+	landscape land/nasa27
+	description "In the early days of Naltok space exploration this gas giant was the source of the majority of their deuterium fuel, thanks to the ease with which it could be accessed from Vigechox. Since then, they have shifted to using biological processes to filter out deuterium from seawater, and as a result this planet is now largely left alone."
 
 planet Kevoshek
 	attributes mining naltok

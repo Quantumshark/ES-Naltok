@@ -39,9 +39,6 @@ shipyard "Xochira Intermediate"
 shipyard "Xochira Advanced"
 	"Archerfish"
 
-shipyard "Xochira Pike"
-	"Pike (Xochira)"
-
 #Remora will be added during campaign
 shipyard "Telashki Basics"
 	"Tetra"
@@ -49,9 +46,6 @@ shipyard "Telashki Basics"
 #Remora, Mola, Sturgeon will be added during campaign
 shipyard "Telashki Advanced"
 	"Tetra"
-
-shipyard "Telashki Pike"
-	"Pike (Telashki)"
 
 outfitter "Naltok Ammo"
 	"Shell-Splitter Torpedo"

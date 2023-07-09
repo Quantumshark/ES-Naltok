@@ -127,7 +127,6 @@ planet Ngakego
 	shipyard "Naltok Military Intermediate"
 	shipyard "Naltok Military Advanced"
 	shipyard "Telashki Basics"
-	shipyard "Telashki Pike"
 	outfitter "Naltok Advanced"
 	outfitter "Telashki Advanced"
 
@@ -251,7 +250,6 @@ planet Xorechige
 	shipyard "Naltok Military Intermediate"
 	shipyard "Naltok Military Advanced"
 	shipyard "Xochira Advanced"
-	shipyard "Xochira Pike"
 	outfitter "Naltok Advanced"
 	outfitter "Xochira Advanced"
 	"required reputation" 25

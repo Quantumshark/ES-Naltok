@@ -909,9 +909,6 @@ ship "Pike"
 	description `The Pike is a highly versatile heavy warship, an old Naltok design which has remained popular for centuries. Featuring high mobility, impressive toughness and adequate space for passengers and cargo, the Pike's only real weakness is its relatively small number of weapon hardpoints.`
 
 ship "Pike" "Pike (Telashki)"
-	add attributes
-		licenses
-			"Ministry of War"
 	outfits
 		"Steel-Render" 3
 		"Shell-Splitter Launcher" 3
@@ -929,9 +926,6 @@ ship "Pike" "Pike (Telashki)"
 		"Hyperdrive"
 
 ship "Pike" "Pike (Xochira)"
-	add attributes
-		licenses
-			"Xochira Military"
 	outfits
 		"Steel-Render" 3
 		"Shell-Splitter Launcher" 3

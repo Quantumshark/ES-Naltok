@@ -128,7 +128,7 @@ planet Ngakego
 	shipyard "Naltok Military Advanced"
 	shipyard "Telashki Basics"
 	outfitter "Naltok Advanced"
-	outfitter "Telashki Advanced"
+	outfitter "Telashki Intermediate"
 
 planet Raxnolak
 	attributes military naltok

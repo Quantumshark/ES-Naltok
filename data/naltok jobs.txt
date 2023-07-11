@@ -121,6 +121,8 @@ mission "Xochira Military Drill 1"
 	on complete
 		payment 30000
 		dialog `Once it has been repaired, the <npc> comes in to land beside your ship. The crew step out and thank you for the valuable experience you have given them. After they leave, you recieve a notice telling you that <payment> have been transferred to your account.`
+	on fail
+		"reputation: Xochira" <?= -1
 
 mission "Xochira Military Drill 2"
 	name "Training exercise"
@@ -142,6 +144,8 @@ mission "Xochira Military Drill 2"
 	on complete
 		payment 50000
 		dialog `Once it has been repaired, the <npc> comes in to land beside your ship. The crew step out and thank you for the valuable experience you have given them. After they leave, you recieve a notice telling you that <payment> have been transferred to your account.`
+	on fail
+		"reputation: Xochira" <?= -1
 
 mission "Xochira Military Drill 3"
 	name "Training exercise"
@@ -163,3 +167,5 @@ mission "Xochira Military Drill 3"
 	on complete
 		payment 60000
 		dialog `Once it has been repaired, the <npc> comes in to land beside your ship. The crew step out and thank you for the valuable experience you have given them. After they leave, you recieve a notice telling you that <payment> have been transferred to your account.`
+	on fail
+		"reputation: Xochira" <?= -1

@@ -12,7 +12,7 @@ fleet "Xochira Interdictor"
 	government "Xochira"
 	names "xochira"
 	personality
-		heroic vindictive
+		hunting vindictive
 #	variant 40
 #		"Archerfish" 2
 #	variant 10

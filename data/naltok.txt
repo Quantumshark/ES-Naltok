@@ -197,4 +197,20 @@ phrase "xochira"
 		"naltok syllable"
 	phrase
 		"naltok syllable"
+
+phrase "xochira fighters"
+
+	word
+		"Kelo"
+		"Xeko"
+		"Voke"
+		"Chox"
+	word
+		"-"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	phrase
+		"digit"
 	

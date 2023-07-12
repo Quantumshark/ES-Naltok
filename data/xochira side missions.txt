@@ -23,3 +23,19 @@ mission "Xochira: Pirate Recon 1 (Men)"
 	on offer
 		conversation
 			``
+
+mission "Xochira: Firebird Request"
+	name "Firebird acquisition"
+	description "Acquire a Firebird, and bring it to <destination>, so that the engineers there can study its capabilities."
+	to offer
+		#todo: xochira first contact and relevant conditions here
+	source
+		government Xochira
+		attributes military
+	destination Vigechox
+	clearance
+	on offer
+		conversation
+			``
+	on complete
+		#todo: only completes if you bring a Firebird, takes the Firebird, gives you back your JD if it had one (i.e. if taking it reduced your number of JDs).

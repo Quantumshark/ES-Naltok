@@ -570,7 +570,7 @@ ship "Piranha"
 		"Shell-Splitter Launcher" 2
 		"Shell-Splitter Tube" 3
 		"Shell-Splitter Torpedo" 34
-		"Triple Breaker Turret"
+		"Sky-Shredder"
 		"Brook Cell"
 		"Pond Battery"
 		"Bog Shield Generator"

@@ -683,7 +683,7 @@ ship "Barracuda"
 		"hull energy" .575
 		"hull heat" 1.725
 		"required crew" 7
-		"bunks" 20
+		"bunks" 24
 		"mass" 448
 		"drag" 4.6
 		"heat dissipation" .35
@@ -748,7 +748,7 @@ ship "Albacore"
 		"hull energy" .525
 		"hull heat" 1.575
 		"required crew" 12
-		"bunks" 24
+		"bunks" 18
 		"mass" 512
 		"drag" 6.2
 		"heat dissipation" .29

@@ -1064,7 +1064,7 @@ ship "Kaluga"
 		"Estuary Reactor"
 		"Puddle Battery"
 		"Bog Shield Generator" 3
-		"Ripper Pistols" 71
+		"Ripper Pistols" 77
 		"Shredder Minigun" 3
 
 		"Iguana Thruster"
@@ -1088,7 +1088,7 @@ ship "Kaluga"
 	turret
 	turret
 	turret
-	description `No thought was given to questions of range, peacetime utility or speed when the Kaluga was designed. Instead, every effort available was focused on making the toughest and deadliest single warship anywhere in Naltok space.`
+	description `The Kaluga is the Grand Admiral's trump card, a colossal warship able to do battle with whole fleets. Small ships are immobilised by a barrage of halt-swarm missiles, while even the largest potential opponents in Naltok space cannot compete with the Kaluga's toughness or its close-range firepower.`
 
 ship "Lamprey"
 	sprite "ship/naltok lamprey"

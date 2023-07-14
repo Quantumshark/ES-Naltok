@@ -958,14 +958,14 @@ ship "Mola"
 		"hull heat" 2.175
 		"required crew" 56
 		"bunks" 68
-		"mass" 1024
-		"drag" 13.6
+		"mass" 1536
+		"drag" 15.2
 		"heat dissipation" .17
 		"fuel capacity" 400
 		"cargo space" 24
 		"outfit space" 752
 		"weapon capacity" 144
-		"engine capacity" 160
+		"engine capacity" 196
 		"heat protection" 3
 		"burn protection" 1
 		"high shield permeability" .4
@@ -977,8 +977,8 @@ ship "Mola"
 			"hit force" 3420
 	outfits
 		"Shell-Splitter Launcher"
-		"Shell-Splitter Tube" 24
-		"Shell-Splitter Torpedo" 107
+		"Shell-Splitter Tube" 20
+		"Shell-Splitter Torpedo" 91
 		"Naltok Anti-Missile" 4
 
 		"Stream Generator"
@@ -990,7 +990,7 @@ ship "Mola"
 		"Hyperdrive"
 		"Iguana Thruster"
 		"Anole Thruster"
-		"Iguana Steering"
+		"Monitor Steering"
 
 	gun
 		angle 180

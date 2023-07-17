@@ -31,12 +31,12 @@ outfit "Brook Cell"
 outfit "Stream Generator"
 	category "Power"
 	cost 982700
-	thumbnail "outfit/naltok rtg"
+	thumbnail "outfit/naltok nucleovoltaic"
 	"mass" 59
 	"outfit space" -59
 	"energy generation" 7.15
 	"heat generation" 3.55
-	description "Naltok radioisotopic generators use direct electrical energy harnessing coupled with secondary systems that harness the heat produced. The resulting generator is not particularly powerful, but it only loses a minimal amount of heat to the rest of the ship."
+	description "Naltok radioisotopic generators use a two-stage system, with direct electrical energy harnessing followed by a secondary system that reclaims some additional energy from the waste heat produced. The resulting generator is rather bulky for its energy output, but it only loses a relatively small amount of heat to the rest of the ship."
 
 outfit "River Reactor"
 	category "Power"

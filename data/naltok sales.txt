@@ -60,10 +60,10 @@ outfitter "Naltok Basics"
 	"Marsh Shield Generator"
 	"Puddle Battery"
 	"Pond Battery"
-	"Agama Thruster"
-	"Anole Thruster"
-	"Agama Steering"
-	"Anole Steering"
+	`"Agama" Ion Thruster`
+	`"Anole" Ion Thruster`
+	`"Agama" Ion Steering`
+	`"Anole" Ion Steering`
 	"Hyperdrive"
 	"Bunk Room"
 	"Small Bunk Room"
@@ -89,12 +89,12 @@ outfitter "Naltok Intermediate"
 	"Puddle Battery"
 	"Pond Battery"
 	"Lake Battery"
-	"Agama Thruster"
-	"Anole Thruster"
-	"Gecko Thruster"
-	"Agama Steering"
-	"Anole Steering"
-	"Gecko Steering"
+	`"Agama" Ion Thruster`
+	`"Anole" Ion Thruster`
+	`"Gecko" Ion Thruster`
+	`"Agama" Ion Steering`
+	`"Anole" Ion Steering`
+	`"Gecko" Ion Steering`
 	"Luxury Accommodations"
 	"Hyperdrive"
 	"Bunk Room"
@@ -126,16 +126,16 @@ outfitter "Naltok Advanced"
 	"Pond Battery"
 	"Lake Battery"
 	"Broad-Spectrum Scanner"
-	"Agama Thruster"
-	"Anole Thruster"
-	"Gecko Thruster"
-	"Iguana Thruster"
-	"Monitor Thruster"
-	"Agama Steering"
-	"Anole Steering"
-	"Gecko Steering"
-	"Iguana Steering"
-	"Monitor Steering"
+	`"Agama" Ion Thruster`
+	`"Anole" Ion Thruster`
+	`"Gecko" Ion Thruster`
+	`"Iguana" Ion Thruster`
+	`"Monitor" Ion Thruster`
+	`"Agama" Ion Steering`
+	`"Anole" Ion Steering`
+	`"Gecko" Ion Steering`
+	`"Iguana" Ion Steering`
+	`"Monitor" Ion Steering`
 	"Hyperdrive"
 	"Luxury Accommodations"
 	"Bunk Room"
@@ -166,7 +166,7 @@ outfitter "Xochira Advanced"
 	"Leech-Ray"
 	"Ripper Pistols"
 	"Shredder Minigun"
-	"Wyrm Afterburner"
+	`"Wyrm" Afterburner`
 
 outfitter "Telashki Basics"
 	"Broad-Spectrum Scanner"

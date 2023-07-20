@@ -45,8 +45,8 @@ ship "Mackerel"
 		"Pond Battery"
 		"Marsh Shield Generator"
 		"Bog Shield Generator"
-		"Gecko Thruster"
-		"Gecko Steering"
+		`"Gecko" Ion Thruster`
+		`"Gecko" Ion Steering`
 		"Hyperdrive"
 		
 	gun
@@ -91,8 +91,8 @@ ship "Marlin"
 		"Stream Generator"
 		"Pond Battery"
 		"Luxury Accommodations"
-		"Iguana Thruster"
-		"Iguana Steering"
+		`"Iguana" Ion Thruster`
+		`"Iguana" Ion Steering`
 		"Hyperdrive"
 
 	gun
@@ -146,8 +146,8 @@ ship "Sturgeon"
 		"Fuel Vat"
 		"Bog Shield Generator" 3
 
-		"Monitor Steering"
-		"Iguana Thruster"
+		`"Monitor" Ion Steering`
+		`"Iguana" Ion Thruster`
 		"Hyperdrive"
 
 	gun "Shell-Splitter Launcher"
@@ -193,8 +193,8 @@ ship "Herring"
 		"Spring Cell"
 		"Puddle Battery"
 		"Marsh Shield Generator"
-		"Agama Thruster"
-		"Agama Steering"
+		`"Agama" Ion Thruster"`
+		`"Agama" Ion Steering"`
 		"Hyperdrive"
 
 	turret 0 -5
@@ -209,8 +209,8 @@ ship "Herring" "Herring (Mining)"
 		"Spring Cell"
 		"Puddle Battery"
 		"Outfits Expansion"
-		"Anole Thruster"
-		"Anole Steering"
+		`"Anole" Ion Thruster"`
+		`"Anole" Ion Steering"`
 		"Hyperdrive"
 
 ship "Conger"
@@ -249,8 +249,8 @@ ship "Conger"
 		"Brook Cell"
 		"Pond Battery"
 		"Marsh Shield Generator"
-		"Gecko Thruster"
-		"Gecko Steering"
+		`"Gecko" Ion Thruster`
+		`"Gecko" Ion Steering`
 		"Hyperdrive"
 
 	gun "Breaker"
@@ -265,8 +265,8 @@ ship "Conger" "Conger (Unarmed)"
 		"Naltok Anti-Missile"
 		"Brook Cell"
 		"Marsh Shield Generator"
-		"Gecko Thruster"
-		"Gecko Steering"
+		`"Gecko" Ion Thruster`
+		`"Gecko" Ion Steering`
 		"Hyperdrive"
 		"Cargo Expansion" 4
 
@@ -309,8 +309,8 @@ ship "Flounder"
 		"Lake Battery"
 		"Marsh Shield Generator" 2
 
-		"Iguana Steering"
-		"Gecko Thruster"
+		`"Iguana" Ion Steering`
+		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 
 	turret
@@ -364,9 +364,9 @@ ship "Grouper"
 		"Lake Battery"
 		"Bog Shield Generator" 2
 
-		"Iguana Steering"
-		"Iguana Thruster"
-		"Gecko Thruster"
+		`"Iguana" Ion Steering`
+		`"Iguana" Ion Thruster`
+		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 	gun
 	gun
@@ -417,8 +417,8 @@ ship "Guppy"
 		"Puddle Battery"
 		"Marsh Shield Generator"
 
-		"Gecko Thruster"
-		"Anole Steering"
+		`"Gecko" Ion Thruster`
+		`"Anole" Ion Steering`
 		"Hyperdrive"
 
 	gun "Breaker"
@@ -466,8 +466,8 @@ ship "Tetra"
 		"Puddle Battery"
 		"Marsh Shield Generator"
 
-		"Gecko Steering"
-		"Gecko Thruster"
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 
 	gun "Breaker"
@@ -525,9 +525,9 @@ ship "Archerfish"
 		"Ripper Pistols" 3
 		"Shredder Minigun" 2
 		
-		"Gecko Steering"
-		"Gecko Thruster"
-		"Agama Thruster"
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
+		`"Agama" Ion Thruster`
 		"Hyperdrive"
 
 	gun "Leech-Ray"
@@ -575,8 +575,8 @@ ship "Piranha"
 		"Pond Battery"
 		"Bog Shield Generator"
 
-		"Gecko Steering"
-		"Gecko Thruster"
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 
 	gun "Shell-Splitter Launcher"
@@ -595,8 +595,8 @@ ship "Piranha" "Piranha (Scanning)"
 		"Bog Shield Generator" 1
 		"Broad-Spectrum Scanner"
 		
-		"Gecko Steering"
-		"Iguana Thruster"
+		`"Gecko" Ion Steering`
+		`"Iguana" Ion Thruster`
 		"Hyperdrive"
 
 ship "Piranha" "Piranha (Xochira)"
@@ -611,8 +611,8 @@ ship "Piranha" "Piranha (Xochira)"
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 
-		"Gecko Steering"
-		"Gecko Thruster"
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 
 ship "Piranha" "Piranha (Xochira Charging)"
@@ -626,8 +626,8 @@ ship "Piranha" "Piranha (Xochira Charging)"
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 		
-		"Gecko Steering"
-		"Iguana Thruster"
+		`"Gecko" Ion Steering`
+		`"Iguana" Ion Thruster`
 		"Hyperdrive"
 
 ship "Piranha" "Piranha (Xochira Tough)"
@@ -641,8 +641,8 @@ ship "Piranha" "Piranha (Xochira Tough)"
 		"Ripper Pistols" 5
 		"Shredder Minigun" 5
 
-		"Gecko Steering"
-		"Gecko Thruster"
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 
 ship "Piranha" "Piranha (Cargo)"
@@ -653,8 +653,8 @@ ship "Piranha" "Piranha (Cargo)"
 		"Bog Shield Generator"
 		"Cargo Expansion" 7
 
-		"Gecko Steering"
-		"Gecko Thruster"
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 
 ship "Piranha" "Piranha (Mining)"
@@ -666,8 +666,8 @@ ship "Piranha" "Piranha (Mining)"
 		"Broad-Spectrum Scanner"
 		"Cargo Expansion" 5
 
-		"Gecko Steering"
-		"Iguana Thruster"
+		`"Gecko" Ion Steering`
+		`"Iguana" Ion Thruster`
 		"Hyperdrive"	
 
 ship "Barracuda"
@@ -710,8 +710,8 @@ ship "Barracuda"
 		"Pond Battery"
 		"Bog Shield Generator"
 
-		"Iguana Thruster"
-		"Gecko Steering"
+		`"Iguana" Ion Thruster`
+		`"Gecko" Ion Steering`
 		"Hyperdrive"
 
 	gun "Breaker"
@@ -778,9 +778,9 @@ ship "Albacore"
 		"Ripper Pistols" 12
 		"Shredder Minigun" 7
 
-		"Iguana Thruster"
-		"Gecko Steering"
-		"Wyrm Afterburner"	
+		`"Iguana" Ion Thruster`
+		`"Gecko" Ion Steering`
+		`"Wyrm" Afterburner`	
 		"Hyperdrive"
 
 	gun
@@ -839,8 +839,8 @@ ship "Moray"
 		"Lake Battery"
 		"Bog Shield Generator" 2
 
-		"Gecko Steering"
-		"Gecko Thruster"
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
 		
 
 	gun "Breaker"
@@ -894,8 +894,8 @@ ship "Pike"
 		"Pond Battery" 2
 		"Bog Shield Generator"
 
-		"Monitor Thruster"
-		"Monitor Steering"
+		`"Monitor" Ion Thruster`
+		`"Monitor" Ion Steering`
 		"Hyperdrive"
 
 	gun
@@ -921,8 +921,8 @@ ship "Pike" "Pike (Telashki)"
 		"Bog Shield Generator"
 		"Acid Grub" 41
 
-		"Monitor Thruster"
-		"Monitor Steering"
+		`"Monitor" Ion Thruster`
+		`"Monitor" Ion Steering`
 		"Hyperdrive"
 
 ship "Pike" "Pike (Xochira)"
@@ -938,8 +938,8 @@ ship "Pike" "Pike (Xochira)"
 		"Ripper Pistols" 46
 		"Shredder Minigun" 4
 
-		"Monitor Thruster"
-		"Monitor Steering"
+		`"Monitor" Ion Thruster`
+		`"Monitor" Ion Steering`
 		"Hyperdrive"
 
 ship "Mola"
@@ -988,9 +988,9 @@ ship "Mola"
 		"Acid Grub" 44
 
 		"Hyperdrive"
-		"Iguana Thruster"
-		"Anole Thruster"
-		"Monitor Steering"
+		`"Iguana" Ion Thruster`
+		`"Anole" Ion Thruster`
+		`"Monitor" Ion Steering`
 
 	gun
 		angle 180
@@ -1067,9 +1067,9 @@ ship "Kaluga"
 		"Ripper Pistols" 77
 		"Shredder Minigun" 3
 
-		"Iguana Thruster"
-		"Iguana Steering"
-		"Gecko Steering"
+		`"Iguana" Ion Thruster`
+		`"Iguana" Ion Steering`
+		`"Gecko" Ion Steering`
 		"Hyperdrive"
 
 	gun
@@ -1124,8 +1124,8 @@ ship "Lamprey"
 		"Leech-Ray"
 		"Spring Cell"
 		"Puddle Battery"
-		"Agama Steering"
-		"Anole Thruster"
+		`"Agama" Ion Steering`
+		`"Anole" Ion Thruster`
 	gun "Leech-Ray"
 	description `Inspired by the Telashki Remora, the Lamprey is the Xochira take on a small, fast carried ship. Extending the concept behind the Archerfish, the Lamprey's defining features are its excellent top speed and its armament consisting entirely of a single Leech-Ray.`
 	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
@@ -1165,8 +1165,8 @@ ship "Remora"
 		"Shell-Splitter Torpedo" 4
 		"Marsh Shield Generator"
 		"Spring Cell"
-		"Agama Thruster"
-		"Agama Steering"
+		`"Agama" Ion Thruster`
+		`"Agama" Ion Steering`
 		"Puddle Battery"
 
 	gun "Breaker"
@@ -1207,8 +1207,8 @@ ship "Minnow"
 		"Breaker" 2
 		"Spring Cell"
 		"Puddle Battery"
-		"Agama Thruster"
-		"Agama Steering"
+		`"Agama" Ion Thruster`
+		`"Agama" Ion Steering`
 
 	gun "Breaker"
 	gun "Breaker"
@@ -1220,5 +1220,5 @@ ship "Minnow" "Minnow (Scanner)"
 		"Broad-Spectrum Scanner"
 		"Spring Cell"
 		"Puddle Battery"
-		"Agama Thruster"
-		"Agama Steering"
+		`"Agama" Ion Thruster`
+		`"Agama" Ion Steering`

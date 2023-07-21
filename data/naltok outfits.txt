@@ -259,7 +259,7 @@ outfit `"Anole" Ion Steering`
 	"steering flare sound" "ion small"
 	description "Unlike most, the Naltok typically build their steering systems larger than the corresponding thrusters. There are probably many reasons for this, but a notable one is their apparent refusal to use reverse thrusters."
 
-outfit `"Gecko" Steering`
+outfit `"Gecko" Ion Steering`
 	category "Engines"
 	"cost" 281100
 	thumbnail "outfit/medium naltok steering"

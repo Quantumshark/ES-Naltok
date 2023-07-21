@@ -193,8 +193,8 @@ ship "Herring"
 		"Spring Cell"
 		"Puddle Battery"
 		"Marsh Shield Generator"
-		`"Agama" Ion Thruster"`
-		`"Agama" Ion Steering"`
+		`"Agama" Ion Thruster`
+		`"Agama" Ion Steering`
 		"Hyperdrive"
 
 	turret 0 -5
@@ -209,8 +209,8 @@ ship "Herring" "Herring (Mining)"
 		"Spring Cell"
 		"Puddle Battery"
 		"Outfits Expansion"
-		`"Anole" Ion Thruster"`
-		`"Anole" Ion Steering"`
+		`"Anole" Ion Thruster`
+		`"Anole" Ion Steering`
 		"Hyperdrive"
 
 ship "Conger"

@@ -127,8 +127,8 @@ outfit "Steel-Render"
 		"live effect" "steel-render live" 9
 		"turret turn" .95
 		"inaccuracy" 1
-		"velocity" 13
-		"lifetime" 91
+		"velocity" 11
+		"lifetime" 108
 		"reload" 125
 		"firing energy" 256
 		"firing heat" 160

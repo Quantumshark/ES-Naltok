@@ -776,7 +776,7 @@ ship "Albacore"
 		"Brook Cell"
 		"Puddle Battery"
 		"Ripper Pistols" 12
-		"Shredder Minigun" 7
+		"Shredder Minigun" 6
 
 		`"Iguana" Ion Thruster`
 		`"Gecko" Ion Steering`

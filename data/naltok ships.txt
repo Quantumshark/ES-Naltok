@@ -964,7 +964,7 @@ ship "Mola"
 		"fuel capacity" 400
 		"cargo space" 24
 		"outfit space" 752
-		"weapon capacity" 144
+		"weapon capacity" 136
 		"engine capacity" 196
 		"heat protection" 3
 		"burn protection" 1

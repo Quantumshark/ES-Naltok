@@ -1108,7 +1108,7 @@ ship "Lamprey"
 		"mass" 64
 		"drag" .67
 		"heat dissipation" .43
-		"outfit space" 116
+		"outfit space" 104
 		"weapon capacity" 41
 		"engine capacity" 37
 		"heat protection" 3

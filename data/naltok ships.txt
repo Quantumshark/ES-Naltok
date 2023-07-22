@@ -213,6 +213,12 @@ ship "Herring" "Herring (Mining)"
 		`"Anole" Ion Steering`
 		"Hyperdrive"
 
+ship "Herring" "Herring (No cargo)"
+	add attributes
+		mass -32
+		hull -200
+		"cargo space" -92
+
 ship "Conger"
 	sprite "ship/naltok conger"
 	thumbnail "thumbnail/naltok conger"

@@ -441,8 +441,8 @@ outfit "Star-Worm Launcher"
 		"die effect" "star-worm fragment" 3
 		"hit effect" "star-worm" 5
 		"hit effect" "star-worm fragment" 3
-		"velocity" 9
-		"lifetime" 120
+		"velocity" 6
+		"lifetime" 180
 		"reload" 240
 		"firing energy" 20
 		"firing heat" 10
@@ -469,8 +469,8 @@ outfit "Star-Worm Pod"
 		sound "torpedo"
 		ammo "Star-Worm Capsule"
 		icon "icon/star-worm"
-		"velocity" 9
-		"lifetime" 120
+		"velocity" 6
+		"lifetime" 180
 		"burst reload" 240
 		"burst count" 2
 		"reload" 480

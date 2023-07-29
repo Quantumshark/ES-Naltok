@@ -164,8 +164,8 @@ outfit "Sky-Shredder"
 		"hit effect" "sky-shredder hit"
 		"turret turn" 3.4
 		"inaccuracy" 3
-		"velocity" 19
-		"lifetime" 19
+		"velocity" 18
+		"lifetime" 18
 		"reload" 7
 		"firing energy" 12
 		"firing heat" 8

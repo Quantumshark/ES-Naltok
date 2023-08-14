@@ -109,8 +109,9 @@ planet Lonechox
 planet Nareltok
 	attributes naltok urban
 	landscape land/water6
-	description "Nareltok is the home planet of the Naltok, a cool, damp marsh world which is mostly covered in shallow water and swamplands. Huge cities with spectacular towering buildings are present in many areas, and most of the land around them appears to be agricultural land - only a few small areas of unspoilt countryside remain."
-	spaceport "The architecture here is far more varied than on other Naltok planets. The organic shapes of their more recent constructions stand alongside huge geometric concrete buildings and occasionally some oddly-shaped, much shorter stone buildings, several of which are currently being run as museums."
+	description "Nareltok is the home planet of the Naltok, a cool, damp world which is mostly covered in shallow seas and marshy landmasses. Huge cities with spectacular towering buildings are scattered around the landscape, and most of their surroundings appear to be agricultural land - only a few small areas of unspoilt countryside remain."
+	description "Though at first glance the cities and the remaining marshlands seem vibrant and lively, a closer inspection reveals the scars of the ecological collapse and nuclear war that almost drove the Naltok to extinction. The Naltok may have recovered, but it will be a long time before their homeworld can be said to have done the same."
+	spaceport "A surprising number of buildings here are in various states of dereliction. Between the disasters that struck the pre-spacefaring Naltok and the mass push for the stars once civilisation here had recovered, the population has never quite recovered to its peak levels, and is currently less than half that of Earth."
 	shipyard "Naltok Basics"
 	shipyard "Naltok Civilian Intermediate"
 	outfitter "Naltok Intermediate"

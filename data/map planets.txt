@@ -53,6 +53,7 @@ planet Kalxonej
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/nasa27
 	description "In the early days of Naltok space exploration this gas giant was the source of the majority of their deuterium fuel, thanks to the ease with which it could be accessed from Vigechox. Since then, they have shifted to using biological processes to filter out deuterium from seawater, and as a result this planet is now largely left alone."
+	government Uninhabited
 
 planet Kevoshek
 	attributes mining naltok
@@ -99,6 +100,7 @@ planet Lekirat
 	attributes "gas giant" "requires: gaslining" uninhabited
 	landscape land/nasa16
 	description "This enormous ice giant, with an unusually cold, calm atmosphere and a loose retrograde orbit around the outskirts of Xeko Naltok, is believed to have been captured by the star at some point in the last few billion years. The capture event likely destabilised the orbits of much of the material in the system, leaving only the three innermost planets in stable orbits."
+	government Uninhabited
 
 planet Lonechox
 	attributes naltok rural

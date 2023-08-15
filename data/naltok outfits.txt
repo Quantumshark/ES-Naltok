@@ -363,7 +363,7 @@ outfit "Xochira Security Cracker"
 	"capture class" "xochira novelty"
 		"success" .6
 		"failure break" 1
-	description "While the Telashki were designing warships and outfits to aid in their war against the Xochira, their Alpha allies were able to assemble this small device which can break through the security systems that the Xochira employ on their newly-built warships."
+	description "While the Telashki were designing warships and outfits to aid in their war against the Xochira, their Alpha allies were able to assemble this small device which can break through the security systems that the Xochira employ on their newly-built warships. Though impressive by Naltok standards, the electronic security designed by the Xochira is quite simple compared to what humanity uses, a consequence of the Naltok disdain for secrecy."
 
 outfit "Xochira License"
 	category "Licenses"

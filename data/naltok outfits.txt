@@ -377,5 +377,10 @@ outfit "Xochira Military License"
 
 outfit "Ministry of War License"
 	category "Licenses"
-	thumbnail "outfit/ministry license"
+	thumbnail "outfit/ministry war license"
 	description "Although the Telashki are generally content to make most of their ships available to any buyers, in times of war the largest of their warships are only available to those actively supporting their military endeavours."
+
+outfit "Ministry of Transport License"
+	category "Licenses"
+	thumbnail "outfit/ministry transport license"
+	description "While most ships are made readily available by the Telashki, the mass-produced transport vessels that form the backbone of their economy are generally only used by the Ministry of Transport."

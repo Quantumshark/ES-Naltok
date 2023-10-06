@@ -397,8 +397,8 @@ ship "Guppy"
 		"hull heat" .6
 		"required crew" 1
 		"bunks" 3
-		"mass" 104
-		"drag" 1.7
+		"mass" 162
+		"drag" 2.05
 		"heat dissipation" .225
 		"fuel capacity" 500
 		"cargo space" 36
@@ -443,8 +443,8 @@ ship "Tetra"
 		"hull heat" .7125
 		"required crew" 1
 		"bunks" 2
-		"mass" 128
-		"drag" 1.6
+		"mass" 266
+		"drag" 2.25
 		"heat dissipation" .215
 		"fuel capacity" 400
 		"cargo space" 6
@@ -502,8 +502,8 @@ ship "Archerfish"
 		"hull heat" .825
 		"required crew" 3
 		"bunks" 5
-		"mass" 200
-		"drag" 2.25
+		"mass" 408
+		"drag" 3.2
 		"heat dissipation" .205
 		"fuel capacity" 300
 		"cargo space" 8
@@ -550,8 +550,8 @@ ship "Piranha"
 		"hull heat" 1.2
 		"required crew" 5
 		"bunks" 11
-		"mass" 400
-		"drag" 3.8
+		"mass" 932
+		"drag" 6.4
 		"heat dissipation" .19
 		"fuel capacity" 600
 		"cargo space" 64
@@ -684,8 +684,8 @@ ship "Barracuda"
 		"hull heat" 1.725
 		"required crew" 7
 		"bunks" 24
-		"mass" 448
-		"drag" 4.6
+		"mass" 1152
+		"drag" 8.3
 		"heat dissipation" .175
 		"fuel capacity" 600
 		"cargo space" 72
@@ -747,8 +747,8 @@ ship "Albacore"
 		"hull heat" 1.575
 		"required crew" 12
 		"bunks" 18
-		"mass" 512
-		"drag" 6.2
+		"mass" 1432
+		"drag" 12.4
 		"heat dissipation" .16
 		"fuel capacity" 700
 		"cargo space" 12
@@ -806,8 +806,8 @@ ship "Moray"
 		"hull heat" 2.1
 		"required crew" 22
 		"bunks" 42
-		"mass" 624
-		"drag" 6.3
+		"mass" 2016
+		"drag" 13.9
 		"heat dissipation" .13
 		"fuel capacity" 400
 		"cargo space" 128
@@ -864,8 +864,8 @@ ship "Pike"
 		"hull heat" 2.325
 		"required crew" 42
 		"bunks" 56
-		"mass" 960
-		"drag" 10.3
+		"mass" 3435
+		"drag" 24.7
 		"heat dissipation" .1
 		"fuel capacity" 600
 		"cargo space" 216
@@ -954,8 +954,8 @@ ship "Mola"
 		"hull heat" 2.175
 		"required crew" 56
 		"bunks" 68
-		"mass" 1536
-		"drag" 15.2
+		"mass" 5654.4
+		"drag" 42.5
 		"heat dissipation" .085
 		"fuel capacity" 400
 		"cargo space" 24
@@ -1031,8 +1031,8 @@ ship "Kaluga"
 		"hull heat" 2.925
 		"required crew" 72
 		"bunks" 80
-		"mass" 1664
-		"drag" 14.4
+		"mass" 6864
+		"drag" 43.2
 		"heat dissipation" .075
 		"fuel capacity" 400
 		"cargo space" 0
@@ -1138,8 +1138,8 @@ ship "Remora"
 		"hull heat" .45
 		"required crew" 1
 		"bunks" 1
-		"mass" 56
-		"drag" .76
+		"mass" 72
+		"drag" .84
 		"heat dissipation" .225
 		"outfit space" 112
 		"weapon capacity" 28

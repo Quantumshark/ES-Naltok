@@ -303,7 +303,7 @@ outfit "Shell-Splitter Launcher"
 		"reload" 240
 		"firing energy" 1
 		"firing heat" 4
-		"acceleration" .3
+		"acceleration" .18
 		"drag" .01
 		"turn" 2.0
 		"homing" 2
@@ -342,7 +342,7 @@ outfit "Shell-Splitter Pod"
 		"reload" 480
 		"firing energy" 1
 		"firing heat" 4
-		"acceleration" .3
+		"acceleration" .18
 		"drag" .01
 		"turn" 2.0
 		"homing" 2

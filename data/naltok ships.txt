@@ -22,8 +22,8 @@ ship "Mackerel"
 		"hull heat" .375
 		"required crew" 4
 		"bunks" 29
-		"mass" 256
-		"drag" 3.1
+		"mass" 512
+		"drag" 4.6
 		"heat dissipation" .155
 		"fuel capacity" 700
 		"cargo space" 38
@@ -68,8 +68,8 @@ ship "Marlin"
 		"hull heat" .825
 		"required crew" 32
 		"bunks" 152
-		"mass" 640
-		"drag" 6.3
+		"mass" 1708
+		"drag" 12.6
 		"heat dissipation" .115
 		"fuel capacity" 600
 		"cargo space" 64
@@ -118,8 +118,8 @@ ship "Sturgeon"
 		"hull heat" 2.175
 		"required crew" 43
 		"bunks" 313
-		"mass" 880
-		"drag" 9.2
+		"mass" 3434
+		"drag" 24
 		"heat dissipation" .085
 		"fuel capacity" 500
 		"cargo space" 368
@@ -171,8 +171,8 @@ ship "Herring"
 		"hull heat" .1875
 		"required crew" 2
 		"bunks" 3
-		"mass" 128
-		"drag" 1.8
+		"mass" 228
+		"drag" 2.5
 		"heat dissipation" .145
 		"fuel capacity" 400
 		"cargo space" 92
@@ -233,8 +233,8 @@ ship "Conger"
 		"hull heat" .45
 		"required crew" 4
 		"bunks" 5
-		"mass" 320
-		"drag" 4.3
+		"mass" 788
+		"drag" 7.7
 		"heat dissipation" .12
 		"fuel capacity" 600
 		"cargo space" 242
@@ -289,8 +289,8 @@ ship "Flounder"
 		"hull heat" .9
 		"required crew" 12
 		"bunks" 17
-		"mass" 1280
-		"drag" 13.7
+		"mass" 3072
+		"drag" 27.4
 		"heat dissipation" .055
 		"fuel capacity" 600
 		"cargo space" 864
@@ -342,8 +342,8 @@ ship "Grouper"
 		"hull heat" 1.5375
 		"required crew" 15 
 		"bunks" 27
-		"mass" 960
-		"drag" 9.8
+		"mass" 1920
+		"drag" 19.6
 		"heat dissipation" .095
 		"fuel capacity" 4000
 		"cargo space" 64

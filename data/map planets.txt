@@ -20,7 +20,7 @@ planet Chexilok
 planet Chireke
 	attributes naltok rural
 	landscape land/forest3
-	description "The environmental conditions on this planet make it almost the perfect home for the Naltok - the first explorers to land here described the conditions as more homely than their homeworld."
+	description "The environmental conditions on this planet make it almost the perfect home for the Naltok - the first explorers to land here imagined the planet superseding their homeworld as the centre of their civilisation."
 	description "Unfortunately, those same conditions also make Chireke the perfect home for a wide range of incredibly fast-growing plant species, many of which can grow through metres of solid concrete with the same ease with which most plants would grow through a few centimetres of soil. Every attempt to establish major settlements here has been reduced to rubble and reclaimed by the jungle within a few months."
 	spaceport "The spaceport sits atop a high mountain plateau, where the cold, dry conditions and thin air inhibit plant growth enough that permanent structures can be established. The unique flora of this planet have given rise to a fairly large lumber industry, and the railway from the mountaintop to the jungle below has become a fairly large tourist attraction as well."
 

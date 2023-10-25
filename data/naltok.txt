@@ -208,6 +208,29 @@ phrase "telashki"
 		"Listener"
 		"Tester"
 
+phrase "telashki transport"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	word
+		"-"
+	phrase
+		"digit"
+	phrase
+		"digit"
+	word
+		": "
+	word
+		"Dilligent"
+		"Dutiful"
+	word
+		" "
+	word
+		"Arm"
+		"Hand"
+		"Hauler"
+
 phrase "xochira"
 	word
 		"Kelo"

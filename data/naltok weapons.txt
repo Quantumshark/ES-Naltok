@@ -513,7 +513,7 @@ outfit "Membrane-class Anti-Missile"
 	"turret mounts" -1
 	weapon
 		"fire effect" "small naltok anti-missile"
-		"anti-missile" 8
+		"anti-missile" 6
 		"velocity" 120
 		"lifetime" 1
 		"reload" 3
@@ -539,7 +539,7 @@ outfit "Capsid-class Anti-Missile"
 	"turret mounts" -1
 	weapon
 		"fire effect" "large naltok anti-missile"
-		"anti-missile" 20
+		"anti-missile" 16
 		"velocity" 150
 		"lifetime" 1
 		"reload" 4

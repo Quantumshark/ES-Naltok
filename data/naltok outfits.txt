@@ -350,7 +350,7 @@ outfit "Acid Jet"
 	cost 34900
 	thumbnail "outfit/naltok acid jet"
 	"capture attack" 3.2
-	"capture defense" .5
+	"capture defense" 1.1
 	"unplunderable" 1
 	"illegal" 2500000
 	description "The Telashki apparently have no equivalent to the various treaties on warfare established by other species, and in few places is this clearer than in the Acid Jet. At the simplest level, the Acid Jet is essentially a pressure washer fed by large tanks of bacteria that produce an extremely powerful acid. The resulting weapon dissolves tissue, equipment and barriers with ease, making it very difficult to effectively defend against it."

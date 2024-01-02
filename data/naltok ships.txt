@@ -975,7 +975,7 @@ ship "Mola"
 		"fuel capacity" 400
 		"cargo space" 24
 		"outfit space" 752
-		"weapon capacity" 136
+		"weapon capacity" 104
 		"engine capacity" 196
 		"heat capacity" 2288
 		"high shield permeability" .4
@@ -988,8 +988,8 @@ ship "Mola"
 			"hit force" 3420
 	outfits
 		"Shell-Splitter Launcher"
-		"Shell-Splitter Tube" 20
-		"Shell-Splitter Torpedo" 91
+		"Shell-Splitter Tube" 22
+		"Shell-Splitter Torpedo" 99
 		"Membrane-class Anti-Missile" 4
 
 		"Stream Generator"

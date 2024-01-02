@@ -1120,9 +1120,9 @@ ship "Lamprey"
 		"mass" 64
 		"drag" .67
 		"heat dissipation" .215
-		"outfit space" 104
+		"outfit space" 96
 		"weapon capacity" 41
-		"engine capacity" 37
+		"engine capacity" 40
 		"heat capacity" 168
 		"high shield permeability" .4
 		"low shield permeability" .4
@@ -1161,7 +1161,7 @@ ship "Remora"
 		"heat dissipation" .225
 		"outfit space" 112
 		"weapon capacity" 28
-		"engine capacity" 27
+		"engine capacity" 24
 		"heat capacity" 168
 		"high shield permeability" .4
 		"low shield permeability" .4
@@ -1179,7 +1179,7 @@ ship "Remora"
 		"Spring Cell"
 		`"Agama" Ion Thruster`
 		`"Agama" Ion Steering`
-		"Puddle Battery"
+		"Pond Battery"
 
 	gun "Breaker"
 	gun "Breaker"

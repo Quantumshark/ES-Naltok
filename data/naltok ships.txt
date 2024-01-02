@@ -1193,14 +1193,14 @@ ship "Minnow"
 	thumbnail "thumbnail/naltok minnow"
 	attributes
 		category "Drone"
-		"cost" 71300
+		"cost" 128000
 		"hull" 1200
 		"hull repair rate" .2
 		"hull energy" .05
 		"hull heat" .15
 		"automaton" 1
 		"mass" 40
-		"drag" .52
+		"drag" .57
 		"heat dissipation" .24
 		"cargo space" 32
 		"outfit space" 61

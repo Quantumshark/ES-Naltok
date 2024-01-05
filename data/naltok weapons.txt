@@ -414,8 +414,8 @@ outfit "Strike-Needler"
 	"strike-needle capacity" 512
 	weapon
 		sprite "projectile/javelin"
-		ammo
-		icon
+		ammo "Strike-Needle"
+		icon "icon/strike-needler"
 		"inaccuracy" 2
 		"velocity" 12
 		"lifetime" 80
@@ -440,8 +440,8 @@ outfit "Strike-Needler Pod"
 	"strike-needle capacity" 32
 	weapon
 		sprite "projectile/javelin"
-		ammo
-		icon
+		ammo "Strike-Needle"
+		icon "icon/strike-needler"
 		"inaccuracy" 2
 		"velocity" 12
 		"lifetime" 80

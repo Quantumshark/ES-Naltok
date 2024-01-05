@@ -405,7 +405,7 @@ outfit "Shell-Splitter Husk"
 
 outfit "Strike-Needler"
 	category "Secondary Weapons"
-	cost
+	cost 320000
 	thumbnail "outfit/"
 	"mass" 8
 	"outfit space" -24
@@ -430,7 +430,7 @@ outfit "Strike-Needler"
 
 outfit "Strike-Needler Pod"
 	category "Secondary Weapons"
-	cost
+	cost 96000
 	thumbnail "outfit/"
 	"mass" 3
 	"outfit space" -5
@@ -458,14 +458,14 @@ outfit "Strike-Needler Pod"
 
 outfit "Strike-Needle"
 	category "Ammunition"
-	cost 240
+	cost 120
 	thumbnail "outfit/"
 	"mass" .03125
 	"strike-needle capacity" -1
 
 outfit "Strike-Needle Rack"
 	category "Ammunition"
-	cost
+	cost 11800
 	thumbnail "outfit/"
 	"mass" 2
 	"outfit space" -10

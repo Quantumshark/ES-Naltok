@@ -461,7 +461,7 @@ outfit "Strike-Needler Pod"
 outfit "Strike-Needle"
 	category "Ammunition"
 	cost 120
-	thumbnail "outfit/"
+	thumbnail "outfit/strike-needle"
 	"mass" .03125
 	"strike-needle capacity" -1
 

@@ -410,6 +410,7 @@ outfit "Strike-Needler"
 	"mass" 8
 	"outfit space" -24
 	"weapon capacity" -24
+	"gun ports" -1
 	"strike-needle capacity" 512
 	weapon
 		sprite "projectile/javelin"
@@ -435,6 +436,7 @@ outfit "Strike-Needler Pod"
 	"mass" 3
 	"outfit space" -5
 	"weapon capacity" -5
+	"gun ports" -1
 	"strike-needle capacity" 32
 	weapon
 		sprite "projectile/javelin"

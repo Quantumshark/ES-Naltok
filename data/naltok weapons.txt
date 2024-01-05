@@ -405,7 +405,7 @@ outfit "Shell-Splitter Husk"
 
 outfit "Strike-Needler"
 	category "Secondary Weapons"
-	cost 320000
+	cost 256000
 	thumbnail "outfit/"
 	"mass" 8
 	"outfit space" -24
@@ -426,12 +426,12 @@ outfit "Strike-Needler"
 		"hull damage" 55
 		"missile strength" 2
 		"dropoff modifier" .15
-		"damage dropoff" 0
+		"damage dropoff" 0 960
 	description "To make the missiles smaller, the size of the explosive payload was cut considerably. As a result, the bulk of the damage comes from any remaining unspent fuel, rather than from the warhead."
 
 outfit "Strike-Needler Pod"
 	category "Secondary Weapons"
-	cost 96000
+	cost 64000
 	thumbnail "outfit/"
 	"mass" 3
 	"outfit space" -5
@@ -454,7 +454,7 @@ outfit "Strike-Needler Pod"
 		"hull damage" 55
 		"missile strength" 2
 		"dropoff modifier" .15
-		"damage dropoff" 0
+		"damage dropoff" 0 960
 	description "To make the missiles smaller, the size of the explosive payload was cut considerably. As a result, the bulk of the damage comes from any remaining unspent fuel, rather than from the warhead."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
 

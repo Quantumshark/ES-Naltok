@@ -872,22 +872,22 @@ ship "Pike"
 		"capture class" "naltok capital"
 		category "Heavy Warship"
 		"cost" 27678000
-		"shields" 6300
-		"hull" 41700
+		"shields" 6400
+		"hull" 39200
 		"hull repair rate" 3.1
 		"hull energy" .775
 		"hull heat" 2.325
 		"required crew" 42
-		"bunks" 56
-		"mass" 960
-		"drag" 10.3
+		"bunks" 52
+		"mass" 896
+		"drag" 10.2
 		"heat dissipation" .1
 		"fuel capacity" 600
-		"cargo space" 216
-		"outfit space" 808
+		"cargo space" 256
+		"outfit space" 792
 		"weapon capacity" 312
 		"engine capacity" 224
-		"heat capacity" 1768
+		"heat capacity" 1688
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 3

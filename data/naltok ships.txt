@@ -1067,9 +1067,8 @@ ship "Kaluga"
 			"hull damage" 1560
 			"hit force" 4880
 	outfits
-		"Steel-Render" 2
-		"Sky-Shredder" 3
-		"Membrane-class Anti-Missile" 2
+		"Sky-Shredder" 5
+		"Capsid-class Anti-Missile" 2
 		"Halt-Swarm Launcher" 6
 		"Halt-Swarm Missile" 384
 

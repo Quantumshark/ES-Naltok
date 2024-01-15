@@ -357,7 +357,7 @@ ship "Grouper"
 		"outfit space" 584
 		"weapon capacity" 136
 		"engine capacity" 188
-		"heat capacity" 1044
+		"heat capacity" 1544
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 3
@@ -460,7 +460,7 @@ ship "Tetra"
 		"outfit space" 218
 		"weapon capacity" 62
 		"engine capacity" 80
-		"heat capacity" 326
+		"heat capacity" 346
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 3
@@ -828,7 +828,7 @@ ship "Moray"
 		"outfit space" 536
 		"weapon capacity" 264
 		"engine capacity" 104
-		"heat capacity" 1192
+		"heat capacity" 1160
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 3
@@ -1123,7 +1123,7 @@ ship "Lamprey"
 		"outfit space" 96
 		"weapon capacity" 41
 		"engine capacity" 40
-		"heat capacity" 168
+		"heat capacity" 160
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 3
@@ -1206,7 +1206,7 @@ ship "Minnow"
 		"outfit space" 60
 		"weapon capacity" 14
 		"engine capacity" 24
-		"heat capacity" 101
+		"heat capacity" 100
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 3

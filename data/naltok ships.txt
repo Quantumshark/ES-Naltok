@@ -1110,8 +1110,8 @@ ship "Lamprey"
 		licenses 
 			"Xochira"
 		"cost" 317800
-		"shields" 300
-		"hull" 2200
+		"shields" 400
+		"hull" 2100
 		"hull repair rate" .4
 		"hull energy" .1
 		"hull heat" .3
@@ -1149,8 +1149,8 @@ ship "Remora"
 	attributes
 		category "Fighter"
 		"cost" 201000
-		"shields" 600
-		"hull" 2800
+		"shields" 800
+		"hull" 2600
 		"hull repair rate" .6
 		"hull energy" .15
 		"hull heat" .45

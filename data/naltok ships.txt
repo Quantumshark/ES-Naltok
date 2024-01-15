@@ -1157,7 +1157,7 @@ ship "Remora"
 		"required crew" 1
 		"bunks" 1
 		"mass" 56
-		"drag" .76
+		"drag" .82
 		"heat dissipation" .225
 		"outfit space" 112
 		"weapon capacity" 28

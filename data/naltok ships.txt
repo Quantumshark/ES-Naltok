@@ -838,11 +838,11 @@ ship "Moray"
 	attributes
 		category "Medium Warship"
 		"cost" 5163000
-		"shields" 6600
-		"hull" 27200
-		"hull repair rate" 2.8
-		"hull energy" .7
-		"hull heat" 2.1
+		"shields" 6200
+		"hull" 25600
+		"hull repair rate" 2.6
+		"hull energy" .65
+		"hull heat" 1.95
 		"required crew" 22
 		"bunks" 42
 		"mass" 624

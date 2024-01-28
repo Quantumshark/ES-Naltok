@@ -484,7 +484,7 @@ ship "Tetra"
 		"heat dissipation" .215
 		"fuel capacity" 400
 		"cargo space" 6
-		"outfit space" 218
+		"outfit space" 208
 		"weapon capacity" 62
 		"engine capacity" 80
 		"heat capacity" 346
@@ -497,7 +497,8 @@ ship "Tetra"
 			"hull damage" 135
 			"hit force" 405
 	outfits
-		"Breaker"
+		"Strike-Needler Pod"
+		"Strike-Needle" 32
 		"Shell-Splitter Pod" 6
 		"Shell-Splitter Torpedo" 12
 

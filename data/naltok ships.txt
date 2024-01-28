@@ -339,7 +339,8 @@ ship "Flounder"
 			"hull damage" 510
 			"hit force" 1530
 	outfits
-		"Membrane-class Anti-Missile" 3
+		"Membrane-class Anti-Missile" 2
+		"Capsid-class Anti-Missile"
 		"Triple Breaker Turret" 2
 
 		"Spring Cell" 6

@@ -36,10 +36,10 @@ system Amansinaya
 system Chategri
 	pos -1507 429.75
 	government Xochira
-	arrival 2400
+	arrival 500
 	ramscoop
 		multiplier .8
-	habitable 2400
+	habitable 125.92
 	haze _menu/haze-33
 	"starfield density" .2
 	link Choxera
@@ -484,10 +484,10 @@ system Lixetog
 system Loxelon
 	pos -1647 155
 	government Xochira
-	arrival 500
+	arrival 2400
 	ramscoop
 		multiplier .8
-	habitable 125.92
+	habitable 2400
 	haze _menu/haze-none
 	"starfield density" .15
 	link Norelon

@@ -100,7 +100,7 @@ outfit "Swamp Shield Generator"
 	"delayed shield generation" 1.95
 	"delayed shield energy" .65
 	"shield delay" 45
-	description "The larger shield generators produced by humanity are slightly more powerful than this shield generator, despite millenia of Naltok technological advances. However, no human shield generator even approaches this device's energy efficiency."
+	description "For these shields to achieve their excellent energy efficiency, the designers at the Ministry of War have had to make some compromises. This generator is not particularly powerful for its size, and it has to switch off entirely for a short period whenever the shield matrix is destabilised by incoming fire."
 
 outfit "Fuel Vat"
 	category "Systems"

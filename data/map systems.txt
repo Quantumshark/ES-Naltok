@@ -66,8 +66,8 @@ system Choxera
 	haze _menu/haze-33
 	link Chategri
 	link Ligoxel
+	link Lixetog
 	link Ngotesh
-	link "Xeko Naltok"
 	asteroids "small rock" 1 2.402
 	asteroids "medium rock" 4 2.517
 	asteroids "large rock" 16 2.059
@@ -233,8 +233,8 @@ system Ligoxel
 	habitable 430
 	haze _menu/haze-33
 	link Choxera
-	link Lixetog
 	link Tekochi
+	link "Xeko Naltok"
 	asteroids "small rock" 15 1.724
 	asteroids "medium rock" 3 1.68
 	asteroids "large rock" 31 1.635
@@ -360,7 +360,7 @@ system Lixetog
 	arrival 851
 	habitable 851
 	haze _menu/haze-33
-	link Ligoxel
+	link Choxera
 	link "Xeko Naltok"
 	asteroids "small rock" 4 4.03
 	asteroids "medium rock" 16 5.785
@@ -1051,6 +1051,7 @@ system "Xeko Naltok"
 	arrival 500
 	habitable 420.68
 	haze _menu/haze-33
+	link Ligoxel
 	link Lixetog
 	link Rixengol
 	link Xangoret

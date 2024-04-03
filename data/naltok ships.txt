@@ -771,7 +771,7 @@ ship "Barracuda"
 		angle -90
 	gun "Shell-Splitter Launcher"
 		angle 90
-	description `The Barracuda is specifically designed as a missile ship, armed with rows of missile launchers along both sides of the hull. The design also includes a single forward-facing Breaker mining weapon, added to allow the ship to work in productive mining operations during peacetime.`
+	description `The Barracuda is a highly mobile ship, intended to be able to evade the attacks and overwhelm the defenses of even far more powerful ships. More than half of the space is devoted to the rows of missile launchers that run along both sides of the ship, and almost all of the remainder is devoted to the engines.`
 
 ship "Albacore"
 	sprite "ship/naltok albacore"

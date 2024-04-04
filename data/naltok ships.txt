@@ -711,6 +711,55 @@ ship "Piranha" "Piranha (Mining)"
 		`"Iguana" Ion Thruster`
 		"Hyperdrive"	
 
+ship "Bass"
+	sprite "ship/naltok bass"
+	thumbnail "thumbnail/naltok bass"
+	attributes
+		category "Light Warship"
+		licenses 
+			"Ministry of War"
+		"cost" 2344000
+		"shields" 4200
+		"hull" 10200
+		"hull repair rate" 2.1
+		"hull energy" 1.05
+		"hull heat" 1.05
+		"required crew" 7
+		"bunks" 10
+		"mass" 296
+		"drag" 2.9
+		"heat dissipation" .18
+		"fuel capacity" 800
+		"cargo space" 48
+		"outfit space" 392
+		"weapon capacity" 120
+		"engine capacity" 104
+		"heat capacity" 688
+		"high shield permeability" .4
+		"low shield permeability" .4
+		"cooling inefficiency" 5
+		weapon
+			"blast radius" 50
+			"shield damage" 640
+			"hull damage" 320
+			"hit force" 960
+	outfits
+		"Brook Cell"
+		"Pond Battery"
+		"Swamp Shield Generator"
+
+		`"Gecko" Ion Steering`
+		`"Gecko" Ion Thruster`
+		"Hyperdrive"
+
+	gun
+	gun
+	gun
+	gun
+	gun
+	turret
+	description ``
+
 ship "Barracuda"
 	plural "Barracuda"
 	sprite "ship/naltok barracuda"

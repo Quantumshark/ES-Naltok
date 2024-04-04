@@ -843,7 +843,7 @@ ship "Moray"
 		category "Medium Warship"
 		"cost" 5163000
 		"shields" 6200
-		"hull" 25600
+		"hull" 21600
 		"hull repair rate" 2.6
 		"hull energy" .65
 		"hull heat" 1.95

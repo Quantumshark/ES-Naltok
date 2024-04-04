@@ -731,7 +731,7 @@ ship "Bass"
 		"heat dissipation" .18
 		"fuel capacity" 800
 		"cargo space" 48
-		"outfit space" 392
+		"outfit space" 396
 		"weapon capacity" 120
 		"engine capacity" 104
 		"heat capacity" 688
@@ -744,20 +744,24 @@ ship "Bass"
 			"hull damage" 320
 			"hit force" 960
 	outfits
-		"Brook Cell"
+		"Strike-Needler" 4
+		"Strike-Needle" 2048
+		"Membrane-class Anti-Missile"
+		"Stream Generator"
 		"Pond Battery"
 		"Swamp Shield Generator"
+		"Fuel Vat"
 
 		`"Gecko" Ion Steering`
-		`"Gecko" Ion Thruster`
+		`"Iguana" Ion Thruster`
 		"Hyperdrive"
 
 	gun
-	gun
-	gun
-	gun
-	gun
-	turret
+	gun "Strike-Needler"
+	gun "Strike-Needler"
+	gun "Strike-Needler"
+	gun "Strike-Needler"
+	turret "Membrane-class Anti-Missile"
 	description ``
 
 ship "Barracuda"

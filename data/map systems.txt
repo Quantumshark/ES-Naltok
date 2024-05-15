@@ -66,8 +66,8 @@ system Choxera
 	haze _menu/haze-33
 	link Chategri
 	link Ligoxel
-	link "Xeko Naltok"
 	link Ngotesh
+	link "Xeko Naltok"
 	asteroids "small rock" 1 2.402
 	asteroids "medium rock" 4 2.517
 	asteroids "large rock" 16 2.059
@@ -120,7 +120,7 @@ system Choxera
 			period 29.102
 
 system Keloteg
-	pos -1134 -115
+	pos -1134.5 -123
 	government Telashki
 	arrival 980
 	habitable 980
@@ -175,7 +175,7 @@ system Keloteg
 			period 17.525
 
 system Keloxen
-	pos -1205 -166
+	pos -1217 -181
 	government Telashki
 	arrival 500
 	habitable 486.68
@@ -291,7 +291,7 @@ system Ligoxel
 			period 20.268
 
 system Linekol
-	pos -1225 -228
+	pos -1239 -231
 	government Telashki
 	arrival 500
 	habitable 526.68
@@ -424,7 +424,7 @@ system Lixetog
 			period 68.476
 
 system Loxelon
-	pos -1062 -66
+	pos -1052 -62
 	government Xochira
 	arrival 2400
 	habitable 2400
@@ -468,7 +468,7 @@ system Loxelon
 			period 30.654
 
 system Ngotesh
-	pos -1155 58
+	pos -1155 62
 	government Xochira
 	arrival 500
 	habitable 500
@@ -530,7 +530,7 @@ system Ngotesh
 		period 843.214
 
 system Norelon
-	pos -1005.5 -96.75
+	pos -983.5 -91.75
 	government Uninhabited
 	attributes nova
 	arrival 500
@@ -581,7 +581,7 @@ system Norelon
 			period 18.151
 
 system Rixengol
-	pos -1072 -12
+	pos -1064 -12
 	government Xochira
 	arrival 500
 	habitable 305
@@ -756,7 +756,7 @@ system Tekochi
 			period 30.654
 
 system Tikelo
-	pos -1082 -217
+	pos -1082 -220
 	government Telashki
 	arrival 500
 	habitable 203.28
@@ -816,7 +816,7 @@ system Tikelo
 			period 61.384
 
 system Tokilok
-	pos -1053 -169
+	pos -1032 -172
 	government Telashki
 	arrival 200
 	habitable 133.28
@@ -858,7 +858,7 @@ system Tokilok
 		period 4262.71
 
 system Tolonek
-	pos -1163 -198
+	pos -1159 -199
 	government Telashki
 	arrival 500
 	habitable 320
@@ -913,7 +913,7 @@ system Tolonek
 		period 2499.49
 
 system Vokegol
-	pos -1075 -125
+	pos -1069 -121
 	government "Naltok (Neutral)"
 	attributes "notable star"
 	arrival 500
@@ -971,7 +971,7 @@ system Vokegol
 			period 15.346
 
 system Xangoret
-	pos -1025 45
+	pos -1032 56
 	government Xochira
 	arrival 2420
 	habitable 2420
@@ -1088,7 +1088,7 @@ system "Xeko Naltok"
 		period -4388.9
 
 system Varajol
-	pos -1221 -294
+	pos -1232 -296
 	government Telashki
 	arrival 500
 	habitable 486.68
@@ -1149,7 +1149,7 @@ system Varajol
 			period 44.012
 
 system Kelojol
-	pos -1140 -275
+	pos -1166 -279
 	government Telashki
 	arrival 500
 	habitable 320
@@ -1209,7 +1209,7 @@ system Kelojol
 			period 14.517
 
 system Vokelon
-	pos -1259.25 -345.75
+	pos -1282.25 -336.75
 	government Telashki
 	arrival 500
 	habitable 135
@@ -1300,7 +1300,7 @@ system Lotegok
 		period 1355.15
 
 system Lekonet
-	pos -1040.5 -397.5
+	pos -1044.5 -402.5
 	government Uninhabited
 	attributes "giant star" "notable star"
 	arrival 3000
@@ -1346,7 +1346,7 @@ system Lekonet
 			period 48.675
 
 system Golonex
-	pos -1052 -263
+	pos -1096 -266
 	government Telashki
 	arrival 1705
 	habitable 1705
@@ -1413,7 +1413,7 @@ system Golonex
 			period 48.748
 
 system Nixelog
-	pos -1101 -444
+	pos -1104 -441
 	government Uninhabited
 	arrival 850.92
 	habitable 850.92

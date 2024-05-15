@@ -269,8 +269,8 @@ system Ligoxel
 system Linekol
 	pos -1239 -231
 	government Telashki
-	arrival 550
-	habitable 550
+	arrival 1410
+	habitable 1410
 	haze _menu/haze-33
 	link Kelojol
 	link Keloxen
@@ -282,7 +282,7 @@ system Linekol
 	asteroids "large metal" 2 2.983
 	fleet "Small Naltok Merchant" 700
 	object
-		sprite star/k3
+		sprite star/f8
 		period 10
 	object
 		sprite star/k-dwarf
@@ -290,32 +290,32 @@ system Linekol
 		period 11.1
 	object
 		sprite planet/lava7
-		distance 193.16
-		period 27.861
-	object Cherexot
-		sprite planet/rock9
 		distance 584
 		period 262.493
+	object
+		sprite planet/desert0
+		distance 1058.84
+		period 594.718
+		object
+			sprite planet/dust3
+			distance 130
+			period 18.633
+	object Cherexot
+		sprite planet/rock9
+		distance 1490
+		period 722.493
 		object
 			sprite planet/rock3
 			distance 150
 			period 23.564
 	object
-		sprite planet/desert0
-		distance 1058.84
-		period 624.718
-		object
-			sprite planet/dust3
-			distance 130
-			period 18.633
-	object
 		sprite planet/tethys
-		distance 1865.53
+		distance 2065.53
 		period 1460.97
 	object
 		sprite planet/gas9
-		distance 2670.82
-		period 2502.68
+		distance 3670.82
+		period 2902.68
 		object
 			sprite planet/ice7
 			distance 258

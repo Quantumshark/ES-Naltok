@@ -355,7 +355,7 @@ system Linekol
 			period 46.922
 
 system Lixetog
-	pos -1092 35
+	pos -1146 -29
 	government Xochira
 	arrival 851
 	habitable 851
@@ -470,7 +470,7 @@ system Loxelon
 			period 30.654
 
 system Ngotesh
-	pos -1019 61
+	pos -1155 58
 	government Xochira
 	arrival 500
 	habitable 500
@@ -583,7 +583,7 @@ system Norelon
 			period 18.151
 
 system Rixengol
-	pos -1121 -22
+	pos -1072 -12
 	government Xochira
 	arrival 500
 	habitable 305
@@ -973,7 +973,7 @@ system Vokegol
 			period 15.346
 
 system Xangoret
-	pos -1176 43
+	pos -1025 45
 	government Xochira
 	arrival 2420
 	habitable 2420
@@ -1046,7 +1046,7 @@ system Xangoret
 			period 17.608
 
 system "Xeko Naltok"
-	pos -1145 76
+	pos -1102 39
 	government Xochira
 	arrival 500
 	habitable 420.68

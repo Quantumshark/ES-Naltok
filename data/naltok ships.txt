@@ -850,7 +850,7 @@ ship "Albacore"
 		"outfit space" 424
 		"weapon capacity" 146
 		"engine capacity" 132
-		"heat capacity" 920
+		"heat capacity" 936
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5

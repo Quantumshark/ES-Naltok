@@ -188,7 +188,7 @@ system Keloxen
 		object Sholvek
 			sprite "planet/naltok asteroid base"
 				scale .5
-			distance 208
+			distance 158
 			period 31.758
 	object
 		sprite planet/desert4

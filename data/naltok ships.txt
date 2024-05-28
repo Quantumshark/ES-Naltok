@@ -369,7 +369,7 @@ ship "Grouper"
 	attributes
 		"capture class" "xochira novelty"
 		category "Utility"
-		"cost" 23100000
+		"cost" 8400000
 		"shields" 4900
 		"hull" 19000
 		"hull repair rate" 2.45

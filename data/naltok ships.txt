@@ -369,7 +369,7 @@ ship "Grouper"
 	attributes
 		"capture class" "xochira novelty"
 		category "Utility"
-		"cost"
+		"cost" 8400000
 		"shields" 4900
 		"hull" 19000
 		"hull repair rate" 2.45
@@ -715,6 +715,7 @@ ship "Piranha" "Piranha (Mining)"
 ship "Bass"
 	sprite "ship/naltok bass"
 	thumbnail "thumbnail/naltok bass"
+	plural "Bass"
 	attributes
 		category "Light Warship"
 		licenses 

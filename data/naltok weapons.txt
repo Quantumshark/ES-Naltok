@@ -218,7 +218,7 @@ effect "leech-ray hit"
 		"frame rate" 20
 	"lifetime" 9
 	"random angle" 20
-	"velocity" -20
+	"random velocity" -20
 	"velocity scale" -.01
 
 

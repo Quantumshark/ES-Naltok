@@ -217,15 +217,6 @@ planet "Vokegol Observatory"
 	spaceport `Wherever you go in the spaceport, there is always at least one timer in sight, counting down the seconds until the system erupts in a violent supernova.`
 	"required reputation" 50
 
-planet "Wormhole Naltok"
-	spaceport ``
-	wormhole "Wormhole Naltok"
-
-wormhole "Wormhole Naltok"
-	mappable
-	link Amansinaya 73-Che-Ja
-	link 73-Che-Ja Amansinaya
-
 planet Xejolki
 	attributes naltok research
 	landscape land/sky0

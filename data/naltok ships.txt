@@ -123,7 +123,6 @@ ship "Sturgeon"
 	sprite "ship/naltok sturgeon"
 	thumbnail "thumbnail/naltok sturgeon"
 	attributes
-		"capture class" "naltok capital"
 		category "Utility"
 		licenses
 			"Ministry of War"
@@ -367,7 +366,6 @@ ship "Grouper"
 	sprite "ship/naltok grouper"
 	thumbnail "ship/naltok grouper"
 	attributes
-#		"capture class" "xochira novelty"
 		category "Utility"
 		"cost" 8400000
 		"shields" 4900
@@ -530,7 +528,6 @@ ship "Archerfish"
 	sprite "ship/naltok archerfish"
 	thumbnail "thumbnail/naltok archerfish"
 	attributes
-#		"capture class" "xochira novelty"
 		category "Light Warship"
 		licenses 
 			"Xochira"
@@ -832,7 +829,6 @@ ship "Albacore"
 	sprite "ship/naltok albacore"
 	thumbnail "thumbnail/naltok albacore"
 	attributes
-		"capture class" "xochira novelty"
 		category "Medium Warship"
 		licenses 
 			"Xochira"
@@ -955,7 +951,6 @@ ship "Pike"
 	sprite "ship/naltok pike"
 	thumbnail "thumbnail/naltok pike"
 	attributes
-		"capture class" "naltok capital"
 		category "Heavy Warship"
 		"cost" 27678000
 		"shields" 7600
@@ -1050,7 +1045,6 @@ ship "Mola"
 	sprite "ship/naltok mola"
 	thumbnail "thumbnail/naltok mola"
 	attributes
-		"capture class" "naltok capital"
 		category "Heavy Warship"
 		licenses
 			"Ministry of War"
@@ -1124,10 +1118,6 @@ ship "Kaluga"
 	sprite "ship/naltok kaluga"
 	thumbnail "thumbnail/naltok kaluga"
 	attributes
-#		"capture class" "naltok capital"
-#		"capture class" "xochira novelty"
-#			"success" .1
-#			"lock down" .2
 		category "Heavy Warship"
 		licenses
 			"Xochira"

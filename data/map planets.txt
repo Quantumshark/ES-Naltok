@@ -70,7 +70,7 @@ planet "Kuragu Xochet"
 	description `This Quarg ringworld is roughly half complete, the result of more than five millenia of work. Construction here began at around the same time as work began on the Great Pyramids of Egypt back on Earth, and continued throughout the rise and fall of Babylon, Greece, Rome and countless other human civilizations - a testament to the stability and persistence of the Quarg and their society.`
 	description `	Other than the extension of the backbone of the ring, it appears that much of the work being carried out here is centred around establishing hydroponic farms and the other infrastructure required to allow the ring to support permanent habitation.`
 	spaceport `The spaceport is bustling with activity, but almost all of it is directly connected to the construction work here. Whole areas are almost unused, but still staffed, while passing through a single door or even walking across a room often leaves you in the middle of a dense crowd of Quarg, many of them Skylark crew and captains looking for their next cargo assignment.`
-	spaceport `	The few Naltok who have decided to spend some time here despite the absence of the pools of water favored in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than required.`
+	spaceport `	The few Naltok who have decided to spend some time here despite the absence of the pools of water favored in their own buildings greet you as you pass through, but neither you nor they are inclined to stay for longer than necessary.`
 
 planet Kutora
 	attributes naltok research

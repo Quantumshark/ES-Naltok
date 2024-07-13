@@ -358,15 +358,6 @@ outfit "Acid Jet"
 	description "The Telashki apparently have no equivalent to the various treaties on warfare established by other species, and in few places is this clearer than in the Acid Jet. At the simplest level, the Acid Jet is essentially a pressure washer fed by large tanks of bacteria that produce an extremely powerful acid. The resulting weapon dissolves tissue, equipment and barriers with ease, making it very difficult to effectively defend against it."
 	description "	This violates the vast majority of chemical and biological weapons legislation across the galaxy, and as such being caught with an Acid Jet outside of Naltok space is likely to result in a severe fine, if not a significant prison sentence."
 
-outfit "Xochira Security Cracker"
-	category "Special"
-	cost 50000
-	thumbnail "outfit/naltok security cracker small"
-#	"capture class" "xochira novelty"
-#		"success" .6
-#		"failure break" 1
-	description "While the Telashki were designing warships and outfits to aid in their war against the Xochira, their Alpha allies were able to assemble this small device which can break through the security systems that the Xochira employ on their newly-built warships. Though impressive by Naltok standards, the electronic security designed by the Xochira is quite simple compared to what humanity uses, a consequence of the Naltok disdain for secrecy."
-
 outfit "Xochira License"
 	category "Licenses"
 	thumbnail "outfit/xochira license"

@@ -177,10 +177,11 @@ mission "Xochira Logistics Small Rush"
 		payment 5000 250
 		dialog phrase "generic cargo delivery payment"
 
-# todo: more variants. Also, figure out a way to sort out rep changes, and only make the Xochira hostile on boarding or destroying rather than when deadline is missed.
+# todo: more variants. Also, when the speech pattern is decided on, change the TBD to something more fitting.
 mission "Xochira Military Drill 1"
 	name "Training exercise"
 	job
+	deadline 2
 	repeat
 	description "Engage the <npc> in simulated battle to provide valuable combat experience for the crew, who have recently begun their training. Disable it, but do not board or destroy it. Payment is <payment>."
 	to offer
@@ -197,11 +198,9 @@ mission "Xochira Military Drill 1"
 			variant
 				"Piranha"
 		on board
-			"reputation: Xochira" <?= -1
-			dialog "You were supposed to only disable the <npc>, not board it. The Xochira will not be happy about this..."
+			dialog `When your ship docks with the sides of the <npc>, the Xochira hail you through the ship's onboard communicators. "TBD!"`
 		on kill
-			"reputation: Xochira" <?= -1
-			dialog "You were supposed to only disable the <npc>, not kill it. The Xochira will not be happy about this..."
+			dialog `As the first flames start licking around the sides of the <npc>, you receive a message from the Xochira. "TBD!"`
 	on complete
 		payment 30000
 		dialog `Once it has been repaired, the <npc> comes in to land beside your ship. The crew step out and thank you for the valuable experience you have given them. After they leave, you receive a notice telling you that <payment> have been transferred to your account.`
@@ -209,6 +208,7 @@ mission "Xochira Military Drill 1"
 mission "Xochira Military Drill 2"
 	name "Training exercise"
 	job
+	deadline 2
 	repeat
 	description "Engage the <npc> in simulated battle to provide valuable combat experience for the crew, who are still in training. Disable it, but do not board or destroy it. Payment is <payment>."
 	to offer
@@ -226,11 +226,9 @@ mission "Xochira Military Drill 2"
 				"Barracuda"
 
 		on board
-			"reputation: Xochira" <?= -1
-			dialog "You were supposed to only disable the <npc>, not board it. The Xochira will not be happy about this..."
+			dialog `When your ship docks with the sides of the <npc>, the Xochira hail you through the ship's onboard communicators. "TBD!"`
 		on kill
-			"reputation: Xochira" <?= -1
-			dialog "You were supposed to only disable the <npc>, not kill it. The Xochira will not be happy about this..."
+			dialog `As the first flames start licking around the sides of the <npc>, you receive a message from the Xochira. "TBD!"`
 	on complete
 		payment 50000
 		dialog `Once it has been repaired, the <npc> comes in to land beside your ship. The crew step out and thank you for the valuable experience you have given them. After they leave, you receive a notice telling you that <payment> have been transferred to your account.`
@@ -238,6 +236,7 @@ mission "Xochira Military Drill 2"
 mission "Xochira Military Drill 3"
 	name "Training exercise"
 	job
+	deadline 2
 	repeat
 	description "Engage the <npc> in simulated battle to provide valuable combat experience for the crew, who are completing their training. Disable it, but do not board or destroy it. Payment is <payment>."
 	to offer
@@ -255,11 +254,9 @@ mission "Xochira Military Drill 3"
 				"Moray"
 
 		on board
-			"reputation: Xochira" <?= -1
-			dialog "You were supposed to only disable the <npc>, not board it. The Xochira will not be happy about this..."
+			dialog `When your ship docks with the sides of the <npc>, the Xochira hail you through the ship's onboard communicators. "TBD!"`
 		on kill
-			"reputation: Xochira" <?= -1
-			dialog "You were supposed to only disable the <npc>, not kill it. The Xochira will not be happy about this..."
+			dialog `As the first flames start licking around the sides of the <npc>, you receive a message from the Xochira. "TBD!"`
 	on complete
 		payment 60000
 		dialog `Once it has been repaired, the <npc> comes in to land beside your ship. The crew step out and thank you for the valuable experience you have given them. After they leave, you receive a notice telling you that <payment> have been transferred to your account.`

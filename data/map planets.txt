@@ -173,7 +173,7 @@ planet Shogteg
 planet Thosekrol
 	attributes naltok
 	landscape land/fields6
-	description `Insofar as the Telashki have a capital, this is it. In addition to its population of nearly ten billion, Thosekrol is also home to the headquarters of the Ministry of War, the Ministry of Transport, and the Ministry of Minerals, with the addition of their second largest shipyards after Ngakego.`
+	description `Insofar as the Telashki have a capital, this is it. In addition to its population of nearly ten billion, Thosekrol is also home to the headquarters of the Ministry of War, the Ministry of Transport, and the Ministry of Minerals. The Ministry of Transport's shipyards are also here, and are second only to the shipyards on Ngakego in their scale.`
 	description `	Rather than expanding outwards into the countryside, the cities here have been made taller and denser, leaving most of the planet untouched.`
 	spaceport `The spaceport on Thosekrol is situated at the south pole, connected to the rest of the planet by an incredibly complex underground network of railways and canals. Even within the spaceport itself, there are a series of tiny trams that efficiently transport visitors between the various shops and utilities.`
 	shipyard "Naltok Basics"

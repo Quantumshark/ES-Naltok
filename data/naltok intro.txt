@@ -33,7 +33,7 @@ mission "First Contact: Naltok (Telashki)"
 				`	"Why was I attacked when I entered your space?"`
 					goto xochira
 				`	"If you are all Naltok, who are the Telashki?"`
-			`	"I realize I have explained this poorly. The Telashki are the government of this region - I hear the equivalent would be your 'Republic.' Naltok is the name of our species."`
+			`	"I realize I have explained this poorly. The Telashki are the government of this region - I hear the equivalent would be your 'Republic'. Naltok is the name of our species."`
 			label xochira
 			`	"You must have entered our space from the south, yes? I conclude that you would have encountered the Xochira. They are xenophobes and technophobes who rejected our leadership, and now attack anyone attempting to enter or leave Naltok space. If you do not wish to face them again, you are welcome to stay here in our space. Alternatively, if you wish to leave, it is the policy of the Telashki that we will be happy to sell you weapons and warships to aid you on your journey back."`
 			`	As the Naltok continues talking, the crowd behind them parts to allow a taller, more humanlike individual through. As they approach, you see brief glimpses of green skin, and before you have a chance to respond you are face to face with an Alpha. She is slightly taller than you, with short hair, and is wearing waterproof trousers and a pair of rubber boots.`

@@ -595,7 +595,7 @@ ship "Piranha"
 		"cargo space" 64
 		"outfit space" 384
 		"weapon capacity" 116
-		"engine capacity" 112
+		"engine capacity" 104
 		"heat capacity" 1040
 		"high shield permeability" .4
 		"low shield permeability" .4

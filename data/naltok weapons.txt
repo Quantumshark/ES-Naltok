@@ -255,8 +255,8 @@ outfit "Halt-Swarm Launcher"
 		"turn" 3.3
 		"homing" 3
 		"radar tracking" .8
-		"shield damage" 115
-		"hull damage" 115
+		"shield damage" 96
+		"hull damage" 96
 		"hit force" 105
 		"slowing damage" 7.7
 		"missile strength" 4

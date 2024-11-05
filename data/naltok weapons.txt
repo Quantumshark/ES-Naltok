@@ -21,9 +21,9 @@ outfit "Breaker"
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
-		"velocity" 11
+		"velocity" 8
 		"random velocity" 2
-		"lifetime" 46
+		"lifetime" 44
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
@@ -31,7 +31,7 @@ outfit "Breaker"
 		"hull damage" 12
 		"minable damage" 19
 		"prospecting" 12.5
-	description "The Breaker is primarily designed for mining, though it is quite commonly used as a small weapon. As with most Naltok technology, the designers prioritised efficiency over power, resulting in a weapon that compares unfavourably to even a human beam laser or energy blaster - particularly in its poor performance against shields."
+	description "The Breaker is primarily designed for mining, though it is quite commonly used as a small weapon. As with most Naltok technology, the designers prioritized efficiency over power, resulting in a weapon that compares unfavorably to even a human beam laser or energy blaster - particularly in its poor performance against shields."
 
 outfit "Breaker Turret"
 	category "Turrets"
@@ -44,14 +44,14 @@ outfit "Breaker Turret"
 	weapon
 		sprite "projectile/breaker"
 		"hardpoint sprite" "hardpoint/breaker"
-		"hardpoint offset"
+		"hardpoint offset" 5
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
 		"turret turn" 2.9
-		"velocity" 11
+		"velocity" 8
 		"random velocity" 2
-		"lifetime" 46
+		"lifetime" 44
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
@@ -59,7 +59,7 @@ outfit "Breaker Turret"
 		"hull damage" 12
 		"minable damage" 19
 		"prospecting" 12.5
-	description "This turret carries a single Breaker. It is small, and turns incredibly quickly to track targets, responding to threats or tracking fast-moving asteroids faster than any Human or Naltok operator could. Because of this, it is entirely computer-controlled, similar to anti-missile turrets."
+	description "This turret carries a single Breaker. It is small, and turns incredibly quickly to track targets, responding to threats or tracking fast-moving asteroids faster than any human or Naltok operator could. Because of this, it is entirely computer-controlled, similar to anti-missile turrets."
 
 outfit "Triple Breaker Turret"
 	category "Turrets"
@@ -73,13 +73,13 @@ outfit "Triple Breaker Turret"
 	weapon
 		sprite "projectile/breaker"
 		"hardpoint sprite" "hardpoint/triple breaker"
-		"hardpoint offset"
+		"hardpoint offset" 5
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 0
 		"submunition" "Breaker Submunition" 3
 		"turret turn" 1.8
-		"velocity override" 11
+		"velocity override" 8
 		"lifetime" 0
 		"reload" 11
 		"firing energy" 12
@@ -92,9 +92,9 @@ outfit "Breaker Submunition"
 		sound "breaker"
 		"hit effect" "breaker impact"
 		"inaccuracy" 2.5
-		"velocity" 11
+		"velocity" 8
 		"random velocity" 2
-		"lifetime" 46
+		"lifetime" 44
 		"reload" 11
 		"firing energy" 4
 		"firing heat" 2
@@ -134,12 +134,12 @@ outfit "Steel-Render"
 		"reload" 165
 		"firing energy" 416
 		"firing heat" 320
-		"firing force" 960
+		"firing force" 1440
 		"shield damage" 864
 		"hull damage" 1152
-		"hit force" 960
+		"hit force" 1440
 	description "The Steel-Render is generally agreed to be the most powerful weapon the Naltok have created, though it is far less widely used than their various missiles. The massive cannon fires a massive energy-based projectile which strikes with an incredible force, easily tearing through the hull armour of most ships."
-	description "Crews on ships armed with Steel-Renders often complain about the extent to which the weapons' recoil knocks the firing ship around with every salvo, throwing unsecured items and crew members around."
+	description "	Crews on ships armed with Steel-Renders often complain about the extent to which the weapons' recoil knocks the firing ship around with every salvo, throwing unsecured items and crew members around."
 
 effect "steel-render hit"
 	sprite "effect/tracker impact"
@@ -218,7 +218,7 @@ effect "leech-ray hit"
 		"frame rate" 20
 	"lifetime" 9
 	"random angle" 20
-	"velocity" -20
+	"random velocity" -2
 	"velocity scale" -.01
 
 
@@ -244,23 +244,23 @@ outfit "Halt-Swarm Launcher"
 		"hit effect" "missile hit"
 		"inaccuracy" 20
 		"velocity" 20
-		"lifetime" 380
+		"lifetime" 275
 		"burst reload" 2
 		"burst count" 4
 		"reload" 30
 		"firing energy" .1
-		"firing heat" 7.3
-		"acceleration" 1.98
+		"firing heat" 7.2
+		"acceleration" 2.2
 		"drag" .11
-		"turn" 3.3
+		"turn" 3.8
 		"homing" 3
 		"radar tracking" .8
-		"shield damage" 115
-		"hull damage" 115
-		"hit force" 70
+		"shield damage" 85
+		"hull damage" 85
+		"hit force" 105
 		"slowing damage" 7.7
 		"missile strength" 4
-	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defences. To counteract this, each launcher fires in bursts of four missiles, enough to overwhelm slower-firing anti-missile defences."
+	description "Halt-Swarm missiles are a novel invention from the Xochira, designed to make it as difficult as possible to escape from their ships. The missiles are fast and agile enough to be effective against small ships, though they are vulnerable to anti-missile defenses. To counteract this, each launcher fires in bursts of four missiles, enough to overwhelm slower-firing anti-missile defences."
 
 outfit "Halt-Swarm Missile"
 	category "Ammunition"
@@ -308,8 +308,8 @@ outfit "Shell-Splitter Launcher"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
 		"velocity" 3
-		"range override" 4800
-		"lifetime" 600
+		"range override" 4000
+		"lifetime" 500
 		"reload" 240
 		"firing energy" 1
 		"firing heat" 4
@@ -320,7 +320,7 @@ outfit "Shell-Splitter Launcher"
 		"infrared tracking" .95
 		"optical tracking" .25
 		"missile strength" 75
-	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
+	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armored, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
 
 outfit "Shell-Splitter Pod"
 	category "Secondary Weapons"
@@ -346,8 +346,8 @@ outfit "Shell-Splitter Pod"
 		"die effect" "tiny explosion"
 		"inaccuracy" 7
 		"velocity" 3
-		"range override" 4800
-		"lifetime" 600
+		"range override" 4000
+		"lifetime" 500
 		"burst count" 2
 		"burst reload" 120
 		"reload" 480
@@ -360,7 +360,7 @@ outfit "Shell-Splitter Pod"
 		"infrared tracking" .95
 		"optical tracking" .25
 		"missile strength" 75
-	description "Shell-Splitter torpedoes are an unusual missile weapon favoured by the Naltok. When launched, the torpedo is extremely fast and heavily armoured, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
+	description "Shell-Splitter torpedoes are an unusual missile weapon favored by the Naltok. When launched, the torpedo is extremely fast and heavily armored, but with exceptionally poor handling. If it gets close enough to a target, the weapon splits apart and releases the slower but much more maneuverable core for the final approach, leaving behind large husks of discarded armour that litter the battlefield and distract enemy anti-missile systems."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
 
 outfit "Shell-Splitter Torpedo"
@@ -369,7 +369,7 @@ outfit "Shell-Splitter Torpedo"
 	thumbnail "outfit/shell-splitter torpedo"
 	"mass" 2
 	"shell-splitter capacity" -1
-	description "Shell-Splitter torpedoes are fast and heavily armoured at the cost of handling, but reverse these characteristics by discarding their armour and switching to smaller more precise engines when they get close to their target. The discarded husks of armour often distract anti-missile systems, protecting the torpedoes' vulnerable cores during their final approach."
+	description "Shell-Splitter torpedoes are fast and heavily armored at the cost of handling, but reverse these characteristics by discarding their armour and switching to smaller more precise engines when they get close to their target. The discarded husks of armour often distract anti-missile systems, protecting the torpedoes' vulnerable cores during their final approach."
 
 outfit "Shell-Splitter Tube"
 	category "Ammunition"
@@ -387,7 +387,7 @@ outfit "Shell-Splitter Core"
 			"frame rate" 2
 			"random start frame"
 		"hit effect" "torpedo hit"
-		"velocity" -4
+		"velocity" -5
 		"lifetime" 240
 		"acceleration" .5
 		"drag" .1
@@ -398,7 +398,7 @@ outfit "Shell-Splitter Core"
 		"missile strength" 8
 		"shield damage" 1750
 		"hull damage" 2250
-		"hit force" 1200
+		"hit force" 1800
 
 outfit "Shell-Splitter Husk"
 	weapon
@@ -642,8 +642,10 @@ outfit "Active ECM Unit"
 	"energy consumption" 2.4
 	"radar jamming" 150
 	weapon
+		"turret turn" 1.1
 		"blast radius" 500
 		"trigger radius" 500
+		"range override" 500
 		"safe"
 		"reload" 1
 		"firing energy" 4.2

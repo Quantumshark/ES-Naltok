@@ -22,15 +22,15 @@ ship "Mackerel"
 		"hull heat" .3
 		"required crew" 4
 		"bunks" 29
-		"mass" 256
+		"mass" 384
 		"drag" 3.1
-		"heat dissipation" .15
+		"heat dissipation" .12
 		"fuel capacity" 700
 		"cargo space" 38
 		"outfit space" 256
 		"weapon capacity" 64
 		"engine capacity" 94
-		"heat capacity" 512
+		"heat capacity" 640
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -52,7 +52,7 @@ ship "Mackerel"
 	gun
 	turret "Membrane-class Anti-Missile"
 	description `The Mackerel is a fairly unremarkable mid-range transport vessel, decently mobile and with adequate passenger space. What sets apart the Mackerel, and the reason it is such a popular and well-known ship among the Naltok, is its history.`
-	description `In the early days of the war, many Naltok civilians on both sides found themselves stranded on the wrong side of the frontline or separated from their friends and family. Merchant captains saw the opportunity this presented and, with implicit approval from both of the warring governments, rallied a fleet of Mackerel transport vessels to ferry citizens to their desired side of the boundary.`
+	description `	In the early days of the war, many Naltok civilians on both sides found themselves stranded on the wrong side of the frontline or separated from their friends and family. Merchant captains saw the opportunity this presented and, with implicit approval from both of the warring governments, rallied a fleet of Mackerel transport vessels to ferry citizens to their desired side of the boundary.`
 
 ship "Marlin"
 	sprite "ship/naltok marlin"
@@ -67,15 +67,15 @@ ship "Marlin"
 		"hull heat" .65
 		"required crew" 32
 		"bunks" 152
-		"mass" 640
-		"drag" 6.3
-		"heat dissipation" .11
+		"mass" 1176
+		"drag" 9.5
+		"heat dissipation" .074
 		"fuel capacity" 600
 		"cargo space" 64
 		"outfit space" 436
 		"weapon capacity" 96
 		"engine capacity" 134
-		"heat capacity" 1068
+		"heat capacity" 1612
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -96,11 +96,11 @@ ship "Marlin"
 		`"Iguana" Ion Steering`
 		"Hyperdrive"
 
-	gun
-	gun
-	turret
-	turret
-	turret
+	gun 0 0
+	gun 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
 	description `With its spacious interior, varied recreational spaces and the huge swimming pool that runs most of its length, many would likely assume the Marlin was a Naltok equivalent to the Star Queen or some other luxury liner. Instead, the Marlin is used exclusively by the Ministry of Transport, which operates a vast fleet of Marlin liners as a public transit network, providing efficient and comfortable movement between systems.`
 
 ship "Marlin" "Marlin (Ministry of Transport)"
@@ -123,7 +123,6 @@ ship "Sturgeon"
 	sprite "ship/naltok sturgeon"
 	thumbnail "thumbnail/naltok sturgeon"
 	attributes
-		"capture class" "naltok capital"
 		category "Utility"
 		licenses
 			"Ministry of War"
@@ -135,15 +134,15 @@ ship "Sturgeon"
 		"hull heat" 1.75
 		"required crew" 43
 		"bunks" 313
-		"mass" 880
-		"drag" 9.2
-		"heat dissipation" .08
+		"mass" 2152
+		"drag" 16.6
+		"heat dissipation" .045
 		"fuel capacity" 500
 		"cargo space" 368
 		"outfit space" 716
 		"weapon capacity" 212
 		"engine capacity" 194
-		"heat capacity" 1596
+		"heat capacity" 2868
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -189,15 +188,15 @@ ship "Herring"
 		"hull heat" .15
 		"required crew" 2
 		"bunks" 3
-		"mass" 128
-		"drag" 1.8
-		"heat dissipation" .14
+		"mass" 176
+		"drag" 2.2
+		"heat dissipation" .12
 		"fuel capacity" 400
 		"cargo space" 92
 		"outfit space" 124
 		"weapon capacity" 32
 		"engine capacity" 46
-		"heat capacity" 252
+		"heat capacity" 300
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -214,10 +213,10 @@ ship "Herring"
 		`"Agama" Ion Steering`
 		"Hyperdrive"
 
-	turret 0 -5
+	turret 0 -11
 	engine -7 48
 	engine 7 48
-	description `The Herring is the smallest freighter that the Naltok produce. Although more well-off merchants and larger logistics fleets typically do not employ it, the Herring is still one of the most common ships in Naltok space due to its popularity with entry-level merchants, who can make a decent profit using it to haul cargo.`
+	description `The Herring is the smallest freighter that the Naltok produce. Although more well-off merchants and larger logistics fleets typically do not employ it, the Herring is still one of the most common ships in private ownership in Naltok space due to its popularity with entry-level merchants, who can make a decent profit using it to haul cargo.`
 
 ship "Herring" "Herring (Mining)"
 	outfits
@@ -230,7 +229,8 @@ ship "Herring" "Herring (Mining)"
 		`"Anole" Ion Steering`
 		"Hyperdrive"
 
-ship "Herring" "Herring (No cargo)"
+ship "Herring" "Herring (No Cargo)"
+	sprite "ship/naltok herring b"
 	add attributes
 		mass -32
 		hull -200
@@ -250,15 +250,15 @@ ship "Conger"
 		"hull heat" .35
 		"required crew" 4
 		"bunks" 5
-		"mass" 320
-		"drag" 4.3
-		"heat dissipation" .12
+		"mass" 552
+		"drag" 6
+		"heat dissipation" .09
 		"fuel capacity" 600
 		"cargo space" 242
 		"outfit space" 264
 		"weapon capacity" 58
 		"engine capacity" 106
-		"heat capacity" 584
+		"heat capacity" 816
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -268,7 +268,6 @@ ship "Conger"
 			"hull damage" 175
 			"hit force" 525
 	outfits
-		"Breaker" 2
 		"Membrane-class Anti-Missile" 2
 		"Brook Cell"
 		"Pond Battery"
@@ -277,13 +276,11 @@ ship "Conger"
 		`"Gecko" Ion Steering`
 		"Hyperdrive"
 
-	gun "Breaker"
-	gun "Breaker"
 	turret "Membrane-class Anti-Missile"
 	turret "Membrane-class Anti-Missile"
 	bay "Drone" 0 0
-	description `The Conger serves as the backbone of the Ministry of Transport's goods transit network. While the Herring and Flounder do see occasional use in specialised roles, more than 95% of the goods transported by the Ministry travel in a Conger.`
-	description `Furthermore, the presence of a docking port for a drone makes the Conger an excellent base for a Minnow, making the Conger an ideal vessel for the asteroid-mining fleets employed by the Ministry of Minerals.`
+	description `The Conger serves as the backbone of the Ministry of Transport's goods transit network. While the Herring and Flounder do see occasional use in specialized roles, more than 95% of the goods transported by the Ministry travel in a Conger.`
+	description `	Furthermore, the presence of a docking port for a drone makes the Conger an excellent base for a Minnow, making the Conger an ideal vessel for the asteroid-mining fleets employed by the Ministry of Minerals.`
 
 ship "Conger" "Conger (Unarmed)"
 	outfits
@@ -321,15 +318,15 @@ ship "Flounder"
 		"hull heat" .725
 		"required crew" 12
 		"bunks" 17
-		"mass" 1280
-		"drag" 13.7
-		"heat dissipation" .05
+		"mass" 2048
+		"drag" 20.5
+		"heat dissipation" .037
 		"fuel capacity" 600
 		"cargo space" 864
-		"outfit space" 512
-		"weapon capacity" 174
-		"engine capacity" 114
-		"heat capacity" 1792
+		"outfit space" 384
+		"weapon capacity" 112
+		"engine capacity" 112
+		"heat capacity" 2688
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -339,36 +336,33 @@ ship "Flounder"
 			"hull damage" 510
 			"hit force" 1530
 	outfits
-		"Membrane-class Anti-Missile" 2
+		"Membrane-class Anti-Missile" 4
 		"Capsid-class Anti-Missile"
-		"Triple Breaker Turret" 2
 
-		"Spring Cell" 6
-		"Pond Battery"
+		"Spring Cell" 4
 		"Lake Battery"
-		"Marsh Shield Generator" 2
+		"Marsh Shield Generator"
 
 		`"Iguana" Ion Steering`
 		`"Gecko" Ion Thruster`
 		"Hyperdrive"
 
-	turret
-	turret
-	turret
-	turret
-	turret
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
+	turret 0 0
 	bay "Drone" 0 0
 	bay "Drone" 0 0
 	description `A popular joke among the Naltok is that all their ships are named for fish, but only the Flounder flies like one. The handling of the Flounder is so legendarily bad that the latest model has been designed to carry two Minnow drones - not for mining, but because waiting for the drones to ferry cargo up and down through the atmosphere is generally agreed to be a preferable alternative to attempting to land the Flounder in a spaceport.`
-	description `For any pilots willing to endure its disastrous mobility and the unique challenge of landing it, the Flounder does offer a spectacular cargo capacity, much larger than any human freighter.`
+	description `	For any pilots willing to endure its disastrous mobility and the unique challenge of landing it, the Flounder does offer a spectacular cargo capacity, much larger than any human freighter.`
 
 ship "Grouper"
 	sprite "ship/naltok grouper"
 	thumbnail "ship/naltok grouper"
 	attributes
-		"capture class" "xochira novelty"
 		category "Utility"
-		"cost"
+		"cost" 8400000
 		"shields" 4900
 		"hull" 19000
 		"hull repair rate" 2.45
@@ -376,15 +370,15 @@ ship "Grouper"
 		"hull heat" 1.225
 		"required crew" 15 
 		"bunks" 27
-		"mass" 960
-		"drag" 9.8
-		"heat dissipation" .09
+		"mass" 1808
+		"drag" 15.2
+		"heat dissipation" .06
 		"fuel capacity" 4000
 		"cargo space" 64
 		"outfit space" 584
 		"weapon capacity" 136
 		"engine capacity" 188
-		"heat capacity" 1544
+		"heat capacity" 2392
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -407,13 +401,13 @@ ship "Grouper"
 		`"Iguana" Ion Thruster`
 		`"Gecko" Ion Thruster`
 		"Hyperdrive"
-	gun
-	gun
+	gun 0 0
+	gun 0 0
 		angle -60
-	gun
+	gun 0 0
 		angle 60
-	turret
-	turret
+	turret 0 0
+	turret 0 0
 	bay "Drone" 0 0
 	bay "Drone" 0 0
 	description `As part of their plans to root out the Alphas from the nearby regions of Human space to prevent future incursions, the Xochira designed the Grouper as a support vessel able to continually refuel their warships during long journeys.`
@@ -432,15 +426,15 @@ ship "Guppy"
 		"hull heat" .475
 		"required crew" 1
 		"bunks" 3
-		"mass" 104
-		"drag" 1.7
-		"heat dissipation" .22
+		"mass" 144
+		"drag" 1.95
+		"heat dissipation" .2
 		"fuel capacity" 500
 		"cargo space" 36
 		"outfit space" 184
 		"weapon capacity" 32
 		"engine capacity" 64
-		"heat capacity" 288
+		"heat capacity" 328
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -460,9 +454,9 @@ ship "Guppy"
 		`"Anole" Ion Steering`
 		"Hyperdrive"
 
-	gun "Breaker"
-	gun "Breaker"
-	gun "Breaker"
+	gun 0 0 "Breaker"
+	gun 0 0 "Breaker"
+	gun 0 0 "Breaker"
 		angle 180
 	description `Though it is nominally an interceptor, most Naltok view the Guppy as a mining vessel, and it has gained a reputation as being little more than a crewed Minnow. The questionable decision to give the Guppy a rearwards-facing gun has only served to worsen the public perception of it, and consequently Guppies are a rare sight in military and civilian fleets alike.`
 
@@ -472,22 +466,22 @@ ship "Tetra"
 	attributes
 		category "Interceptor"
 		"cost" 837000
-		"shields" 1800
+		"shields" 1600
 		"hull" 4800
 		"hull repair rate" 1.2
 		"hull energy" .6
 		"hull heat" .6
 		"required crew" 1
 		"bunks" 2
-		"mass" 136
-		"drag" 1.6
-		"heat dissipation" .2
+		"mass" 232
+		"drag" 1.95
+		"heat dissipation" .16
 		"fuel capacity" 400
 		"cargo space" 6
-		"outfit space" 208
-		"weapon capacity" 62
+		"outfit space" 204
+		"weapon capacity" 56
 		"engine capacity" 76
-		"heat capacity" 344
+		"heat capacity" 440
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -529,7 +523,6 @@ ship "Archerfish"
 	sprite "ship/naltok archerfish"
 	thumbnail "thumbnail/naltok archerfish"
 	attributes
-		"capture class" "xochira novelty"
 		category "Light Warship"
 		licenses 
 			"Xochira"
@@ -541,15 +534,15 @@ ship "Archerfish"
 		"hull heat" .65
 		"required crew" 3
 		"bunks" 5
-		"mass" 200
-		"drag" 2.25
-		"heat dissipation" .18
+		"mass" 272
+		"drag" 2.6
+		"heat dissipation" .16
 		"fuel capacity" 300
 		"cargo space" 8
 		"outfit space" 320
 		"weapon capacity" 82
 		"engine capacity" 92
-		"heat capacity" 520
+		"heat capacity" 592
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -574,7 +567,7 @@ ship "Archerfish"
 	gun "Leech-Ray"
 	gun "Leech-Ray"
 	description `Once the war between the Xochira and the Telashki reached the current stalemate, the Xochira found themselves occupying the systems that the Alphas originally arrived in. Their weapon designers quickly produced the Leech-Ray in an attempt to prevent any Alpha ships escaping to the Telashki, but no ships they produced at the time were fast enough to chase a potential opponent down without risking their escape.`
-	description `Several designs were proposed, but ultimately the Xochira opted to begin constructing the Archerfish; a low-cost, high-speed light warship carrying two Leech-Rays. To date, the Xochira maintain that no Alpha warship has ever escaped the Archerfish long enough to escape to Telashki space.`
+	description `	Several designs were proposed, but ultimately the Xochira opted to begin constructing the Archerfish; a low-cost, high-speed light warship carrying two Leech-Rays. To date, the Xochira maintain that no Alpha warship has ever escaped the Archerfish long enough to escape to Telashki space.`
 
 ship "Piranha"
 	plural "Piranha"
@@ -590,15 +583,15 @@ ship "Piranha"
 		"hull heat" .95
 		"required crew" 5
 		"bunks" 11
-		"mass" 416
-		"drag" 3.9
-		"heat dissipation" .16
+		"mass" 656
+		"drag" 5.1
+		"heat dissipation" .13
 		"fuel capacity" 600
 		"cargo space" 64
 		"outfit space" 384
 		"weapon capacity" 116
-		"engine capacity" 112
-		"heat capacity" 800
+		"engine capacity" 104
+		"heat capacity" 1040
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -624,7 +617,7 @@ ship "Piranha"
 	gun "Shell-Splitter Launcher"
 	gun
 	turret "Sky-Shredder"
-	description `The Piranha is the oldest Naltok warship design in service, and was the first to employ the biotechnological hull construction which is now standard on all their ships. Rather than metals, Naltok ships are built from a community of mineralising bacteria grown onto an inert frame. This allows them to continually repair themselves in combat, but comes at the cost of a substantially higher mass than conventional metal or composite hulls and limits the effectiveness of their shield projectors.`
+	description `The Piranha is the oldest Naltok warship design in service, and was the first to employ the biotechnological hull construction which is now standard on all their ships. Rather than metals, Naltok ships are built from a community of mineralizing bacteria grown onto an inert frame. This allows them to continually repair themselves in combat, but comes at the cost of a substantially higher mass than conventional metal or composite hulls and limits the effectiveness of their shield projectors.`
 
 ship "Piranha" "Piranha (Scanning)"
 	outfits
@@ -714,6 +707,7 @@ ship "Piranha" "Piranha (Mining)"
 ship "Bass"
 	sprite "ship/naltok bass"
 	thumbnail "thumbnail/naltok bass"
+	plural "Bass"
 	attributes
 		category "Light Warship"
 		licenses 
@@ -726,15 +720,15 @@ ship "Bass"
 		"hull heat" 1.05
 		"required crew" 7
 		"bunks" 12
-		"mass" 296
-		"drag" 2.9
-		"heat dissipation" .18
+		"mass" 472
+		"drag" 3.6
+		"heat dissipation" .15
 		"fuel capacity" 800
 		"cargo space" 48
 		"outfit space" 396
 		"weapon capacity" 120
 		"engine capacity" 104
-		"heat capacity" 692
+		"heat capacity" 868
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -778,15 +772,15 @@ ship "Barracuda"
 		"hull heat" 1.35
 		"required crew" 7
 		"bunks" 24
-		"mass" 448
-		"drag" 4.6
-		"heat dissipation" .14
+		"mass" 800
+		"drag" 6.4
+		"heat dissipation" .1
 		"fuel capacity" 600
 		"cargo space" 72
 		"outfit space" 432
 		"weapon capacity" 256
 		"engine capacity" 128
-		"heat capacity" 880
+		"heat capacity" 1232
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -830,7 +824,6 @@ ship "Albacore"
 	sprite "ship/naltok albacore"
 	thumbnail "thumbnail/naltok albacore"
 	attributes
-		"capture class" "xochira novelty"
 		category "Medium Warship"
 		licenses 
 			"Xochira"
@@ -842,15 +835,15 @@ ship "Albacore"
 		"hull heat" 1.25
 		"required crew" 12
 		"bunks" 18
-		"mass" 512
-		"drag" 6.2
-		"heat dissipation" .13
+		"mass" 984
+		"drag" 9.3
+		"heat dissipation" .09
 		"fuel capacity" 700
 		"cargo space" 18
 		"outfit space" 424
-		"weapon capacity" 146
+		"weapon capacity" 112
 		"engine capacity" 132
-		"heat capacity" 920
+		"heat capacity" 1408
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -887,6 +880,7 @@ ship "Albacore"
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
 	bay "Fighter" 0 0
+	bay "Fighter" 0 0
 	description `The Albacore is not intended to be involved in large fleet battles like the Kaluga, but instead to serve as a transporter and deployer for five Lamprey fighters, patrolling the systems previously covered by the Archerfish. Despite this, the Albacore is not completely unarmed, carrying a small armament intended for long-range support, bringing some additional firepower to bear against ships trapped by the Lampreys.`
 
 ship "Moray"
@@ -902,15 +896,15 @@ ship "Moray"
 		"hull heat" 1.6
 		"required crew" 22
 		"bunks" 42
-		"mass" 624
-		"drag" 6.3
-		"heat dissipation" .11
+		"mass" 1320
+		"drag" 10.1
+		"heat dissipation" .07
 		"fuel capacity" 400
 		"cargo space" 128
 		"outfit space" 536
 		"weapon capacity" 264
 		"engine capacity" 104
-		"heat capacity" 1160
+		"heat capacity" 1856
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -952,7 +946,6 @@ ship "Pike"
 	sprite "ship/naltok pike"
 	thumbnail "thumbnail/naltok pike"
 	attributes
-		"capture class" "naltok capital"
 		category "Heavy Warship"
 		"cost" 27678000
 		"shields" 7600
@@ -962,15 +955,15 @@ ship "Pike"
 		"hull heat" 1.9
 		"required crew" 42
 		"bunks" 52
-		"mass" 896
-		"drag" 10.1
-		"heat dissipation" .09
+		"mass" 2072
+		"drag" 17.1
+		"heat dissipation" .053
 		"fuel capacity" 600
 		"cargo space" 256
 		"outfit space" 792
 		"weapon capacity" 312
 		"engine capacity" 224
-		"heat capacity" 1688
+		"heat capacity" 2864
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -1047,7 +1040,6 @@ ship "Mola"
 	sprite "ship/naltok mola"
 	thumbnail "thumbnail/naltok mola"
 	attributes
-		"capture class" "naltok capital"
 		category "Heavy Warship"
 		licenses
 			"Ministry of War"
@@ -1059,15 +1051,15 @@ ship "Mola"
 		"hull heat" 1.65
 		"required crew" 54
 		"bunks" 68
-		"mass" 1536
-		"drag" 14.8
-		"heat dissipation" .07
+		"mass" 3600
+		"drag" 28.1
+		"heat dissipation" .037
 		"fuel capacity" 400
 		"cargo space" 24
 		"outfit space" 752
 		"weapon capacity" 72
 		"engine capacity" 196
-		"heat capacity" 2288
+		"heat capacity" 4352
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -1121,10 +1113,6 @@ ship "Kaluga"
 	sprite "ship/naltok kaluga"
 	thumbnail "thumbnail/naltok kaluga"
 	attributes
-		"capture class" "naltok capital"
-		"capture class" "xochira novelty"
-			"success" .1
-			"lock down" .2
 		category "Heavy Warship"
 		licenses
 			"Xochira"
@@ -1137,15 +1125,15 @@ ship "Kaluga"
 		"hull heat" 2.35
 		"required crew" 72
 		"bunks" 80
-		"mass" 1664
-		"drag" 14.4
-		"heat dissipation" .07
+		"mass" 4136
+		"drag" 28.1
+		"heat dissipation" .036
 		"fuel capacity" 400
 		"cargo space" 0
 		"outfit space" 936
 		"weapon capacity" 448
 		"engine capacity" 178
-		"heat capacity" 2600
+		"heat capacity" 5072
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -1188,7 +1176,7 @@ ship "Kaluga"
 	turret
 	turret
 	turret
-	description `The Kaluga is the Grand Admiral's trump card, a colossal warship able to do battle with whole fleets. Small ships are immobilised by a barrage of halt-swarm missiles, while even the largest potential opponents in Naltok space cannot compete with the Kaluga's toughness or its close-range firepower.`
+	description `The Kaluga is the Grand Admiral's trump card, a colossal warship able to do battle with whole fleets. Small ships are immobilized by a barrage of halt-swarm missiles, while even the largest potential opponents in Naltok space cannot compete with the Kaluga's toughness or its close-range firepower.`
 
 ship "Lamprey"
 	sprite "ship/naltok lamprey"
@@ -1227,7 +1215,7 @@ ship "Lamprey"
 		`"Agama" Ion Steering`
 		`"Anole" Ion Thruster`
 	gun "Leech-Ray"
-	description `Inspired by the Telashki Remora, the Lamprey is the Xochira take on a small, fast carried ship. Extending the concept behind the Archerfish, the Lamprey's defining features are its excellent top speed and its armament consisting entirely of a single Leech-Ray. Though not a true spinal mount, the Leech-Ray is still responsible for nearly a quarter of the craft's mass, and the oversized housing for it creates some challenges on the rare occasions that a Lamprey needs to land on a planet.`
+	description `Inspired by the Telashki Remora, the Lamprey is the Xochira take on a small, fast carried ship. Extending the concept behind the Archerfish, the Lamprey's defining features are its excellent top speed and its armament consisting entirely of a single Leech-Ray. Though not a true spinal mount, the Leech-Ray is still responsible for more than a quarter of the craft's mass, and the oversized housing for it creates some challenges on the rare occasions that a Lamprey needs to land on a planet.`
 	description `	Fighters do not come equipped with a hyperdrive. You cannot carry a fighter unless you have a ship in your fleet with a fighter bay.`
 
 ship "Remora"
@@ -1244,13 +1232,13 @@ ship "Remora"
 		"hull heat" .35
 		"required crew" 1
 		"bunks" 1
-		"mass" 56
-		"drag" .82
-		"heat dissipation" .22
+		"mass" 72
+		"drag" .9
+		"heat dissipation" .2
 		"outfit space" 112
 		"weapon capacity" 28
 		"engine capacity" 24
-		"heat capacity" 168
+		"heat capacity" 184
 		"high shield permeability" .4
 		"low shield permeability" .4
 		"cooling inefficiency" 5
@@ -1310,8 +1298,10 @@ ship "Minnow"
 		`"Agama" Ion Thruster`
 		`"Agama" Ion Steering`
 
-	gun "Breaker"
-	gun "Breaker"
+	gun -8 -27 "Breaker"
+	gun 8 -27 "Breaker"
+	engine -7 25
+	engine 7 25
 	description `This tiny drone, typically used for mining, mounts the bare minimum hardware required to power two Breaker cannons and a tiny set of engines.`
 	description `	Drones do not come equipped with a hyperdrive. You cannot carry a drone unless you have a ship in your fleet with a drone bay.`
 

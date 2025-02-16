@@ -559,9 +559,8 @@ ship "Archerfish"
 		"Ripper Pistols" 3
 		"Shredder Minigun" 2
 		
-		`"Gecko" Ion Steering`
-		`"Gecko" Ion Thruster`
-		`"Agama" Ion Thruster`
+		`"Anole" Ion Steering`
+		`"Iguana" Ion Thruster`
 		"Hyperdrive"
 
 	gun -24 -74 "Leech-Ray"

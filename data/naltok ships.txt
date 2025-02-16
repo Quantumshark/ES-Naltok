@@ -154,8 +154,8 @@ ship "Sturgeon"
 	outfits
 		"Shell-Splitter Launcher"
 		"Shell-Splitter Torpedo" 11
-		"Steel-Render"
-		"Membrane-class Anti-Missile" 4
+		"Membrane-class Anti-Missile" 2
+		"Capsid-class Anti-Missile" 3
 
 		"River Reactor"
 		"Pond Battery"
@@ -167,9 +167,9 @@ ship "Sturgeon"
 		"Hyperdrive"
 
 	gun "Shell-Splitter Launcher"
-	turret "Steel-Render"
-	turret "Membrane-class Anti-Missile"
-	turret "Membrane-class Anti-Missile"
+	turret "Capsid-class Anti-Missile"
+	turret "Capsid-class Anti-Missile"
+	turret "Capsid-class Anti-Missile"
 	turret "Membrane-class Anti-Missile"
 	turret "Membrane-class Anti-Missile"
 	description `The Sturgeon is not designed to participate directly in ship to ship combat, although it is sufficiently resilient to ignore even fairly concentrated fire. Instead, it is a ground assault ship, designed to bring large numbers of troops and vehicles to the surface of a hostile planet.`

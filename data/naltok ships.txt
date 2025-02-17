@@ -362,6 +362,8 @@ ship "Grouper"
 	thumbnail "ship/naltok grouper"
 	attributes
 		category "Utility"
+		licenses 
+			"Xochira"
 		"cost" 8400000
 		"shields" 5100
 		"hull" 19600

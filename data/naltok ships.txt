@@ -938,7 +938,7 @@ ship "Moray"
 		
 
 	gun -31 -96 "Strike-Needler Pod"
-	gun 31 96 "Strike-Needler Pod"
+	gun 31 -96 "Strike-Needler Pod"
 	gun 0 -20 "Shell-Splitter Launcher"
 		angle 180
 	turret -55 -55 "Sky-Shredder"

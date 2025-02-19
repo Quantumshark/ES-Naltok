@@ -1093,8 +1093,8 @@ system Varajol
 	trade Medical 620
 	trade Metal 403
 	trade Plastic 401
-	fleet "Small Naltok Merchant" 800
-	fleet "Ministry of Transport Logistics" 1000
+	fleet "Small Naltok Merchant" 900
+	fleet "Ministry of Transport Logistics" 1400
 	object
 		sprite star/k0
 		period 10

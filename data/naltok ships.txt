@@ -361,7 +361,7 @@ ship "Flounder"
 
 ship "Grouper"
 	sprite "ship/naltok grouper"
-	thumbnail "ship/naltok grouper"
+	thumbnail "thumbnail/naltok grouper"
 	attributes
 		category "Utility"
 		licenses 
@@ -405,15 +405,15 @@ ship "Grouper"
 		`"Iguana" Ion Thruster`
 		`"Gecko" Ion Thruster`
 		"Hyperdrive"
-	gun 0 0
-	gun 0 0
-		angle -60
-	gun 0 0
-		angle 60
-	turret 0 0
-	turret 0 0
-	bay "Drone" 0 0
-	bay "Drone" 0 0
+	gun 0 -158
+	gun -65 76
+		angle -120
+	gun 65 76
+		angle 120
+	turret 0 -45
+	turret 0 30
+	engine 37 106
+	engine -37 106
 	description `As part of their plans to root out the Alphas from the nearby regions of Human space to prevent future incursions, the Xochira designed the Grouper as a support vessel able to continually refuel their warships during long journeys.`
 
 ship "Guppy"

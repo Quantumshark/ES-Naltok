@@ -18,6 +18,27 @@ fleet "Xochira Interdictor"
 	variant 10
 		"Archerfish" 3
 
+fleet "Small Xochira"
+	government "Xochira"
+	names "xochira"
+	personality
+		heroic
+	variant
+		"Moray"
+	variant
+		"Moray (Halt-Swarm)"
+
+fleet "Large Xochira"
+	government "Xochira"
+	names "xochira"
+	personality
+		heroic
+	variant
+		"Moray" 3
+	variant
+		"Moray"
+		"Moray (Halt-Swarm)" 2
+
 fleet "Small Naltok Merchant"
 	government "Naltok Merchant"
 	names "naltok"

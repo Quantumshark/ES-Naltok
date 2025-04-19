@@ -392,11 +392,11 @@ outfit "Strike-Needler"
 		sprite "projectile/javelin"
 		ammo "Strike-Needle"
 		icon "icon/strike-needler"
-		"inaccuracy" 2
+		"inaccuracy" 6
 		"velocity" 12
-		"acceleration" 1.2
-		"drag" .1
-		"turn" 2.4
+		"acceleration" 1.8
+		"drag" .15
+		"turn" 3.6
 		"lifetime" 70
 		"reload" 8
 		"firing energy" .75
@@ -423,11 +423,11 @@ outfit "Strike-Needler Pod"
 		sprite "projectile/javelin"
 		ammo "Strike-Needle"
 		icon "icon/strike-needler"
-		"inaccuracy" 2
+		"inaccuracy" 6
 		"velocity" 12
-		"acceleration" 1.2
-		"drag" .1
-		"turn" 2.4
+		"acceleration" 1.8
+		"drag" .15
+		"turn" 3.6
 		"lifetime" 70
 		"burst reload" 8
 		"burst count" 32
@@ -459,11 +459,11 @@ outfit "Strike-Needler Turret"
 		ammo "Strike-Needle"
 		icon "icon/strike-needler"
 		"turret turn" 3.4
-		"inaccuracy" 2
+		"inaccuracy" 6
 		"velocity" 12
-		"acceleration" 1.2
-		"drag" .1
-		"turn" 2.4
+		"acceleration" 1.8
+		"drag" .15
+		"turn" 3.6
 		"lifetime" 70
 		"reload" 8
 		"firing energy" .75

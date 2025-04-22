@@ -660,5 +660,5 @@ outfit "Active ECM Unit"
 		"reload" 1
 		"firing energy" 4.2
 		"firing heat" 3.6
-		"scrambling damage" 4
+		"scrambling damage" .05
 	description ""

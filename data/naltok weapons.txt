@@ -408,7 +408,7 @@ outfit "Strike-Needler"
 		"acceleration" 1.8
 		"drag" .15
 		"turn" 3.6
-		"lifetime" 70
+		"lifetime" 60
 		"reload" 8
 		"firing energy" .75
 		"firing heat" .5
@@ -417,7 +417,7 @@ outfit "Strike-Needler"
 		"missile strength" 2
 		"radar tracking" .7
 		"homing"
-		"dropoff modifier" .15
+		"dropoff modifier" .2
 		"damage dropoff" 0 840
 	description "Strike-needles are a miniaturised anti-ship missile technology favoured by the Naltok. Their small size limits their range, armour and firepower, but is compensated by the sheer volume of fire that a single launcher can put out. To make the missiles smaller, the size of the explosive payload was cut considerably. As a result, the bulk of the damage comes from the explosion of any remaining unspent fuel, rather than from the warhead itself."
 
@@ -439,7 +439,7 @@ outfit "Strike-Needler Pod"
 		"acceleration" 1.8
 		"drag" .15
 		"turn" 3.6
-		"lifetime" 70
+		"lifetime" 60
 		"burst reload" 8
 		"burst count" 24
 		"reload" 20
@@ -450,7 +450,7 @@ outfit "Strike-Needler Pod"
 		"missile strength" 2
 		"radar tracking" .7
 		"homing"
-		"dropoff modifier" .15
+		"dropoff modifier" .2
 		"damage dropoff" 0 840
 	description "Strike-needles are a miniaturised anti-ship missile technology favoured by the Naltok. Their small size limits their range, armour and firepower, but is compensated by the sheer volume of fire that a single launcher can put out. To make the missiles smaller, the size of the explosive payload was cut considerably. As a result, the bulk of the damage comes from the explosion of any remaining unspent fuel, rather than from the warhead itself."
 	description "	Pods enable fighters and other light craft to carry small quantities of missiles into battle while retaining enough space for other weapons. Large ships are better off with full-size launchers."
@@ -475,7 +475,7 @@ outfit "Strike-Needler Turret"
 		"acceleration" 1.8
 		"drag" .15
 		"turn" 3.6
-		"lifetime" 70
+		"lifetime" 60
 		"reload" 8
 		"firing energy" .75
 		"firing heat" .5
@@ -484,7 +484,7 @@ outfit "Strike-Needler Turret"
 		"missile strength" 2
 		"radar tracking" .7
 		"homing"
-		"dropoff modifier" .15
+		"dropoff modifier" .2
 		"damage dropoff" 0 840
 	description "This turreted version of the Strike-Needler is the most effective weapon at the disposal of the Naltok when facing smaller targets."
 	

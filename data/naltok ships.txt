@@ -138,7 +138,7 @@ ship "Sturgeon"
 		"bunks" 313
 		"mass" 2152
 		"drag" 16.6
-		"heat dissipation" .045
+		"heat dissipation" .05
 		"fuel capacity" 500
 		"cargo space" 368
 		"outfit space" 716
